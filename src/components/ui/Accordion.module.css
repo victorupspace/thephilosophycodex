@@ -1,0 +1,5 @@
+.item { border-top: 1px solid var(--rule); } .item:last-child { border-bottom: 1px solid var(--rule); }
+.summary { display: flex; align-items: center; justify-content: space-between; gap: var(--s-4); padding: var(--s-4) 0; cursor: pointer; list-style: none; font-size: var(--fs-h4); font-weight: 700; }
+.summary::-webkit-details-marker { display: none; }
+.icon { flex: none; transition: transform var(--dur-2) var(--ease-out); } .item[open] .icon { transform: rotate(45deg); }
+.body { padding: 0 0 var(--s-5); }

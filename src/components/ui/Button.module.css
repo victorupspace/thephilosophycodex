@@ -1,0 +1,14 @@
+.btn { --btn-bg: transparent; --btn-fg: var(--fg); --btn-border: var(--fg);
+  display: inline-flex; align-items: center; justify-content: center; gap: var(--s-2);
+  min-height: 2.75rem; padding: 0 var(--s-4); background: var(--btn-bg); color: var(--btn-fg); border: 1px solid var(--btn-border);
+  font-weight: 500; font-size: var(--fs-body); white-space: nowrap; transition: background var(--dur-2), color var(--dur-2); }
+.btn:hover { --btn-bg: var(--fg); --btn-fg: var(--bg); }
+.btn:disabled { opacity: 0.4; pointer-events: none; }
+.secondary { --btn-bg: transparent; --btn-fg: var(--fg); --btn-border: var(--fg); }
+.ghost { --btn-bg: transparent; --btn-fg: var(--fg); --btn-border: transparent; padding-inline: var(--s-3); }
+.ghost:hover { --btn-bg: var(--surface-2); --btn-fg: var(--fg); }
+.accent { --btn-bg: var(--fg); --btn-fg: var(--bg); --btn-border: var(--fg); }
+.accent:hover { --btn-bg: var(--fg-2); --btn-border: var(--fg-2); }
+.sm { min-height: 2.25rem; padding-inline: var(--s-3); font-size: var(--fs-meta); }
+.lg { min-height: 3.25rem; padding-inline: var(--s-6); }
+.icon { padding: 0; width: 2.75rem; } .icon.sm { width: 2.25rem; }

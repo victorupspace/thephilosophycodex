@@ -1,0 +1,25 @@
+.backdrop { position: fixed; inset: 0; z-index: 90; background: var(--overlay); }
+.dialog { position: fixed; z-index: 100; inset: 0 0 auto 0; margin: 0 auto; width: min(100%, 46rem); max-height: 100dvh; display: flex; flex-direction: column; background: var(--bg); border: 1px solid var(--rule); box-shadow: var(--shadow-3); overflow: hidden; }
+@media (min-width: 640px) { .dialog { top: 10vh; width: min(calc(100% - 2rem), 46rem); max-height: 74dvh; } }
+.header { display: flex; align-items: center; gap: var(--s-3); padding: var(--s-3) var(--s-5); border-bottom: 1px solid var(--rule); }
+.header svg { flex: none; }
+.input { flex: 1; min-width: 0; min-height: 2.75rem; background: transparent; border: 0; font-size: var(--fs-lead); color: var(--fg); }
+.input::placeholder { color: var(--muted); }
+.input:focus { outline: none; }
+.input::-webkit-search-cancel-button, .input::-webkit-search-decoration { -webkit-appearance: none; appearance: none; }
+.close { padding: var(--s-2); } .close:hover { background: var(--surface-2); }
+.scopes { display: flex; align-items: center; gap: var(--s-2); padding: var(--s-3) var(--s-5); overflow-x: auto; overflow-y: hidden; scrollbar-width: none; border-bottom: 1px solid var(--rule-soft); }
+.scopes::-webkit-scrollbar { display: none; }
+.scope { flex: none; line-height: 1.3; padding: 0.35rem 0.8rem; font-size: var(--fs-caption); color: var(--fg); border: 1px solid var(--rule); border-radius: var(--r-full); transition: background var(--dur-2), color var(--dur-2); }
+.scope:hover { background: var(--surface-2); }
+.scope[aria-pressed="true"] { background: var(--fg); color: var(--bg); }
+.body { flex: 1; overflow-y: auto; overscroll-behavior: contain; }
+.hint { padding: var(--s-5); color: var(--muted); font-size: var(--fs-small); }
+.recent { display: flex; flex-wrap: wrap; gap: var(--s-2); padding: 0 var(--s-5) var(--s-5); }
+.recent button { padding: 0.35rem 0.8rem; border: 1px solid var(--rule); border-radius: var(--r-full); font-size: var(--fs-meta); }
+.recent button:hover { background: var(--fg); color: var(--bg); }
+.footer { display: none; padding: var(--s-2) var(--s-5); border-top: 1px solid var(--rule-soft); font-size: var(--fs-caption); color: var(--muted); gap: var(--s-4); }
+@media (min-width: 640px) { .footer { display: flex; } }
+.footer kbd { display: inline-block; padding: 0 0.4em; border: 1px solid var(--rule-soft); margin-right: 0.35em; font-family: inherit; }
+.seeAll { display: block; margin: var(--s-4) var(--s-5); padding: var(--s-3) var(--s-4); text-align: center; font-size: var(--fs-small); font-weight: 600; border: 1px solid var(--rule); }
+.seeAll:hover { background: var(--fg); color: var(--bg); }

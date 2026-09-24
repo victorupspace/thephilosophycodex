@@ -1,0 +1,6 @@
+.tag { display: inline-flex; align-items: center; gap: var(--s-2); min-height: 2.1rem; padding: 0 var(--s-4); border: 1px solid var(--rule); border-radius: var(--r-full); background: var(--bg); color: var(--fg); font-size: var(--fs-meta); font-weight: 400; line-height: 1; transition: background var(--dur-2), color var(--dur-2); }
+a.tag:hover, button.tag:hover { background: var(--fg); color: var(--bg); }
+.tag .meta { font-size: var(--fs-caption); color: var(--muted); }
+a.tag:hover .meta { color: inherit; opacity: 0.7; }
+.static { cursor: default; }
+.list { display: flex; flex-wrap: wrap; gap: var(--s-2); }

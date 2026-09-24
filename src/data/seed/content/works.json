@@ -1,0 +1,272 @@
+[
+ {
+  "id": "wrk-on-nature-parmenides",
+  "status": "published",
+  "authorId": "phi-parmenides",
+  "year": -475,
+  "yearApprox": true,
+  "originalTitle": "Περὶ φύσεως",
+  "originalLanguage": "grc",
+  "conceptIds": [
+   "con-being",
+   "con-ontology",
+   "con-truth"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-reale",
+   "src-kenny"
+  ],
+  "translations": {
+   "pt": {
+    "title": "Sobre a Natureza",
+    "slug": "sobre-a-natureza-parmenides",
+    "summary": "Poema em hexâmetros em que uma deusa ensina a Parmênides a via da verdade — o ser é ingênito, uno e imóvel — e denuncia a via enganosa das opiniões dos mortais.",
+    "body": "Do poema de Parmênides de Eleia, composto c. 480–470 a.C., restam cerca de 150 hexâmetros, transmitidos sobretudo por Sexto Empírico, que cita o proêmio, e por Simplício, que no século VI d.C. copiou quase toda a seção sobre a verdade em seu comentário à *Física* de Aristóteles. O título *Sobre a Natureza* é convencional, aplicado pela tradição a muitos escritos pré-socráticos; a data é uma estimativa baseada na cronologia platônica.\n\nO texto tem três partes. No proêmio, o narrador é levado em um carro até uma deusa que promete ensinar-lhe tanto a verdade quanto as opiniões dos mortais. A via da verdade (*alétheia*) parte da alternativa entre “é” e “não é”: só a primeira pode ser pensada e dita, e dela se deduzem, no fragmento 8, os sinais do ser — ingênito, imperecível, inteiro, uno, imóvel e completo. A via da opinião (*dóxa*) expõe uma cosmologia de luz e noite cujo estatuto os intérpretes ainda discutem.\n\nA recepção do poema orienta a ontologia grega: Zenão e Melisso o defendem, Platão o examina no *Parmênides* e no *Sofista*, Aristóteles o refuta no livro I da *Física*. No século XX, Heidegger, Owen e Mourelatos renovaram o debate sobre o sentido do “é” parmenídico e sobre a identidade entre pensar e ser afirmada no fragmento 3.",
+    "seoTitle": "Sobre a Natureza (Parmênides) — resumo e teses",
+    "seoDescription": "O poema de Parmênides: proêmio, via da verdade e via da opinião; o ser ingênito, uno e imóvel; fragmentos, datação e recepção de Platão a Heidegger."
+   },
+   "en": {
+    "title": "On Nature",
+    "slug": "on-nature-parmenides",
+    "summary": "Hexameter poem in which a goddess teaches Parmenides the way of truth — what is is ungenerated, one and unmoved — and exposes the deceptive way of mortal opinion.",
+    "body": "Of the poem of Parmenides of Elea, composed around 480–470 BCE, some 150 hexameters survive, transmitted chiefly by Sextus Empiricus, who quotes the proem, and by Simplicius, who in the sixth century CE copied most of the section on truth into his commentary on Aristotle's *Physics*. The title *On Nature* is conventional, applied by the tradition to many Presocratic writings; the date is an estimate derived from Plato's chronology.\n\nThe text has three parts. In the proem the narrator is carried in a chariot to a goddess who promises to teach him both truth and the opinions of mortals. The way of truth (*alētheia*) starts from the alternative between “is” and “is not”: only the former can be thought or said, and from it fragment 8 derives the signs of what is — ungenerated, imperishable, whole, one, unmoved and complete. The way of opinion (*doxa*) sets out a cosmology of light and night whose status remains disputed.\n\nThe poem's reception shaped Greek ontology: Zeno and Melissus defended it, Plato examined it in the *Parmenides* and the *Sophist*, and Aristotle answered it in Book I of the *Physics*. In the twentieth century Heidegger, Owen and Mourelatos renewed the debate over the sense of the Parmenidean “is” and over the identity of thinking and being asserted in fragment 3.",
+    "seoTitle": "On Nature (Parmenides) — summary and main theses",
+    "seoDescription": "Parmenides' poem: proem, way of truth and way of opinion; being as ungenerated, one and unmoved; fragments, dating and reception from Plato to Heidegger."
+   },
+   "fr": {
+    "title": "De la nature",
+    "slug": "de-la-nature-parmenide",
+    "summary": "Poème en hexamètres où une déesse enseigne à Parménide la voie de la vérité — l'être est inengendré, un et immobile — et dénonce la voie trompeuse des opinions des mortels.",
+    "body": "Du poème de Parménide d'Élée, composé vers 480–470 av. J.-C., subsistent environ 150 hexamètres, transmis surtout par Sextus Empiricus, qui cite le proème, et par Simplicius, qui recopia au VIe siècle l'essentiel de la section sur la vérité dans son commentaire de la *Physique* d'Aristote. Le titre *De la nature* est conventionnel, appliqué par la tradition à nombre d'écrits présocratiques ; la date est une estimation tirée de la chronologie platonicienne.\n\nDans le proème, un char conduit le narrateur auprès d'une déesse qui promet de lui enseigner la vérité et les opinions des mortels. La voie de la vérité (*alètheia*) part de l'alternative entre « est » et « n'est pas » : seule la première peut être pensée et dite, et le fragment 8 en déduit les signes de l'étant — inengendré, impérissable, entier, un, immobile et achevé. La voie de l'opinion (*doxa*) expose une cosmologie de lumière et de nuit au statut discuté.\n\nLa réception du poème oriente l'ontologie grecque : Zénon et Mélissos le défendent, Platon l'examine dans le *Parménide* et le *Sophiste*, Aristote lui répond au livre I de la *Physique*. Au XXe siècle, Heidegger, Owen et Mourelatos ont relancé le débat sur le sens du « est » parménidien et sur l'identité du penser et de l'être (fragment 3).",
+    "seoTitle": "De la nature (Parménide) — résumé et thèses",
+    "seoDescription": "Le poème de Parménide : proème, voie de la vérité et voie de l'opinion ; l'être inengendré, un et immobile ; fragments, datation et réception."
+   },
+   "de": {
+    "title": "Über die Natur",
+    "slug": "ueber-die-natur-parmenides",
+    "summary": "Lehrgedicht in Hexametern, in dem eine Göttin Parmenides den Weg der Wahrheit — das Seiende ist ungeworden, eins und unbewegt — und den trügerischen Weg der Meinungen der Sterblichen lehrt.",
+    "body": "Vom Lehrgedicht des Parmenides aus Elea, entstanden um 480–470 v. Chr., sind rund 150 Hexameter erhalten, überliefert vor allem durch Sextus Empiricus, der das Proömium zitiert, und durch Simplikios, der im 6. Jahrhundert n. Chr. fast den gesamten Wahrheitsteil in seinen Kommentar zur *Physik* des Aristoteles aufnahm. Der Titel *Über die Natur* ist konventionell und wurde von der Tradition vielen vorsokratischen Schriften beigelegt; die Datierung ist eine Schätzung nach der platonischen Chronologie.\n\nIm Proömium wird der Sprecher auf einem Wagen zu einer Göttin geführt, die ihm sowohl die Wahrheit als auch die Meinungen der Sterblichen zu lehren verspricht. Der Weg der Wahrheit (*alḗtheia*) geht von der Alternative zwischen „ist“ und „ist nicht“ aus: Nur das Erste lässt sich denken und sagen, und daraus leitet Fragment 8 die Kennzeichen des Seienden ab — ungeworden, unvergänglich, ganz, eines, unbewegt und vollendet. Der Weg der Meinung (*dóxa*) entwirft eine Kosmologie von Licht und Nacht, deren Status umstritten bleibt.\n\nDie Rezeption des Gedichts prägt die griechische Ontologie: Zenon und Melissos verteidigen es, Platon prüft es im *Parmenides* und im *Sophistes*, Aristoteles antwortet ihm im ersten Buch der *Physik*. Im 20. Jahrhundert haben Heidegger, Owen und Mourelatos die Debatte über den Sinn des parmenideischen „ist“ und über die in Fragment 3 behauptete Selbigkeit von Denken und Sein erneuert.",
+    "seoTitle": "Über die Natur (Parmenides) — Inhalt und Thesen",
+    "seoDescription": "Das Lehrgedicht des Parmenides: Proömium, Weg der Wahrheit und Weg der Meinung; das ungewordene, eine, unbewegte Seiende; Fragmente, Datierung, Rezeption."
+   }
+  }
+ },
+ {
+  "id": "wrk-outlines-pyrrhonism",
+  "status": "published",
+  "authorId": "phi-sextus",
+  "year": 200,
+  "yearApprox": true,
+  "originalTitle": "Πυρρώνειοι ὑποτυπώσεις",
+  "originalLanguage": "grc",
+  "conceptIds": [
+   "con-scepticism",
+   "con-ataraxia",
+   "con-justification",
+   "con-knowledge",
+   "con-perception"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-kenny",
+   "src-hwph"
+  ],
+  "translations": {
+   "pt": {
+    "title": "Hipotiposes Pirrônicas",
+    "slug": "hipotiposes-pirronicas",
+    "summary": "Exposição sistemática do ceticismo pirrônico: os modos que conduzem à suspensão do juízo, a ataraxia como fim e a crítica das doutrinas dogmáticas em lógica, física e ética.",
+    "body": "Sexto Empírico, médico da escola empírica ativo por volta de 200 d.C., é o único cético antigo cujas obras sobreviveram. Sobre sua vida nada se sabe com segurança; a datação apoia-se em Diógenes Laércio, que o situa no fim da sucessão pirrônica. As *Hipotiposes Pirrônicas*, em três livros, são a exposição mais compacta do pirronismo tardio, ao lado dos onze livros de *Contra os Matemáticos*.\n\nO livro I define o ceticismo como a capacidade de opor aparências e pensamentos até alcançar a suspensão do juízo (*epochḗ*) e, por ela, a tranquilidade (*ataraxía*). Seguem-se os dez modos atribuídos a Enesidemo, os cinco modos de Agripa — discordância, regresso ao infinito, relatividade, hipótese e círculo —, as fórmulas céticas como “não mais” e o critério prático de vida, que segue a natureza, as afecções, as leis e costumes e as artes. Os livros II e III examinam as três partes da filosofia dogmática: a lógica (critério, verdade, signo, demonstração), a física (princípios, causa, deus, movimento, tempo) e a ética (o bem e o mal por natureza).\n\nTraduzida ao latim por Henri Estienne em 1562, a obra alimentou a crise cética moderna descrita por Richard Popkin: Montaigne, Descartes, Bayle e Hume respondem a ela. Se o cético pode viver sem crenças, discutem-no ainda Burnyeat, Frede e Barnes.",
+    "seoTitle": "Hipotiposes Pirrônicas — Sexto Empírico e o ceticismo",
+    "seoDescription": "As Hipotiposes Pirrônicas de Sexto Empírico: modos de Enesidemo e Agripa, suspensão do juízo, ataraxia e crítica das filosofias dogmáticas."
+   },
+   "en": {
+    "title": "Outlines of Pyrrhonism",
+    "slug": "outlines-of-pyrrhonism",
+    "summary": "Systematic exposition of Pyrrhonian scepticism: the modes leading to suspension of judgement, tranquillity as the goal, and the critique of dogmatic logic, physics and ethics.",
+    "body": "Sextus Empiricus, a physician of the Empiric school active around 200 CE, is the only ancient sceptic whose works survive. Nothing certain is known of his life; the dating rests on Diogenes Laertius, who places him at the end of the Pyrrhonist succession. The *Outlines of Pyrrhonism*, in three books, are the most compact statement of late Pyrrhonism, alongside the eleven books of *Against the Mathematicians*.\n\nBook I defines scepticism as the ability to set appearances and thoughts in opposition so as to reach suspension of judgement (*epochē*) and, through it, tranquillity (*ataraxia*). There follow the ten modes attributed to Aenesidemus, the five modes of Agrippa — disagreement, infinite regress, relativity, hypothesis and circularity —, the sceptical phrases such as “no more”, and the practical criterion of life, which follows nature, the feelings, laws and customs, and the teaching of the arts. Books II and III examine the three parts of dogmatic philosophy: logic (criterion, truth, sign, proof), physics (principles, cause, god, motion, time) and ethics (whether anything is good or bad by nature).\n\nTranslated into Latin by Henri Estienne in 1562, the work fed the early modern sceptical crisis described by Richard Popkin: Montaigne, Descartes, Bayle and Hume respond to it. Whether the sceptic can live without beliefs remains debated, notably by Burnyeat, Frede and Barnes.",
+    "seoTitle": "Outlines of Pyrrhonism — Sextus Empiricus explained",
+    "seoDescription": "Sextus Empiricus' Outlines of Pyrrhonism: the modes of Aenesidemus and Agrippa, suspension of judgement, tranquillity and the critique of dogmatism."
+   },
+   "fr": {
+    "title": "Esquisses pyrrhoniennes",
+    "slug": "esquisses-pyrrhoniennes",
+    "summary": "Exposé systématique du scepticisme pyrrhonien : les modes qui mènent à la suspension du jugement, l'ataraxie comme fin et la critique de la logique, de la physique et de l'éthique dogmatiques.",
+    "body": "Sextus Empiricus, médecin de l'école empirique actif vers 200 apr. J.-C., est le seul sceptique antique dont les œuvres soient conservées. Sa vie est inconnue ; la datation repose sur Diogène Laërce, qui le place à la fin de la succession pyrrhonienne. Les *Esquisses pyrrhoniennes*, en trois livres, sont l'exposé le plus ramassé du pyrrhonisme tardif, à côté des onze livres du *Contre les mathématiciens*.\n\nLe livre I définit le scepticisme comme la faculté d'opposer les apparences et les pensées jusqu'à la suspension du jugement (*épochè*) puis, par elle, à la tranquillité (*ataraxie*). Suivent les dix modes attribués à Énésidème, les cinq modes d'Agrippa — désaccord, régression à l'infini, relativité, hypothèse et cercle —, les formules sceptiques (« pas plus ») et le critère pratique de la vie, qui suit la nature, les affections, les lois et coutumes et les arts. Les livres II et III examinent les trois parties de la philosophie dogmatique : la logique (critère, vérité, signe, démonstration), la physique (principes, cause, dieu, mouvement, temps) et l'éthique (le bien et le mal par nature).\n\nTraduite en latin par Henri Estienne en 1562, l'œuvre a nourri la crise sceptique moderne décrite par Popkin : Montaigne, Descartes, Bayle et Hume lui répondent. Burnyeat, Frede et Barnes discutent encore si le sceptique peut vivre sans croyances.",
+    "seoTitle": "Esquisses pyrrhoniennes — Sextus Empiricus",
+    "seoDescription": "Les Esquisses pyrrhoniennes de Sextus Empiricus : modes d'Énésidème et d'Agrippa, suspension du jugement, ataraxie et critique du dogmatisme."
+   },
+   "de": {
+    "title": "Grundriß der pyrrhonischen Skepsis",
+    "slug": "grundriss-der-pyrrhonischen-skepsis",
+    "summary": "Systematische Darstellung der pyrrhonischen Skepsis: die Tropen der Urteilsenthaltung, die Ataraxie als Ziel und die Kritik der dogmatischen Logik, Physik und Ethik.",
+    "body": "Sextus Empiricus, ein um 200 n. Chr. tätiger Arzt der empirischen Schule, ist der einzige antike Skeptiker, dessen Werke erhalten sind. Über sein Leben ist nichts Sicheres bekannt; die Datierung stützt sich auf Diogenes Laertios, der ihn ans Ende der pyrrhonischen Sukzession stellt. Der *Grundriß der pyrrhonischen Skepsis* in drei Büchern ist die knappste Darstellung des späten Pyrrhonismus, neben den elf Büchern *Adversus mathematicos*.\n\nBuch I bestimmt die Skepsis als das Vermögen, Erscheinungen und Gedanken einander so entgegenzusetzen, dass Urteilsenthaltung (*epochḗ*) und durch sie Seelenruhe (*ataraxía*) eintreten. Es folgen die zehn Tropen, die Ainesidemos zugeschrieben werden, die fünf Tropen des Agrippa — Widerstreit, unendlicher Regress, Relativität, Hypothese und Zirkel —, die skeptischen Redeweisen wie „um nichts mehr“ und das praktische Kriterium des Lebens, das der Natur, den Affekten, Gesetzen und Sitten sowie der Unterweisung in den Künsten folgt. Die Bücher II und III prüfen die drei Teile der dogmatischen Philosophie: die Logik (Kriterium, Wahrheit, Zeichen, Beweis), die Physik (Prinzipien, Ursache, Gott, Bewegung, Zeit) und die Ethik (Gutes und Schlechtes von Natur).\n\nSeit der lateinischen Übersetzung durch Henri Estienne (1562) nährte das Werk die von Richard Popkin beschriebene skeptische Krise der Neuzeit: Montaigne, Descartes, Bayle und Hume antworten darauf. Ob der Skeptiker ohne Überzeugungen leben kann, diskutieren heute Burnyeat, Frede und Barnes.",
+    "seoTitle": "Grundriß der pyrrhonischen Skepsis — Sextus Empiricus",
+    "seoDescription": "Sextus Empiricus' Grundriß der pyrrhonischen Skepsis: Tropen des Ainesidemos und Agrippa, Urteilsenthaltung, Ataraxie und Kritik des Dogmatismus."
+   }
+  }
+ },
+ {
+  "id": "wrk-letters-lucilius",
+  "status": "published",
+  "authorId": "phi-seneca",
+  "year": 65,
+  "yearApprox": true,
+  "originalTitle": "Epistulae morales ad Lucilium",
+  "originalLanguage": "la",
+  "conceptIds": [
+   "con-virtue",
+   "con-ethics",
+   "con-eudaimonia",
+   "con-freedom"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-reale",
+   "src-universalis"
+  ],
+  "translations": {
+   "pt": {
+    "title": "Cartas a Lucílio",
+    "slug": "cartas-a-lucilio",
+    "summary": "Coleção de 124 cartas em que Sêneca ensina a Lucílio a filosofia estoica como exercício diário: uso do tempo, preparação para a morte, virtude como único bem e liberdade interior.",
+    "body": "Sêneca escreveu as *Cartas a Lucílio* nos últimos anos de vida, entre cerca de 62 e 65 d.C., depois de afastar-se da corte de Nero e antes do suicídio que o imperador lhe impôs. O destinatário, Lucílio Júnior, procurador da Sicília e amigo com simpatias epicuristas, recebeu também as *Questões Naturais* e o *Sobre a Providência*. Conservam-se 124 cartas em vinte livros; Aulo Gélio cita um vigésimo segundo livro, hoje perdido.\n\nAs cartas iniciais são breves e terminam com uma máxima, muitas vezes de Epicuro, que Sêneca reivindica como bem comum; as posteriores aproximam-se do tratado, como a 58, sobre o ser em Platão, a 65, sobre as causas, a 88, sobre os estudos liberais, ou as 94 e 95, sobre preceitos e doutrinas. Os temas recorrentes são o uso do tempo, a preparação para a morte, a amizade, a escravidão (carta 47), a virtude como único bem e a liberdade interior diante da fortuna. A forma epistolar realiza a ideia de filosofia como conversa e terapia da alma, dirigida a quem progride (*proficiens*).\n\nLidas por Tertuliano e Jerônimo, imitadas por Petrarca e Montaigne, editadas por Erasmo (1515) e Lípsio (1605), as cartas voltaram ao centro do debate com Pierre Hadot e Michel Foucault, que nelas viram o modelo antigo do cuidado de si.",
+    "seoTitle": "Cartas a Lucílio — Sêneca: resumo e temas",
+    "seoDescription": "As Cartas a Lucílio de Sêneca (c. 62–65 d.C.): estrutura, temas estoicos — tempo, morte, virtude, liberdade — e recepção de Petrarca a Foucault."
+   },
+   "en": {
+    "title": "Letters to Lucilius",
+    "slug": "letters-to-lucilius",
+    "summary": "Collection of 124 letters in which Seneca teaches Lucilius Stoic philosophy as a daily practice: the use of time, preparation for death, virtue as the only good and inner freedom.",
+    "body": "Seneca wrote the *Letters to Lucilius* in the last years of his life, between about 62 and 65 CE, after withdrawing from Nero's court and before the suicide the emperor forced upon him. The addressee, Lucilius Junior, procurator of Sicily and a friend with Epicurean leanings, also received the *Natural Questions* and *On Providence*. 124 letters in twenty books survive; Aulus Gellius quotes from a twenty-second book, now lost.\n\nThe early letters are short and close with a maxim, often from Epicurus, which Seneca claims as common property; the later ones approach the treatise, such as Letter 58 on being in Plato, 65 on causes, 88 on the liberal studies, or 94 and 95 on precepts and doctrines. Recurrent themes are the use of time, preparation for death, friendship, slavery (Letter 47), virtue as the only good and inner freedom in the face of fortune. The epistolary form enacts the idea of philosophy as conversation and therapy of the soul, addressed to one who is making progress (*proficiens*).\n\nRead by Tertullian and Jerome, imitated by Petrarch and Montaigne, edited by Erasmus (1515) and Lipsius (1605), the letters returned to the centre of debate with Pierre Hadot and Michel Foucault, who saw in them the ancient model of the care of the self.",
+    "seoTitle": "Letters to Lucilius — Seneca: summary and themes",
+    "seoDescription": "Seneca's Letters to Lucilius (c. 62–65 CE): structure, Stoic themes — time, death, virtue, freedom — and reception from Petrarch to Foucault."
+   },
+   "fr": {
+    "title": "Lettres à Lucilius",
+    "slug": "lettres-a-lucilius",
+    "summary": "Recueil de 124 lettres où Sénèque enseigne à Lucilius la philosophie stoïcienne comme exercice quotidien : usage du temps, préparation à la mort, vertu seul bien et liberté intérieure.",
+    "body": "Sénèque écrivit les *Lettres à Lucilius* dans les dernières années de sa vie, vers 62–65 apr. J.-C., après s'être retiré de la cour de Néron et avant le suicide que l'empereur lui imposa. Le destinataire, Lucilius le Jeune, procurateur de Sicile et ami aux sympathies épicuriennes, reçut aussi les *Questions naturelles* et le *De la providence*. Il subsiste 124 lettres en vingt livres ; Aulu-Gelle cite un vingt-deuxième livre, aujourd'hui perdu.\n\nLes premières lettres sont brèves et s'achèvent sur une maxime, souvent d'Épicure, que Sénèque revendique comme bien commun ; les suivantes se rapprochent du traité, telles la lettre 58 sur l'être chez Platon, la 65 sur les causes, la 88 sur les études libérales ou les 94 et 95 sur les préceptes et les doctrines. Les thèmes récurrents sont l'usage du temps, la préparation à la mort, l'amitié, l'esclavage (lettre 47), la vertu comme seul bien et la liberté intérieure face à la fortune. La forme épistolaire réalise l'idée d'une philosophie comme conversation et thérapie de l'âme, adressée à celui qui progresse (*proficiens*).\n\nLues par Tertullien et Jérôme, imitées par Pétrarque et Montaigne, éditées par Érasme (1515) et Juste Lipse (1605), les lettres reviennent au centre du débat avec Pierre Hadot et Michel Foucault, qui y ont vu le modèle antique du souci de soi.",
+    "seoTitle": "Lettres à Lucilius — Sénèque : résumé et thèmes",
+    "seoDescription": "Les Lettres à Lucilius de Sénèque (v. 62–65) : structure, thèmes stoïciens — temps, mort, vertu, liberté — et réception de Pétrarque à Foucault."
+   },
+   "de": {
+    "title": "Briefe an Lucilius",
+    "slug": "briefe-an-lucilius",
+    "summary": "Sammlung von 124 Briefen, in denen Seneca Lucilius die stoische Philosophie als tägliche Übung lehrt: Umgang mit der Zeit, Vorbereitung auf den Tod, Tugend als einziges Gut, innere Freiheit.",
+    "body": "Seneca verfasste die *Briefe an Lucilius* in seinen letzten Lebensjahren, etwa zwischen 62 und 65 n. Chr., nach dem Rückzug vom Hof Neros und vor dem Selbstmord, den der Kaiser ihm befahl. Der Adressat, Lucilius Iunior, Prokurator Siziliens und ein Freund mit epikureischen Neigungen, erhielt auch die *Naturwissenschaftlichen Untersuchungen* und die Schrift *Über die Vorsehung*. Erhalten sind 124 Briefe in zwanzig Büchern; Aulus Gellius zitiert aus einem verlorenen 22. Buch.\n\nDie frühen Briefe sind kurz und schließen mit einer Sentenz, oft von Epikur, die Seneca als Gemeingut beansprucht; die späteren nähern sich dem Traktat, so Brief 58 über das Sein bei Platon, 65 über die Ursachen, 88 über die freien Künste oder 94 und 95 über Vorschriften und Lehrsätze. Wiederkehrende Themen sind der Umgang mit der Zeit, die Vorbereitung auf den Tod, die Freundschaft, die Sklaverei (Brief 47), die Tugend als einziges Gut und die innere Freiheit gegenüber dem Schicksal. Die Briefform verwirklicht die Idee der Philosophie als Gespräch und Seelentherapie, gerichtet an den Fortschreitenden (*proficiens*).\n\nVon Tertullian und Hieronymus gelesen, von Petrarca und Montaigne nachgeahmt, von Erasmus (1515) und Lipsius (1605) ediert, rückten die Briefe mit Pierre Hadot und Michel Foucault erneut ins Zentrum der Debatte, die in ihnen das antike Modell der Sorge um sich erkannten.",
+    "seoTitle": "Briefe an Lucilius — Seneca: Inhalt und Themen",
+    "seoDescription": "Senecas Briefe an Lucilius (ca. 62–65 n. Chr.): Aufbau, stoische Themen — Zeit, Tod, Tugend, Freiheit — und Rezeption von Petrarca bis Foucault."
+   }
+  }
+ },
+ {
+  "id": "wrk-enchiridion",
+  "status": "published",
+  "authorId": "phi-epictetus",
+  "year": 125,
+  "yearApprox": true,
+  "originalTitle": "Ἐγχειρίδιον",
+  "originalLanguage": "grc",
+  "conceptIds": [
+   "con-freedom",
+   "con-virtue",
+   "con-ethics",
+   "con-ataraxia",
+   "con-eudaimonia"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-metzler"
+  ],
+  "translations": {
+   "pt": {
+    "title": "Manual (Encheirídion)",
+    "slug": "manual-encheiridion",
+    "summary": "Compêndio em 53 capítulos, compilado por Arriano a partir das lições de Epicteto: distinguir o que depende de nós do que não depende e usar corretamente as representações.",
+    "body": "O *Encheirídion* — literalmente “o que se tem à mão”, donde *Manual* — não foi escrito por Epicteto, que nada publicou, mas compilado por seu discípulo Flávio Arriano, que frequentara a escola de Nicópolis por volta de 108 d.C. e já reunira as lições do mestre nas *Diatribes*. Quase todos os 53 capítulos procedem desses discursos; a data de c. 125 é convencional e situa a compilação na primeira metade do século II.\n\nO primeiro capítulo fixa a tese central: algumas coisas dependem de nós — juízo, impulso, desejo e aversão —, outras não — corpo, bens, reputação, cargos —; a liberdade e a serenidade consistem em restringir o querer ao primeiro domínio. Seguem-se regras de exercício: examinar cada representação antes de assentir, lembrar que perturbam os homens não as coisas, mas os juízos sobre elas, querer os acontecimentos como acontecem, desempenhar o papel recebido como um ator, e as normas de conduta do capítulo 33. O capítulo final reúne versos de Cleantes e de Eurípides e sentenças socráticas tiradas de Platão.\n\nComentado por Simplício no século VI, adaptado por monges cristãos, traduzido ao latim por Poliziano em 1479, o *Manual* nutriu o neoestoicismo de Lípsio e Du Vair, o diálogo de Pascal com Sacy e, no século XX, a leitura de Pierre Hadot e a terapia cognitiva de Albert Ellis.",
+    "seoTitle": "Manual de Epicteto (Encheirídion) — resumo e ideias",
+    "seoDescription": "O Manual de Epicteto compilado por Arriano: o que depende de nós, o uso das representações, os 53 capítulos e a recepção de Simplício a Hadot."
+   },
+   "en": {
+    "title": "Enchiridion",
+    "slug": "enchiridion",
+    "summary": "Handbook in 53 chapters, compiled by Arrian from Epictetus' lectures: distinguish what is up to us from what is not, and make right use of impressions.",
+    "body": "The *Enchiridion* — literally “what one keeps at hand”, hence *Handbook* — was not written by Epictetus, who published nothing, but compiled by his pupil Flavius Arrian, who had attended the school at Nicopolis around 108 CE and had gathered the master's lectures in the *Discourses*. Almost all 53 chapters derive from those lectures; the date c. 125 is conventional, placing the compilation in the first half of the second century.\n\nThe first chapter states the central thesis: some things are up to us — judgement, impulse, desire and aversion — and others are not — body, property, reputation, office —; freedom and serenity consist in confining our wanting to the first domain. Rules of practice follow: to examine every impression before assenting, to remember that people are disturbed not by things but by their judgements about them, to want events as they happen, to play the role one has been assigned like an actor, and the precepts of conduct of chapter 33. The final chapter gathers verses of Cleanthes and Euripides and Socratic sayings drawn from Plato.\n\nCommented on by Simplicius in the sixth century, adapted by Christian monks, translated into Latin by Poliziano in 1479, the *Handbook* nourished the Neostoicism of Lipsius and Du Vair, Pascal's conversation with Sacy and, in the twentieth century, Pierre Hadot's reading and Albert Ellis's cognitive therapy.",
+    "seoTitle": "Enchiridion of Epictetus — summary and key ideas",
+    "seoDescription": "Epictetus' Enchiridion, compiled by Arrian: what is up to us, the use of impressions, the 53 chapters and reception from Simplicius to Hadot."
+   },
+   "fr": {
+    "title": "Manuel d'Épictète",
+    "slug": "manuel-d-epictete",
+    "summary": "Abrégé en 53 chapitres, compilé par Arrien à partir des leçons d'Épictète : distinguer ce qui dépend de nous de ce qui n'en dépend pas et faire bon usage des représentations.",
+    "body": "Le *Manuel* — en grec *Encheiridion*, « ce que l'on garde sous la main » — n'a pas été écrit par Épictète, qui ne publia rien, mais compilé par son disciple Flavius Arrien, qui avait suivi l'école de Nicopolis vers 108 apr. J.-C. et recueilli les leçons du maître dans les *Entretiens*. Presque tous les 53 chapitres en proviennent ; la date de 125 environ est conventionnelle et renvoie à la première moitié du IIe siècle.\n\nLe premier chapitre pose la thèse centrale : certaines choses dépendent de nous — jugement, impulsion, désir et aversion —, d'autres non — corps, biens, réputation, charges — ; la liberté et la sérénité consistent à restreindre notre vouloir au premier domaine. Suivent des règles d'exercice : examiner chaque représentation avant d'y consentir, se rappeler que les jugements, non les choses, troublent les hommes, vouloir les événements comme ils arrivent, jouer le rôle reçu comme un acteur, et les préceptes de conduite du chapitre 33. Le dernier chapitre rassemble des vers de Cléanthe et d'Euripide et des sentences socratiques tirées de Platon.\n\nCommenté par Simplicius au VIe siècle, adapté par des moines chrétiens, traduit en latin par Politien en 1479, le *Manuel* a nourri le néostoïcisme de Lipse et de Du Vair, l'entretien de Pascal avec Sacy et, au XXe siècle, la lecture de Pierre Hadot et la thérapie cognitive d'Albert Ellis.",
+    "seoTitle": "Manuel d'Épictète — résumé et idées clés",
+    "seoDescription": "Le Manuel d'Épictète compilé par Arrien : ce qui dépend de nous, l'usage des représentations, les 53 chapitres et la réception de Simplicius à Hadot."
+   },
+   "de": {
+    "title": "Handbüchlein der Moral",
+    "slug": "handbuechlein-der-moral",
+    "summary": "Kompendium in 53 Kapiteln, von Arrian aus den Vorträgen Epiktets zusammengestellt: unterscheiden, was in unserer Macht steht und was nicht, und die Vorstellungen richtig gebrauchen.",
+    "body": "Das *Encheiridion* — wörtlich „was man zur Hand hat“, daher *Handbüchlein* — stammt nicht aus der Feder Epiktets, der nichts veröffentlichte, sondern wurde von seinem Schüler Flavius Arrian zusammengestellt, der um 108 n. Chr. die Schule in Nikopolis besucht und die Vorträge des Lehrers in den *Unterredungen* gesammelt hatte. Fast alle 53 Kapitel gehen auf diese Vorträge zurück; die Datierung um 125 ist konventionell und setzt die Kompilation in die erste Hälfte des 2. Jahrhunderts.\n\nDas erste Kapitel formuliert die Grundthese: Einiges steht in unserer Macht — Urteil, Antrieb, Begehren und Abneigung —, anderes nicht — Körper, Besitz, Ansehen, Ämter —; Freiheit und Gelassenheit bestehen darin, das Wollen auf den ersten Bereich zu beschränken. Es folgen Übungsregeln: jede Vorstellung vor der Zustimmung zu prüfen, sich zu erinnern, dass Urteile, nicht Dinge, die Menschen beunruhigen, die Ereignisse so zu wollen, wie sie geschehen, die zugeteilte Rolle wie ein Schauspieler zu spielen, dazu die Verhaltensregeln des 33. Kapitels. Das Schlusskapitel versammelt Verse des Kleanthes und des Euripides sowie sokratische Sentenzen aus Platon.\n\nVon Simplikios im 6. Jahrhundert kommentiert, von christlichen Mönchen bearbeitet, 1479 von Poliziano ins Lateinische übersetzt, nährte das *Handbüchlein* den Neustoizismus von Lipsius und Du Vair, Pascals Gespräch mit Sacy und im 20. Jahrhundert die Lektüre Pierre Hadots sowie die kognitive Therapie von Albert Ellis.",
+    "seoTitle": "Handbüchlein der Moral (Epiktet) — Inhalt und Ideen",
+    "seoDescription": "Epiktets Handbüchlein, von Arrian kompiliert: was in unserer Macht steht, der Gebrauch der Vorstellungen, die 53 Kapitel und die Rezeption bis Hadot."
+   }
+  }
+ },
+ {
+  "id": "wrk-consolation",
+  "status": "published",
+  "authorId": "phi-boethius",
+  "year": 524,
+  "yearApprox": true,
+  "originalTitle": "De consolatione philosophiae",
+  "originalLanguage": "la",
+  "conceptIds": [
+   "con-free-will",
+   "con-good",
+   "con-eudaimonia"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-cambridge-companions",
+   "src-kenny"
+  ],
+  "translations": {
+   "pt": {
+    "title": "A Consolação da Filosofia",
+    "slug": "a-consolacao-da-filosofia",
+    "summary": "Diálogo em prosa e verso, escrito na prisão, em que a Filosofia consola Boécio: instabilidade da Fortuna, Deus como sumo bem, problema do mal, providência e livre-arbítrio.",
+    "body": "Boécio escreveu *A Consolação da Filosofia* na prisão, à espera da execução. Cônsul em 510 e mestre dos ofícios do rei ostrogodo Teodorico, fora acusado de traição depois de defender o senador Albino e condenado sem ser ouvido. A data é aproximada: sua morte é tradicionalmente situada em 524, mas alguns estudiosos preferem 525 ou 526.\n\nOs cinco livros alternam prosa e verso num diálogo entre o prisioneiro e a Filosofia, personificada como uma mulher que diagnostica sua dor como esquecimento do que ele é. O livro II mostra que os dons da Fortuna nunca nos pertencem de fato; o III, que riqueza, cargos, poder, glória e prazer são bens parciais e que a felicidade é o sumo bem, o próprio Deus; o IV responde ao problema do mal com a impotência dos maus e a distinção entre providência e destino; o V concilia presciência e livre-arbítrio: Deus, cuja eternidade é a posse inteira, simultânea e perfeita de uma vida sem fim, vê todos os acontecimentos como presentes, sem lhes impor necessidade. Cristo nunca é nomeado, o que alimenta o debate sobre o caráter religioso da obra.\n\nUm dos livros mais copiados da Idade Média, a *Consolação* foi traduzida para o inglês antigo sob o nome de Alfredo, o Grande, para o alemão por Notker, para o francês por Jean de Meun e para o inglês por Chaucer.",
+    "seoTitle": "A Consolação da Filosofia (Boécio) — resumo e temas",
+    "seoDescription": "A obra que Boécio escreveu na prisão: Fortuna, sumo bem, problema do mal, providência e destino, presciência e livre-arbítrio, e sua recepção medieval."
+   },
+   "en": {
+    "title": "The Consolation of Philosophy",
+    "slug": "the-consolation-of-philosophy",
+    "summary": "Prison dialogue in prose and verse in which Philosophy consoles Boethius: the instability of Fortune, God as the highest good, the problem of evil, providence and free will.",
+    "body": "Boethius wrote the *Consolation of Philosophy* in prison while awaiting execution. Consul in 510 and master of offices under the Ostrogothic king Theodoric, he had been accused of treason after defending the senator Albinus and condemned without a hearing. The date is approximate: his death is traditionally placed in 524, but some scholars prefer 525 or 526.\n\nIts five books alternate prose and verse in a dialogue between the prisoner and Philosophy, personified as a woman who diagnoses his grief as forgetfulness of what he is. Book II shows that the gifts of Fortune are never truly ours; Book III, that wealth, office, power, fame and pleasure are partial goods and that happiness is the highest good, God himself; Book IV answers the problem of evil through the powerlessness of the wicked and the distinction between providence and fate; Book V reconciles foreknowledge with free will: God, whose eternity is the whole, simultaneous and perfect possession of unending life, sees all events as present without imposing necessity on them. Christ is never named, which fuels debate about the work's religious character.\n\nOne of the most copied books of the Middle Ages, it was translated into Old English under the name of Alfred the Great, into German by Notker, into French by Jean de Meun and into English by Chaucer.",
+    "seoTitle": "The Consolation of Philosophy (Boethius) — summary",
+    "seoDescription": "Boethius' prison dialogue: Fortune, the highest good, the problem of evil, providence and fate, foreknowledge and free will, and its medieval reception."
+   },
+   "fr": {
+    "title": "La Consolation de Philosophie",
+    "slug": "la-consolation-de-philosophie",
+    "summary": "Dialogue en prose et en vers écrit en prison, où Philosophie console Boèce : instabilité de Fortune, Dieu comme souverain bien, problème du mal, providence et libre arbitre.",
+    "body": "Boèce rédigea *La Consolation de Philosophie* en prison, dans l'attente de son exécution. Consul en 510 et maître des offices du roi ostrogoth Théodoric, il avait été accusé de trahison pour avoir défendu le sénateur Albinus, puis condamné sans avoir été entendu. La date est approximative : sa mort est traditionnellement datée de 524, mais certains historiens retiennent 525 ou 526.\n\nLes cinq livres alternent prose et vers dans un dialogue entre le prisonnier et Philosophie, figurée sous les traits d'une femme qui diagnostique son chagrin comme un oubli de ce qu'il est. Le livre II montre que les dons de Fortune ne nous appartiennent jamais vraiment ; le livre III, que richesses, charges, puissance, gloire et plaisirs sont des biens partiels et que le bonheur est le souverain bien, Dieu même ; le livre IV répond au problème du mal par l'impuissance des méchants et la distinction entre providence et destin ; le livre V concilie prescience et libre arbitre : Dieu, dont l'éternité est la possession entière, simultanée et parfaite d'une vie sans terme, voit tous les événements comme présents sans leur imposer de nécessité. Le Christ n'y est jamais nommé, ce qui nourrit le débat sur le caractère religieux de l'œuvre.\n\nParmi les livres les plus copiés du Moyen Âge, la *Consolation* fut traduite en vieil anglais sous le nom d'Alfred le Grand, en allemand par Notker, en français par Jean de Meun et en anglais par Chaucer.",
+    "seoTitle": "La Consolation de Philosophie (Boèce) — résumé",
+    "seoDescription": "Le dialogue écrit par Boèce en prison : Fortune, souverain bien, problème du mal, providence et destin, prescience et libre arbitre, réception médiévale."
+   },
+   "de": {
+    "title": "Trost der Philosophie",
+    "slug": "trost-der-philosophie",
+    "summary": "Im Kerker verfasster Dialog in Prosa und Versen, in dem die Philosophie Boethius tröstet: Unbeständigkeit Fortunas, Gott als höchstes Gut, Übel, Vorsehung und Willensfreiheit.",
+    "body": "Boethius schrieb den *Trost der Philosophie* im Kerker, während er auf seine Hinrichtung wartete. Der Konsul des Jahres 510 und Magister officiorum des Ostgotenkönigs Theoderich war des Hochverrats angeklagt worden, nachdem er den Senator Albinus verteidigt hatte, und wurde ohne Anhörung verurteilt. Die Datierung ist nur annähernd möglich: Sein Tod wird traditionell auf 524 gesetzt, manche Forscher nehmen 525 oder 526 an.\n\nDie fünf Bücher wechseln zwischen Prosa und Versen und entfalten ein Gespräch zwischen dem Gefangenen und der Philosophie, die als Frau erscheint und seinen Kummer als Vergessen seines eigenen Wesens diagnostiziert. Buch II zeigt, dass die Gaben Fortunas uns nie wirklich gehören; Buch III, dass Reichtum, Ämter, Macht, Ruhm und Lust bloße Teilgüter sind und die Glückseligkeit das höchste Gut, Gott selbst, ist; Buch IV beantwortet das Problem des Übels mit der Ohnmacht der Bösen und der Unterscheidung von Vorsehung und Schicksal; Buch V versöhnt Vorherwissen und Willensfreiheit: Gott, dessen Ewigkeit der ganze, zugleich gegenwärtige und vollkommene Besitz unbegrenzten Lebens ist, sieht alle Ereignisse als gegenwärtig, ohne ihnen Notwendigkeit aufzuerlegen. Christus wird nirgends genannt, was die Debatte über den religiösen Charakter des Werkes nährt.\n\nAls eines der meistabgeschriebenen Bücher des Mittelalters wurde der *Trost* unter dem Namen Alfreds des Großen ins Altenglische, von Notker ins Althochdeutsche, von Jean de Meun ins Französische und von Chaucer ins Englische übertragen.",
+    "seoTitle": "Trost der Philosophie (Boethius) — Inhalt und Themen",
+    "seoDescription": "Boethius' im Kerker verfasster Dialog: Fortuna, höchstes Gut, Problem des Übels, Vorsehung und Schicksal, Vorherwissen und Willensfreiheit, Rezeption."
+   }
+  }
+ }
+]

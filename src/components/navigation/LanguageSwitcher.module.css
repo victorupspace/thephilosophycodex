@@ -1,0 +1,13 @@
+.root { position: relative; }
+.button { display: inline-flex; align-items: center; gap: var(--s-2); height: 2.75rem; padding: 0 var(--s-2); color: var(--fg); font-size: 1.0625rem; }
+.button:hover, .button[aria-expanded="true"] { text-decoration: underline; text-underline-offset: 0.25em; }
+.code { }
+.chev { transition: transform var(--dur-2) var(--ease-out); } .chev[data-open="true"] { transform: rotate(180deg); }
+.menu { position: absolute; right: 0; top: calc(100% + 8px); z-index: 60; min-width: 11rem; background: var(--bg); border: 1px solid var(--rule); box-shadow: var(--shadow-3); }
+.item { width: 100%; display: flex; align-items: center; justify-content: space-between; gap: var(--s-3); padding: var(--s-3) var(--s-4); font-size: var(--fs-small); text-align: left; border-bottom: 1px solid var(--rule-soft); }
+.menu li:last-child .item { border-bottom: 0; }
+.item:hover, .item:focus-visible { background: var(--surface-2); }
+.item[aria-checked="true"] { font-weight: 600; }
+.list { display: grid; gap: var(--s-2); }
+.list button { font-size: var(--fs-small); color: var(--muted); text-align: left; } .list button:hover { color: var(--fg); }
+.list button[aria-current="true"] { color: var(--fg); font-weight: 600; }

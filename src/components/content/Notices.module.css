@@ -1,0 +1,2 @@
+.notice { padding: var(--s-3) var(--s-4); background: var(--surface-2); font-size: var(--fs-small); border-left: 2px solid var(--fg); }
+.pending { border-left-color: var(--rule-soft); color: var(--muted); font-style: italic; }

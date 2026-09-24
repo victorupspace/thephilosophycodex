@@ -1,0 +1,8 @@
+.section { }
+.list { display: grid; border-top: 1px solid var(--rule); }
+.item { border-bottom: 1px solid var(--rule); }
+.link { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: var(--s-4); padding: var(--s-5) 0; }
+.link:hover .q { text-decoration: underline; text-underline-offset: 0.18em; text-decoration-thickness: 2px; }
+.q { font-size: var(--fs-h3); font-weight: 700; letter-spacing: -0.015em; line-height: 1.2; }
+@media (min-width: 1024px) { .q { font-size: var(--fs-h2); } }
+.arrow { color: var(--fg); }

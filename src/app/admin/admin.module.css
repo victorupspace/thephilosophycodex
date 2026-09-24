@@ -1,0 +1,8 @@
+.body { background: var(--bg); }
+.shell { display: grid; min-height: 100dvh; }
+@media (min-width: 900px) { .shell { grid-template-columns: 16rem 1fr; } }
+.sidebar { display: grid; grid-template-rows: auto 1fr auto; gap: var(--s-8); padding: var(--s-6); border-right: 1px solid var(--border); background: var(--bg-elevated); }
+.brand { display: flex; align-items: center; gap: var(--s-3); }
+.badge { font-family: var(--font-mono); font-size: var(--fs-caption); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.session { display: grid; gap: var(--s-1); padding-top: var(--s-4); border-top: 1px solid var(--border); }
+.main { padding: var(--s-8) var(--gutter) var(--s-16); max-width: 72rem; width: 100%; }

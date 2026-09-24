@@ -1,0 +1,6 @@
+.nav { font-size: var(--fs-meta); color: var(--muted); }
+.list { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-2); }
+.item { display: inline-flex; align-items: center; gap: var(--s-2); }
+.item a { color: var(--muted); } .item a:hover { color: var(--fg); text-decoration: underline; text-underline-offset: 0.2em; }
+.current { color: var(--fg); font-weight: 500; }
+.sep { color: var(--muted-2); }

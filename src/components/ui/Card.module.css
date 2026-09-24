@@ -1,0 +1,137 @@
+/* ------------------------------------------------------------------
+   Card — a typographic cell of the ruled grid.
+
+   The parent `.grid` draws every border; the card owns padding, rhythm
+   and the link. Default density ("plate"):
+
+     head     14/500  fact left (date, span, counts) · pill right (class)
+     title    28–40px/800 — the element that carries the weight an image
+              carries on Refined Journal, by type alone
+     summary  16/400  plain body
+     footer   14/600  one fact, anchored to the bottom of the cell
+
+   `list`    : results pages — 20px title, head + summary + note.
+   `compact` : relation lists in `.grid--soft` — 16px title, tight rhythm.
+------------------------------------------------------------------ */
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 100%;
+  padding: var(--s-5);
+  background: var(--bg);
+  transition: background var(--dur-2);
+}
+@media (min-width: 640px) { .card { padding: var(--s-6); } }
+
+/* ---- row alignment (subgrid) --------------------------------------
+   The cell (<li>) exposes five tracks; the card places each slot in its
+   own track so neighbours align: heads, titles (bottom-aligned, so the
+   last line of a title shares a baseline across the row), bodies, notes
+   and footers. Browsers without subgrid keep the flex column above. */
+@supports (grid-template-rows: subgrid) {
+  .card { display: grid; grid-template-rows: subgrid; grid-row: span 5; align-items: start; min-height: 0; }
+  .head { grid-row: 1; }
+  .title { grid-row: 2; align-self: end; }
+  .summary { grid-row: 3; }
+  .note { grid-row: 4; }
+  .footer { grid-row: 5; align-self: end; margin-top: 0; }
+}
+
+/* ---- interaction: the title link covers the whole cell ------------ */
+.link { color: inherit; }
+.link::after { content: ""; position: absolute; inset: 0; }
+.card:has(.link):hover { background: var(--surface-2); }
+.card:hover .link { text-decoration: underline; text-decoration-thickness: max(1.5px, 0.05em); text-underline-offset: 0.12em; }
+.card:has(.link:focus-visible) { outline: 2px solid var(--focus); outline-offset: -2px; }
+@supports selector(:has(a)) { .link:focus-visible { outline: none; } }
+
+/* ---- head -------------------------------------------------------- */
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s-3);
+  min-height: 1.75rem; /* pill height; fixed so titles align across the row */
+  margin-bottom: var(--s-6);
+}
+.meta {
+  min-width: 0;
+  font-size: var(--fs-meta);
+  font-weight: 500;
+  line-height: 1.4;
+  color: var(--fg);
+  font-feature-settings: "tnum";
+  text-wrap: balance;
+}
+.tag { flex: none; margin-left: auto; display: inline-flex; }
+
+/* ---- title -------------------------------------------------------- */
+.title {
+  margin-top: var(--s-4);
+  /* Sized by the grid variant (see .grid--N in globals.css); the card cannot be a
+     container query context because layout containment would undo the subgrid. */
+  font-size: var(--card-title, clamp(1.575rem, 2.1vw, 2.25rem));
+  font-weight: 800;
+  line-height: 1.02;
+  letter-spacing: -0.03em;
+  text-wrap: balance;
+  overflow-wrap: anywhere;
+}
+.titleLarge { font-size: var(--card-title-large, clamp(1.8rem, 2.45vw, 2.7rem)); }
+
+/* ---- summary / note ---------------------------------------------- */
+.summary {
+  margin-top: var(--s-4);
+  max-width: 36em;
+  font-size: var(--fs-body);
+  line-height: 1.5;
+  color: var(--fg);
+  text-wrap: pretty;
+}
+.note {
+  margin-top: var(--s-3);
+  max-width: 36em;
+  font-size: var(--fs-meta);
+  line-height: 1.45;
+  color: var(--muted);
+  text-wrap: pretty;
+}
+.clamp {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: var(--lines);
+  line-clamp: var(--lines);
+  overflow: hidden;
+}
+
+/* ---- footer ------------------------------------------------------ */
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s-3);
+  margin-top: auto;
+  padding-top: var(--s-6);
+  font-size: var(--fs-meta);
+  font-weight: 600;
+  line-height: 1.4;
+  font-feature-settings: "tnum";
+}
+.footerText { min-width: 0; }
+.aside { flex: none; margin-left: auto; display: inline-flex; }
+
+/* ---- list density (results pages): no plate ----------------------- */
+.list .title { margin-top: 0; font-size: 1.125rem; font-weight: 700; line-height: 1.2; letter-spacing: -0.015em; }
+.list .summary { margin-top: var(--s-2); }
+
+/* ---- compact density (relation lists, .grid--soft) ---------------- */
+.compact { padding: var(--s-4) var(--s-5); }
+.compact .head { min-height: 0; margin-bottom: var(--s-1); }
+.compact .meta { font-weight: 400; color: var(--muted); }
+.compact .title { margin-top: 0; font-size: var(--fs-body); font-weight: 600; line-height: 1.3; letter-spacing: -0.005em; }
+.compact .summary { margin-top: var(--s-2); font-size: var(--fs-meta); line-height: 1.45; color: var(--muted); }
+.compact .note { margin-top: var(--s-2); }
+.compact .footer { padding-top: var(--s-3); font-weight: 500; color: var(--muted); }

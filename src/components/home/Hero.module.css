@@ -1,0 +1,7 @@
+.hero { padding-block: var(--s-10) var(--s-10); }
+@media (min-width: 768px) { .hero { padding-block: var(--s-12) var(--s-12); } }
+.inner { display: grid; gap: var(--s-4); min-width: 0; }
+.inner > * { min-width: 0; }
+.title { margin-left: -0.04em; }
+.subtitle { font-size: var(--fs-lead); line-height: 1.5; max-width: 60rem; text-wrap: pretty; }
+.search { margin-top: var(--s-6); }

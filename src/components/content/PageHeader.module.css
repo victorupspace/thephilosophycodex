@@ -1,0 +1,11 @@
+.header { padding-block: var(--s-8); border-bottom: 1px solid var(--rule-soft); }
+@media (min-width: 1024px) { .header { padding-block: var(--s-10) var(--s-12); } }
+.inner { display: grid; gap: var(--s-6); }
+.row { display: grid; gap: var(--s-8); align-items: end; }
+@media (min-width: 1024px) { .row { grid-template-columns: minmax(0, 1fr) auto; } }
+.text { display: grid; gap: var(--s-4); max-width: 54rem; }
+.eyebrow { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-2); }
+.eyebrow :global(.t-eyebrow) { font-size: var(--fs-meta); }
+.lead { max-width: 46rem; font-size: var(--fs-lead); line-height: 1.55; }
+.aside { display: grid; gap: var(--s-3); min-width: 14rem; }
+.entity .text { gap: var(--s-5); }

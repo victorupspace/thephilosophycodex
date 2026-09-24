@@ -1,0 +1,4 @@
+.list { display: grid; gap: 2px; }
+.link { display: block; padding: var(--s-2) var(--s-3); border-radius: var(--r-2); font-size: var(--fs-small); color: var(--fg-2); }
+.link:hover { background: var(--surface-2); color: var(--fg); }
+.link[aria-current="page"] { background: var(--fg); color: var(--bg); }

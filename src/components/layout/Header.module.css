@@ -1,0 +1,18 @@
+.header { position: sticky; top: 0; z-index: 80; background: var(--header-bg); border-bottom: 1px solid var(--rule-soft); }
+.inner { height: var(--header-h); display: flex; align-items: center; gap: var(--s-8); }
+.logo { display: inline-flex; align-items: center; color: var(--fg); flex: none; }
+.nav { display: none; flex: 1; justify-content: flex-end; }
+.nav ul { display: flex; align-items: center; gap: var(--s-5); }
+.link { display: inline-flex; align-items: center; height: 2.75rem; font-size: 1.0625rem; font-weight: 400; color: var(--fg); }
+.link:hover, .link[aria-current="page"] { text-decoration: underline; text-underline-offset: 0.25em; text-decoration-thickness: 1.5px; }
+.actions { margin-left: auto; display: flex; align-items: center; gap: var(--s-3); }
+@media (min-width: 1024px) { .actions { margin-left: 0; } }
+.burger { width: 2.75rem; height: 2.75rem; display: grid; place-items: center; color: var(--fg); }
+.desktopOnly { display: none; } .mobileOnly { display: inline-flex; }
+@media (min-width: 1024px) { .nav { display: flex; } .desktopOnly { display: inline-flex; } .mobileOnly { display: none; } }
+.mobileMenu { position: fixed; inset: var(--header-h) 0 0 0; z-index: 70; background: var(--bg); padding: 0 var(--gutter) var(--s-10); overflow-y: auto; display: flex; flex-direction: column; gap: var(--s-10); }
+.mobileList { display: grid; }
+.mobileList li { border-bottom: 1px solid var(--rule-soft); }
+.mobileList a { display: block; padding: var(--s-5) 0; font-size: var(--fs-h2); font-weight: 700; letter-spacing: -0.015em; }
+.mobileList a[aria-current="page"] { text-decoration: underline; text-underline-offset: 0.2em; }
+.mobileLang { display: grid; gap: var(--s-3); }

@@ -1,0 +1,8 @@
+.page { display: grid; gap: var(--s-8); }
+.note { margin-top: var(--s-3); padding: var(--s-3) var(--s-4); border-radius: var(--r-3); background: color-mix(in srgb, var(--gold) 12%, transparent); font-size: var(--fs-small); }
+.note code { font-family: var(--font-mono); font-size: 0.9em; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr)); gap: var(--s-4); }
+.stat a { display: grid; gap: var(--s-2); padding: var(--s-5); border-radius: var(--r-4); border: 1px solid var(--border); background: var(--surface); transition: box-shadow var(--dur-2); }
+.stat a:hover { box-shadow: var(--shadow-2); }
+.total { font-family: var(--font-display); font-size: var(--fs-h1); line-height: 1; }
+.badges { display: flex; flex-wrap: wrap; gap: var(--s-1); }

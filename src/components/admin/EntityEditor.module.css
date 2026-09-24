@@ -1,0 +1,15 @@
+.form { display: grid; gap: var(--s-6); }
+.head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: var(--s-4); }
+.actions { display: flex; align-items: center; gap: var(--s-2); }
+.notice { padding: var(--s-3) var(--s-4); border-radius: var(--r-3); background: var(--surface-2); font-size: var(--fs-small); }
+.ok { background: color-mix(in srgb, var(--success) 14%, transparent); }
+.err { background: color-mix(in srgb, var(--danger) 12%, transparent); color: var(--danger); }
+.panel { display: grid; gap: var(--s-4); padding: var(--s-6); border-radius: var(--r-4); background: var(--surface); border: 1px solid var(--border); }
+.grid { display: grid; gap: var(--s-4); }
+@media (min-width: 900px) { .grid { grid-template-columns: repeat(2, 1fr); } .span { grid-column: 1 / -1; } }
+.check { display: flex; align-items: center; gap: var(--s-2); font-size: var(--fs-small); align-self: end; padding-bottom: var(--s-3); }
+.tabs { display: flex; gap: var(--s-1); border-bottom: 1px solid var(--border); }
+.tab { padding: var(--s-2) var(--s-3); font-size: var(--fs-small); color: var(--muted); border-bottom: 2px solid transparent; margin-bottom: -1px; }
+.tab[aria-selected="true"] { color: var(--fg); border-color: var(--accent); }
+.pre { font-family: var(--font-mono); font-size: var(--fs-caption); padding: var(--s-3); border-radius: var(--r-2); background: var(--surface-2); overflow-x: auto; }
+.danger { border-color: color-mix(in srgb, var(--danger) 40%, transparent); }

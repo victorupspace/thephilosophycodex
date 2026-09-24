@@ -1,0 +1,5 @@
+.card { display: grid; gap: var(--s-8); align-items: center; padding: var(--s-6); border: 1px solid var(--rule); }
+@media (min-width: 900px) { .card { grid-template-columns: 1.2fr 1fr; padding: var(--s-10); } }
+.text { display: grid; gap: var(--s-4); justify-items: start; }
+.text :global(.t-eyebrow) { font-size: var(--fs-meta); }
+.graph { width: 100%; max-width: 22rem; margin-inline: auto; color: var(--fg); }

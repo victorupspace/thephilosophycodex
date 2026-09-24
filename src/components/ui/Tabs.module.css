@@ -1,0 +1,6 @@
+.list { display: flex; gap: var(--s-2); overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
+.list::-webkit-scrollbar { display: none; }
+.tab { position: relative; flex: none; white-space: nowrap; padding: 0.45rem 0.9rem; font-size: var(--fs-meta); color: var(--fg); border: 1px solid var(--rule); border-radius: var(--r-full); transition: background var(--dur-2), color var(--dur-2); }
+.tab:hover { background: var(--surface-2); }
+.tab[aria-current="true"], .tab[aria-selected="true"] { background: var(--fg); color: var(--bg); }
+.tab[aria-current="true"]::after, .tab[aria-selected="true"]::after { display: none; }

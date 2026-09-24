@@ -1,0 +1,9 @@
+.q { font-style: italic; font-weight: 400; }
+.form { display: flex; max-width: 44rem; margin-top: var(--s-2); border: 1px solid var(--rule); }
+.form:focus-within { box-shadow: inset 0 0 0 1px var(--fg); }
+.input { flex: 1; min-width: 0; min-height: 3.25rem; padding: 0 var(--s-4); border: 0; background: var(--bg); font-size: var(--fs-body); }
+.input:focus { outline: none; }
+.submit { min-height: 3.25rem; padding: 0 var(--s-5); background: var(--bg); color: var(--fg); font-weight: 500; border-left: 1px solid var(--rule); }
+.submit:hover { background: var(--fg); color: var(--bg); }
+.results { margin-top: var(--s-8); }
+.empty { padding: var(--s-16) 0; display: grid; gap: var(--s-2); }

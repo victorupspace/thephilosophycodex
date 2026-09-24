@@ -1,0 +1,6 @@
+.button { display: inline-grid; place-items: center; width: 2.75rem; height: 2.75rem; color: var(--fg); border: 1px solid transparent; }
+.button:hover { border-color: var(--rule); }
+.list { display: grid; gap: var(--s-2); }
+.list button { font-size: var(--fs-small); color: var(--muted); text-align: left; }
+.list button:hover { color: var(--fg); }
+.list button[aria-pressed="true"] { color: var(--fg); font-weight: 600; }

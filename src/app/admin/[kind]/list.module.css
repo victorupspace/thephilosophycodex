@@ -1,0 +1,9 @@
+.page { display: grid; gap: var(--s-6); }
+.head { display: flex; align-items: flex-end; justify-content: space-between; gap: var(--s-4); }
+.filters { display: flex; flex-wrap: wrap; gap: var(--s-2); }
+.input { min-height: 2.5rem; padding: 0 var(--s-3); border-radius: var(--r-2); border: 1px solid var(--border-strong); background: var(--surface); font-size: var(--fs-small); }
+.table { width: 100%; border-collapse: collapse; font-size: var(--fs-small); }
+.table th { text-align: left; padding: var(--s-2) var(--s-3); font-family: var(--font-mono); font-size: var(--fs-caption); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); border-bottom: 1px solid var(--border-strong); }
+.table td { padding: var(--s-3); border-bottom: 1px solid var(--border); vertical-align: middle; }
+.title { font-weight: 600; }
+.title:hover { color: var(--accent); }

@@ -1,0 +1,5 @@
+.nav { display: flex; align-items: center; justify-content: center; margin-top: var(--s-10); border: 1px solid var(--rule); width: max-content; margin-inline: auto; }
+.page { min-width: 2.75rem; height: 2.75rem; display: inline-grid; place-items: center; font-size: var(--fs-meta); border-right: 1px solid var(--rule); }
+.page:last-child { border-right: 0; } .page:hover { background: var(--surface-2); }
+.page[aria-current="page"] { background: var(--fg); color: var(--bg); }
+.disabled { opacity: 0.35; pointer-events: none; }

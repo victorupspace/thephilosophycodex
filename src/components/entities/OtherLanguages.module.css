@@ -1,0 +1,5 @@
+.list { display: grid; border-top: 1px solid var(--rule); }
+.row { display: grid; grid-template-columns: 8rem 1fr; gap: var(--s-4); padding: var(--s-3) 0; border-bottom: 1px solid var(--rule-soft); align-items: baseline; }
+.row dt { font-size: var(--fs-meta); color: var(--muted); font-weight: 400; }
+.row dd { font-size: var(--fs-h4); font-weight: 700; }
+.row a:hover { text-decoration: underline; text-underline-offset: 0.18em; }
