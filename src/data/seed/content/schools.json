@@ -147,6 +147,295 @@
   }
  },
  {
+  "id": "sch-neoplatonism",
+  "status": "published",
+  "periodId": "per-antiquity",
+  "startYear": 245,
+  "endYear": 529,
+  "influencedByIds": [
+   "sch-platonism"
+  ],
+  "relatedSchoolIds": [
+   "sch-platonism"
+  ],
+  "translations": {
+   "pt": {
+    "title": "Neoplatonismo",
+    "slug": "neoplatonismo",
+    "summary": "Última grande escola da filosofia antiga, de Plotino a Proclo: tudo procede do Uno por graus de realidade e a alma pode retornar a ele.",
+    "definition": "O neoplatonismo é a forma assumida pelo platonismo entre o século III e o século VI, a partir do ensino de Plotino. Concebe a realidade como uma hierarquia que procede de um primeiro princípio absolutamente simples, o Uno, através do Intelecto e da Alma até o mundo sensível, e faz da filosofia o caminho do retorno da alma à sua origem. O nome é um rótulo moderno: seus representantes se consideravam simplesmente platônicos, intérpretes de Platão.",
+    "body": "O neoplatonismo nasce com Plotino (c. 205–270), aluno de Amônio Sacas em Alexandria, que a partir de 244 ou 245 ensinou em Roma. Seus escritos foram reunidos e ordenados por seu discípulo Porfírio (c. 234–c. 305), que os publicou por volta de 301 em seis grupos de nove tratados, as *Enéadas*, precedidos de uma *Vida de Plotino*. Porfírio escreveu também a *Isagoge*, introdução às *Categorias* de Aristóteles que se tornou manual lógico da Idade Média, e contribuiu para harmonizar Platão e Aristóteles no interior da escola.\n\nA doutrina central é a das três hipóstases. O Uno está além do ser e do pensamento e só pode ser dito por negação; dele procede, sem que ele se diminua, o Intelecto (nous), no qual as Formas são idênticas ao pensamento que as pensa; do Intelecto procede a Alma, que anima e ordena o cosmo. A matéria, no limite inferior, é privação e, para Plotino, a fonte do mal. A esse movimento de processão corresponde o de conversão: pela purificação, pela virtude e pela contemplação, a alma pode remontar ao Intelecto e unir-se ao Uno.\n\nOs sucessores deram ao sistema uma forma mais escolástica e religiosa. Jâmblico (c. 245–c. 325), no tratado conhecido como *De mysteriis*, defendeu a teurgia, os ritos pelos quais os deuses elevam a alma, e multiplicou os níveis intermediários da hierarquia. Em Atenas, Proclo (412–485) deu ao neoplatonismo sua exposição mais sistemática nos *Elementos de Teologia* e na *Teologia Platônica*, articulando permanência, processão e conversão. A escola de Atenas terminou em 529, quando um édito de Justiniano proibiu o ensino da filosofia pagã; Damáscio, seu último escolarca, partiu com colegas para a Pérsia. Em Alexandria, com Amônio, filho de Hérmias, e João Filopono, a tradição sobreviveu mais tempo como escola de comentário a Aristóteles.\n\nA influência foi imensa. Agostinho encontrou nos livros dos platônicos, traduzidos por Mário Vitorino, a noção de uma realidade incorpórea; o Pseudo-Dionísio Areopagita transmitiu à teologia medieval a hierarquia e a via negativa. No mundo árabe, uma paráfrase das *Enéadas*, a chamada *Teologia de Aristóteles*, e o *Liber de causis*, derivado de Proclo, marcaram al-Farabi e Avicena. Marsílio Ficino traduziu Plotino para o latim (1492), e o idealismo alemão, sobretudo Schelling e Hegel, reconheceu nele um antecessor.",
+    "aliases": [
+     "Neoplatonismo antigo",
+     "Escola de Plotino",
+     "Platonismo tardio"
+    ],
+    "seoTitle": "Neoplatonismo — Plotino, Porfírio, Jâmblico e Proclo",
+    "seoDescription": "O que é o neoplatonismo: o Uno, o Intelecto e a Alma em Plotino, a processão e o retorno, Proclo, e a influência em Agostinho, Avicena e Ficino."
+   },
+   "en": {
+    "title": "Neoplatonism",
+    "slug": "neoplatonism",
+    "summary": "The last great school of ancient philosophy, from Plotinus to Proclus: all things proceed from the One by degrees of reality, and the soul can return to it.",
+    "definition": "Neoplatonism is the form Platonism took between the third and sixth centuries, beginning with the teaching of Plotinus. It conceives reality as a hierarchy proceeding from an absolutely simple first principle, the One, through Intellect and Soul down to the sensible world, and it makes philosophy the path of the soul's return to its source. The name is a modern label: its representatives regarded themselves simply as Platonists, interpreters of Plato.",
+    "body": "Neoplatonism begins with Plotinus (c. 205–270), a pupil of Ammonius Saccas in Alexandria, who taught in Rome from 244 or 245. His writings were collected and arranged by his disciple Porphyry (c. 234–c. 305), who published them around 301 in six groups of nine treatises, the *Enneads*, prefaced by a *Life of Plotinus*. Porphyry also wrote the *Isagoge*, an introduction to Aristotle's *Categories* that became a standard logical textbook of the Middle Ages, and helped to harmonise Plato and Aristotle within the school.\n\nThe central doctrine is that of the three hypostases. The One lies beyond being and thought and can be spoken of only by negation; from it proceeds, without any diminution of its own, Intellect (nous), in which the Forms are identical with the thinking that thinks them; from Intellect proceeds Soul, which animates and orders the cosmos. Matter, at the lowest limit, is privation and, for Plotinus, the source of evil. To this movement of procession corresponds one of reversion: through purification, virtue and contemplation the soul can ascend to Intellect and be united with the One.\n\nThe successors gave the system a more scholastic and religious form. Iamblichus (c. 245–c. 325), in the treatise known as *On the Mysteries*, defended theurgy, the rites through which the gods raise the soul, and multiplied the intermediate levels of the hierarchy. In Athens, Proclus (412–485) gave Neoplatonism its most systematic statement in the *Elements of Theology* and the *Platonic Theology*, articulating remaining, procession and reversion. The Athenian school came to an end in 529, when an edict of Justinian forbade the teaching of pagan philosophy; Damascius, its last head, left with colleagues for Persia. In Alexandria, with Ammonius son of Hermias and John Philoponus, the tradition survived longer as a school of commentary on Aristotle.\n\nIts influence was immense. Augustine found in the books of the Platonists, translated by Marius Victorinus, the idea of an incorporeal reality; Pseudo-Dionysius the Areopagite passed hierarchy and the negative way on to medieval theology. In the Arabic world a paraphrase of the *Enneads*, the so-called *Theology of Aristotle*, and the *Liber de causis*, derived from Proclus, shaped al-Farabi and Avicenna. Marsilio Ficino translated Plotinus into Latin (1492), and German idealism, above all Schelling and Hegel, recognised in him a forerunner.",
+    "aliases": [
+     "Neo-Platonism",
+     "Late Platonism",
+     "School of Plotinus"
+    ],
+    "seoTitle": "Neoplatonism — Plotinus, Porphyry, Iamblichus, Proclus",
+    "seoDescription": "What Neoplatonism is: the One, Intellect and Soul in Plotinus, procession and return, Proclus, and its influence on Augustine, Avicenna and Ficino."
+   },
+   "fr": {
+    "title": "Néoplatonisme",
+    "slug": "neoplatonisme",
+    "summary": "Dernière grande école de la philosophie antique, de Plotin à Proclus : tout procède de l'Un par degrés de réalité, et l'âme peut y faire retour.",
+    "definition": "Le néoplatonisme est la forme prise par le platonisme entre le IIIe et le VIe siècle, à partir de l'enseignement de Plotin. Il conçoit la réalité comme une hiérarchie qui procède d'un premier principe absolument simple, l'Un, à travers l'Intellect et l'Âme jusqu'au monde sensible, et fait de la philosophie le chemin du retour de l'âme vers son origine. Le nom est une étiquette moderne : ses représentants se tenaient simplement pour platoniciens, interprètes de Platon.",
+    "body": "Le néoplatonisme naît avec Plotin (v. 205–270), élève d'Ammonios Saccas à Alexandrie, qui enseigna à Rome à partir de 244 ou 245. Ses écrits furent rassemblés et ordonnés par son disciple Porphyre (v. 234–v. 305), qui les publia vers 301 en six groupes de neuf traités, les *Ennéades*, précédés d'une *Vie de Plotin*. Porphyre écrivit aussi l'*Isagoge*, introduction aux *Catégories* d'Aristote devenue le manuel de logique du Moyen Âge, et contribua à harmoniser Platon et Aristote au sein de l'école.\n\nLa doctrine centrale est celle des trois hypostases. L'Un est au-delà de l'être et de la pensée et ne se dit que par négation ; de lui procède, sans qu'il en soit diminué, l'Intellect (noûs), où les Formes sont identiques à la pensée qui les pense ; de l'Intellect procède l'Âme, qui anime et ordonne le cosmos. La matière, à la limite inférieure, est privation et, pour Plotin, source du mal. À ce mouvement de procession répond celui de la conversion : par la purification, la vertu et la contemplation, l'âme peut remonter à l'Intellect et s'unir à l'Un.\n\nLes successeurs donnèrent au système une forme plus scolaire et plus religieuse. Jamblique (v. 245–v. 325), dans le traité connu sous le titre *Les Mystères d'Égypte*, défendit la théurgie, ces rites par lesquels les dieux élèvent l'âme, et multiplia les degrés intermédiaires de la hiérarchie. À Athènes, Proclus (412–485) donna au néoplatonisme son exposé le plus systématique dans les *Éléments de théologie* et la *Théologie platonicienne*, articulant demeure, procession et conversion. L'école d'Athènes prit fin en 529, lorsqu'un édit de Justinien interdit l'enseignement de la philosophie païenne ; Damascius, son dernier scolarque, partit avec des collègues pour la Perse. À Alexandrie, avec Ammonios fils d'Hermias et Jean Philopon, la tradition survécut plus longtemps comme école de commentaire d'Aristote.\n\nSon influence fut immense. Augustin trouva dans les livres des platoniciens, traduits par Marius Victorinus, l'idée d'une réalité incorporelle ; le Pseudo-Denys l'Aréopagite transmit à la théologie médiévale la hiérarchie et la voie négative. Dans le monde arabe, une paraphrase des *Ennéades*, la *Théologie d'Aristote*, et le *Liber de causis*, tiré de Proclus, marquèrent al-Fārābī et Avicenne. Marsile Ficin traduisit Plotin en latin (1492), et l'idéalisme allemand, surtout Schelling et Hegel, reconnut en lui un devancier.",
+    "aliases": [
+     "Néo-platonisme",
+     "Platonisme tardif",
+     "École de Plotin"
+    ],
+    "seoTitle": "Néoplatonisme — Plotin, Porphyre, Jamblique et Proclus",
+    "seoDescription": "Le néoplatonisme : l'Un, l'Intellect et l'Âme chez Plotin, procession et conversion, Proclus, et son influence sur Augustin, Avicenne et Ficin."
+   },
+   "de": {
+    "title": "Neuplatonismus",
+    "slug": "neuplatonismus",
+    "summary": "Letzte große Schule der antiken Philosophie, von Plotin bis Proklos: Alles geht in Stufen der Wirklichkeit aus dem Einen hervor, und die Seele kann zu ihm zurückkehren.",
+    "definition": "Der Neuplatonismus ist die Gestalt, die der Platonismus vom 3. bis zum 6. Jahrhundert annahm, ausgehend von der Lehre Plotins. Er begreift die Wirklichkeit als eine Stufenordnung, die von einem schlechthin einfachen ersten Prinzip, dem Einen, über Geist und Seele bis zur Sinnenwelt hervorgeht, und versteht die Philosophie als Weg der Rückkehr der Seele zu ihrem Ursprung. Der Name ist eine moderne Bezeichnung: Seine Vertreter verstanden sich schlicht als Platoniker, als Ausleger Platons.",
+    "body": "Der Neuplatonismus beginnt mit Plotin (um 205–270), einem Schüler des Ammonios Sakkas in Alexandria, der ab 244 oder 245 in Rom lehrte. Seine Schriften wurden von seinem Schüler Porphyrios (um 234–um 305) gesammelt und geordnet, der sie um 301 in sechs Gruppen zu je neun Abhandlungen, den *Enneaden*, herausgab und ihnen eine *Vita Plotini* voranstellte. Porphyrios verfasste auch die *Isagoge*, eine Einführung in die *Kategorien* des Aristoteles, die zum logischen Lehrbuch des Mittelalters wurde, und trug dazu bei, Platon und Aristoteles innerhalb der Schule zu harmonisieren.\n\nIm Zentrum steht die Lehre von den drei Hypostasen. Das Eine liegt jenseits von Sein und Denken und lässt sich nur verneinend aussagen; aus ihm geht, ohne dass es sich dabei verminderte, der Geist (nous) hervor, in dem die Ideen mit dem Denken, das sie denkt, identisch sind; aus dem Geist geht die Seele hervor, die den Kosmos belebt und ordnet. Die Materie an der untersten Grenze ist Beraubung und für Plotin der Ursprung des Übels. Dem Hervorgang entspricht die Rückwendung: Durch Reinigung, Tugend und Schau kann die Seele zum Geist aufsteigen und sich mit dem Einen vereinigen.\n\nDie Nachfolger gaben dem System eine stärker schulmäßige und religiöse Gestalt. Iamblichos (um 245–um 325) verteidigte in der unter dem Titel *De mysteriis* bekannten Schrift die Theurgie, jene Riten, durch die die Götter die Seele emporheben, und vermehrte die Zwischenstufen der Hierarchie. In Athen gab Proklos (412–485) dem Neuplatonismus in der *Elementatio theologica* und der *Theologia Platonica* seine systematischste Darstellung und verband Verharren, Hervorgang und Rückkehr. Die athenische Schule endete 529, als ein Edikt Justinians den Unterricht heidnischer Philosophie untersagte; Damaskios, ihr letzter Scholarch, zog mit Kollegen nach Persien. In Alexandria überlebte die Tradition mit Ammonios Hermeiou und Johannes Philoponos länger als Schule der Aristoteleskommentierung.\n\nIhre Wirkung war gewaltig. Augustinus fand in den Büchern der Platoniker, übersetzt von Marius Victorinus, den Gedanken einer unkörperlichen Wirklichkeit; Pseudo-Dionysius Areopagita vermittelte der mittelalterlichen Theologie die Hierarchie und die negative Theologie. In der arabischen Welt prägten eine Paraphrase der *Enneaden*, die sogenannte *Theologie des Aristoteles*, und der auf Proklos zurückgehende *Liber de causis* al-Farabi und Avicenna. Marsilio Ficino übersetzte Plotin ins Lateinische (1492), und der Deutsche Idealismus, vor allem Schelling und Hegel, erkannte in ihm einen Vorläufer.",
+    "aliases": [
+     "Neoplatonismus",
+     "Spätplatonismus",
+     "Schule Plotins"
+    ],
+    "seoTitle": "Neuplatonismus — Plotin, Porphyrios, Iamblichos, Proklos",
+    "seoDescription": "Was Neuplatonismus ist: das Eine, Geist und Seele bei Plotin, Hervorgang und Rückkehr, Proklos und die Wirkung auf Augustinus, Avicenna und Ficino."
+   }
+  }
+ },
+ {
+  "id": "sch-humanism",
+  "status": "published",
+  "periodId": "per-renaissance",
+  "startYear": 1350,
+  "endYear": 1600,
+  "influencedByIds": [
+   "sch-platonism",
+   "sch-aristotelianism",
+   "sch-scepticism"
+  ],
+  "relatedSchoolIds": [
+   "sch-scholasticism"
+  ],
+  "translations": {
+   "pt": {
+    "title": "Humanismo renascentista",
+    "slug": "humanismo-renascentista",
+    "summary": "Movimento cultural e filosófico dos séculos XIV a XVI que renovou o estudo dos clássicos gregos e latinos e pôs a dignidade e a formação do homem no centro do saber.",
+    "definition": "O humanismo renascentista é o movimento intelectual, surgido na Itália do século XIV e difundido pela Europa até o fim do século XVI, que fez dos studia humanitatis — gramática, retórica, poesia, história e filosofia moral — o eixo da educação e da cultura. Fundado na recuperação filológica dos textos antigos, opôs à lógica e à teologia escolásticas um saber voltado para a eloquência, a vida ativa e a dignidade humana. Mais que uma doutrina única, é um programa de estudos e um estilo de pensamento.",
+    "body": "O movimento tem como figura inaugural Francesco Petrarca (1304–1374), que buscou manuscritos de Cícero e de outros autores latinos, cultivou uma filosofia moral de inspiração estoica e agostiniana e, no tratado *De sui ipsius et multorum ignorantia*, atacou os aristotélicos de seu tempo. Em Florença, Coluccio Salutati e Leonardo Bruni ligaram o estudo dos antigos à vida cívica da república, e o ensino do grego por Manuel Crisoloras, a partir de 1397, abriu o acesso direto a Platão e aos poetas gregos. O termo umanista surgiu no século XV para designar o professor dessas disciplinas; o substantivo alemão Humanismus foi cunhado em 1808 por F. J. Niethammer.\n\nA crítica filológica é uma de suas conquistas duradouras: Lorenzo Valla (1407–1457) demonstrou, pela análise da língua, que a Doação de Constantino era uma falsificação. Em Florença, Marsílio Ficino (1433–1499) traduziu para o latim toda a obra de Platão (publicada em 1484) e as *Enéadas* de Plotino, e expôs na *Teologia Platônica* (1482) a imortalidade da alma e a concordância entre platonismo e cristianismo. Giovanni Pico della Mirandola (1463–1494) compôs em 1486 o *Discurso sobre a Dignidade do Homem*, publicado postumamente, em que o homem, sem lugar fixo na ordem das criaturas, é chamado a escolher a própria forma.\n\nFora da Itália, Erasmo de Roterdã (c. 1466–1536) uniu filologia e reforma religiosa: editou o Novo Testamento grego (1516), satirizou costumes eclesiásticos no *Elogio da Loucura* (1511) e defendeu o livre-arbítrio contra Lutero (1524). Thomas More descreveu na *Utopia* (1516) uma comunidade ideal, e Michel de Montaigne (1533–1592), nos *Ensaios* (1580–1595), converteu a herança clássica, em particular o ceticismo pirrônico, num exame de si e da diversidade dos costumes.\n\nA historiografia discute o alcance filosófico do movimento. Jacob Burckhardt viu no Renascimento a descoberta do indivíduo; Paul Oskar Kristeller sustentou que o humanismo foi sobretudo um programa retórico e educativo, que conviveu com o aristotelismo das universidades; Eugenio Garin e Hans Baron insistiram em sua dimensão cívica e moral. Seu legado inclui a filologia moderna, a educação liberal e a ideia de dignidade humana.",
+    "aliases": [
+     "Humanismo do Renascimento",
+     "Humanismo italiano",
+     "Studia humanitatis"
+    ],
+    "seoTitle": "Humanismo renascentista — Petrarca, Ficino, Pico, Erasmo",
+    "seoDescription": "O que foi o humanismo renascentista: os studia humanitatis, Petrarca, Valla, Ficino, Pico, Erasmo e Montaigne, e o debate sobre seu alcance filosófico."
+   },
+   "en": {
+    "title": "Renaissance humanism",
+    "slug": "renaissance-humanism",
+    "summary": "Cultural and philosophical movement of the 14th to 16th centuries that renewed the study of Greek and Latin classics and put human dignity and education at the centre of learning.",
+    "definition": "Renaissance humanism is the intellectual movement that arose in fourteenth-century Italy and spread across Europe until the end of the sixteenth century, making the studia humanitatis — grammar, rhetoric, poetry, history and moral philosophy — the core of education and culture. Grounded in the philological recovery of ancient texts, it set against scholastic logic and theology a learning directed towards eloquence, the active life and human dignity. More than a single doctrine, it is a programme of studies and a style of thought.",
+    "body": "The founding figure of the movement is Francesco Petrarca, or Petrarch (1304–1374), who searched for manuscripts of Cicero and other Latin authors, cultivated a moral philosophy of Stoic and Augustinian inspiration and, in the treatise *De sui ipsius et multorum ignorantia*, attacked the Aristotelians of his day. In Florence, Coluccio Salutati and Leonardo Bruni tied the study of the ancients to the civic life of the republic, and Manuel Chrysoloras's teaching of Greek from 1397 opened direct access to Plato and the Greek poets. The word umanista appeared in the fifteenth century for a teacher of these disciplines; the German noun Humanismus was coined in 1808 by F. J. Niethammer.\n\nPhilological criticism is one of its lasting achievements: Lorenzo Valla (1407–1457) showed through linguistic analysis that the Donation of Constantine was a forgery. In Florence, Marsilio Ficino (1433–1499) translated the whole of Plato into Latin (published in 1484) as well as Plotinus's *Enneads*, and set out in the *Platonic Theology* (1482) the immortality of the soul and the agreement of Platonism with Christianity. Giovanni Pico della Mirandola (1463–1494) composed in 1486 the *Oration on the Dignity of Man*, published posthumously, in which the human being, having no fixed place in the order of creatures, is called to choose its own form.\n\nBeyond Italy, Erasmus of Rotterdam (c. 1466–1536) joined philology to religious reform: he edited the Greek New Testament (1516), satirised ecclesiastical manners in *The Praise of Folly* (1511) and defended free will against Luther (1524). Thomas More described an ideal commonwealth in *Utopia* (1516), and Michel de Montaigne (1533–1592), in the *Essays* (1580–1595), turned the classical inheritance, Pyrrhonian scepticism in particular, into an examination of the self and of the diversity of customs.\n\nHistorians dispute the philosophical scope of the movement. Jacob Burckhardt saw in the Renaissance the discovery of the individual; Paul Oskar Kristeller argued that humanism was above all a rhetorical and educational programme that coexisted with university Aristotelianism; Eugenio Garin and Hans Baron stressed its civic and moral dimension. Its legacy includes modern philology, liberal education and the idea of human dignity.",
+    "aliases": [
+     "Italian humanism",
+     "Humanism of the Renaissance",
+     "Studia humanitatis"
+    ],
+    "seoTitle": "Renaissance humanism — Petrarch, Ficino, Pico, Erasmus",
+    "seoDescription": "What Renaissance humanism was: the studia humanitatis, Petrarch, Valla, Ficino, Pico, Erasmus and Montaigne, and the debate on its philosophical scope."
+   },
+   "fr": {
+    "title": "Humanisme de la Renaissance",
+    "slug": "humanisme-de-la-renaissance",
+    "summary": "Mouvement culturel et philosophique des XIVe–XVIe siècles qui renouvela l'étude des classiques grecs et latins et plaça la dignité et la formation de l'homme au centre du savoir.",
+    "definition": "L'humanisme de la Renaissance est le mouvement intellectuel né dans l'Italie du XIVe siècle et répandu en Europe jusqu'à la fin du XVIe, qui fit des studia humanitatis — grammaire, rhétorique, poésie, histoire et philosophie morale — l'axe de l'éducation et de la culture. Fondé sur la restitution philologique des textes antiques, il opposa à la logique et à la théologie scolastiques un savoir tourné vers l'éloquence, la vie active et la dignité humaine. Plus qu'une doctrine unique, c'est un programme d'études et un style de pensée.",
+    "body": "La figure inaugurale du mouvement est Pétrarque (1304–1374), qui rechercha les manuscrits de Cicéron et d'autres auteurs latins, cultiva une philosophie morale d'inspiration stoïcienne et augustinienne et, dans le traité *De sui ipsius et multorum ignorantia*, s'en prit aux aristotéliciens de son temps. À Florence, Coluccio Salutati et Leonardo Bruni lièrent l'étude des Anciens à la vie civique de la république, et l'enseignement du grec par Manuel Chrysoloras, à partir de 1397, ouvrit un accès direct à Platon et aux poètes grecs. Le mot umanista apparut au XVe siècle pour désigner le maître de ces disciplines ; le substantif allemand Humanismus fut forgé en 1808 par F. J. Niethammer.\n\nLa critique philologique est l'un de ses acquis durables : Lorenzo Valla (1407–1457) démontra, par l'analyse de la langue, que la Donation de Constantin était un faux. À Florence, Marsile Ficin (1433–1499) traduisit en latin l'ensemble de Platon (publié en 1484) ainsi que les *Ennéades* de Plotin, et exposa dans la *Théologie platonicienne* (1482) l'immortalité de l'âme et l'accord du platonisme et du christianisme. Jean Pic de la Mirandole (1463–1494) composa en 1486 le *De la dignité de l'homme*, publié à titre posthume, où l'homme, sans place fixe dans l'ordre des créatures, est appelé à choisir sa propre forme.\n\nHors d'Italie, Érasme de Rotterdam (v. 1466–1536) unit philologie et réforme religieuse : il édita le Nouveau Testament grec (1516), railla les mœurs ecclésiastiques dans l'*Éloge de la folie* (1511) et défendit le libre arbitre contre Luther (1524). Thomas More décrivit une cité idéale dans l'*Utopie* (1516), et Michel de Montaigne (1533–1592), dans les *Essais* (1580–1595), convertit l'héritage classique, en particulier le scepticisme pyrrhonien, en un examen de soi et de la diversité des coutumes.\n\nL'historiographie discute la portée philosophique du mouvement. Jacob Burckhardt vit dans la Renaissance la découverte de l'individu ; Paul Oskar Kristeller soutint que l'humanisme fut surtout un programme rhétorique et éducatif, coexistant avec l'aristotélisme des universités ; Eugenio Garin et Hans Baron insistèrent sur sa dimension civique et morale. Son héritage comprend la philologie moderne, l'éducation libérale et l'idée de dignité humaine.",
+    "aliases": [
+     "Humanisme renaissant",
+     "Humanisme italien",
+     "Studia humanitatis"
+    ],
+    "seoTitle": "Humanisme de la Renaissance — Pétrarque, Ficin, Érasme",
+    "seoDescription": "L'humanisme de la Renaissance : les studia humanitatis, Pétrarque, Valla, Ficin, Pic de la Mirandole, Érasme, Montaigne et le débat sur sa portée."
+   },
+   "de": {
+    "title": "Renaissance-Humanismus",
+    "slug": "renaissance-humanismus",
+    "summary": "Bewegung des 14. bis 16. Jahrhunderts, die das Studium der griechischen und lateinischen Klassiker erneuerte und Würde und Bildung des Menschen ins Zentrum stellte.",
+    "definition": "Der Renaissance-Humanismus ist die im Italien des 14. Jahrhunderts entstandene und bis zum Ende des 16. Jahrhunderts in Europa verbreitete geistige Bewegung, die die studia humanitatis — Grammatik, Rhetorik, Poesie, Geschichte und Moralphilosophie — zur Mitte von Bildung und Kultur machte. Gestützt auf die philologische Wiedergewinnung der antiken Texte, setzte sie der scholastischen Logik und Theologie ein Wissen entgegen, das auf Beredsamkeit, tätiges Leben und Menschenwürde zielt. Sie ist weniger eine einheitliche Lehre als ein Studienprogramm und ein Denkstil.",
+    "body": "Als Gründergestalt der Bewegung gilt Francesco Petrarca (1304–1374), der nach Handschriften Ciceros und anderer lateinischer Autoren suchte, eine stoisch und augustinisch geprägte Moralphilosophie pflegte und in der Schrift *De sui ipsius et multorum ignorantia* die Aristoteliker seiner Zeit angriff. In Florenz verbanden Coluccio Salutati und Leonardo Bruni das Studium der Alten mit dem bürgerlichen Leben der Republik, und der Griechischunterricht des Manuel Chrysoloras ab 1397 öffnete den unmittelbaren Zugang zu Platon und den griechischen Dichtern. Das Wort umanista kam im 15. Jahrhundert als Bezeichnung für den Lehrer dieser Fächer auf; das Substantiv Humanismus prägte 1808 F. J. Niethammer.\n\nDie philologische Kritik gehört zu ihren bleibenden Errungenschaften: Lorenzo Valla (1407–1457) wies durch Sprachanalyse nach, dass die Konstantinische Schenkung eine Fälschung war. In Florenz übersetzte Marsilio Ficino (1433–1499) das gesamte Werk Platons ins Lateinische (gedruckt 1484) sowie die *Enneaden* Plotins und legte in der *Theologia Platonica* (1482) die Unsterblichkeit der Seele und die Übereinstimmung von Platonismus und Christentum dar. Giovanni Pico della Mirandola (1463–1494) verfasste 1486 die postum veröffentlichte Rede *Über die Würde des Menschen*, in der der Mensch, dem kein fester Ort in der Ordnung der Geschöpfe zukommt, dazu berufen ist, seine eigene Gestalt zu wählen.\n\nAußerhalb Italiens verband Erasmus von Rotterdam (um 1466–1536) Philologie und religiöse Reform: Er gab das griechische Neue Testament heraus (1516), verspottete kirchliche Missstände im *Lob der Torheit* (1511) und verteidigte gegen Luther den freien Willen (1524). Thomas More entwarf in *Utopia* (1516) ein ideales Gemeinwesen, und Michel de Montaigne (1533–1592) verwandelte in den *Essais* (1580–1595) das antike Erbe, insbesondere die pyrrhonische Skepsis, in eine Selbsterforschung und eine Betrachtung der Vielfalt der Sitten.\n\nDie Forschung streitet über die philosophische Tragweite der Bewegung. Jacob Burckhardt sah in der Renaissance die Entdeckung des Individuums; Paul Oskar Kristeller vertrat, der Humanismus sei vor allem ein rhetorisches und pädagogisches Programm gewesen, das neben dem Aristotelismus der Universitäten bestand; Eugenio Garin und Hans Baron betonten seine bürgerliche und moralische Dimension. Zu seinem Erbe gehören die moderne Philologie, die humanistische Bildung und der Gedanke der Menschenwürde.",
+    "aliases": [
+     "Humanismus der Renaissance",
+     "Italienischer Humanismus",
+     "Studia humanitatis"
+    ],
+    "seoTitle": "Renaissance-Humanismus — Petrarca, Ficino, Pico, Erasmus",
+    "seoDescription": "Was der Renaissance-Humanismus war: studia humanitatis, Petrarca, Valla, Ficino, Pico, Erasmus und Montaigne und die Debatte über seine Tragweite."
+   }
+  }
+ },
+ {
+  "id": "sch-contractualism",
+  "status": "published",
+  "periodId": "per-modern",
+  "startYear": 1651,
+  "endYear": null,
+  "influencedByIds": [
+   "sch-empiricism",
+   "sch-rationalism"
+  ],
+  "relatedSchoolIds": [
+   "sch-liberalism"
+  ],
+  "translations": {
+   "pt": {
+    "title": "Contratualismo",
+    "slug": "contratualismo",
+    "summary": "Tradição que funda a autoridade política ou as normas morais num acordo entre indivíduos livres e iguais, de Hobbes, Locke, Rousseau e Kant a Rawls e Scanlon.",
+    "definition": "O contratualismo é a família de teorias que explica e justifica a legitimidade do poder político, ou a validade das normas morais, pelo acordo que indivíduos racionais, livres e iguais fariam ou poderiam fazer entre si. O contrato é, em geral, menos um fato histórico do que um dispositivo de justificação: mostra que as instituições ou os princípios são aceitáveis para todos os que a eles se submetem. Distingue-se hoje entre uma vertente hobbesiana, fundada no interesse próprio, e uma vertente kantiana, fundada no respeito mútuo.",
+    "body": "A ideia de que a justiça nasce de um acordo aparece já em Glauco, no livro II da *República* de Platão, e em Epicuro, mas o contratualismo moderno começa com o *Leviatã* (1651) de Thomas Hobbes (1588–1679). Num estado de natureza sem poder comum, a vida seria uma guerra de todos contra todos; por isso os indivíduos, movidos pelo medo da morte violenta e guiados pelas leis de natureza, transferem por pacto seus direitos a um soberano que garanta a paz. Grócio e Pufendorf haviam preparado o terreno com suas teorias do direito natural.\n\nJohn Locke (1632–1704), nos *Dois Tratados sobre o Governo* (1689), parte de um estado de natureza regido pela lei natural, no qual os indivíduos já possuem direitos à vida, à liberdade e aos bens; o governo, instituído pelo consentimento, é fiduciário desses direitos, e o povo pode resistir quando ele os viola. Jean-Jacques Rousseau (1712–1778), em *Do Contrato Social* (1762), procura uma associação em que cada um, unindo-se a todos, obedeça apenas a si mesmo: a vontade geral, e não o arbítrio de um soberano, é a fonte da lei. Immanuel Kant (1724–1804) interpreta o contrato originário como uma ideia da razão, critério pelo qual toda lei deve poder ser aprovada pelo povo inteiro, e o desenvolve na *Doutrina do Direito* (1797).\n\nDavid Hume objetou, no ensaio sobre o contrato original (1748), que nenhum governo real se fundou em consentimento, e Bentham e Hegel rejeitaram o modelo. O contratualismo renasceu com John Rawls (1921–2002), cuja *Uma Teoria da Justiça* (1971) deriva os princípios de justiça da escolha feita numa posição original, sob um véu de ignorância. David Gauthier, em *Morals by Agreement* (1986), reatualizou a linha hobbesiana, e T. M. Scanlon, em *What We Owe to Each Other* (1998), definiu o erro moral como aquilo que seria proibido por princípios que ninguém poderia razoavelmente rejeitar.\n\nAs críticas persistem: comunitaristas contestam a imagem de um sujeito anterior a seus vínculos; Carole Pateman, em *O Contrato Sexual* (1988), e Charles W. Mills, em *O Contrato Racial* (1997), mostram as exclusões que o contrato clássico pressupõe; outros lembram que animais e gerações futuras não são partes do acordo.",
+    "aliases": [
+     "Teoria do contrato social",
+     "Contratualismo político",
+     "Contratualismo moral"
+    ],
+    "seoTitle": "Contratualismo — Hobbes, Locke, Rousseau, Kant e Rawls",
+    "seoDescription": "O que é o contratualismo: estado de natureza e pacto em Hobbes, Locke e Rousseau, o contrato como ideia da razão em Kant, Rawls, Scanlon e as críticas."
+   },
+   "en": {
+    "title": "Contractualism",
+    "slug": "contractualism",
+    "summary": "Tradition that grounds political authority or moral norms in an agreement among free and equal individuals, from Hobbes, Locke, Rousseau and Kant to Rawls and Scanlon.",
+    "definition": "Contractualism is the family of theories that explains and justifies the legitimacy of political power, or the validity of moral norms, by the agreement that rational, free and equal individuals would or could make with one another. The contract is generally less a historical fact than a device of justification: it shows that institutions or principles are acceptable to all who are subject to them. A Hobbesian strand, grounded in self-interest and often called contractarianism, is today distinguished from a Kantian strand grounded in mutual respect.",
+    "body": "The idea that justice arises from an agreement already appears in Glaucon's speech in Book II of Plato's *Republic* and in Epicurus, but modern contractualism begins with the *Leviathan* (1651) of Thomas Hobbes (1588–1679). In a state of nature without a common power, life would be a war of all against all; individuals, moved by fear of violent death and guided by the laws of nature, therefore covenant to transfer their rights to a sovereign who secures peace. Grotius and Pufendorf had prepared the ground with their theories of natural law.\n\nJohn Locke (1632–1704), in the *Two Treatises of Government* (1689), starts from a state of nature governed by natural law, in which individuals already hold rights to life, liberty and estate; government, instituted by consent, is a trustee of these rights, and the people may resist when it violates them. Jean-Jacques Rousseau (1712–1778), in *The Social Contract* (1762), seeks a form of association in which each, uniting with all, still obeys only himself: the general will, not the discretion of a ruler, is the source of law. Immanuel Kant (1724–1804) interprets the original contract as an idea of reason, the test by which every law must be one the whole people could have agreed to, and develops it in the *Doctrine of Right* (1797).\n\nDavid Hume objected, in his essay on the original contract (1748), that no actual government was founded on consent, and Bentham and Hegel rejected the model. Contractualism was revived by John Rawls (1921–2002), whose *A Theory of Justice* (1971) derives the principles of justice from the choice made in an original position behind a veil of ignorance. David Gauthier's *Morals by Agreement* (1986) renewed the Hobbesian line, and T. M. Scanlon's *What We Owe to Each Other* (1998) defined moral wrongness as what would be disallowed by principles that no one could reasonably reject.\n\nThe criticisms persist: communitarians contest the picture of a self prior to its attachments; Carole Pateman in *The Sexual Contract* (1988) and Charles W. Mills in *The Racial Contract* (1997) expose the exclusions the classical contract presupposes; others note that animals and future generations are not parties to the agreement.",
+    "aliases": [
+     "Social contract theory",
+     "Contractarianism",
+     "Contract theory"
+    ],
+    "seoTitle": "Contractualism — Hobbes, Locke, Rousseau, Kant and Rawls",
+    "seoDescription": "What contractualism is: state of nature and covenant in Hobbes, Locke and Rousseau, Kant's idea of the original contract, Rawls, Scanlon, and critics."
+   },
+   "fr": {
+    "title": "Contractualisme",
+    "slug": "contractualisme",
+    "summary": "Tradition qui fonde l'autorité politique ou les normes morales sur un accord entre individus libres et égaux, de Hobbes, Locke, Rousseau et Kant à Rawls et Scanlon.",
+    "definition": "Le contractualisme est la famille de théories qui explique et justifie la légitimité du pouvoir politique, ou la validité des normes morales, par l'accord que des individus rationnels, libres et égaux feraient ou pourraient faire entre eux. Le contrat est en général moins un fait historique qu'un dispositif de justification : il montre que les institutions ou les principes sont acceptables pour tous ceux qui y sont soumis. On distingue aujourd'hui un courant hobbesien, fondé sur l'intérêt propre, et un courant kantien, fondé sur le respect mutuel.",
+    "body": "L'idée que la justice naît d'un accord apparaît déjà chez Glaucon, au livre II de la *République* de Platon, et chez Épicure, mais le contractualisme moderne commence avec le *Léviathan* (1651) de Thomas Hobbes (1588–1679). Dans un état de nature sans pouvoir commun, la vie serait une guerre de tous contre tous ; poussés par la crainte de la mort violente et guidés par les lois de nature, les individus transfèrent donc par convention leurs droits à un souverain qui garantisse la paix. Grotius et Pufendorf avaient préparé le terrain par leurs théories du droit naturel.\n\nJohn Locke (1632–1704), dans les *Deux traités du gouvernement* (1689), part d'un état de nature régi par la loi naturelle, où les individus possèdent déjà des droits à la vie, à la liberté et aux biens ; le gouvernement, institué par le consentement, est dépositaire de ces droits, et le peuple peut lui résister lorsqu'il les viole. Jean-Jacques Rousseau (1712–1778), dans *Du contrat social* (1762), cherche une association où chacun, s'unissant à tous, n'obéisse pourtant qu'à lui-même : la volonté générale, et non l'arbitraire d'un maître, est la source de la loi. Emmanuel Kant (1724–1804) interprète le contrat originaire comme une idée de la raison, pierre de touche selon laquelle toute loi doit pouvoir être approuvée par le peuple entier, et le développe dans la *Doctrine du droit* (1797).\n\nDavid Hume objecta, dans son essai sur le contrat primitif (1748), qu'aucun gouvernement réel ne s'est fondé sur le consentement, et Bentham comme Hegel rejetèrent le modèle. Le contractualisme renaît avec John Rawls (1921–2002), dont la *Théorie de la justice* (1971) dérive les principes de justice du choix fait dans une position originelle, sous un voile d'ignorance. David Gauthier, dans *Morals by Agreement* (1986), renouvelle la ligne hobbesienne, et T. M. Scanlon, dans *What We Owe to Each Other* (1998), définit le tort moral comme ce qu'interdiraient des principes que nul ne pourrait raisonnablement rejeter.\n\nLes critiques demeurent : les communautariens contestent l'image d'un sujet antérieur à ses attaches ; Carole Pateman, dans *Le Contrat sexuel* (1988), et Charles W. Mills, dans *The Racial Contract* (1997), montrent les exclusions que présuppose le contrat classique ; d'autres rappellent que les animaux et les générations futures ne sont pas parties à l'accord.",
+    "aliases": [
+     "Théorie du contrat social",
+     "Contractarisme",
+     "Théorie contractualiste"
+    ],
+    "seoTitle": "Contractualisme — Hobbes, Locke, Rousseau, Kant et Rawls",
+    "seoDescription": "Le contractualisme : état de nature et pacte chez Hobbes, Locke et Rousseau, le contrat originaire chez Kant, Rawls, Scanlon et les critiques."
+   },
+   "de": {
+    "title": "Kontraktualismus",
+    "slug": "kontraktualismus",
+    "summary": "Tradition, die politische Herrschaft oder moralische Normen auf eine Übereinkunft freier und gleicher Individuen gründet: von Hobbes, Locke, Rousseau und Kant bis Rawls.",
+    "definition": "Der Kontraktualismus ist die Familie von Theorien, die die Legitimität politischer Herrschaft oder die Geltung moralischer Normen aus der Übereinkunft erklärt und rechtfertigt, die vernünftige, freie und gleiche Individuen miteinander träfen oder treffen könnten. Der Vertrag ist dabei meist weniger ein historisches Faktum als ein Rechtfertigungsmodell: Er zeigt, dass Institutionen oder Prinzipien für alle, die ihnen unterworfen sind, annehmbar sind. Man unterscheidet heute eine hobbessche, auf Eigeninteresse gegründete, und eine kantische, auf wechselseitige Achtung gegründete Richtung.",
+    "body": "Der Gedanke, dass Gerechtigkeit aus einer Übereinkunft entsteht, findet sich schon bei Glaukon im zweiten Buch von Platons *Politeia* und bei Epikur, doch der neuzeitliche Kontraktualismus beginnt mit dem *Leviathan* (1651) von Thomas Hobbes (1588–1679). In einem Naturzustand ohne gemeinsame Gewalt wäre das Leben ein Krieg aller gegen alle; getrieben von der Furcht vor gewaltsamem Tod und geleitet von den natürlichen Gesetzen, übertragen die Einzelnen deshalb durch Vertrag ihre Rechte auf einen Souverän, der den Frieden sichert. Grotius und Pufendorf hatten mit ihren Naturrechtslehren den Boden bereitet.\n\nJohn Locke (1632–1704) geht in den *Zwei Abhandlungen über die Regierung* (1689) von einem durch das natürliche Gesetz geregelten Naturzustand aus, in dem die Einzelnen bereits Rechte auf Leben, Freiheit und Eigentum besitzen; die durch Zustimmung eingesetzte Regierung ist Treuhänderin dieser Rechte, und das Volk darf Widerstand leisten, wenn sie sie verletzt. Jean-Jacques Rousseau (1712–1778) sucht in *Vom Gesellschaftsvertrag* (1762) eine Form der Vereinigung, in der jeder, mit allen verbunden, doch nur sich selbst gehorcht: Der Gemeinwille, nicht die Willkür eines Herrschers, ist die Quelle des Gesetzes. Immanuel Kant (1724–1804) deutet den ursprünglichen Vertrag als bloße Idee der Vernunft, als Prüfstein, nach dem jedes Gesetz so beschaffen sein muss, dass ihm das ganze Volk hätte zustimmen können, und entfaltet ihn in der *Rechtslehre* (1797).\n\nDavid Hume wandte in seinem Essay über den ursprünglichen Vertrag (1748) ein, dass keine wirkliche Regierung auf Zustimmung beruhe, und Bentham wie Hegel verwarfen das Modell. Eine Erneuerung erfuhr der Kontraktualismus durch John Rawls (1921–2002), dessen *Eine Theorie der Gerechtigkeit* (1971) die Gerechtigkeitsprinzipien aus der Wahl im Urzustand hinter einem Schleier des Nichtwissens ableitet. David Gauthier erneuerte in *Morals by Agreement* (1986) die hobbessche Linie, und T. M. Scanlon bestimmte in *What We Owe to Each Other* (1998) moralisches Unrecht als das, was Prinzipien verbieten würden, die niemand vernünftigerweise zurückweisen könnte.\n\nDie Kritik hält an: Kommunitaristen bestreiten das Bild eines Selbst, das seinen Bindungen vorausliegt; Carole Pateman in *The Sexual Contract* (1988) und Charles W. Mills in *The Racial Contract* (1997) legen die Ausschlüsse offen, die der klassische Vertrag voraussetzt; andere geben zu bedenken, dass Tiere und künftige Generationen keine Vertragsparteien sind.",
+    "aliases": [
+     "Vertragstheorie",
+     "Gesellschaftsvertragstheorie",
+     "Kontraktualistische Ethik"
+    ],
+    "seoTitle": "Kontraktualismus — Hobbes, Locke, Rousseau, Kant, Rawls",
+    "seoDescription": "Was Kontraktualismus ist: Naturzustand und Vertrag bei Hobbes, Locke und Rousseau, Kants ursprünglicher Vertrag, Rawls, Scanlon und die Kritik."
+   }
+  }
+ },
+ {
+  "id": "sch-liberalism",
+  "status": "published",
+  "periodId": "per-modern",
+  "startYear": 1689,
+  "endYear": null,
+  "influencedByIds": [
+   "sch-contractualism",
+   "sch-empiricism"
+  ],
+  "relatedSchoolIds": [
+   "sch-utilitarianism",
+   "sch-contractualism"
+  ],
+  "translations": {
+   "pt": {
+    "title": "Liberalismo",
+    "slug": "liberalismo",
+    "summary": "Tradição política que faz da liberdade individual, dos direitos, da tolerância e da limitação do poder o fundamento da ordem legítima, de Locke a Mill e Rawls.",
+    "definition": "O liberalismo é a tradição de filosofia política segundo a qual a ordem política legítima deve proteger a liberdade e os direitos iguais dos indivíduos, limitar e dividir o poder e justificar-se perante aqueles que governa. Compreende vertentes diversas, do liberalismo clássico, centrado na propriedade, no mercado e no Estado limitado, ao liberalismo social e igualitário, que admite a intervenção pública para assegurar as condições reais da liberdade.",
+    "body": "O liberalismo tem raízes nas guerras de religião e na crise do absolutismo do século XVII. John Locke (1632–1704) lhe dá seus primeiros textos canônicos em 1689: a *Carta sobre a Tolerância* separa as funções do magistrado civil das da Igreja, e os *Dois Tratados sobre o Governo* fundam o governo no consentimento e na proteção da vida, da liberdade e da propriedade. Montesquieu (1689–1755), em *O Espírito das Leis* (1748), faz da distribuição dos poderes a garantia da liberdade política, e Adam Smith, em *A Riqueza das Nações* (1776), descreve uma ordem econômica que prospera sem direção central. O termo liberal, como rótulo político, difundiu-se a partir das Cortes de Cádis (1810–1812).\n\nNo século XIX, Benjamin Constant distingue, numa conferência de 1819, a liberdade dos antigos, participação no poder coletivo, da liberdade dos modernos, gozo tranquilo da independência privada. Alexis de Tocqueville (1805–1859), em *A Democracia na América* (1835–1840), alerta contra a tirania da maioria e o despotismo brando de um Estado tutelar. John Stuart Mill (1806–1873), em *Sobre a Liberdade* (1859), formula o princípio do dano: a sociedade só pode restringir a conduta de alguém para impedir dano a outros. T. H. Green e L. T. Hobhouse elaboram depois um novo liberalismo, favorável à ação do Estado.\n\nNo século XX, Friedrich Hayek, em *O Caminho da Servidão* (1944), defende o mercado contra o planejamento; Isaiah Berlin, em 1958, distingue liberdade negativa e positiva; John Rawls, em *Uma Teoria da Justiça* (1971) e *O Liberalismo Político* (1993), propõe um liberalismo igualitário e a ideia de razão pública; Robert Nozick responde em *Anarquia, Estado e Utopia* (1974) com a defesa libertária do Estado mínimo; Ronald Dworkin funda a teoria na igual consideração e respeito.\n\nAs críticas vêm de vários lados. Marx, em *Sobre a Questão Judaica* (1844), vê nos direitos do homem os direitos do indivíduo egoísta da sociedade burguesa; Carl Schmitt acusa o liberalismo de dissolver o político; nos anos 1980, os comunitaristas Michael Sandel, Alasdair MacIntyre, Charles Taylor e Michael Walzer contestam seu sujeito desvinculado; republicanos como Philip Pettit opõem à não interferência a não dominação.",
+    "aliases": [
+     "Liberalismo político",
+     "Liberalismo clássico",
+     "Liberalismo igualitário"
+    ],
+    "seoTitle": "Liberalismo — Locke, Montesquieu, Mill, Rawls e Nozick",
+    "seoDescription": "O que é o liberalismo: tolerância e consentimento em Locke, separação dos poderes, o princípio do dano de Mill, Rawls, Nozick e as críticas."
+   },
+   "en": {
+    "title": "Liberalism",
+    "slug": "liberalism",
+    "summary": "Political tradition that makes individual liberty, rights, toleration and the limitation of power the foundation of legitimate order, from Locke to Mill and Rawls.",
+    "definition": "Liberalism is the tradition of political philosophy according to which a legitimate political order must protect the liberty and equal rights of individuals, limit and divide power, and justify itself to those it governs. It comprises diverse strands, from classical liberalism, centred on property, the market and limited government, to social and egalitarian liberalism, which admits public intervention to secure the real conditions of freedom.",
+    "body": "Liberalism is rooted in the wars of religion and the crisis of seventeenth-century absolutism. John Locke (1632–1704) provided its first canonical texts in 1689: *A Letter Concerning Toleration* separates the offices of the civil magistrate from those of the Church, and the *Two Treatises of Government* ground government in consent and in the protection of life, liberty and property. Montesquieu (1689–1755), in *The Spirit of the Laws* (1748), made the distribution of powers the guarantee of political liberty, and Adam Smith, in *The Wealth of Nations* (1776), described an economic order that prospers without central direction. The word liberal as a political label spread from the Cortes of Cádiz (1810–1812).\n\nIn the nineteenth century Benjamin Constant, in a lecture of 1819, distinguished the liberty of the ancients, participation in collective power, from the liberty of the moderns, the peaceful enjoyment of private independence. Alexis de Tocqueville (1805–1859), in *Democracy in America* (1835–1840), warned against the tyranny of the majority and the mild despotism of a tutelary state. John Stuart Mill (1806–1873), in *On Liberty* (1859), formulated the harm principle: society may restrict a person's conduct only to prevent harm to others. T. H. Green and L. T. Hobhouse later developed a new liberalism favourable to state action.\n\nIn the twentieth century Friedrich Hayek, in *The Road to Serfdom* (1944), defended the market against planning; Isaiah Berlin, in 1958, distinguished negative from positive liberty; John Rawls, in *A Theory of Justice* (1971) and *Political Liberalism* (1993), proposed an egalitarian liberalism and the idea of public reason; Robert Nozick replied in *Anarchy, State, and Utopia* (1974) with a libertarian defence of the minimal state; Ronald Dworkin grounded the theory in equal concern and respect.\n\nCriticism comes from several sides. Marx, in *On the Jewish Question* (1844), saw in the rights of man the rights of the egoistic individual of bourgeois society; Carl Schmitt charged liberalism with dissolving the political; in the 1980s the communitarians Michael Sandel, Alasdair MacIntyre, Charles Taylor and Michael Walzer contested its unencumbered self; republicans such as Philip Pettit set non-domination against non-interference.",
+    "aliases": [
+     "Political liberalism",
+     "Classical liberalism",
+     "Egalitarian liberalism"
+    ],
+    "seoTitle": "Liberalism — Locke, Montesquieu, Mill, Rawls and Nozick",
+    "seoDescription": "What liberalism is: toleration and consent in Locke, the separation of powers, Mill's harm principle, Rawls, Nozick, and the main criticisms."
+   },
+   "fr": {
+    "title": "Libéralisme",
+    "slug": "liberalisme",
+    "summary": "Tradition politique qui fait de la liberté individuelle, des droits, de la tolérance et de la limitation du pouvoir le fondement de l'ordre légitime, de Locke à Mill et Rawls.",
+    "definition": "Le libéralisme est la tradition de philosophie politique selon laquelle un ordre politique légitime doit protéger la liberté et les droits égaux des individus, limiter et diviser le pouvoir et se justifier devant ceux qu'il gouverne. Il comprend des courants divers, du libéralisme classique, centré sur la propriété, le marché et l'État limité, au libéralisme social et égalitaire, qui admet l'intervention publique pour assurer les conditions réelles de la liberté.",
+    "body": "Le libéralisme s'enracine dans les guerres de religion et la crise de l'absolutisme au XVIIe siècle. John Locke (1632–1704) lui donne ses premiers textes canoniques en 1689 : la *Lettre sur la tolérance* sépare les fonctions du magistrat civil de celles de l'Église, et les *Deux traités du gouvernement* fondent le gouvernement sur le consentement et la protection de la vie, de la liberté et des biens. Montesquieu (1689–1755), dans *De l'esprit des lois* (1748), fait de la distribution des pouvoirs la garantie de la liberté politique, et Adam Smith, dans les *Recherches sur la nature et les causes de la richesse des nations* (1776), décrit un ordre économique qui prospère sans direction centrale. Le mot libéral, comme étiquette politique, se répand à partir des Cortes de Cadix (1810–1812).\n\nAu XIXe siècle, Benjamin Constant distingue, dans une conférence de 1819, la liberté des Anciens, participation au pouvoir collectif, et celle des Modernes, jouissance paisible de l'indépendance privée. Alexis de Tocqueville (1805–1859), dans *De la démocratie en Amérique* (1835–1840), met en garde contre la tyrannie de la majorité et le despotisme doux d'un pouvoir tutélaire. John Stuart Mill (1806–1873), dans *De la liberté* (1859), formule le principe de non-nuisance : la société ne peut restreindre la conduite de quelqu'un que pour empêcher qu'il nuise à autrui. T. H. Green et L. T. Hobhouse élaborent un nouveau libéralisme favorable à l'action de l'État.\n\nAu XXe siècle, Friedrich Hayek, dans *La Route de la servitude* (1944), défend le marché contre la planification ; Isaiah Berlin distingue en 1958 liberté négative et liberté positive ; John Rawls, dans *Théorie de la justice* (1971) et *Libéralisme politique* (1993), propose un libéralisme égalitaire et l'idée de raison publique ; Robert Nozick répond dans *Anarchie, État et utopie* (1974) par une défense libertarienne de l'État minimal ; Ronald Dworkin fonde la théorie sur l'égale considération et le respect.\n\nLes critiques sont multiples. Marx, dans *Sur la question juive* (1844), voit dans les droits de l'homme ceux de l'individu égoïste de la société bourgeoise ; Carl Schmitt accuse le libéralisme de dissoudre le politique ; dans les années 1980, les communautariens Michael Sandel, Alasdair MacIntyre, Charles Taylor et Michael Walzer contestent son sujet désengagé ; des républicains comme Philip Pettit opposent la non-domination à la non-ingérence.",
+    "aliases": [
+     "Libéralisme politique",
+     "Libéralisme classique",
+     "Libéralisme égalitaire"
+    ],
+    "seoTitle": "Libéralisme — Locke, Montesquieu, Mill, Rawls et Nozick",
+    "seoDescription": "Le libéralisme : tolérance et consentement chez Locke, séparation des pouvoirs, principe de non-nuisance de Mill, Rawls, Nozick et les critiques."
+   },
+   "de": {
+    "title": "Liberalismus",
+    "slug": "liberalismus",
+    "summary": "Politische Tradition, die individuelle Freiheit, Rechte, Toleranz und die Begrenzung der Macht zur Grundlage legitimer Ordnung macht, von Locke über Mill bis Rawls.",
+    "definition": "Der Liberalismus ist die Tradition der politischen Philosophie, nach der eine legitime politische Ordnung die Freiheit und die gleichen Rechte der Einzelnen schützen, die Macht begrenzen und teilen und sich vor denen rechtfertigen muss, die sie regiert. Er umfasst verschiedene Richtungen, vom klassischen Liberalismus, der Eigentum, Markt und begrenzten Staat in den Mittelpunkt stellt, bis zum sozialen und egalitären Liberalismus, der staatliche Eingriffe zur Sicherung der realen Bedingungen der Freiheit zulässt.",
+    "body": "Der Liberalismus wurzelt in den Konfessionskriegen und in der Krise des Absolutismus im 17. Jahrhundert. John Locke (1632–1704) lieferte 1689 seine ersten kanonischen Texte: *Ein Brief über Toleranz* trennt die Aufgaben der bürgerlichen Obrigkeit von denen der Kirche, und die *Zwei Abhandlungen über die Regierung* gründen die Regierung auf Zustimmung und auf den Schutz von Leben, Freiheit und Eigentum. Montesquieu (1689–1755) machte in *Vom Geist der Gesetze* (1748) die Verteilung der Gewalten zur Garantie politischer Freiheit, und Adam Smith beschrieb im *Wohlstand der Nationen* (1776) eine Wirtschaftsordnung, die ohne zentrale Lenkung gedeiht. Das Wort liberal als politische Bezeichnung verbreitete sich von den Cortes von Cádiz (1810–1812) aus.\n\nIm 19. Jahrhundert unterschied Benjamin Constant in einem Vortrag von 1819 die Freiheit der Alten, die Teilhabe an der kollektiven Macht, von der Freiheit der Modernen, dem ungestörten Genuss privater Unabhängigkeit. Alexis de Tocqueville (1805–1859) warnte in *Über die Demokratie in Amerika* (1835–1840) vor der Tyrannei der Mehrheit und dem milden Despotismus einer vormundschaftlichen Staatsgewalt. John Stuart Mill (1806–1873) formulierte in *Über die Freiheit* (1859) das Schadensprinzip: Die Gesellschaft darf das Verhalten eines Menschen nur einschränken, um Schaden von anderen abzuwenden. T. H. Green und L. T. Hobhouse entwickelten danach einen neuen, staatlichem Handeln aufgeschlossenen Liberalismus.\n\nIm 20. Jahrhundert verteidigte Friedrich August von Hayek in *Der Weg zur Knechtschaft* (1944) den Markt gegen die Planwirtschaft; Isaiah Berlin unterschied 1958 negative und positive Freiheit; John Rawls entwarf in *Eine Theorie der Gerechtigkeit* (1971) und *Politischer Liberalismus* (1993) einen egalitären Liberalismus und die Idee öffentlicher Vernunft; Robert Nozick antwortete in *Anarchie, Staat, Utopia* (1974) mit einer libertären Verteidigung des Minimalstaats; Ronald Dworkin gründete die Theorie auf gleiche Rücksicht und Achtung.\n\nKritik kommt von mehreren Seiten. Marx sah in *Zur Judenfrage* (1844) in den Menschenrechten die Rechte des egoistischen Individuums der bürgerlichen Gesellschaft; Carl Schmitt warf dem Liberalismus vor, das Politische aufzulösen; in den 1980er Jahren bestritten die Kommunitaristen Michael Sandel, Alasdair MacIntyre, Charles Taylor und Michael Walzer sein ungebundenes Selbst; Republikaner wie Philip Pettit setzen der Nichteinmischung die Nichtbeherrschung entgegen.",
+    "aliases": [
+     "Politischer Liberalismus",
+     "Klassischer Liberalismus",
+     "Egalitärer Liberalismus"
+    ],
+    "seoTitle": "Liberalismus — Locke, Montesquieu, Mill, Rawls, Nozick",
+    "seoDescription": "Was Liberalismus ist: Toleranz und Zustimmung bei Locke, Gewaltenteilung, Mills Schadensprinzip, Rawls, Nozick und die wichtigsten Einwände."
+   }
+  }
+ },
+ {
   "id": "sch-utilitarianism",
   "status": "published",
   "periodId": "per-19th",
@@ -156,6 +445,7 @@
    "sch-empiricism"
   ],
   "relatedSchoolIds": [
+   "sch-liberalism",
    "sch-pragmatism"
   ],
   "translations": {
@@ -436,6 +726,151 @@
     ],
     "seoTitle": "Analytische Philosophie — Frege, Russell, Wittgenstein",
     "seoDescription": "Analytische Philosophie: Frege, Russell, Moore, Wittgenstein, logischer Positivismus, normale Sprache, Quine, Kripke und kontinentale Philosophie."
+   }
+  }
+ },
+ {
+  "id": "sch-critical-theory",
+  "status": "published",
+  "periodId": "per-20th",
+  "startYear": 1923,
+  "endYear": null,
+  "influencedByIds": [
+   "sch-marxism",
+   "sch-idealism"
+  ],
+  "relatedSchoolIds": [
+   "sch-marxism"
+  ],
+  "translations": {
+   "pt": {
+    "title": "Teoria crítica",
+    "slug": "teoria-critica",
+    "summary": "Tradição da Escola de Frankfurt que une filosofia e ciências sociais numa crítica da sociedade orientada pela emancipação: Horkheimer, Adorno, Marcuse, Habermas, Honneth.",
+    "definition": "A teoria crítica é a tradição filosófica e sociológica nascida no Instituto de Pesquisa Social de Frankfurt, que combina a herança de Hegel e de Marx com a psicanálise e a pesquisa social empírica. Distingue-se da teoria tradicional por refletir sobre sua própria inserção social e por ter como interesse a emancipação humana: diagnostica as formas de dominação, reificação e sofrimento social e procura as possibilidades de superá-las. O termo designa, em sentido estrito, a Escola de Frankfurt e seus herdeiros.",
+    "body": "O Instituto de Pesquisa Social foi criado em Frankfurt em 1923, com financiamento de Felix Weil, sob a direção inicial de Carl Grünberg. Com Max Horkheimer (1895–1973), diretor a partir de 1930, tornou-se o centro de um programa interdisciplinar de filosofia social, publicado na *Zeitschrift für Sozialforschung* (1932–1941). No ensaio *Teoria tradicional e teoria crítica* (1937), Horkheimer define o projeto: uma teoria que se sabe parte da sociedade que analisa e que visa transformá-la. Obrigado ao exílio em 1933, o Instituto passou por Genebra e instalou-se na Universidade Columbia, em Nova York, voltando a Frankfurt em 1950–1951. A reinterpretação da reificação por Georg Lukács em *História e Consciência de Classe* (1923) foi uma referência decisiva.\n\nNa *Dialética do Esclarecimento*, escrita no exílio e publicada em Amsterdam em 1947, Horkheimer e Theodor W. Adorno (1903–1969) sustentam que a razão esclarecida, ao dominar a natureza, recai em mito e em dominação, e analisam a indústria cultural como produção em série da conformidade. Adorno prolonga esse diagnóstico em *Minima Moralia* (1951), na *Dialética Negativa* (1966) e na *Teoria Estética* (1970, póstuma). Walter Benjamin (1892–1940), próximo do Instituto, examina a perda da aura em *A obra de arte na era de sua reprodutibilidade técnica* (1935–1936). Herbert Marcuse (1898–1979) une Marx e Freud em *Eros e Civilização* (1955) e denuncia em *O Homem Unidimensional* (1964) a integração da oposição na sociedade industrial avançada; Erich Fromm, Leo Löwenthal e Franz Neumann também pertenceram ao círculo.\n\nA segunda geração é marcada por Jürgen Habermas, que desloca a crítica do paradigma da consciência para o da comunicação: da *Mudança Estrutural da Esfera Pública* (1962) à *Teoria do Agir Comunicativo* (1981) e a *Facticidade e Validade* (1992), ele funda a crítica nas pretensões de validade do discurso. Axel Honneth, em *Luta por Reconhecimento* (1992), reformula-a como teoria do reconhecimento; Nancy Fraser, Rainer Forst e Rahel Jaeggi prolongam a tradição.\n\nAs críticas acompanham a escola: no prefácio de 1962 à *Teoria do Romance*, Lukács comparou seus membros a hóspedes de um hotel de luxo à beira do abismo; o movimento estudantil de 1968 acusou Adorno de recusar a prática; e se discute se a crítica total da razão, na *Dialética do Esclarecimento*, não mina seus próprios critérios normativos, objeção formulada pelo próprio Habermas.",
+    "aliases": [
+     "Escola de Frankfurt",
+     "Teoria crítica da sociedade",
+     "Frankfurtianos"
+    ],
+    "seoTitle": "Teoria crítica — Escola de Frankfurt, Adorno e Habermas",
+    "seoDescription": "O que é a teoria crítica: a Escola de Frankfurt, Horkheimer e Adorno, a indústria cultural, Benjamin, Marcuse, o agir comunicativo de Habermas e Honneth."
+   },
+   "en": {
+    "title": "Critical theory",
+    "slug": "critical-theory",
+    "summary": "Frankfurt School tradition joining philosophy and social science in a critique of society aimed at emancipation: Horkheimer, Adorno, Marcuse, Habermas, Honneth.",
+    "definition": "Critical theory is the philosophical and sociological tradition born at the Institute for Social Research in Frankfurt, which combines the legacy of Hegel and Marx with psychoanalysis and empirical social research. It differs from traditional theory in reflecting on its own social situation and in being guided by an interest in human emancipation: it diagnoses forms of domination, reification and social suffering and seeks the possibilities of overcoming them. In the strict sense the term designates the Frankfurt School and its heirs.",
+    "body": "The Institute for Social Research was founded in Frankfurt in 1923, funded by Felix Weil and first directed by Carl Grünberg. Under Max Horkheimer (1895–1973), director from 1930, it became the centre of an interdisciplinary programme of social philosophy, published in the *Zeitschrift für Sozialforschung* (1932–1941). In the essay *Traditional and Critical Theory* (1937) Horkheimer defined the project: a theory that knows itself to be part of the society it analyses and aims at transforming it. Forced into exile in 1933, the Institute passed through Geneva and settled at Columbia University in New York, returning to Frankfurt in 1950–1951. Georg Lukács's reworking of reification in *History and Class Consciousness* (1923) was a decisive reference.\n\nIn *Dialectic of Enlightenment*, written in exile and published in Amsterdam in 1947, Horkheimer and Theodor W. Adorno (1903–1969) argue that enlightened reason, in mastering nature, relapses into myth and domination, and they analyse the culture industry as the mass production of conformity. Adorno extended this diagnosis in *Minima Moralia* (1951), *Negative Dialectics* (1966) and *Aesthetic Theory* (1970, posthumous). Walter Benjamin (1892–1940), close to the Institute, examined the decline of the aura in *The Work of Art in the Age of Its Technological Reproducibility* (1935–1936). Herbert Marcuse (1898–1979) joined Marx and Freud in *Eros and Civilization* (1955) and denounced in *One-Dimensional Man* (1964) the absorption of opposition by advanced industrial society; Erich Fromm, Leo Löwenthal and Franz Neumann also belonged to the circle.\n\nThe second generation is shaped by Jürgen Habermas, who moves critique from the paradigm of consciousness to that of communication: from *The Structural Transformation of the Public Sphere* (1962) to *The Theory of Communicative Action* (1981) and *Between Facts and Norms* (1992), he grounds critique in the validity claims of discourse. Axel Honneth, in *The Struggle for Recognition* (1992), recasts it as a theory of recognition; Nancy Fraser, Rainer Forst and Rahel Jaeggi carry the tradition forward.\n\nCriticism has accompanied the school: in his 1962 preface to *The Theory of the Novel* Lukács likened its members to guests of a luxury hotel on the edge of the abyss; the student movement of 1968 accused Adorno of refusing practice; and it is debated whether the total critique of reason in *Dialectic of Enlightenment* undermines its own normative standards, an objection raised by Habermas himself.",
+    "aliases": [
+     "Frankfurt School",
+     "Critical theory of society",
+     "Frankfurt critical theory"
+    ],
+    "seoTitle": "Critical theory — the Frankfurt School, Adorno, Habermas",
+    "seoDescription": "What critical theory is: the Frankfurt School, Horkheimer and Adorno, the culture industry, Benjamin, Marcuse, Habermas's communicative action, Honneth."
+   },
+   "fr": {
+    "title": "Théorie critique",
+    "slug": "theorie-critique",
+    "summary": "Tradition de l'École de Francfort qui unit philosophie et sciences sociales dans une critique de la société visant l'émancipation : Horkheimer, Adorno, Marcuse, Habermas.",
+    "definition": "La théorie critique est la tradition philosophique et sociologique née à l'Institut de recherche sociale de Francfort, qui combine l'héritage de Hegel et de Marx avec la psychanalyse et la recherche sociale empirique. Elle se distingue de la théorie traditionnelle en réfléchissant sur sa propre situation sociale et en se guidant sur l'intérêt pour l'émancipation humaine : elle diagnostique les formes de domination, de réification et de souffrance sociale et cherche les possibilités de les surmonter. Au sens strict, le terme désigne l'École de Francfort et ses héritiers.",
+    "body": "L'Institut de recherche sociale est fondé à Francfort en 1923, financé par Felix Weil et d'abord dirigé par Carl Grünberg. Sous Max Horkheimer (1895–1973), directeur à partir de 1930, il devient le centre d'un programme interdisciplinaire de philosophie sociale, publié dans la *Zeitschrift für Sozialforschung* (1932–1941). Dans l'essai *Théorie traditionnelle et théorie critique* (1937), Horkheimer définit le projet : une théorie qui se sait partie de la société qu'elle analyse et qui vise à la transformer. Exilé en 1933, l'Institut passe par Genève et s'installe à l'université Columbia de New York, puis revient à Francfort en 1950–1951. La relecture de la réification par Georg Lukács dans *Histoire et conscience de classe* (1923) fut une référence décisive.\n\nDans *La Dialectique de la Raison*, écrite en exil et publiée à Amsterdam en 1947, Horkheimer et Theodor W. Adorno (1903–1969) soutiennent que la raison éclairée, en dominant la nature, retombe dans le mythe et la domination, et analysent l'industrie culturelle comme production en série du conformisme. Adorno prolonge ce diagnostic dans *Minima Moralia* (1951), la *Dialectique négative* (1966) et la *Théorie esthétique* (1970, posthume). Walter Benjamin (1892–1940), proche de l'Institut, examine le déclin de l'aura dans *L'Œuvre d'art à l'époque de sa reproductibilité technique* (1935–1936). Herbert Marcuse (1898–1979) unit Marx et Freud dans *Éros et civilisation* (1955) et dénonce dans *L'Homme unidimensionnel* (1964) l'intégration de l'opposition par la société industrielle avancée.\n\nLa deuxième génération est marquée par Jürgen Habermas, qui déplace la critique du paradigme de la conscience vers celui de la communication : de *L'Espace public* (1962) à la *Théorie de l'agir communicationnel* (1981) et à *Droit et démocratie* (1992), il fonde la critique sur les prétentions à la validité du discours. Axel Honneth, dans *La Lutte pour la reconnaissance* (1992), la reformule en théorie de la reconnaissance ; Nancy Fraser, Rainer Forst et Rahel Jaeggi prolongent la tradition.\n\nLa critique a accompagné l'école : dans sa préface de 1962 à *La Théorie du roman*, Lukács compara ses membres aux clients d'un hôtel de luxe au bord de l'abîme ; le mouvement étudiant de 1968 reprocha à Adorno de refuser la pratique ; et l'on discute si la critique totale de la raison dans *La Dialectique de la Raison* ne ruine pas ses propres critères normatifs, objection formulée par Habermas lui-même.",
+    "aliases": [
+     "École de Francfort",
+     "Théorie critique de la société",
+     "Francfortois"
+    ],
+    "seoTitle": "Théorie critique — l'École de Francfort, Adorno, Habermas",
+    "seoDescription": "La théorie critique : l'École de Francfort, Horkheimer et Adorno, l'industrie culturelle, Benjamin, Marcuse, l'agir communicationnel de Habermas, Honneth."
+   },
+   "de": {
+    "title": "Kritische Theorie",
+    "slug": "kritische-theorie",
+    "summary": "Tradition der Frankfurter Schule, die Philosophie und Sozialwissenschaften zu einer auf Emanzipation zielenden Gesellschaftskritik verbindet: Horkheimer, Adorno, Marcuse, Habermas.",
+    "definition": "Die Kritische Theorie ist die am Frankfurter Institut für Sozialforschung entstandene philosophische und soziologische Tradition, die das Erbe Hegels und Marx' mit Psychoanalyse und empirischer Sozialforschung verbindet. Sie unterscheidet sich von traditioneller Theorie dadurch, dass sie ihre eigene gesellschaftliche Stellung reflektiert und von einem Interesse an menschlicher Emanzipation geleitet ist: Sie diagnostiziert Formen von Herrschaft, Verdinglichung und gesellschaftlichem Leiden und sucht nach Möglichkeiten ihrer Überwindung. Im engeren Sinn bezeichnet der Ausdruck die Frankfurter Schule und ihre Erben.",
+    "body": "Das Institut für Sozialforschung wurde 1923 in Frankfurt am Main gegründet, finanziert von Felix Weil und zunächst geleitet von Carl Grünberg. Unter Max Horkheimer (1895–1973), Direktor ab 1930, wurde es zum Zentrum eines interdisziplinären Programms der Sozialphilosophie, das in der *Zeitschrift für Sozialforschung* (1932–1941) erschien. Im Aufsatz *Traditionelle und kritische Theorie* (1937) bestimmte Horkheimer das Vorhaben: eine Theorie, die sich als Teil der von ihr untersuchten Gesellschaft weiß und auf deren Veränderung zielt. 1933 ins Exil gezwungen, ging das Institut über Genf an die Columbia University in New York und kehrte 1950–1951 nach Frankfurt zurück. Georg Lukács' Neufassung des Verdinglichungsbegriffs in *Geschichte und Klassenbewußtsein* (1923) war ein entscheidender Bezugspunkt.\n\nIn der *Dialektik der Aufklärung*, im Exil verfasst und 1947 in Amsterdam veröffentlicht, vertreten Horkheimer und Theodor W. Adorno (1903–1969) die These, dass die aufgeklärte Vernunft in der Beherrschung der Natur in Mythos und Herrschaft zurückschlägt, und analysieren die Kulturindustrie als serielle Produktion von Anpassung. Adorno führte diese Diagnose in *Minima Moralia* (1951), der *Negativen Dialektik* (1966) und der *Ästhetischen Theorie* (1970, postum) fort. Walter Benjamin (1892–1940), dem Institut nahestehend, untersuchte im Aufsatz *Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit* (1935–1936) den Verfall der Aura. Herbert Marcuse (1898–1979) verband in *Triebstruktur und Gesellschaft* (1955) Marx und Freud und kritisierte in *Der eindimensionale Mensch* (1964) die Einbindung der Opposition in die fortgeschrittene Industriegesellschaft; auch Erich Fromm, Leo Löwenthal und Franz Neumann gehörten zum Kreis.\n\nDie zweite Generation prägt Jürgen Habermas, der die Kritik vom Paradigma des Bewusstseins auf das der Kommunikation umstellt: Vom *Strukturwandel der Öffentlichkeit* (1962) über die *Theorie des kommunikativen Handelns* (1981) bis zu *Faktizität und Geltung* (1992) gründet er sie auf die Geltungsansprüche der Rede. Axel Honneth formuliert sie in *Kampf um Anerkennung* (1992) als Anerkennungstheorie neu; Nancy Fraser, Rainer Forst und Rahel Jaeggi führen die Tradition weiter.\n\nKritik begleitete die Schule: Lukács verglich ihre Mitglieder im Vorwort von 1962 zur *Theorie des Romans* mit Gästen eines „Grand Hotel Abgrund“; die Studentenbewegung von 1968 warf Adorno Praxisverweigerung vor; und umstritten ist, ob die totale Vernunftkritik der *Dialektik der Aufklärung* nicht ihre eigenen normativen Maßstäbe untergräbt, ein Einwand, den Habermas selbst erhob.",
+    "aliases": [
+     "Frankfurter Schule",
+     "Kritische Theorie der Gesellschaft",
+     "Frankfurter Kritische Theorie"
+    ],
+    "seoTitle": "Kritische Theorie — Frankfurter Schule, Adorno, Habermas",
+    "seoDescription": "Was Kritische Theorie ist: Frankfurter Schule, Horkheimer und Adorno, Kulturindustrie, Benjamin, Marcuse, Habermas' kommunikatives Handeln und Honneth."
+   }
+  }
+ },
+ {
+  "id": "sch-post-structuralism",
+  "status": "published",
+  "periodId": "per-20th",
+  "startYear": 1966,
+  "endYear": null,
+  "influencedByIds": [
+   "sch-phenomenology",
+   "sch-marxism"
+  ],
+  "relatedSchoolIds": [
+   "sch-existentialism",
+   "sch-hermeneutics"
+  ],
+  "translations": {
+   "pt": {
+    "title": "Pós-estruturalismo",
+    "slug": "pos-estruturalismo",
+    "summary": "Conjunto de filosofias francesas surgidas a partir de 1966 que radicalizam e criticam o estruturalismo: Derrida, Foucault, Deleuze, Lyotard e, depois, Butler.",
+    "definition": "Pós-estruturalismo é o nome dado, sobretudo pela recepção anglo-americana, a um conjunto de pensadores franceses que, a partir dos anos 1960, herdam do estruturalismo a primazia da linguagem e dos sistemas de diferenças, mas recusam a ideia de estruturas fechadas, estáveis e centradas. Criticam o sujeito soberano, a presença, a origem e as grandes narrativas totalizantes, e investigam as relações entre discurso, poder e desejo. Não se trata de uma escola organizada: os autores assim reunidos raramente usaram o rótulo.",
+    "body": "O pós-estruturalismo surge no interior do próprio estruturalismo, que, a partir de Saussure e de Lévi-Strauss, explicava os fenômenos culturais por sistemas de diferenças. Em outubro de 1966, no colóquio da Universidade Johns Hopkins sobre as linguagens da crítica e as ciências do homem, Jacques Derrida (1930–2004) apresentou uma conferência que questiona a noção de centro da estrutura, recolhida em *A Escritura e a Diferença* (1967). No mesmo ano de 1967, a *Gramatologia* denuncia o logocentrismo da metafísica ocidental e propõe a desconstrução e a différance. Nietzsche e Heidegger, relidos na França, forneciam o horizonte crítico da metafísica.\n\nMichel Foucault (1926–1984), depois de *As Palavras e as Coisas* (1966), anuncia o fim da figura moderna do homem e passa da arqueologia dos saberes a uma genealogia do poder: *Vigiar e Punir* (1975) descreve o poder disciplinar, e *A Vontade de Saber* (1976), primeiro volume da *História da Sexualidade*, mostra que a sexualidade é produzida por dispositivos de saber e poder. Roland Barthes proclama a morte do autor (1967–1968). Gilles Deleuze (1925–1995), em *Diferença e Repetição* (1968), pensa a diferença sem subordiná-la à identidade e, com Félix Guattari, em *O Anti-Édipo* (1972) e *Mil Platôs* (1980), elabora uma teoria do desejo e do rizoma. Jean-François Lyotard (1924–1998), em *A Condição Pós-Moderna* (1979), caracteriza a pós-modernidade pela incredulidade diante das metanarrativas.\n\nJulia Kristeva e Luce Irigaray levam essas ferramentas à psicanálise e ao feminismo, e Judith Butler, em *Problemas de Gênero* (1990), apoiando-se em Foucault e Derrida, concebe o gênero como efeito performativo de atos reiterados. O movimento marcou profundamente a teoria literária, os estudos culturais, pós-coloniais e de gênero.\n\nAs críticas foram intensas. Jürgen Habermas, em *O Discurso Filosófico da Modernidade* (1985), acusa esses autores de uma crítica da razão que não pode justificar seus próprios critérios; John Searle polemizou com Derrida sobre os atos de fala a partir de 1977; Manfred Frank os analisou como neoestruturalismo (1984); e Alan Sokal e Jean Bricmont, em *Imposturas Intelectuais* (1997), denunciaram o uso abusivo de conceitos científicos.",
+    "aliases": [
+     "Pós-estruturalismo francês",
+     "Neoestruturalismo",
+     "Filosofia da diferença"
+    ],
+    "seoTitle": "Pós-estruturalismo — Derrida, Foucault, Deleuze, Lyotard",
+    "seoDescription": "O que é o pós-estruturalismo: desconstrução e différance em Derrida, saber e poder em Foucault, Deleuze e Guattari, Lyotard, Butler e as críticas."
+   },
+   "en": {
+    "title": "Post-structuralism",
+    "slug": "post-structuralism",
+    "summary": "Group of French philosophies emerging from 1966 that radicalise and criticise structuralism: Derrida, Foucault, Deleuze, Lyotard and, later, Butler.",
+    "definition": "Post-structuralism is the name given, above all in the Anglo-American reception, to a group of French thinkers who from the 1960s inherited from structuralism the primacy of language and of systems of differences but rejected the idea of closed, stable and centred structures. They criticise the sovereign subject, presence, origin and totalising grand narratives, and investigate the relations between discourse, power and desire. It is not an organised school: the authors so grouped rarely used the label.",
+    "body": "Post-structuralism emerged within structuralism itself, which, following Saussure and Lévi-Strauss, explained cultural phenomena through systems of differences. In October 1966, at the Johns Hopkins University symposium on the languages of criticism and the sciences of man, Jacques Derrida (1930–2004) gave a lecture questioning the notion of a centre of structure, later collected in *Writing and Difference* (1967). In the same year, 1967, *Of Grammatology* denounced the logocentrism of Western metaphysics and proposed deconstruction and différance. Nietzsche and Heidegger, reread in France, supplied the horizon of the critique of metaphysics.\n\nMichel Foucault (1926–1984), after *The Order of Things* (1966), announced the end of the modern figure of man and moved from the archaeology of knowledge to a genealogy of power: *Discipline and Punish* (1975) describes disciplinary power, and *The Will to Knowledge* (1976), the first volume of *The History of Sexuality*, shows that sexuality is produced by apparatuses of knowledge and power. Roland Barthes proclaimed the death of the author (1967–1968). Gilles Deleuze (1925–1995), in *Difference and Repetition* (1968), thought difference without subordinating it to identity and, with Félix Guattari, in *Anti-Oedipus* (1972) and *A Thousand Plateaus* (1980), developed a theory of desire and of the rhizome. Jean-François Lyotard (1924–1998), in *The Postmodern Condition* (1979), characterised postmodernity by incredulity towards metanarratives.\n\nJulia Kristeva and Luce Irigaray brought these tools to psychoanalysis and feminism, and Judith Butler, in *Gender Trouble* (1990), drawing on Foucault and Derrida, conceived gender as the performative effect of reiterated acts. The movement left a deep mark on literary theory and on cultural, postcolonial and gender studies.\n\nThe criticisms were sharp. Jürgen Habermas, in *The Philosophical Discourse of Modernity* (1985), charged these authors with a critique of reason unable to justify its own standards; John Searle disputed speech acts with Derrida from 1977; Manfred Frank analysed them as neostructuralism (1984); and Alan Sokal and Jean Bricmont, in *Intellectual Impostures* (1997; US title *Fashionable Nonsense*), denounced the misuse of scientific concepts.",
+    "aliases": [
+     "Poststructuralism",
+     "French post-structuralism",
+     "Neostructuralism"
+    ],
+    "seoTitle": "Post-structuralism — Derrida, Foucault, Deleuze, Lyotard",
+    "seoDescription": "What post-structuralism is: Derrida's deconstruction and différance, Foucault on knowledge and power, Deleuze and Guattari, Lyotard, Butler, and critics."
+   },
+   "fr": {
+    "title": "Poststructuralisme",
+    "slug": "poststructuralisme",
+    "summary": "Ensemble de philosophies françaises apparues à partir de 1966 qui radicalisent et critiquent le structuralisme : Derrida, Foucault, Deleuze, Lyotard, puis Butler.",
+    "definition": "Poststructuralisme est le nom donné, surtout par la réception anglo-américaine, à un ensemble de penseurs français qui, à partir des années 1960, héritent du structuralisme le primat du langage et des systèmes de différences, mais refusent l'idée de structures closes, stables et centrées. Ils critiquent le sujet souverain, la présence, l'origine et les grands récits totalisants, et interrogent les rapports entre discours, pouvoir et désir. Ce n'est pas une école organisée : les auteurs ainsi regroupés ont rarement employé l'étiquette.",
+    "body": "Le poststructuralisme naît au sein même du structuralisme, qui, après Saussure et Lévi-Strauss, expliquait les phénomènes culturels par des systèmes de différences. En octobre 1966, au colloque de l'université Johns Hopkins sur les langages de la critique et les sciences de l'homme, Jacques Derrida (1930–2004) prononce une conférence qui met en question la notion de centre de la structure, reprise dans *L'Écriture et la différence* (1967). La même année, *De la grammatologie* dénonce le logocentrisme de la métaphysique occidentale et propose la déconstruction et la différance. Nietzsche et Heidegger, relus en France, fournissent l'horizon de la critique de la métaphysique.\n\nMichel Foucault (1926–1984), après *Les Mots et les choses* (1966), annonce la fin de la figure moderne de l'homme et passe de l'archéologie des savoirs à une généalogie du pouvoir : *Surveiller et punir* (1975) décrit le pouvoir disciplinaire, et *La Volonté de savoir* (1976), premier tome de l'*Histoire de la sexualité*, montre que la sexualité est produite par des dispositifs de savoir et de pouvoir. Roland Barthes proclame la mort de l'auteur (1967–1968). Gilles Deleuze (1925–1995), dans *Différence et répétition* (1968), pense la différence sans la subordonner à l'identité et, avec Félix Guattari, dans *L'Anti-Œdipe* (1972) et *Mille plateaux* (1980), élabore une théorie du désir et du rhizome. Jean-François Lyotard (1924–1998), dans *La Condition postmoderne* (1979), caractérise la postmodernité par l'incrédulité envers les métarécits.\n\nJulia Kristeva et Luce Irigaray portent ces outils vers la psychanalyse et le féminisme, et Judith Butler, dans *Trouble dans le genre* (1990), s'appuyant sur Foucault et Derrida, conçoit le genre comme l'effet performatif d'actes réitérés. Le mouvement a profondément marqué la théorie littéraire et les études culturelles, postcoloniales et de genre.\n\nLes critiques furent vives. Jürgen Habermas, dans *Le Discours philosophique de la modernité* (1985), reproche à ces auteurs une critique de la raison incapable de justifier ses propres critères ; John Searle polémique avec Derrida sur les actes de langage à partir de 1977 ; Manfred Frank les analyse comme néostructuralisme (1984) ; Alan Sokal et Jean Bricmont, dans *Impostures intellectuelles* (1997), dénoncent l'usage abusif de concepts scientifiques.",
+    "aliases": [
+     "Post-structuralisme",
+     "Néostructuralisme",
+     "Philosophie de la différence"
+    ],
+    "seoTitle": "Poststructuralisme — Derrida, Foucault, Deleuze, Lyotard",
+    "seoDescription": "Le poststructuralisme : déconstruction et différance chez Derrida, savoir et pouvoir chez Foucault, Deleuze et Guattari, Lyotard, Butler et les critiques."
+   },
+   "de": {
+    "title": "Poststrukturalismus",
+    "slug": "poststrukturalismus",
+    "summary": "Gruppe französischer Philosophien, die ab 1966 den Strukturalismus radikalisieren und kritisieren: Derrida, Foucault, Deleuze, Lyotard und später Butler.",
+    "definition": "Poststrukturalismus ist die vor allem in der angloamerikanischen Rezeption geprägte Bezeichnung für eine Reihe französischer Denker, die seit den 1960er Jahren vom Strukturalismus den Vorrang der Sprache und der Differenzsysteme übernehmen, die Vorstellung geschlossener, stabiler und zentrierter Strukturen jedoch verwerfen. Sie kritisieren das souveräne Subjekt, die Präsenz, den Ursprung und die totalisierenden großen Erzählungen und untersuchen die Beziehungen von Diskurs, Macht und Begehren. Eine organisierte Schule ist er nicht: Die so zusammengefassten Autoren haben das Etikett selten verwendet.",
+    "body": "Der Poststrukturalismus entsteht im Strukturalismus selbst, der im Anschluss an Saussure und Lévi-Strauss kulturelle Phänomene aus Differenzsystemen erklärte. Im Oktober 1966 hielt Jacques Derrida (1930–2004) auf dem Symposium der Johns Hopkins University über die Sprachen der Kritik und die Wissenschaften vom Menschen einen Vortrag, der den Begriff des Zentrums der Struktur in Frage stellt und in *Die Schrift und die Differenz* (1967) aufgenommen wurde. Im selben Jahr kritisierte die *Grammatologie* den Logozentrismus der abendländischen Metaphysik und entwarf Dekonstruktion und différance. Nietzsche und Heidegger, in Frankreich neu gelesen, lieferten den Horizont der Metaphysikkritik.\n\nMichel Foucault (1926–1984) verkündete nach *Die Ordnung der Dinge* (1966) das Ende der modernen Gestalt des Menschen und ging von der Archäologie des Wissens zu einer Genealogie der Macht über: *Überwachen und Strafen* (1975) beschreibt die Disziplinarmacht, und *Der Wille zum Wissen* (1976), der erste Band von *Sexualität und Wahrheit*, zeigt, dass Sexualität durch Dispositive von Wissen und Macht hervorgebracht wird. Roland Barthes rief den Tod des Autors aus (1967–1968). Gilles Deleuze (1925–1995) dachte in *Differenz und Wiederholung* (1968) die Differenz, ohne sie der Identität unterzuordnen, und entwickelte mit Félix Guattari in *Anti-Ödipus* (1972) und *Tausend Plateaus* (1980) eine Theorie des Begehrens und des Rhizoms. Jean-François Lyotard (1924–1998) bestimmte in *Das postmoderne Wissen* (1979) die Postmoderne durch die Skepsis gegenüber den Metaerzählungen.\n\nJulia Kristeva und Luce Irigaray übertrugen diese Werkzeuge auf Psychoanalyse und Feminismus, und Judith Butler begriff in *Das Unbehagen der Geschlechter* (1990) im Anschluss an Foucault und Derrida das Geschlecht als performativen Effekt wiederholter Akte. Die Bewegung prägte Literaturtheorie, Kulturwissenschaften, postkoloniale Studien und Gender Studies nachhaltig.\n\nDie Kritik war scharf. Jürgen Habermas warf diesen Autoren in *Der philosophische Diskurs der Moderne* (1985) eine Vernunftkritik vor, die ihre eigenen Maßstäbe nicht begründen kann; John Searle stritt ab 1977 mit Derrida über Sprechakte; Manfred Frank deutete sie in *Was ist Neostrukturalismus?* (1984) als Neostrukturalismus; und Alan Sokal und Jean Bricmont kritisierten in *Eleganter Unsinn* (1997) den missbräuchlichen Gebrauch naturwissenschaftlicher Begriffe.",
+    "aliases": [
+     "Neostrukturalismus",
+     "Französischer Poststrukturalismus",
+     "Philosophie der Differenz"
+    ],
+    "seoTitle": "Poststrukturalismus — Derrida, Foucault, Deleuze, Lyotard",
+    "seoDescription": "Was Poststrukturalismus ist: Dekonstruktion und différance bei Derrida, Wissen und Macht bei Foucault, Deleuze und Guattari, Lyotard, Butler und Kritik."
    }
   }
  }

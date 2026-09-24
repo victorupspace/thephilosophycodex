@@ -220,6 +220,117 @@
   }
  },
  {
+  "id": "wrk-meditations-aurelius",
+  "status": "published",
+  "authorId": "phi-marcus-aurelius",
+  "year": 175,
+  "yearApprox": true,
+  "originalTitle": "Τὰ εἰς ἑαυτόν",
+  "originalLanguage": "grc",
+  "conceptIds": [
+   "con-logos",
+   "con-virtue",
+   "con-eudaimonia",
+   "con-ethics",
+   "con-time"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-iep",
+   "src-reale"
+  ],
+  "translations": {
+   "pt": {
+    "title": "Meditações",
+    "slug": "meditacoes-marco-aurelio",
+    "summary": "Notas pessoais em grego, em doze livros, nas quais o imperador estoico se exorta a julgar com retidão, a aceitar a ordem racional do cosmo e a servir ao bem comum.",
+    "body": "As *Meditações* são cadernos que Marco Aurélio (121–180), imperador desde 161, escreveu em grego para si mesmo, sem intenção de publicá-los; o título *Ta eis heauton* (“A si mesmo”) vem dos manuscritos. Duas notas do texto, “entre os quados, junto ao Granua” e “em Carnunto”, situam parte da redação nas campanhas do Danúbio dos anos 170; daí a data convencional de c. 175, numa composição que vai até a morte do autor, em 180.\n\nO livro I enumera o que o autor deve a familiares e mestres, entre eles Júnio Rústico, que lhe deu a ler os apontamentos de Epicteto. Os outros onze reúnem reflexões sem plano sistemático, que praticam a doutrina estoica como exercício: só o juízo perturba a alma; tudo muda, e cada um vive apenas o presente; o cosmo é um único ser vivo regido pelo *lógos*, e os seres racionais existem uns para os outros. Haja providência ou apenas átomos, o dever não muda, e a mente livre de paixões é uma cidadela.\n\nConhecida em Bizâncio por Aretas de Cesareia no século X, a obra foi impressa em Zurique em 1559, com versão latina de Xylander, a partir de um manuscrito hoje perdido. Pierre Hadot, em *La Citadelle intérieure* (1992), leu-a como exercícios espirituais ordenados pelas três disciplinas de Epicteto: do assentimento, do desejo e da ação.",
+    "seoTitle": "Meditações de Marco Aurélio — resumo e ideias centrais",
+    "seoDescription": "As Meditações de Marco Aurélio: notas estoicas em grego escritas c. 170–180 sobre o juízo, o lógos e a cidadela interior, lidas por Pierre Hadot."
+   },
+   "en": {
+    "title": "Meditations",
+    "slug": "meditations-marcus-aurelius",
+    "summary": "Personal notes in Greek, in twelve books, in which the Stoic emperor exhorts himself to judge rightly, to accept the rational order of the cosmos and to serve the common good.",
+    "body": "The *Meditations* are notebooks that Marcus Aurelius (121–180), emperor from 161, wrote in Greek for himself, with no view to publication; the title *Ta eis heauton* (“To himself”) comes from the manuscripts. Two notes in the text, “among the Quadi, on the Granua” and “at Carnuntum”, place part of the writing in the Danube campaigns of the 170s; hence the conventional date c. 175, within a composition that runs until the author's death in 180.\n\nBook 1 lists what the author owes to family and teachers, among them Junius Rusticus, who gave him Epictetus' notes to read. The other eleven books gather reflections without systematic plan, practising Stoic doctrine as an exercise: only judgement disturbs the soul; everything changes, and each of us lives only the present; the cosmos is a single living being governed by *logos*, and rational beings exist for one another. Be it providence or atoms, duty does not change, and the mind free of passions is a citadel.\n\nKnown in Byzantium to Arethas of Caesarea in the tenth century, the work was first printed at Zurich in 1559, with Xylander's Latin version, from a manuscript now lost. After Meric Casaubon's English translation (1634), Pierre Hadot, in *La Citadelle intérieure* (1992), read it as spiritual exercises ordered by Epictetus' three disciplines of assent, desire and action.",
+    "seoTitle": "Meditations of Marcus Aurelius — summary and key ideas",
+    "seoDescription": "Marcus Aurelius' Meditations: Stoic notebooks in Greek written c. 170–180 on judgement, logos and the inner citadel, as read by Pierre Hadot."
+   },
+   "fr": {
+    "title": "Pensées pour moi-même",
+    "slug": "pensees-pour-moi-meme",
+    "summary": "Notes personnelles en grec, en douze livres, où l'empereur stoïcien s'exhorte à juger droitement, à accepter l'ordre rationnel du cosmos et à servir le bien commun.",
+    "body": "Les *Pensées pour moi-même* sont des carnets que Marc Aurèle (121-180), empereur à partir de 161, rédigea en grec pour lui-même, sans intention de les publier ; le titre *Ta eis heauton* (« À soi-même ») vient des manuscrits. Deux notes du texte, « chez les Quades, au bord du Granua » et « à Carnuntum », rattachent une partie de la rédaction aux campagnes danubiennes des années 170 ; d'où la date conventionnelle de 175 environ, la composition s'achevant à la mort de l'auteur, en 180.\n\nLe livre I recense ses dettes envers ses proches et ses maîtres, dont Junius Rusticus, qui lui fit lire les notes d'Épictète. Les onze autres, sans plan systématique, pratiquent la doctrine stoïcienne comme un exercice : seul le jugement trouble l'âme ; tout change, et chacun ne vit que le présent ; le cosmos est un seul vivant gouverné par le *logos*, et les êtres raisonnables sont faits les uns pour les autres. Providence ou atomes, le devoir ne change pas, et la pensée libre de passions est une citadelle.\n\nConnue à Byzance d'Aréthas de Césarée au Xe siècle, l'œuvre fut imprimée à Zurich en 1559, avec la version latine de Xylander. Pierre Hadot, dans *La Citadelle intérieure* (1992), y a lu des exercices spirituels ordonnés selon les trois disciplines d'Épictète : de l'assentiment, du désir et de l'action.",
+    "seoTitle": "Pensées pour moi-même de Marc Aurèle — résumé",
+    "seoDescription": "Les Pensées pour moi-même de Marc Aurèle : carnets stoïciens en grec rédigés vers 170-180 sur le jugement, le logos et la citadelle intérieure."
+   },
+   "de": {
+    "title": "Selbstbetrachtungen",
+    "slug": "selbstbetrachtungen",
+    "summary": "Persönliche Aufzeichnungen auf Griechisch in zwölf Büchern, in denen sich der stoische Kaiser zu richtigem Urteil, zur Bejahung der Weltordnung und zum Dienst am Gemeinwohl ermahnt.",
+    "body": "Die *Selbstbetrachtungen* sind Notizhefte, die Mark Aurel (121–180), seit 161 Kaiser, auf Griechisch für sich selbst schrieb, ohne an eine Veröffentlichung zu denken; der Titel *Ta eis heauton* („An sich selbst“) stammt aus den Handschriften. Zwei Vermerke im Text, „bei den Quaden am Granua“ und „in Carnuntum“, verorten Teile der Niederschrift in den Donaufeldzügen der 170er Jahre; daher die übliche Datierung um 175, bei einer Entstehung, die bis zum Tod des Verfassers im Jahr 180 reicht.\n\nDas erste Buch zählt auf, was der Verfasser Familie und Lehrern verdankt, darunter Junius Rusticus, der ihm die Aufzeichnungen Epiktets zu lesen gab. Die übrigen elf Bücher versammeln Reflexionen ohne systematischen Plan, die die stoische Lehre als Übung vollziehen: Nur das Urteil beunruhigt die Seele; alles wandelt sich, und jeder lebt nur die Gegenwart; der Kosmos ist ein einziges Lebewesen, das der *Logos* durchwaltet, und die vernünftigen Wesen sind füreinander da. Ob Vorsehung oder Atome, die Pflicht bleibt dieselbe, und der von Leidenschaften freie Geist ist eine Burg.\n\nIn Byzanz kannte Arethas von Caesarea das Werk im 10. Jahrhundert; gedruckt wurde es erstmals 1559 in Zürich, mit Xylanders lateinischer Übersetzung, nach einer heute verlorenen Handschrift. Pierre Hadot las es in *La Citadelle intérieure* (1992; dt. *Die innere Burg*) als Folge geistiger Übungen, gegliedert nach den drei Disziplinen Epiktets: der Zustimmung, des Begehrens und des Handelns.",
+    "seoTitle": "Selbstbetrachtungen (Mark Aurel) — Inhalt und Ideen",
+    "seoDescription": "Mark Aurels Selbstbetrachtungen: stoische Notizen auf Griechisch (um 170–180) über Urteil, Logos und die innere Burg, gedeutet von Pierre Hadot."
+   }
+  }
+ },
+ {
+  "id": "wrk-enneads",
+  "status": "published",
+  "authorId": "phi-plotinus",
+  "year": 301,
+  "yearApprox": true,
+  "originalTitle": "Ἐννεάδες",
+  "originalLanguage": "grc",
+  "conceptIds": [
+   "con-transcendence",
+   "con-good",
+   "con-being",
+   "con-forms",
+   "con-beauty",
+   "con-time"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-reale",
+   "src-hwph"
+  ],
+  "translations": {
+   "pt": {
+    "title": "Enéadas",
+    "slug": "eneadas",
+    "summary": "Os 54 tratados escritos por Plotino entre 253/254 e 270, editados por Porfírio c. 301 em seis grupos de nove: o Uno, o Intelecto e a Alma, a processão e o retorno à origem.",
+    "body": "Plotino (204/205–270) ensinou em Roma a partir de 244 e só em 253/254 começou a escrever, sobre as questões discutidas em suas aulas; ao morrer, deixara 54 tratados. Porfírio de Tiro publicou-os c. 301, precedidos da *Vida de Plotino*, dividindo alguns textos para compor seis grupos de nove (*enneás*), donde o título; a obra se data por essa edição. A *Vida* conserva também a ordem cronológica dos escritos.\n\nA ordem editorial é ascendente: a *Enéada* I trata do homem, da ética e do belo; a II e a III, do mundo físico, da providência e do tempo; a IV, da alma; a V, do Intelecto; a VI, do ser e do Uno. A doutrina central é a das três hipóstases: o Uno ou Bem, além do ser e do pensamento; o Intelecto (*noûs*), identidade de pensar e ser, que contém as Formas; e a Alma, que anima o cosmo. Tudo procede do Uno sem diminuí-lo e tende a voltar-se para ele; a matéria, pura privação, é o mal primeiro, e a união com o Uno coroa a ascensão filosófica.\n\nPor Porfírio, Jâmblico e Proclo, as *Enéadas* moldaram o neoplatonismo; Agostinho leu tratados de Plotino em latim, e uma paráfrase árabe das *Enéadas* IV–VI circulou como *Teologia de Aristóteles*. A tradução latina de Marsilio Ficino (1492) difundiu-as no Renascimento; a edição crítica de Henry e Schwyzer (1951–1973) é hoje a referência.",
+    "seoTitle": "Enéadas de Plotino — resumo e ideias centrais",
+    "seoDescription": "As Enéadas de Plotino, editadas por Porfírio c. 301: o Uno, o Intelecto e a Alma, processão e retorno, e a recepção de Agostinho a Ficino."
+   },
+   "en": {
+    "title": "Enneads",
+    "slug": "enneads",
+    "summary": "The 54 treatises Plotinus wrote between 253/254 and 270, edited by Porphyry c. 301 in six sets of nine: the One, Intellect and Soul, procession and the return to the source.",
+    "body": "Plotinus (204/205–270) taught in Rome from 244 and only in 253/254 began to write, on questions raised in his classes; at his death he left 54 treatises. Porphyry of Tyre published them c. 301, prefaced by his *Life of Plotinus*, dividing some texts so as to form six sets of nine (*enneas*), hence the title; the work is dated by this edition. The *Life* also preserves the chronological order of the writings.\n\nThe editorial order is ascending: *Ennead* I deals with the human being, ethics and beauty; II and III with the physical world, providence and time; IV with the soul; V with Intellect; VI with being and the One. The central doctrine is that of the three hypostases: the One or Good, beyond being and thought; Intellect (*nous*), the identity of thinking and being, which contains the Forms; and Soul, which animates the cosmos. Everything proceeds from the One without diminishing it and strives to turn back towards it; matter, sheer privation, is the primary evil, and union with the One crowns the philosophical ascent.\n\nThrough Porphyry, Iamblichus and Proclus the *Enneads* shaped Neoplatonism; Augustine read treatises of Plotinus in Latin, and an Arabic paraphrase of *Enneads* IV–VI circulated as the *Theology of Aristotle*. Marsilio Ficino's Latin translation (1492) spread them through the Renaissance; the critical edition of Henry and Schwyzer (1951–1973) is now the standard.",
+    "seoTitle": "Enneads of Plotinus — summary and key ideas",
+    "seoDescription": "Plotinus' Enneads, edited by Porphyry c. 301: the One, Intellect and Soul, procession and return, and their reception from Augustine to Ficino."
+   },
+   "fr": {
+    "title": "Ennéades",
+    "slug": "enneades",
+    "summary": "Les 54 traités écrits par Plotin entre 253/254 et 270, édités par Porphyre vers 301 en six groupes de neuf : l'Un, l'Intellect et l'Âme, la procession et le retour à la source.",
+    "body": "Plotin (204/205-270) enseigna à Rome dès 244 et ne commença à écrire qu'en 253/254, sur les questions débattues dans ses cours ; il laissa 54 traités. Porphyre de Tyr les publia vers 301, précédés de la *Vie de Plotin*, en divisant certains textes pour former six groupes de neuf (*enneas*), d'où le titre ; l'œuvre se date par cette édition. La *Vie* conserve aussi l'ordre chronologique des écrits, que suit la traduction dirigée par Luc Brisson et Jean-François Pradeau (2002-2010).\n\nL'ordre éditorial est ascendant : l'*Ennéade* I traite de l'homme, de l'éthique et du beau ; les II et III, du monde physique, de la providence et du temps ; la IV, de l'âme ; la V, de l'Intellect ; la VI, de l'être et de l'Un. La doctrine centrale est celle des trois hypostases : l'Un ou Bien, au-delà de l'être et de la pensée ; l'Intellect (*noûs*), identité du penser et de l'être, qui contient les Formes ; l'Âme, qui anime le cosmos. Tout procède de l'Un sans l'amoindrir et tend à se convertir vers lui ; la matière, pure privation, est le mal premier, et l'union à l'Un couronne l'ascension philosophique.\n\nPar Porphyre, Jamblique et Proclus, les *Ennéades* ont façonné le néoplatonisme ; Augustin lut des traités de Plotin en latin, et une paraphrase arabe des *Ennéades* IV-VI circula sous le nom de *Théologie d'Aristote*. La traduction latine de Marsile Ficin (1492) les diffusa à la Renaissance ; l'édition critique de Henry et Schwyzer (1951-1973) fait aujourd'hui autorité.",
+    "seoTitle": "Ennéades de Plotin — résumé et idées clés",
+    "seoDescription": "Les Ennéades de Plotin, éditées par Porphyre vers 301 : l'Un, l'Intellect et l'Âme, procession et conversion, et leur réception d'Augustin à Ficin."
+   },
+   "de": {
+    "title": "Enneaden",
+    "slug": "enneaden",
+    "summary": "Die 54 Schriften, die Plotin zwischen 253/254 und 270 verfasste, um 301 von Porphyrios in sechs Neunergruppen herausgegeben: das Eine, Geist und Seele, Hervorgang und Rückkehr.",
+    "body": "Plotin (204/205–270) lehrte seit 244 in Rom und begann erst 253/254 zu schreiben, ausgehend von den in seinem Unterricht erörterten Fragen; bei seinem Tod hinterließ er 54 Abhandlungen. Porphyrios von Tyros gab sie um 301 heraus, eingeleitet durch seine *Vita Plotini*, und teilte einige Texte, um sechs Gruppen zu je neun (*enneas*) zu bilden, daher der Titel; das Werk wird nach dieser Ausgabe datiert. Die *Vita* überliefert auch die chronologische Reihenfolge der Schriften, der Richard Harders Übersetzung folgt.\n\nDie editorische Ordnung ist aufsteigend: *Enneade* I behandelt den Menschen, die Ethik und das Schöne, II und III die Natur, die Vorsehung und die Zeit, IV die Seele, V den Geist, VI das Seiende und das Eine. Im Zentrum steht die Lehre von den drei Hypostasen: das Eine oder Gute, jenseits von Sein und Denken; der Geist (*Nous*), Identität von Denken und Sein, der die Ideen enthält; die Seele, die den Kosmos belebt. Alles geht aus dem Einen hervor, ohne es zu mindern, und strebt zu ihm zurück; die Materie, reine Privation, ist das erste Übel, und die Einung mit dem Einen vollendet den philosophischen Aufstieg.\n\nÜber Porphyrios, Iamblichos und Proklos prägten die *Enneaden* den Neuplatonismus; Augustinus las Schriften Plotins in lateinischer Übersetzung, und eine arabische Paraphrase der *Enneaden* IV–VI kursierte als *Theologie des Aristoteles*. Marsilio Ficinos lateinische Übersetzung (1492) verbreitete sie in der Renaissance; maßgeblich ist heute die kritische Ausgabe von Henry und Schwyzer (1951–1973).",
+    "seoTitle": "Enneaden (Plotin) — Inhalt und Grundgedanken",
+    "seoDescription": "Plotins Enneaden, um 301 von Porphyrios herausgegeben: das Eine, Geist und Seele, Hervorgang und Rückkehr, Rezeption von Augustinus bis Ficino."
+   }
+  }
+ },
+ {
   "id": "wrk-consolation",
   "status": "published",
   "authorId": "phi-boethius",
