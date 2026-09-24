@@ -396,6 +396,10 @@
   ],
   "relations": [
    {
+    "conceptId": "con-alterity",
+    "kind": "opposite"
+   },
+   {
     "conceptId": "con-essence",
     "kind": "related"
    },
@@ -1253,6 +1257,14 @@
    },
    {
     "conceptId": "con-anxiety",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-nihilism",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-absurd",
     "kind": "related"
    }
   ],
@@ -4011,6 +4023,10 @@
    {
     "conceptId": "con-duty",
     "kind": "related"
+   },
+   {
+    "conceptId": "con-utility",
+    "kind": "related"
    }
   ],
   "translations": {
@@ -4170,7 +4186,15 @@
     "kind": "narrower"
    },
    {
+    "conceptId": "con-deontology",
+    "kind": "related"
+   },
+   {
     "conceptId": "con-autonomy",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-responsibility",
     "kind": "related"
    },
    {
@@ -4327,7 +4351,23 @@
     "kind": "broader"
    },
    {
+    "conceptId": "con-utility",
+    "kind": "narrower"
+   },
+   {
+    "conceptId": "con-deontology",
+    "kind": "opposite"
+   },
+   {
+    "conceptId": "con-hedonism",
+    "kind": "related"
+   },
+   {
     "conceptId": "con-good",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-responsibility",
     "kind": "related"
    },
    {
@@ -4439,6 +4479,1724 @@
     ],
     "seoTitle": "Konsequentialismus — Definition, Utilitarismus, Kritik",
     "seoDescription": "Konsequentialismus: von Hutcheson, Bentham und Mill über Anscombes Wortprägung zu Handlungs- und Regelvarianten und den Einwänden von Rawls und Williams."
+   }
+  }
+ },
+ {
+  "id": "con-deontology",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-ethics"
+  ],
+  "philosopherIds": [
+   "phi-aquinas",
+   "phi-kant"
+  ],
+  "schoolIds": [
+   "sch-idealism"
+  ],
+  "periodIds": [
+   "per-medieval",
+   "per-modern",
+   "per-20th",
+   "per-contemporary"
+  ],
+  "workIds": [
+   "wrk-groundwork"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-ethics",
+    "kind": "broader"
+   },
+   {
+    "conceptId": "con-consequentialism",
+    "kind": "opposite"
+   },
+   {
+    "conceptId": "con-duty",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-categorical-imperative",
+    "kind": "narrower"
+   },
+   {
+    "conceptId": "con-autonomy",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-dignity",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Deontologia",
+    "slug": "deontologia",
+    "summary": "Teorias éticas segundo as quais certas ações são obrigatórias ou proibidas em si mesmas, independentemente de suas consequências.",
+    "definition": "Em filosofia moral, deontologia designa as teorias normativas segundo as quais a correção de uma ação depende de sua conformidade a deveres, regras ou direitos, e não apenas da qualidade de suas consequências. Admite restrições, ações proibidas mesmo quando produziriam um resultado melhor, e opções, liberdade de não maximizar o bem. Na linguagem profissional, o termo designa também o código de deveres de uma profissão.",
+    "etymology": "Do grego déon, déontos, “o que é preciso, o dever”, particípio de deî, “é necessário”, e lógos, “discurso, estudo”. O termo foi cunhado por Jeremy Bentham, cuja *Deontology* saiu postumamente em 1834; o sentido atual, oposto ao consequencialismo, fixou-se no século XX, com C. D. Broad (1930).",
+    "body": "A deontologia reúne as teorias éticas para as quais há coisas que não se devem fazer, ainda que fazê-las produzisse um resultado melhor. Mentir, matar um inocente ou quebrar uma promessa seriam errados em si mesmos, e não apenas por suas consequências. O que conta é a natureza do ato, a intenção do agente e os deveres e direitos envolvidos. A deontologia opõe-se assim ao consequencialismo, para o qual o certo é o que produz o melhor estado de coisas.\n\nO termo foi criado por Jeremy Bentham para designar a ciência do dever, entendida por ele em chave utilitarista; seu sentido atual deve-se à classificação de C. D. Broad (*Five Types of Ethical Theory*, 1930), que opõe teorias deontológicas e teleológicas. A ideia, porém, é muito anterior. A tradição do direito natural reconhece proibições absolutas, e Tomás de Aquino formula na *Suma Teológica* o princípio do duplo efeito, que distingue o mal visado do mal apenas previsto. O paradigma moderno é Kant. Na *Fundamentação da Metafísica dos Costumes* (1785) e na *Crítica da Razão Prática* (1788), só tem valor moral a ação feita por dever, e o critério do dever é o imperativo categórico: agir apenas segundo máximas que se possam querer como leis universais e tratar a humanidade sempre também como fim, nunca apenas como meio. No ensaio sobre um suposto direito de mentir (1797), Kant sustenta que não é permitido mentir nem para salvar um amigo de um assassino.\n\nNo século XX, W. D. Ross (*The Right and the Good*, 1930) propôs uma pluralidade de deveres prima facie, como fidelidade, reparação, gratidão, justiça e beneficência, cujo peso relativo se decide em cada situação. Elizabeth Anscombe (1958) criticou a ética que justifica qualquer ato por suas consequências e cunhou o termo “consequencialismo”. Philippa Foot (1967) e Judith Jarvis Thomson formularam o problema do bonde, que testa a distinção entre fazer e deixar acontecer. Rawls afirmou a prioridade do justo sobre o bem (*Uma Teoria da Justiça*, 1971), e Nozick concebeu os direitos como restrições laterais à ação (*Anarquia, Estado e Utopia*, 1974).\n\nAs objeções clássicas apontam a rigidez das regras e o paradoxo das restrições: por que seria errado violar um direito para evitar mais violações do mesmo direito? O contratualismo de T. M. Scanlon (1998) oferece uma fundamentação alternativa. O conceito relaciona-se com o dever, a autonomia, a dignidade e os direitos naturais.",
+    "synonyms": [
+     "Ética deontológica",
+     "Ética do dever"
+    ],
+    "nearTerms": [
+     "Dever",
+     "Imperativo categórico",
+     "Consequencialismo",
+     "Direitos",
+     "Duplo efeito",
+     "Deveres prima facie"
+    ],
+    "aliases": [
+     "ética deontológica",
+     "deontologismo",
+     "ética do dever",
+     "restrições deontológicas",
+     "problema do bonde"
+    ],
+    "seoTitle": "Deontologia — Kant, Ross e a ética do dever",
+    "seoDescription": "A deontologia em ética: ações certas ou erradas em si mesmas, o imperativo categórico de Kant, os deveres prima facie de Ross, o duplo efeito e o problema do bonde."
+   },
+   "en": {
+    "title": "Deontology",
+    "slug": "deontology",
+    "summary": "Ethical theories according to which certain actions are required or forbidden in themselves, independently of their consequences.",
+    "definition": "In moral philosophy, deontology names the normative theories on which the rightness of an action depends on its conformity to duties, rules or rights, and not only on the goodness of its consequences. It allows constraints, actions forbidden even when they would produce a better outcome, and options, a freedom not to maximise the good. In professional usage the term also names a profession's code of duties.",
+    "etymology": "From Greek déon, déontos, “what is needful, duty”, participle of deî, “it is necessary”, and lógos, “account, study”. The word was coined by Jeremy Bentham, whose *Deontology* appeared posthumously in 1834; the present sense, opposed to consequentialism, was fixed in the twentieth century, by C. D. Broad (1930).",
+    "body": "Deontology gathers the ethical theories for which there are things one must not do even if doing them would produce a better outcome. Lying, killing an innocent person or breaking a promise would be wrong in themselves and not merely because of their consequences. What counts is the nature of the act, the agent's intention and the duties and rights involved. Deontology is thus opposed to consequentialism, for which the right act is the one that produces the best state of affairs.\n\nThe term was coined by Jeremy Bentham for the science of duty, which he understood in a utilitarian key; its present meaning derives from C. D. Broad's classification (*Five Types of Ethical Theory*, 1930), which sets deontological against teleological theories. The idea, however, is much older. The natural law tradition recognises absolute prohibitions, and Thomas Aquinas states in the *Summa Theologiae* the principle of double effect, which distinguishes harm that is intended from harm that is merely foreseen. The modern paradigm is Kant. In the *Groundwork of the Metaphysics of Morals* (1785) and the *Critique of Practical Reason* (1788), only action done from duty has moral worth, and the criterion of duty is the categorical imperative: act only on maxims one can will as universal laws, and treat humanity always also as an end, never merely as a means. In his essay on a supposed right to lie (1797), Kant maintains that it is not permissible to lie even to save a friend from a murderer.\n\nIn the twentieth century W. D. Ross (*The Right and the Good*, 1930) proposed a plurality of prima facie duties, such as fidelity, reparation, gratitude, justice and beneficence, whose relative weight is settled in each situation. Elizabeth Anscombe (1958) attacked ethics that justify any act by its consequences and coined the word “consequentialism”. Philippa Foot (1967) and Judith Jarvis Thomson formulated the trolley problem, which tests the distinction between doing and allowing. Rawls affirmed the priority of the right over the good (*A Theory of Justice*, 1971), and Nozick conceived rights as side constraints on action (*Anarchy, State, and Utopia*, 1974).\n\nThe classic objections target the rigidity of rules and the paradox of constraints: why would it be wrong to violate a right in order to prevent more violations of the same right? T. M. Scanlon's contractualism (1998) offers an alternative grounding. The concept is related to duty, autonomy, dignity and natural rights.",
+    "synonyms": [
+     "Deontological ethics",
+     "Duty ethics"
+    ],
+    "nearTerms": [
+     "Duty",
+     "Categorical imperative",
+     "Consequentialism",
+     "Rights",
+     "Double effect",
+     "Prima facie duties"
+    ],
+    "aliases": [
+     "deontological ethics",
+     "duty-based ethics",
+     "deontological constraints",
+     "trolley problem",
+     "nonconsequentialism"
+    ],
+    "seoTitle": "Deontology — Kant, Ross and the ethics of duty",
+    "seoDescription": "Deontology in ethics: acts right or wrong in themselves, Kant's categorical imperative, Ross's prima facie duties, double effect and the trolley problem."
+   },
+   "fr": {
+    "title": "Déontologisme",
+    "slug": "deontologisme",
+    "summary": "Les théories éthiques selon lesquelles certaines actions sont obligatoires ou interdites en elles-mêmes, indépendamment de leurs conséquences.",
+    "definition": "En philosophie morale, le déontologisme désigne les théories normatives selon lesquelles la rectitude d'une action dépend de sa conformité à des devoirs, des règles ou des droits, et non seulement de la qualité de ses conséquences. Il admet des contraintes, actions interdites même lorsqu'elles produiraient un meilleur résultat, et des options, liberté de ne pas maximiser le bien. Le mot « déontologie » désigne aussi, dans l'usage courant, le code des devoirs d'une profession.",
+    "etymology": "Du grec déon, déontos, « ce qu'il faut, le devoir », participe de deî, « il faut », et lógos, « discours, étude ». Le mot « déontologie » a été forgé par Jeremy Bentham, dont la *Deontology* parut à titre posthume en 1834 ; le sens actuel, opposé au conséquentialisme, s'est fixé au XXe siècle, avec C. D. Broad (1930).",
+    "body": "Le déontologisme rassemble les théories éthiques pour lesquelles il y a des choses qu'on ne doit pas faire, même si les faire produirait un meilleur résultat. Mentir, tuer un innocent ou rompre une promesse seraient mauvais en eux-mêmes, et non seulement par leurs conséquences. Ce qui compte, c'est la nature de l'acte, l'intention de l'agent et les devoirs et droits en jeu. Le déontologisme s'oppose ainsi au conséquentialisme, pour lequel l'acte juste est celui qui produit le meilleur état de choses.\n\nLe terme de déontologie a été créé par Jeremy Bentham pour désigner la science du devoir, qu'il entendait en un sens utilitariste ; le sens actuel vient de la classification de C. D. Broad (*Five Types of Ethical Theory*, 1930), qui oppose théories déontologiques et téléologiques. L'idée est pourtant bien plus ancienne. La tradition du droit naturel reconnaît des interdits absolus, et Thomas d'Aquin formule dans la *Somme théologique* le principe du double effet, qui distingue le mal visé du mal seulement prévu. Le paradigme moderne est Kant. Dans les *Fondements de la métaphysique des mœurs* (1785) et la *Critique de la raison pratique* (1788), seule l'action faite par devoir a une valeur morale, et le critère du devoir est l'impératif catégorique : n'agir que d'après des maximes qu'on peut vouloir comme lois universelles et traiter l'humanité toujours en même temps comme une fin, jamais simplement comme un moyen. Dans l'essai *D'un prétendu droit de mentir par humanité* (1797), Kant soutient qu'il n'est pas permis de mentir, même pour sauver un ami d'un assassin.\n\nAu XXe siècle, W. D. Ross (*The Right and the Good*, 1930) propose une pluralité de devoirs prima facie, comme la fidélité, la réparation, la gratitude, la justice et la bienfaisance, dont le poids relatif se décide selon les situations. Elizabeth Anscombe (1958) critique l'éthique qui justifie n'importe quel acte par ses conséquences et forge le mot « conséquentialisme ». Philippa Foot (1967) et Judith Jarvis Thomson formulent le dilemme du tramway, qui met à l'épreuve la distinction entre faire et laisser advenir. Rawls affirme la priorité du juste sur le bien (*Théorie de la justice*, 1971), et Nozick conçoit les droits comme des contraintes latérales sur l'action (*Anarchie, État et utopie*, 1974).\n\nLes objections classiques visent la rigidité des règles et le paradoxe des contraintes : pourquoi serait-il mal de violer un droit pour empêcher davantage de violations du même droit ? Le contractualisme de T. M. Scanlon (1998) propose un autre fondement. Le concept se rattache au devoir, à l'autonomie, à la dignité et aux droits naturels.",
+    "synonyms": [
+     "Éthique déontologique",
+     "Morale du devoir"
+    ],
+    "nearTerms": [
+     "Devoir",
+     "Impératif catégorique",
+     "Conséquentialisme",
+     "Droits",
+     "Double effet",
+     "Devoirs prima facie"
+    ],
+    "aliases": [
+     "déontologie",
+     "éthique déontologique",
+     "morale du devoir",
+     "contraintes déontologiques",
+     "dilemme du tramway"
+    ],
+    "seoTitle": "Déontologisme — Kant, Ross et l'éthique du devoir",
+    "seoDescription": "Le déontologisme en éthique : actes justes ou injustes en eux-mêmes, l'impératif catégorique de Kant, les devoirs prima facie de Ross, le double effet, le tramway."
+   },
+   "de": {
+    "title": "Deontologische Ethik",
+    "slug": "deontologische-ethik",
+    "summary": "Ethische Theorien, nach denen bestimmte Handlungen an sich geboten oder verboten sind, unabhängig von ihren Folgen.",
+    "definition": "In der Moralphilosophie bezeichnet deontologische Ethik die normativen Theorien, nach denen die Richtigkeit einer Handlung von ihrer Übereinstimmung mit Pflichten, Regeln oder Rechten abhängt und nicht allein von der Güte ihrer Folgen. Sie kennt Beschränkungen, Handlungen, die auch dann verboten sind, wenn sie ein besseres Ergebnis hervorbrächten, und Optionen, die Freiheit, das Gute nicht zu maximieren. Im Berufsleben meint „Deontologie“ auch den Pflichtenkodex eines Standes.",
+    "etymology": "Von griechisch déon, déontos, „das Nötige, die Pflicht“, Partizip von deî, „es ist nötig“, und lógos, „Lehre“. Das Wort prägte Jeremy Bentham, dessen *Deontology* 1834 postum erschien; der heutige, dem Konsequentialismus entgegengesetzte Sinn setzte sich im 20. Jahrhundert mit C. D. Broad (1930) durch.",
+    "body": "Die deontologische Ethik umfasst die Theorien, nach denen es Dinge gibt, die man nicht tun darf, auch wenn sie ein besseres Ergebnis hervorbrächten. Lügen, einen Unschuldigen töten oder ein Versprechen brechen wären an sich falsch und nicht bloß wegen ihrer Folgen. Entscheidend sind die Art der Handlung, die Absicht des Handelnden und die betroffenen Pflichten und Rechte. Damit steht die deontologische Ethik dem Konsequentialismus gegenüber, für den richtig ist, was den besten Weltzustand hervorbringt.\n\nDas Wort schuf Jeremy Bentham für die Lehre von der Pflicht, die er utilitaristisch verstand; die heutige Bedeutung geht auf C. D. Broads Einteilung (*Five Types of Ethical Theory*, 1930) zurück, die deontologische und teleologische Theorien unterscheidet. Die Sache ist jedoch viel älter. Die Naturrechtstradition kennt absolute Verbote, und Thomas von Aquin formuliert in der *Summa theologiae* das Prinzip der Doppelwirkung, das beabsichtigtes von bloß vorhergesehenem Übel unterscheidet. Das neuzeitliche Paradigma ist Kant. In der *Grundlegung zur Metaphysik der Sitten* (1785) und der *Kritik der praktischen Vernunft* (1788) hat nur die Handlung aus Pflicht moralischen Wert, und das Kriterium der Pflicht ist der kategorische Imperativ: nur nach Maximen zu handeln, die man als allgemeine Gesetze wollen kann, und die Menschheit jederzeit zugleich als Zweck, niemals bloß als Mittel zu brauchen. In der Schrift *Über ein vermeintes Recht aus Menschenliebe zu lügen* (1797) vertritt Kant, man dürfe nicht einmal lügen, um einen Freund vor einem Mörder zu retten.\n\nIm 20. Jahrhundert schlug W. D. Ross (*The Right and the Good*, 1930) eine Mehrzahl von Prima-facie-Pflichten vor, etwa Treue, Wiedergutmachung, Dankbarkeit, Gerechtigkeit und Wohltätigkeit, deren Gewicht sich in der jeweiligen Lage entscheidet. Elizabeth Anscombe (1958) kritisierte eine Ethik, die jede Handlung durch ihre Folgen rechtfertigt, und prägte das Wort „Konsequentialismus“. Philippa Foot (1967) und Judith Jarvis Thomson formulierten das Trolley-Problem, das die Unterscheidung von Tun und Geschehenlassen prüft. Rawls behauptete den Vorrang des Rechten vor dem Guten (*Eine Theorie der Gerechtigkeit*, 1971), und Nozick fasste Rechte als Seitenbeschränkungen des Handelns auf (*Anarchie, Staat, Utopia*, 1974).\n\nDie klassischen Einwände zielen auf die Starrheit der Regeln und das Paradox der Beschränkungen: Warum sollte es falsch sein, ein Recht zu verletzen, um mehr Verletzungen desselben Rechts zu verhindern? Der Kontraktualismus T. M. Scanlons (1998) bietet eine andere Begründung. Der Begriff ist mit Pflicht, Autonomie, Würde und natürlichen Rechten verbunden.",
+    "synonyms": [
+     "Pflichtethik",
+     "Deontologie"
+    ],
+    "nearTerms": [
+     "Pflicht",
+     "Kategorischer Imperativ",
+     "Konsequentialismus",
+     "Rechte",
+     "Doppelwirkung",
+     "Prima-facie-Pflichten"
+    ],
+    "aliases": [
+     "Deontologie",
+     "Pflichtenethik",
+     "Pflichtethik",
+     "deontologische Beschränkungen",
+     "Trolley-Problem"
+    ],
+    "seoTitle": "Deontologische Ethik – Kant, Ross und die Pflichtethik",
+    "seoDescription": "Deontologische Ethik: Handlungen an sich richtig oder falsch, Kants kategorischer Imperativ, Ross' Prima-facie-Pflichten, Doppelwirkung und das Trolley-Problem."
+   }
+  }
+ },
+ {
+  "id": "con-utility",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-ethics",
+   "cat-political"
+  ],
+  "philosopherIds": [
+   "phi-hume"
+  ],
+  "schoolIds": [
+   "sch-utilitarianism",
+   "sch-empiricism"
+  ],
+  "periodIds": [
+   "per-modern",
+   "per-19th",
+   "per-20th",
+   "per-contemporary"
+  ],
+  "workIds": [],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-consequentialism",
+    "kind": "broader"
+   },
+   {
+    "conceptId": "con-hedonism",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-good",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-justice",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-deontology",
+    "kind": "opposite"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Princípio da utilidade",
+    "slug": "principio-da-utilidade",
+    "summary": "O princípio que aprova ou reprova cada ação conforme aumente ou diminua a felicidade dos afetados: a maior felicidade para o maior número.",
+    "definition": "O princípio da utilidade é o critério moral segundo o qual uma ação, regra ou instituição é correta na medida em que tende a promover a felicidade, entendida como prazer e ausência de dor, e incorreta na medida em que tende a produzir o contrário, contando igualmente a felicidade de todos os afetados. É o princípio fundamental do utilitarismo, também chamado princípio da maior felicidade.",
+    "etymology": "“Utilidade” vem do latim utilitas, de utilis, “útil”, derivado de uti, “usar, servir-se de”. A fórmula “a maior felicidade para o maior número” aparece em Francis Hutcheson (1725) e, em italiano, em Cesare Beccaria (1764); Bentham a tornou célebre.",
+    "body": "O princípio da utilidade afirma que a moralidade de uma ação depende de sua tendência a aumentar ou diminuir a felicidade de todos os que ela afeta. É o núcleo do utilitarismo: não há atos bons ou maus em si mesmos, e as regras morais, as leis e as instituições devem ser avaliadas pelas consequências que produzem para o bem-estar geral. Cada pessoa conta como uma, e nenhuma como mais de uma.\n\nA ideia tem antecedentes em Epicuro e na filosofia moral britânica do século XVIII. Francis Hutcheson escreve em 1725 que a melhor ação é a que proporciona a maior felicidade ao maior número, e Hume faz da utilidade um fundamento central da aprovação moral na *Investigação sobre os Princípios da Moral* (1751). Cesare Beccaria, em *Dos Delitos e das Penas* (1764), aplica a fórmula à reforma penal. Jeremy Bentham dá ao princípio sua forma clássica na *Introdução aos Princípios da Moral e da Legislação* (impressa em 1780, publicada em 1789): a natureza pôs a humanidade sob o governo de dois senhores soberanos, a dor e o prazer. Propõe um cálculo felicífico que mede os prazeres por intensidade, duração, certeza, proximidade, fecundidade, pureza e extensão, e o aplica à legislação e à reforma das penas.\n\nJohn Stuart Mill, em *Utilitarismo* (1861), chama-o princípio da maior felicidade e introduz a distinção entre prazeres superiores e inferiores: é melhor ser um Sócrates insatisfeito do que um tolo satisfeito. Em *Sobre a Liberdade* (1859), procura conciliar a utilidade com a proteção da liberdade individual. Henry Sidgwick (*The Methods of Ethics*, 1874) dá ao utilitarismo sua exposição mais rigorosa. A economia retomou o termo com a teoria da utilidade marginal (Jevons, 1871) e a teoria da utilidade esperada (von Neumann e Morgenstern, 1944).\n\nAs objeções são clássicas: o princípio permitiria sacrificar inocentes ou minorias para aumentar a soma total de bem-estar. Rawls (*Uma Teoria da Justiça*, 1971) acusa o utilitarismo de não levar a sério a distinção entre as pessoas, Bernard Williams (1973) aponta a ameaça à integridade do agente, e Nozick imagina uma máquina de experiências para mostrar que não valorizamos apenas o prazer (1974). Peter Singer estende o princípio a todos os seres sencientes (*Libertação Animal*, 1975). O conceito relaciona-se com o consequencialismo, o hedonismo, o bem, a justiça e a igualdade.",
+    "synonyms": [
+     "Princípio da maior felicidade"
+    ],
+    "nearTerms": [
+     "Utilitarismo",
+     "Consequencialismo",
+     "Felicidade",
+     "Cálculo felicífico",
+     "Bem-estar",
+     "Hedonismo"
+    ],
+    "aliases": [
+     "utilidade",
+     "maior felicidade para o maior número",
+     "cálculo felicífico",
+     "utilitarismo",
+     "princípio da maior felicidade"
+    ],
+    "seoTitle": "Princípio da utilidade — Bentham, Mill e o utilitarismo",
+    "seoDescription": "O princípio da utilidade: a maior felicidade para o maior número, os dois senhores soberanos de Bentham, o cálculo felicífico, Mill, Sidgwick e as críticas de Rawls."
+   },
+   "en": {
+    "title": "Principle of utility",
+    "slug": "principle-of-utility",
+    "summary": "The principle that approves or disapproves every action according as it increases or diminishes the happiness of those affected: the greatest happiness of the greatest number.",
+    "definition": "The principle of utility is the moral criterion according to which an action, rule or institution is right insofar as it tends to promote happiness, understood as pleasure and the absence of pain, and wrong insofar as it tends to produce the reverse, counting the happiness of everyone affected equally. It is the fundamental principle of utilitarianism, also called the greatest happiness principle.",
+    "etymology": "“Utility” comes, via Old French utilité, from Latin utilitas, from utilis, “useful”, derived from uti, “to use”. The formula “the greatest happiness of the greatest number” appears in Francis Hutcheson (1725) and, in Italian, in Cesare Beccaria (1764); Bentham made it famous.",
+    "body": "The principle of utility holds that the morality of an action depends on its tendency to increase or diminish the happiness of all whom it affects. It is the core of utilitarianism: no acts are good or bad in themselves, and moral rules, laws and institutions are to be judged by the consequences they produce for general welfare. Each person counts for one, and none for more than one.\n\nThe idea has antecedents in Epicurus and in eighteenth-century British moral philosophy. Francis Hutcheson writes in 1725 that the best action is the one that procures the greatest happiness for the greatest numbers, and Hume makes utility a central ground of moral approval in *An Enquiry Concerning the Principles of Morals* (1751). Cesare Beccaria, in *On Crimes and Punishments* (1764), applies the formula to penal reform. Jeremy Bentham gives the principle its classic form in *An Introduction to the Principles of Morals and Legislation* (printed in 1780, published in 1789): nature has placed mankind under the governance of two sovereign masters, pain and pleasure. He proposes a felicific calculus that measures pleasures by intensity, duration, certainty, propinquity, fecundity, purity and extent, and applies it to legislation and the reform of punishment.\n\nJohn Stuart Mill, in *Utilitarianism* (1861), calls it the greatest happiness principle and introduces the distinction between higher and lower pleasures: it is better to be Socrates dissatisfied than a fool satisfied. In *On Liberty* (1859) he seeks to reconcile utility with the protection of individual liberty. Henry Sidgwick (*The Methods of Ethics*, 1874) gives utilitarianism its most rigorous statement. Economics took up the term in marginal utility theory (Jevons, 1871) and expected utility theory (von Neumann and Morgenstern, 1944).\n\nThe objections are classic: the principle would allow innocents or minorities to be sacrificed to increase the total sum of welfare. Rawls (*A Theory of Justice*, 1971) charges utilitarianism with not taking seriously the distinction between persons, Bernard Williams (1973) points to the threat to the agent's integrity, and Nozick imagines an experience machine to show that we do not value pleasure alone (1974). Peter Singer extends the principle to all sentient beings (*Animal Liberation*, 1975). The concept is related to consequentialism, hedonism, the good, justice and equality.",
+    "synonyms": [
+     "Greatest happiness principle"
+    ],
+    "nearTerms": [
+     "Utilitarianism",
+     "Consequentialism",
+     "Happiness",
+     "Felicific calculus",
+     "Welfare",
+     "Hedonism"
+    ],
+    "aliases": [
+     "utility",
+     "greatest happiness of the greatest number",
+     "felicific calculus",
+     "utilitarianism",
+     "greatest happiness principle"
+    ],
+    "seoTitle": "Principle of utility — Bentham, Mill and utilitarianism",
+    "seoDescription": "The principle of utility: the greatest happiness of the greatest number, Bentham's two sovereign masters, the felicific calculus, Mill, Sidgwick and Rawls's critique."
+   },
+   "fr": {
+    "title": "Principe d'utilité",
+    "slug": "principe-d-utilite",
+    "summary": "Le principe qui approuve ou désapprouve toute action selon qu'elle augmente ou diminue le bonheur des personnes concernées : le plus grand bonheur du plus grand nombre.",
+    "definition": "Le principe d'utilité est le critère moral selon lequel une action, une règle ou une institution est juste dans la mesure où elle tend à promouvoir le bonheur, compris comme plaisir et absence de douleur, et injuste dans la mesure où elle tend à produire l'inverse, le bonheur de chacun des intéressés comptant également. C'est le principe fondamental de l'utilitarisme, dit aussi principe du plus grand bonheur.",
+    "etymology": "« Utilité » vient du latin utilitas, de utilis, « utile », dérivé de uti, « se servir de ». La formule « le plus grand bonheur du plus grand nombre » apparaît chez Francis Hutcheson (1725) et, en italien, chez Cesare Beccaria (1764) ; Bentham l'a rendue célèbre.",
+    "body": "Le principe d'utilité affirme que la moralité d'une action dépend de sa tendance à augmenter ou à diminuer le bonheur de tous ceux qu'elle affecte. C'est le cœur de l'utilitarisme : il n'y a pas d'actes bons ou mauvais en eux-mêmes, et les règles morales, les lois et les institutions doivent être jugées aux conséquences qu'elles ont pour le bien-être général. Chacun compte pour un, et personne pour plus d'un.\n\nL'idée a des antécédents chez Épicure et dans la philosophie morale britannique du XVIIIe siècle. Francis Hutcheson écrit en 1725 que la meilleure action est celle qui procure le plus grand bonheur au plus grand nombre, et Hume fait de l'utilité un fondement central de l'approbation morale dans l'*Enquête sur les principes de la morale* (1751). Cesare Beccaria, dans *Des délits et des peines* (1764), applique la formule à la réforme pénale. Jeremy Bentham donne au principe sa forme classique dans l'*Introduction aux principes de la morale et de la législation* (imprimée en 1780, publiée en 1789) : la nature a placé l'humanité sous le gouvernement de deux maîtres souverains, la douleur et le plaisir. Il propose un calcul félicifique qui mesure les plaisirs selon leur intensité, leur durée, leur certitude, leur proximité, leur fécondité, leur pureté et leur étendue, et l'applique à la législation et à la réforme des peines.\n\nJohn Stuart Mill, dans *L'Utilitarisme* (1861), l'appelle principe du plus grand bonheur et introduit la distinction entre plaisirs supérieurs et inférieurs : il vaut mieux être un Socrate insatisfait qu'un imbécile satisfait. Dans *De la liberté* (1859), il cherche à concilier l'utilité avec la protection de la liberté individuelle. Henry Sidgwick (*The Methods of Ethics*, 1874) donne de l'utilitarisme l'exposé le plus rigoureux. L'économie a repris le terme avec la théorie de l'utilité marginale (Jevons, 1871) et celle de l'utilité espérée (von Neumann et Morgenstern, 1944).\n\nLes objections sont classiques : le principe permettrait de sacrifier des innocents ou des minorités pour accroître la somme totale du bien-être. Rawls (*Théorie de la justice*, 1971) reproche à l'utilitarisme de ne pas prendre au sérieux la distinction entre les personnes, Bernard Williams (1973) souligne la menace pour l'intégrité de l'agent, et Nozick imagine une machine à expériences pour montrer que nous ne valorisons pas seulement le plaisir (1974). Peter Singer étend le principe à tous les êtres sensibles (*La Libération animale*, 1975). Le concept se rattache au conséquentialisme, à l'hédonisme, au bien, à la justice et à l'égalité.",
+    "synonyms": [
+     "Principe du plus grand bonheur"
+    ],
+    "nearTerms": [
+     "Utilitarisme",
+     "Conséquentialisme",
+     "Bonheur",
+     "Calcul félicifique",
+     "Bien-être",
+     "Hédonisme"
+    ],
+    "aliases": [
+     "utilité",
+     "plus grand bonheur du plus grand nombre",
+     "calcul félicifique",
+     "utilitarisme",
+     "principe du plus grand bonheur"
+    ],
+    "seoTitle": "Principe d'utilité — Bentham, Mill et l'utilitarisme",
+    "seoDescription": "Le principe d'utilité : le plus grand bonheur du plus grand nombre, les deux maîtres souverains de Bentham, le calcul félicifique, Mill, Sidgwick et la critique de Rawls."
+   },
+   "de": {
+    "title": "Nützlichkeitsprinzip",
+    "slug": "nuetzlichkeitsprinzip",
+    "summary": "Das Prinzip, das jede Handlung billigt oder missbilligt, je nachdem ob sie das Glück der Betroffenen mehrt oder mindert: das größte Glück der größten Zahl.",
+    "definition": "Das Nützlichkeitsprinzip ist das moralische Kriterium, nach dem eine Handlung, Regel oder Institution richtig ist, insoweit sie das Glück, verstanden als Lust und Abwesenheit von Schmerz, zu fördern neigt, und falsch, insoweit sie das Gegenteil hervorbringt, wobei das Glück aller Betroffenen gleich zählt. Es ist das Grundprinzip des Utilitarismus und heißt auch Prinzip des größten Glücks.",
+    "etymology": "„Nützlichkeit“ gibt lateinisch utilitas wieder, von utilis, „nützlich“, zu uti, „gebrauchen“; der Fachausdruck lautet auch Utilitätsprinzip. Die Formel „das größte Glück der größten Zahl“ findet sich bei Francis Hutcheson (1725) und italienisch bei Cesare Beccaria (1764); Bentham machte sie berühmt.",
+    "body": "Das Nützlichkeitsprinzip besagt, dass die Moralität einer Handlung von ihrer Tendenz abhängt, das Glück aller von ihr Betroffenen zu vermehren oder zu vermindern. Es ist der Kern des Utilitarismus: Es gibt keine an sich guten oder schlechten Handlungen, und moralische Regeln, Gesetze und Institutionen sind nach ihren Folgen für das allgemeine Wohlergehen zu beurteilen. Jeder zählt als einer, keiner als mehr als einer.\n\nDie Idee hat Vorläufer bei Epikur und in der britischen Moralphilosophie des 18. Jahrhunderts. Francis Hutcheson schreibt 1725, die beste Handlung sei jene, die das größte Glück für die größte Zahl bewirke, und Hume macht die Nützlichkeit in der *Untersuchung über die Prinzipien der Moral* (1751) zu einem zentralen Grund moralischer Billigung. Cesare Beccaria wendet die Formel in *Über Verbrechen und Strafen* (1764) auf die Strafrechtsreform an. Jeremy Bentham gibt dem Prinzip seine klassische Gestalt in der *Einführung in die Prinzipien der Moral und der Gesetzgebung* (1780 gedruckt, 1789 veröffentlicht): Die Natur habe die Menschheit unter die Herrschaft zweier souveräner Gebieter gestellt, Leid und Freude. Er entwirft ein hedonistisches Kalkül, das Freuden nach Intensität, Dauer, Gewissheit, Nähe, Fruchtbarkeit, Reinheit und Ausmaß misst, und wendet es auf Gesetzgebung und Strafreform an.\n\nJohn Stuart Mill nennt es im *Utilitarismus* (1861) das Prinzip des größten Glücks und unterscheidet höhere und niedere Freuden: Besser ein unzufriedener Sokrates als ein zufriedener Narr. In *Über die Freiheit* (1859) sucht er Nützlichkeit und Schutz der individuellen Freiheit zu verbinden. Henry Sidgwick (*The Methods of Ethics*, 1874) liefert die strengste Darstellung des Utilitarismus. Die Ökonomie nahm den Begriff in der Grenznutzentheorie (Jevons, 1871) und der Erwartungsnutzentheorie (von Neumann und Morgenstern, 1944) auf.\n\nDie Einwände sind klassisch: Das Prinzip würde erlauben, Unschuldige oder Minderheiten zu opfern, um die Gesamtsumme des Wohlergehens zu erhöhen. Rawls (*Eine Theorie der Gerechtigkeit*, 1971) wirft dem Utilitarismus vor, den Unterschied zwischen Personen nicht ernst zu nehmen, Bernard Williams (1973) verweist auf die Bedrohung der Integrität des Handelnden, und Nozick ersinnt eine Erlebnismaschine, um zu zeigen, dass wir nicht nur Lust schätzen (1974). Peter Singer dehnt das Prinzip auf alle empfindungsfähigen Wesen aus (*Befreiung der Tiere*, 1975). Der Begriff ist mit Konsequentialismus, Hedonismus, dem Guten, Gerechtigkeit und Gleichheit verbunden.",
+    "synonyms": [
+     "Prinzip des größten Glücks",
+     "Utilitätsprinzip"
+    ],
+    "nearTerms": [
+     "Utilitarismus",
+     "Konsequentialismus",
+     "Glück",
+     "Hedonistisches Kalkül",
+     "Wohlergehen",
+     "Hedonismus"
+    ],
+    "aliases": [
+     "Nutzenprinzip",
+     "größtes Glück der größten Zahl",
+     "Glückskalkül",
+     "Utilitarismus",
+     "Utilitätsprinzip"
+    ],
+    "seoTitle": "Nützlichkeitsprinzip – Bentham, Mill und der Utilitarismus",
+    "seoDescription": "Das Nützlichkeitsprinzip: das größte Glück der größten Zahl, Benthams zwei souveräne Gebieter, das Glückskalkül, Mill, Sidgwick und Rawls' Kritik."
+   }
+  }
+ },
+ {
+  "id": "con-hedonism",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-ethics"
+  ],
+  "philosopherIds": [
+   "phi-plato",
+   "phi-aristotle",
+   "phi-epicurus"
+  ],
+  "schoolIds": [
+   "sch-epicureanism",
+   "sch-utilitarianism"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-renaissance",
+   "per-modern",
+   "per-19th",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-menoeceus",
+   "wrk-nicomachean"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-ataraxia",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-eudaimonia",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-good",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-utility",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-virtue",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-consequentialism",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Hedonismo",
+    "slug": "hedonismo",
+    "summary": "A tese de que o prazer é o único bem intrínseco e a dor o único mal; dos cirenaicos e de Epicuro ao utilitarismo de Bentham e Mill.",
+    "definition": "Hedonismo é a doutrina segundo a qual o prazer é o único bem em si e a dor o único mal em si. Distinguem-se o hedonismo psicológico, tese descritiva de que os seres humanos só buscam o prazer e evitam a dor, e o hedonismo ético ou axiológico, tese normativa de que só o prazer tem valor intrínseco e deve ser buscado. As versões diferem quanto à natureza dos prazeres e à maneira de avaliá-los.",
+    "etymology": "Do grego hēdonḗ, “prazer”, aparentado a hēdýs, “doce, agradável”, com o sufixo -ismo. O termo moderno difunde-se no século XIX; os antigos falavam da escola que faz do prazer (hēdonḗ) o fim (télos).",
+    "body": "O hedonismo afirma que o prazer é o bem e a dor o mal. Em sua forma psicológica, descreve a motivação humana: tudo o que fazemos visaria, em última instância, obter prazer e evitar a dor. Em sua forma ética, estabelece um critério de valor: só o prazer é bom em si, e as outras coisas valem na medida em que o produzem. A questão é saber o que conta como prazer e se ele esgota o que torna uma vida boa.\n\nAristipo de Cirene e os cirenaicos identificam o bem ao prazer corporal e presente. Platão examina o hedonismo no *Protágoras*, onde Sócrates esboça uma arte de medir prazeres e dores, e o critica no *Górgias* e no *Filebo*. Aristóteles, no livro X da *Ética a Nicômaco* (c. 350 a.C.), vê no prazer o acabamento que acompanha a atividade perfeita, não o fim último. Epicuro defende um hedonismo refinado: o prazer supremo é a ausência de dor no corpo (aponia) e de perturbação na alma (ataraxia), e na *Carta a Meneceu* precisa que não se refere aos prazeres dos dissolutos, mas a uma vida simples, prudente e entre amigos. No Renascimento, Lorenzo Valla reabilita a volúpia no diálogo *De voluptate* (1431), e Gassendi restaura o epicurismo no século XVII.\n\nO hedonismo torna-se a base do utilitarismo. Bentham, na *Introdução aos Princípios da Moral e da Legislação* (1789), afirma que a humanidade está sob o governo da dor e do prazer e propõe medi-los segundo critérios quantitativos. Mill, em *Utilitarismo* (1861), introduz uma diferença de qualidade entre prazeres superiores, intelectuais e morais, e inferiores. Henry Sidgwick (1874) formula o paradoxo do hedonismo: quem busca diretamente o prazer tende a não encontrá-lo, observação que remonta a Joseph Butler.\n\nG. E. Moore rejeita o hedonismo nos *Principia Ethica* (1903), e Robert Nozick imagina uma máquina de experiências que proporcionaria todos os prazeres desejados: se não quiséssemos ligar-nos a ela, valorizaríamos mais do que o prazer (*Anarquia, Estado e Utopia*, 1974). Versões contemporâneas, como o hedonismo atitudinal de Fred Feldman (2004), procuram responder a essas objeções. O conceito relaciona-se com a ataraxia, a eudaimonia, a virtude e o princípio da utilidade.",
+    "synonyms": [
+     "Ética do prazer"
+    ],
+    "nearTerms": [
+     "Prazer",
+     "Ataraxia",
+     "Epicurismo",
+     "Utilitarismo",
+     "Felicidade",
+     "Eudaimonia"
+    ],
+    "aliases": [
+     "hedonista",
+     "hedonismo psicológico",
+     "hedonismo ético",
+     "paradoxo do hedonismo",
+     "máquina de experiências"
+    ],
+    "seoTitle": "Hedonismo — cirenaicos, Epicuro, Bentham, Mill e Nozick",
+    "seoDescription": "O hedonismo na ética: o prazer como único bem, os cirenaicos, o prazer como ausência de dor em Epicuro, Bentham, Mill, o paradoxo do hedonismo e a máquina de Nozick."
+   },
+   "en": {
+    "title": "Hedonism",
+    "slug": "hedonism",
+    "summary": "The thesis that pleasure is the only intrinsic good and pain the only intrinsic evil; from the Cyrenaics and Epicurus to Bentham's and Mill's utilitarianism.",
+    "definition": "Hedonism is the doctrine that pleasure is the only good in itself and pain the only evil in itself. Psychological hedonism, a descriptive thesis that human beings pursue only pleasure and avoid pain, is distinguished from ethical or axiological hedonism, a normative thesis that only pleasure has intrinsic value and ought to be pursued. Versions differ over the nature of pleasures and the way to assess them.",
+    "etymology": "From Greek hēdonḗ, “pleasure”, related to hēdýs, “sweet, pleasant”, with the suffix -ism. The modern term spread in the nineteenth century; the ancients spoke of the school that makes pleasure (hēdonḗ) the end (télos).",
+    "body": "Hedonism holds that pleasure is the good and pain the evil. In its psychological form it describes human motivation: everything we do would ultimately aim at gaining pleasure and avoiding pain. In its ethical form it sets a criterion of value: only pleasure is good in itself, and other things are valuable insofar as they produce it. The questions are what counts as pleasure and whether it exhausts what makes a life good.\n\nAristippus of Cyrene and the Cyrenaics identify the good with bodily and present pleasure. Plato examines hedonism in the *Protagoras*, where Socrates sketches an art of measuring pleasures and pains, and criticises it in the *Gorgias* and the *Philebus*. Aristotle, in Book X of the *Nicomachean Ethics* (c. 350 BCE), sees pleasure as the completion that accompanies perfect activity, not as the final end. Epicurus defends a refined hedonism: the highest pleasure is the absence of pain in the body (aponia) and of disturbance in the soul (ataraxia), and in the *Letter to Menoeceus* he makes clear that he means not the pleasures of the profligate but a simple, prudent life among friends. In the Renaissance, Lorenzo Valla rehabilitates pleasure in the dialogue *De voluptate* (1431), and Gassendi restores Epicureanism in the seventeenth century.\n\nHedonism becomes the basis of utilitarianism. Bentham, in *An Introduction to the Principles of Morals and Legislation* (1789), states that mankind is under the governance of pain and pleasure and proposes to measure them by quantitative criteria. Mill, in *Utilitarianism* (1861), introduces a difference of quality between higher, intellectual and moral pleasures and lower ones. Henry Sidgwick (1874) formulates the paradox of hedonism: whoever seeks pleasure directly tends not to find it, an observation that goes back to Joseph Butler.\n\nG. E. Moore rejects hedonism in *Principia Ethica* (1903), and Robert Nozick imagines an experience machine that would supply every desired pleasure: if we would not want to plug into it, we value more than pleasure (*Anarchy, State, and Utopia*, 1974). Contemporary versions, such as Fred Feldman's attitudinal hedonism (2004), seek to answer these objections. The concept is related to ataraxia, eudaimonia, virtue and the principle of utility.",
+    "synonyms": [
+     "Ethics of pleasure"
+    ],
+    "nearTerms": [
+     "Pleasure",
+     "Ataraxia",
+     "Epicureanism",
+     "Utilitarianism",
+     "Happiness",
+     "Eudaimonia"
+    ],
+    "aliases": [
+     "hedonist",
+     "psychological hedonism",
+     "ethical hedonism",
+     "paradox of hedonism",
+     "experience machine"
+    ],
+    "seoTitle": "Hedonism — the Cyrenaics, Epicurus, Bentham, Mill and Nozick",
+    "seoDescription": "Hedonism in ethics: pleasure as the only good, the Cyrenaics, Epicurus's pleasure as absence of pain, Bentham, Mill, the paradox of hedonism and Nozick's machine."
+   },
+   "fr": {
+    "title": "Hédonisme",
+    "slug": "hedonisme",
+    "summary": "La thèse selon laquelle le plaisir est le seul bien intrinsèque et la douleur le seul mal ; des cyrénaïques et d'Épicure à l'utilitarisme de Bentham et Mill.",
+    "definition": "L'hédonisme est la doctrine selon laquelle le plaisir est le seul bien en soi et la douleur le seul mal en soi. On distingue l'hédonisme psychologique, thèse descriptive selon laquelle les êtres humains ne recherchent que le plaisir et fuient la douleur, et l'hédonisme éthique ou axiologique, thèse normative selon laquelle seul le plaisir a une valeur intrinsèque et doit être recherché. Les versions diffèrent quant à la nature des plaisirs et à la manière de les évaluer.",
+    "etymology": "Du grec hēdonḗ, « plaisir », apparenté à hēdýs, « doux, agréable », avec le suffixe -isme. Le terme moderne se répand au XIXe siècle ; les Anciens parlaient de l'école qui fait du plaisir (hēdonḗ) la fin (télos).",
+    "body": "L'hédonisme affirme que le plaisir est le bien et la douleur le mal. Sous sa forme psychologique, il décrit la motivation humaine : tout ce que nous faisons viserait en dernière instance à obtenir du plaisir et à éviter la douleur. Sous sa forme éthique, il fixe un critère de valeur : seul le plaisir est bon en soi, et les autres choses valent dans la mesure où elles le produisent. La question est de savoir ce qui compte comme plaisir et s'il épuise ce qui rend une vie bonne.\n\nAristippe de Cyrène et les cyrénaïques identifient le bien au plaisir corporel et présent. Platon examine l'hédonisme dans le *Protagoras*, où Socrate esquisse un art de mesurer plaisirs et douleurs, et le critique dans le *Gorgias* et le *Philèbe*. Aristote, au livre X de l'*Éthique à Nicomaque* (v. 350 av. J.-C.), voit dans le plaisir l'achèvement qui accompagne l'activité parfaite, non la fin dernière. Épicure défend un hédonisme raffiné : le plaisir suprême est l'absence de douleur dans le corps (aponie) et de trouble dans l'âme (ataraxie), et la *Lettre à Ménécée* précise qu'il ne s'agit pas des plaisirs des débauchés, mais d'une vie simple, prudente et entre amis. À la Renaissance, Lorenzo Valla réhabilite la volupté dans le dialogue *De voluptate* (1431), et Gassendi restaure l'épicurisme au XVIIe siècle.\n\nL'hédonisme devient la base de l'utilitarisme. Bentham, dans l'*Introduction aux principes de la morale et de la législation* (1789), affirme que l'humanité est gouvernée par la douleur et le plaisir et propose de les mesurer selon des critères quantitatifs. Mill, dans *L'Utilitarisme* (1861), introduit une différence de qualité entre plaisirs supérieurs, intellectuels et moraux, et plaisirs inférieurs. Henry Sidgwick (1874) formule le paradoxe de l'hédonisme : qui cherche directement le plaisir tend à ne pas le trouver, remarque qui remonte à Joseph Butler.\n\nG. E. Moore rejette l'hédonisme dans les *Principia Ethica* (1903), et Robert Nozick imagine une machine à expériences qui procurerait tous les plaisirs désirés : si nous ne voulions pas nous y brancher, c'est que nous valorisons autre chose que le plaisir (*Anarchie, État et utopie*, 1974). Des versions contemporaines, comme l'hédonisme attitudinal de Fred Feldman (2004), cherchent à répondre à ces objections. Le concept se rattache à l'ataraxie, à l'eudémonie, à la vertu et au principe d'utilité.",
+    "synonyms": [
+     "Morale du plaisir"
+    ],
+    "nearTerms": [
+     "Plaisir",
+     "Ataraxie",
+     "Épicurisme",
+     "Utilitarisme",
+     "Bonheur",
+     "Eudémonie"
+    ],
+    "aliases": [
+     "hédoniste",
+     "hédonisme psychologique",
+     "hédonisme éthique",
+     "paradoxe de l'hédonisme",
+     "machine à expériences"
+    ],
+    "seoTitle": "Hédonisme — les cyrénaïques, Épicure, Bentham, Mill et Nozick",
+    "seoDescription": "L'hédonisme en éthique : le plaisir comme seul bien, les cyrénaïques, le plaisir comme absence de douleur chez Épicure, Bentham, Mill, le paradoxe de l'hédonisme, Nozick."
+   },
+   "de": {
+    "title": "Hedonismus",
+    "slug": "hedonismus",
+    "summary": "Die These, dass Lust das einzige intrinsische Gut und Schmerz das einzige Übel ist; von den Kyrenaikern und Epikur bis zum Utilitarismus Benthams und Mills.",
+    "definition": "Hedonismus ist die Lehre, dass Lust das einzige Gut an sich und Schmerz das einzige Übel an sich ist. Man unterscheidet den psychologischen Hedonismus, die beschreibende These, dass Menschen nur Lust suchen und Schmerz meiden, vom ethischen oder axiologischen Hedonismus, der normativen These, dass nur Lust intrinsischen Wert hat und erstrebt werden soll. Die Fassungen unterscheiden sich darin, was sie unter Lust verstehen und wie sie sie bewerten.",
+    "etymology": "Von griechisch hēdonḗ, „Lust, Freude“, verwandt mit hēdýs, „süß, angenehm“, mit dem Suffix -ismus. Der moderne Ausdruck verbreitet sich im 19. Jahrhundert; die Antike sprach von der Schule, die die Lust (hēdonḗ) zum Ziel (télos) macht.",
+    "body": "Der Hedonismus behauptet, Lust sei das Gute und Schmerz das Übel. In seiner psychologischen Form beschreibt er die menschliche Motivation: Alles, was wir tun, ziele letztlich darauf, Lust zu gewinnen und Schmerz zu meiden. In seiner ethischen Form setzt er ein Wertkriterium: Nur Lust ist an sich gut, anderes ist wertvoll, soweit es Lust hervorbringt. Fraglich ist, was als Lust zählt und ob sie ausschöpft, was ein Leben gut macht.\n\nAristippos von Kyrene und die Kyrenaiker setzen das Gute mit körperlicher, gegenwärtiger Lust gleich. Platon prüft den Hedonismus im *Protagoras*, wo Sokrates eine Messkunst von Lust und Unlust skizziert, und kritisiert ihn im *Gorgias* und im *Philebos*. Aristoteles sieht im X. Buch der *Nikomachischen Ethik* (um 350 v. Chr.) in der Lust die Vollendung, die die vollkommene Tätigkeit begleitet, nicht das letzte Ziel. Epikur vertritt einen verfeinerten Hedonismus: Die höchste Lust ist die Schmerzlosigkeit des Körpers (aponia) und die Unerschütterlichkeit der Seele (ataraxia), und im *Brief an Menoikeus* stellt er klar, dass er nicht die Lüste der Schwelger meint, sondern ein einfaches, besonnenes Leben unter Freunden. In der Renaissance rehabilitiert Lorenzo Valla die Lust im Dialog *De voluptate* (1431), und Gassendi erneuert im 17. Jahrhundert den Epikureismus.\n\nDer Hedonismus wird zur Grundlage des Utilitarismus. Bentham erklärt in der *Einführung in die Prinzipien der Moral und der Gesetzgebung* (1789), die Menschheit stehe unter der Herrschaft von Leid und Freude, und will beide nach quantitativen Kriterien messen. Mill führt im *Utilitarismus* (1861) einen Qualitätsunterschied zwischen höheren, geistigen und sittlichen, und niederen Freuden ein. Henry Sidgwick (1874) formuliert das Paradox des Hedonismus: Wer unmittelbar nach Lust strebt, verfehlt sie leicht, eine Beobachtung, die auf Joseph Butler zurückgeht.\n\nG. E. Moore verwirft den Hedonismus in den *Principia Ethica* (1903), und Robert Nozick entwirft eine Erlebnismaschine, die jede gewünschte Lust verschaffen würde: Wollten wir uns nicht an sie anschließen, schätzten wir mehr als Lust (*Anarchie, Staat, Utopia*, 1974). Neuere Fassungen wie der attitudinale Hedonismus Fred Feldmans (2004) suchen diesen Einwänden zu begegnen. Der Begriff ist mit Ataraxie, Eudaimonie, Tugend und dem Nützlichkeitsprinzip verbunden.",
+    "synonyms": [
+     "Lustethik"
+    ],
+    "nearTerms": [
+     "Lust",
+     "Ataraxie",
+     "Epikureismus",
+     "Utilitarismus",
+     "Glück",
+     "Eudaimonie"
+    ],
+    "aliases": [
+     "Hedonist",
+     "psychologischer Hedonismus",
+     "ethischer Hedonismus",
+     "Paradox des Hedonismus",
+     "Erlebnismaschine"
+    ],
+    "seoTitle": "Hedonismus – Kyrenaiker, Epikur, Bentham, Mill und Nozick",
+    "seoDescription": "Der Hedonismus in der Ethik: Lust als einziges Gut, die Kyrenaiker, Epikurs Lust als Schmerzlosigkeit, Bentham, Mill, das Paradox des Hedonismus und Nozicks Maschine."
+   }
+  }
+ },
+ {
+  "id": "con-nihilism",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-ethics",
+   "cat-metaphysics"
+  ],
+  "philosopherIds": [
+   "phi-nietzsche",
+   "phi-heidegger"
+  ],
+  "schoolIds": [
+   "sch-idealism",
+   "sch-existentialism"
+  ],
+  "periodIds": [
+   "per-19th",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-zarathustra",
+   "wrk-genealogy"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-will-to-power",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-absurd",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-nothingness",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-good",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-relativism",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Niilismo",
+    "slug": "niilismo",
+    "summary": "A negação de todo valor, sentido ou verdade objetiva; em Nietzsche, o processo histórico pelo qual os valores supremos se desvalorizam.",
+    "definition": "Niilismo designa as posições que negam a existência de valores, sentido ou verdades objetivas. Distinguem-se o niilismo moral, que nega haver fatos morais; o existencial, que nega que a vida tenha sentido; e o epistemológico, que nega a possibilidade do conhecimento. Em Nietzsche, o termo nomeia sobretudo um acontecimento histórico: a desvalorização dos valores supremos da tradição ocidental.",
+    "etymology": "Do latim nihil, “nada”, com o sufixo -ismo. O termo ganhou sentido filosófico com a carta de Friedrich Heinrich Jacobi a Fichte (1799), que acusava o idealismo de niilismo, e popularizou-se com o romance *Pais e Filhos* (1862), de Turguêniev.",
+    "body": "O niilismo é a negação de que haja valores, sentido ou verdades objetivas. Em sua forma moral, afirma que nada é realmente bom ou mau; em sua forma existencial, que a vida não tem sentido nem finalidade. O conceito tornou-se, a partir do século XIX, um diagnóstico da modernidade: a perda de fundamento das crenças que davam orientação à vida.\n\nFriedrich Heinrich Jacobi deu ao termo seu primeiro uso filosófico de peso: em carta aberta a Fichte (1799), acusou o idealismo de dissolver toda realidade no eu e de conduzir ao nada. Na Rússia, o romance *Pais e Filhos* (1862), de Turguêniev, fez de Bazárov, que não se curva diante de nenhuma autoridade, o tipo do niilista, e o nome passou a designar jovens radicais que recusavam religião, tradição e autoridade. O pessimismo de Schopenhauer, para quem a vida oscila entre dor e tédio, forneceu um pano de fundo metafísico.\n\nNietzsche fez do niilismo um tema central. Em fragmentos de 1887 pergunta o que significa o niilismo e responde: que os valores supremos se desvalorizam; falta a finalidade, falta a resposta ao “para quê?”. A morte de Deus, anunciada em *A Gaia Ciência* (1882), torna manifesto que a moral cristã e a metafísica platônica, ao situar o valor num além, já eram niilistas. Nietzsche distingue um niilismo passivo, sinal de fraqueza, de um niilismo ativo, que destrói para abrir espaço a novos valores. Em *Assim Falou Zaratustra* (1883–1885), *Além do Bem e do Mal* (1886) e *Genealogia da Moral* (1887), busca superá-lo pela transvaloração de todos os valores e pelo eterno retorno.\n\nHeidegger interpretou o niilismo como a essência da história da metafísica, que esquece o ser (“A palavra de Nietzsche ‘Deus está morto’”, 1943). Camus, em *O Mito de Sísifo* (1942) e *O Homem Revoltado* (1951), recusou tanto o suicídio quanto o niilismo assassino e propôs a revolta como resposta ao absurdo. Na metaética, a teoria do erro de J. L. Mackie (1977) sustenta que todos os juízos morais positivos são falsos. O conceito liga-se à morte de Deus, à vontade de potência, ao absurdo e ao nada.",
+    "synonyms": [
+     "Negação dos valores"
+    ],
+    "nearTerms": [
+     "Morte de Deus",
+     "Absurdo",
+     "Pessimismo",
+     "Transvaloração dos valores",
+     "Ceticismo",
+     "Nada"
+    ],
+    "aliases": [
+     "niilista",
+     "niilismo moral",
+     "niilismo existencial",
+     "niilismo passivo",
+     "niilismo ativo"
+    ],
+    "seoTitle": "Niilismo — Jacobi, Nietzsche, Heidegger e Camus",
+    "seoDescription": "O niilismo na filosofia: a acusação de Jacobi a Fichte, os niilistas russos, a desvalorização dos valores supremos em Nietzsche, Heidegger, Camus e a teoria do erro."
+   },
+   "en": {
+    "title": "Nihilism",
+    "slug": "nihilism",
+    "summary": "The denial of all objective value, meaning or truth; in Nietzsche, the historical process by which the highest values devalue themselves.",
+    "definition": "Nihilism names the positions that deny the existence of objective values, meaning or truths. Moral nihilism denies that there are moral facts; existential nihilism denies that life has meaning; epistemological nihilism denies the possibility of knowledge. In Nietzsche the term names above all a historical event: the devaluation of the highest values of the Western tradition.",
+    "etymology": "From Latin nihil, “nothing”, with the suffix -ism. The term took on philosophical weight with Friedrich Heinrich Jacobi's letter to Fichte (1799), which accused idealism of nihilism, and was popularised by Turgenev's novel *Fathers and Sons* (1862).",
+    "body": "Nihilism is the denial that there are objective values, meaning or truths. In its moral form it asserts that nothing is really good or bad; in its existential form, that life has neither meaning nor purpose. From the nineteenth century on the concept became a diagnosis of modernity: the loss of grounding for the beliefs that gave life its orientation.\n\nFriedrich Heinrich Jacobi gave the term its first weighty philosophical use: in an open letter to Fichte (1799) he accused idealism of dissolving all reality into the self and leading to nothingness. In Russia, Turgenev's novel *Fathers and Sons* (1862) made Bazarov, a man who bows to no authority, the type of the nihilist, and the name came to designate young radicals who rejected religion, tradition and authority. The pessimism of Schopenhauer, for whom life swings between pain and boredom, supplied a metaphysical background.\n\nNietzsche made nihilism a central theme. In notes from 1887 he asks what nihilism means and answers: that the highest values devalue themselves; the aim is lacking, the answer to “why?” is lacking. The death of God, announced in *The Gay Science* (1882), makes manifest that Christian morality and Platonic metaphysics, by placing value in a beyond, were already nihilistic. Nietzsche distinguishes a passive nihilism, a sign of weakness, from an active nihilism that destroys in order to make room for new values. In *Thus Spoke Zarathustra* (1883–1885), *Beyond Good and Evil* (1886) and *On the Genealogy of Morality* (1887) he seeks to overcome it through the revaluation of all values and the eternal return.\n\nHeidegger interpreted nihilism as the essence of the history of metaphysics, which forgets being (“Nietzsche's Word: God Is Dead”, 1943). Camus, in *The Myth of Sisyphus* (1942) and *The Rebel* (1951), rejected both suicide and murderous nihilism and proposed revolt as the answer to the absurd. In metaethics, J. L. Mackie's error theory (1977) holds that all positive moral judgements are false. The concept is linked to the death of God, the will to power, the absurd and nothingness.",
+    "synonyms": [
+     "Denial of values"
+    ],
+    "nearTerms": [
+     "Death of God",
+     "The absurd",
+     "Pessimism",
+     "Revaluation of values",
+     "Scepticism",
+     "Nothingness"
+    ],
+    "aliases": [
+     "nihilist",
+     "moral nihilism",
+     "existential nihilism",
+     "passive nihilism",
+     "active nihilism"
+    ],
+    "seoTitle": "Nihilism — Jacobi, Nietzsche, Heidegger and Camus",
+    "seoDescription": "Nihilism in philosophy: Jacobi's charge against Fichte, the Russian nihilists, Nietzsche's devaluation of the highest values, Heidegger, Camus and the error theory."
+   },
+   "fr": {
+    "title": "Nihilisme",
+    "slug": "nihilisme",
+    "summary": "La négation de toute valeur, de tout sens ou de toute vérité objective ; chez Nietzsche, le processus historique par lequel les valeurs suprêmes se dévalorisent.",
+    "definition": "Le nihilisme désigne les positions qui nient l'existence de valeurs, de sens ou de vérités objectives. On distingue le nihilisme moral, qui nie qu'il y ait des faits moraux ; le nihilisme existentiel, qui nie que la vie ait un sens ; et le nihilisme épistémologique, qui nie la possibilité de la connaissance. Chez Nietzsche, le terme nomme surtout un événement historique : la dévalorisation des valeurs suprêmes de la tradition occidentale.",
+    "etymology": "Du latin nihil, « rien », avec le suffixe -isme. Le terme a pris un sens philosophique avec la lettre de Friedrich Heinrich Jacobi à Fichte (1799), qui accusait l'idéalisme de nihilisme, et s'est popularisé avec le roman *Pères et Fils* (1862) de Tourgueniev.",
+    "body": "Le nihilisme est la négation qu'il existe des valeurs, un sens ou des vérités objectives. Sous sa forme morale, il affirme que rien n'est réellement bon ou mauvais ; sous sa forme existentielle, que la vie n'a ni sens ni but. À partir du XIXe siècle, le concept est devenu un diagnostic de la modernité : la perte de fondement des croyances qui orientaient la vie.\n\nFriedrich Heinrich Jacobi a donné au terme son premier usage philosophique marquant : dans une lettre ouverte à Fichte (1799), il accuse l'idéalisme de dissoudre toute réalité dans le moi et de mener au néant. En Russie, le roman *Pères et Fils* (1862) de Tourgueniev fait de Bazarov, qui ne s'incline devant aucune autorité, le type du nihiliste, et le nom en vient à désigner de jeunes radicaux qui rejettent religion, tradition et autorité. Le pessimisme de Schopenhauer, pour qui la vie oscille entre la douleur et l'ennui, fournit un arrière-plan métaphysique.\n\nNietzsche fait du nihilisme un thème central. Dans des fragments de 1887, il demande ce que signifie le nihilisme et répond : que les valeurs suprêmes se dévalorisent ; le but manque, la réponse au « pourquoi ? » manque. La mort de Dieu, annoncée dans *Le Gai Savoir* (1882), rend manifeste que la morale chrétienne et la métaphysique platonicienne, en plaçant la valeur dans un au-delà, étaient déjà nihilistes. Nietzsche distingue un nihilisme passif, signe de faiblesse, d'un nihilisme actif qui détruit pour faire place à de nouvelles valeurs. Dans *Ainsi parlait Zarathoustra* (1883–1885), *Par-delà bien et mal* (1886) et la *Généalogie de la morale* (1887), il cherche à le surmonter par le renversement de toutes les valeurs et l'éternel retour.\n\nHeidegger a interprété le nihilisme comme l'essence de l'histoire de la métaphysique, oublieuse de l'être (« Le mot de Nietzsche “Dieu est mort” », 1943). Camus, dans *Le Mythe de Sisyphe* (1942) et *L'Homme révolté* (1951), refuse à la fois le suicide et le nihilisme meurtrier et propose la révolte comme réponse à l'absurde. En métaéthique, la théorie de l'erreur de J. L. Mackie (1977) soutient que tous les jugements moraux positifs sont faux. Le concept se rattache à la mort de Dieu, à la volonté de puissance, à l'absurde et au néant.",
+    "synonyms": [
+     "Négation des valeurs"
+    ],
+    "nearTerms": [
+     "Mort de Dieu",
+     "Absurde",
+     "Pessimisme",
+     "Renversement des valeurs",
+     "Scepticisme",
+     "Néant"
+    ],
+    "aliases": [
+     "nihiliste",
+     "nihilisme moral",
+     "nihilisme existentiel",
+     "nihilisme passif",
+     "nihilisme actif"
+    ],
+    "seoTitle": "Nihilisme — Jacobi, Nietzsche, Heidegger et Camus",
+    "seoDescription": "Le nihilisme en philosophie : l'accusation de Jacobi contre Fichte, les nihilistes russes, la dévalorisation des valeurs suprêmes chez Nietzsche, Heidegger, Camus."
+   },
+   "de": {
+    "title": "Nihilismus",
+    "slug": "nihilismus",
+    "summary": "Die Verneinung aller objektiven Werte, Sinngehalte oder Wahrheiten; bei Nietzsche der geschichtliche Prozess, in dem sich die obersten Werte entwerten.",
+    "definition": "Nihilismus bezeichnet Positionen, die die Existenz objektiver Werte, eines Sinns oder objektiver Wahrheiten bestreiten. Man unterscheidet den moralischen Nihilismus, der moralische Tatsachen leugnet, den existenziellen, der dem Leben einen Sinn abspricht, und den erkenntnistheoretischen, der die Möglichkeit von Erkenntnis bestreitet. Bei Nietzsche meint das Wort vor allem ein geschichtliches Ereignis: die Entwertung der obersten Werte der abendländischen Überlieferung.",
+    "etymology": "Von lateinisch nihil, „nichts“, mit dem Suffix -ismus. Philosophisches Gewicht erhielt das Wort durch Friedrich Heinrich Jacobis Brief an Fichte (1799), der den Idealismus des Nihilismus bezichtigte; populär wurde es durch Turgenjews Roman *Väter und Söhne* (1862).",
+    "body": "Nihilismus ist die Verneinung objektiver Werte, eines Sinns oder objektiver Wahrheiten. In seiner moralischen Form behauptet er, nichts sei wirklich gut oder böse; in seiner existenziellen Form, das Leben habe weder Sinn noch Zweck. Seit dem 19. Jahrhundert wurde der Begriff zur Diagnose der Moderne: zum Verlust des Grundes für jene Überzeugungen, die dem Leben Orientierung gaben.\n\nFriedrich Heinrich Jacobi gab dem Ausdruck seine erste gewichtige philosophische Verwendung: In einem offenen Brief an Fichte (1799) warf er dem Idealismus vor, alle Wirklichkeit im Ich aufzulösen und ins Nichts zu führen. In Russland machte Turgenjews Roman *Väter und Söhne* (1862) Basarow, der sich vor keiner Autorität beugt, zum Typus des Nihilisten, und der Name bezeichnete fortan junge Radikale, die Religion, Tradition und Autorität verwarfen. Schopenhauers Pessimismus, für den das Leben zwischen Schmerz und Langeweile hin- und herschwingt, lieferte einen metaphysischen Hintergrund.\n\nNietzsche machte den Nihilismus zu einem Hauptthema. In Aufzeichnungen von 1887 fragt er, was Nihilismus bedeute, und antwortet: dass die obersten Werte sich entwerten; es fehlt das Ziel, es fehlt die Antwort auf das „Wozu?“. Der in der *Fröhlichen Wissenschaft* (1882) verkündete Tod Gottes macht offenbar, dass die christliche Moral und die platonische Metaphysik, indem sie den Wert in ein Jenseits verlegten, schon nihilistisch waren. Nietzsche unterscheidet einen passiven Nihilismus, Zeichen der Schwäche, von einem aktiven, der zerstört, um neuen Werten Raum zu schaffen. In *Also sprach Zarathustra* (1883–1885), *Jenseits von Gut und Böse* (1886) und *Zur Genealogie der Moral* (1887) sucht er ihn durch die Umwertung aller Werte und die ewige Wiederkunft zu überwinden.\n\nHeidegger deutete den Nihilismus als Wesen der Geschichte der Metaphysik, die das Sein vergisst („Nietzsches Wort ‚Gott ist tot‘“, 1943). Camus verwarf im *Mythos des Sisyphos* (1942) und im *Menschen in der Revolte* (1951) sowohl den Selbstmord als auch den mörderischen Nihilismus und stellte dem Absurden die Revolte entgegen. In der Metaethik vertritt J. L. Mackies Irrtumstheorie (1977), alle positiven moralischen Urteile seien falsch. Der Begriff ist mit dem Tod Gottes, dem Willen zur Macht, dem Absurden und dem Nichts verbunden.",
+    "synonyms": [
+     "Wertverneinung"
+    ],
+    "nearTerms": [
+     "Tod Gottes",
+     "Das Absurde",
+     "Pessimismus",
+     "Umwertung aller Werte",
+     "Skepsis",
+     "Nichts"
+    ],
+    "aliases": [
+     "Nihilist",
+     "moralischer Nihilismus",
+     "existenzieller Nihilismus",
+     "passiver Nihilismus",
+     "aktiver Nihilismus"
+    ],
+    "seoTitle": "Nihilismus – Jacobi, Nietzsche, Heidegger und Camus",
+    "seoDescription": "Nihilismus: Jacobis Vorwurf an Fichte, die russischen Nihilisten, Nietzsches Entwertung der obersten Werte, Heidegger, Camus, Irrtumstheorie."
+   }
+  }
+ },
+ {
+  "id": "con-bad-faith",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-ethics",
+   "cat-mind"
+  ],
+  "philosopherIds": [
+   "phi-kierkegaard",
+   "phi-heidegger",
+   "phi-sartre",
+   "phi-beauvoir"
+  ],
+  "schoolIds": [
+   "sch-existentialism",
+   "sch-phenomenology"
+  ],
+  "periodIds": [
+   "per-19th",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-being-and-time",
+   "wrk-being-and-nothingness",
+   "wrk-second-sex"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-freedom",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-anxiety",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-responsibility",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-nothingness",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-dasein",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Má-fé",
+    "slug": "ma-fe",
+    "summary": "Em Sartre, a mentira a si mesmo pela qual a consciência foge da própria liberdade, fingindo ser uma coisa ou pura liberdade sem situação.",
+    "definition": "Má-fé é, em Sartre, a atitude pela qual a consciência mente a si mesma para escapar da angústia da liberdade. Diferentemente da mentira comum, enganador e enganado são a mesma pessoa. A má-fé joga com a dupla condição do ser humano, que é ao mesmo tempo facticidade e transcendência, reduzindo-se ora a uma coisa determinada, ora a uma liberdade sem situação. Opõe-se à autenticidade.",
+    "etymology": "Do latim mala fides, “má confiança”, expressão jurídica oposta a bona fides, “boa-fé”; fides significa “confiança, lealdade, palavra dada”. Sartre deu ao francês mauvaise foi, em *O Ser e o Nada* (1943), o sentido técnico de engano de si.",
+    "body": "A má-fé é a mentira a si mesmo. Na linguagem jurídica, a expressão designa a intenção desleal de quem engana outro; em Sartre, torna-se um conceito central da ontologia e da moral existencialista. Na mentira comum, quem mente conhece a verdade que esconde; na má-fé, o enganador e o enganado são a mesma consciência, o que parece paradoxal. Sartre sustenta que o paradoxo é possível porque a consciência não é o que é e é o que não é.\n\nNo capítulo dedicado à má-fé em *O Ser e o Nada* (1943), Sartre descreve casos célebres. Um garçom de café exagera seus gestos como se quisesse ser garçom à maneira como um tinteiro é tinteiro, identificando-se a um papel para esquecer que o escolhe. Uma mulher, num primeiro encontro, deixa a mão entre as do companheiro sem aceitar nem recusar o gesto, tratando o próprio corpo como coisa. Até a sinceridade pode ser de má-fé, quando exige que o outro seja exatamente o que é. Em todos os casos, a má-fé manipula a dupla condição humana: somos facticidade, um corpo, um passado e uma situação, e transcendência, projeto e liberdade.\n\nSartre recusa a explicação freudiana pelo inconsciente: a censura que reprime precisaria saber o que reprime, o que devolve o problema à consciência. A má-fé está ligada à angústia, pois foge-se da liberdade porque ela angustia, e à responsabilidade, afirmada em *O Existencialismo é um Humanismo* (1946). O conceito tem antecedentes em Kierkegaard, que descreve em *O Desespero Humano* (1849) o desespero de não querer ser si mesmo, e em Heidegger, cuja inautenticidade do impessoal (das Man), em *Ser e Tempo* (1927), dispensa o Dasein de decidir por si. Beauvoir retoma a má-fé em *Por uma Moral da Ambiguidade* (1947) e em *O Segundo Sexo* (1949), onde analisa a cumplicidade de mulheres com sua própria opressão.\n\nNa filosofia analítica, o problema reaparece como paradoxo do autoengano, discutido por Herbert Fingarette (1969), Donald Davidson e Alfred Mele. O conceito relaciona-se com a liberdade, a angústia, a responsabilidade, o nada e o inconsciente.",
+    "synonyms": [
+     "Autoengano",
+     "Mentira a si mesmo"
+    ],
+    "nearTerms": [
+     "Autenticidade",
+     "Inautenticidade",
+     "Facticidade",
+     "Transcendência",
+     "Angústia",
+     "Autoengano"
+    ],
+    "aliases": [
+     "mauvaise foi",
+     "autoengano",
+     "garçom de Sartre",
+     "inautenticidade",
+     "mentira a si mesmo"
+    ],
+    "seoTitle": "Má-fé — Sartre, O Ser e o Nada e o autoengano",
+    "seoDescription": "A má-fé em Sartre: a mentira a si mesmo, o garçom de café, facticidade e transcendência, a crítica ao inconsciente freudiano, Kierkegaard, Heidegger e Beauvoir."
+   },
+   "en": {
+    "title": "Bad faith",
+    "slug": "bad-faith",
+    "summary": "In Sartre, the lie to oneself by which consciousness flees its own freedom, pretending to be a thing or a pure freedom without a situation.",
+    "definition": "Bad faith is, in Sartre, the attitude by which consciousness lies to itself in order to escape the anguish of freedom. Unlike an ordinary lie, deceiver and deceived are the same person. Bad faith plays on the double condition of the human being, at once facticity and transcendence, reducing oneself now to a determinate thing, now to a freedom without a situation. It is opposed to authenticity.",
+    "etymology": "From Latin mala fides, “bad trust”, a legal expression opposed to bona fides, “good faith”; fides means “trust, loyalty, pledged word”. Sartre gave French mauvaise foi, in *Being and Nothingness* (1943), the technical sense of self-deception.",
+    "body": "Bad faith is lying to oneself. In legal language the phrase names the disloyal intention of someone who deceives another; in Sartre it becomes a central concept of existentialist ontology and ethics. In an ordinary lie the liar knows the truth he conceals; in bad faith deceiver and deceived are one and the same consciousness, which seems paradoxical. Sartre holds that the paradox is possible because consciousness is not what it is and is what it is not.\n\nIn the chapter on bad faith in *Being and Nothingness* (1943) Sartre describes famous cases. A café waiter exaggerates his gestures as though he wished to be a waiter in the way an inkwell is an inkwell, identifying with a role in order to forget that he chooses it. A woman on a first date leaves her hand in her companion's without accepting or refusing the gesture, treating her own body as a thing. Even sincerity can be in bad faith when it demands that another be exactly what he is. In every case bad faith manipulates the double human condition: we are facticity, a body, a past and a situation, and transcendence, project and freedom.\n\nSartre rejects the Freudian explanation by the unconscious: the censor that represses would have to know what it represses, which returns the problem to consciousness. Bad faith is tied to anguish, since we flee freedom because it causes anguish, and to responsibility, which Sartre affirms in *Existentialism Is a Humanism* (1946). The concept has antecedents in Kierkegaard, who describes in *The Sickness unto Death* (1849) the despair of not willing to be oneself, and in Heidegger, whose inauthenticity of the “they” (das Man), in *Being and Time* (1927), relieves Dasein of deciding for itself. Beauvoir takes up bad faith in *The Ethics of Ambiguity* (1947) and in *The Second Sex* (1949), where she analyses women's complicity in their own oppression.\n\nIn analytic philosophy the problem reappears as the paradox of self-deception, discussed by Herbert Fingarette (1969), Donald Davidson and Alfred Mele. The concept is related to freedom, anxiety, responsibility, nothingness and the unconscious.",
+    "synonyms": [
+     "Self-deception"
+    ],
+    "nearTerms": [
+     "Authenticity",
+     "Inauthenticity",
+     "Facticity",
+     "Transcendence",
+     "Anguish",
+     "Self-deception"
+    ],
+    "aliases": [
+     "mauvaise foi",
+     "self-deception",
+     "Sartre's waiter",
+     "inauthenticity",
+     "lying to oneself"
+    ],
+    "seoTitle": "Bad faith — Sartre, Being and Nothingness and self-deception",
+    "seoDescription": "Bad faith in Sartre: lying to oneself, the café waiter, facticity and transcendence, the critique of the Freudian unconscious, Kierkegaard, Heidegger and Beauvoir."
+   },
+   "fr": {
+    "title": "Mauvaise foi",
+    "slug": "mauvaise-foi",
+    "summary": "Chez Sartre, le mensonge à soi par lequel la conscience fuit sa propre liberté, en se faisant chose ou pure liberté sans situation.",
+    "definition": "La mauvaise foi est, chez Sartre, l'attitude par laquelle la conscience se ment à elle-même pour échapper à l'angoisse de la liberté. À la différence du mensonge ordinaire, le trompeur et le trompé sont une seule et même personne. Elle joue sur la double condition de l'être humain, à la fois facticité et transcendance, en se réduisant tantôt à une chose déterminée, tantôt à une liberté sans situation. Elle s'oppose à l'authenticité.",
+    "etymology": "Du latin mala fides, « mauvaise confiance », expression juridique opposée à bona fides, « bonne foi » ; fides signifie « confiance, loyauté, parole donnée ». Sartre a donné à « mauvaise foi », dans *L'Être et le Néant* (1943), le sens technique de mensonge à soi.",
+    "body": "La mauvaise foi est le mensonge à soi. Dans la langue juridique, l'expression désigne l'intention déloyale de celui qui trompe autrui ; chez Sartre, elle devient un concept central de l'ontologie et de la morale existentialistes. Dans le mensonge ordinaire, le menteur connaît la vérité qu'il cache ; dans la mauvaise foi, trompeur et trompé sont la même conscience, ce qui paraît paradoxal. Sartre soutient que le paradoxe est possible parce que la conscience n'est pas ce qu'elle est et est ce qu'elle n'est pas.\n\nDans le chapitre consacré à la mauvaise foi de *L'Être et le Néant* (1943), Sartre décrit des cas célèbres. Un garçon de café force ses gestes comme s'il voulait être garçon de café à la manière dont un encrier est un encrier, s'identifiant à un rôle pour oublier qu'il le choisit. Une femme, lors d'un premier rendez-vous, laisse sa main entre celles de son compagnon sans accepter ni refuser le geste, traitant son propre corps en chose. La sincérité elle-même peut être de mauvaise foi, lorsqu'elle exige d'autrui qu'il soit exactement ce qu'il est. Dans tous les cas, la mauvaise foi manipule la double condition humaine : nous sommes facticité, un corps, un passé et une situation, et transcendance, projet et liberté.\n\nSartre refuse l'explication freudienne par l'inconscient : la censure qui refoule devrait savoir ce qu'elle refoule, ce qui renvoie le problème à la conscience. La mauvaise foi est liée à l'angoisse, puisqu'on fuit la liberté parce qu'elle angoisse, et à la responsabilité, affirmée dans *L'existentialisme est un humanisme* (1946). Le concept a des antécédents chez Kierkegaard, qui décrit dans *La Maladie à la mort* (1849) le désespoir de ne pas vouloir être soi-même, et chez Heidegger, dont l'inauthenticité du « on » (das Man), dans *Être et Temps* (1927), dispense le Dasein de décider par lui-même. Beauvoir reprend la mauvaise foi dans *Pour une morale de l'ambiguïté* (1947) et dans *Le Deuxième Sexe* (1949), où elle analyse la complicité des femmes avec leur propre oppression.\n\nEn philosophie analytique, le problème reparaît comme paradoxe de la duperie de soi, discuté par Herbert Fingarette (1969), Donald Davidson et Alfred Mele. Le concept se rattache à la liberté, à l'angoisse, à la responsabilité, au néant et à l'inconscient.",
+    "synonyms": [
+     "Duperie de soi",
+     "Mensonge à soi"
+    ],
+    "nearTerms": [
+     "Authenticité",
+     "Inauthenticité",
+     "Facticité",
+     "Transcendance",
+     "Angoisse",
+     "Duperie de soi"
+    ],
+    "aliases": [
+     "mensonge à soi",
+     "duperie de soi",
+     "garçon de café",
+     "inauthenticité",
+     "self-deception"
+    ],
+    "seoTitle": "Mauvaise foi — Sartre, L'Être et le Néant et la duperie de soi",
+    "seoDescription": "La mauvaise foi chez Sartre : le mensonge à soi, le garçon de café, facticité et transcendance, la critique de l'inconscient freudien, Kierkegaard, Heidegger, Beauvoir."
+   },
+   "de": {
+    "title": "Unaufrichtigkeit (mauvaise foi)",
+    "slug": "unaufrichtigkeit",
+    "summary": "Bei Sartre die Lüge gegen sich selbst, durch die das Bewusstsein vor seiner eigenen Freiheit flieht, indem es sich zum Ding oder zur situationslosen Freiheit macht.",
+    "definition": "Unaufrichtigkeit (mauvaise foi) ist bei Sartre die Haltung, in der das Bewusstsein sich selbst belügt, um der Angst vor der Freiheit zu entgehen. Anders als bei der gewöhnlichen Lüge sind Täuschender und Getäuschter dieselbe Person. Sie spielt mit der doppelten Verfassung des Menschen, zugleich Faktizität und Transzendenz zu sein, und macht sich bald zu einem bestimmten Ding, bald zu einer Freiheit ohne Situation. Ihr Gegenbegriff ist die Authentizität.",
+    "etymology": "Französisch mauvaise foi, von lateinisch mala fides, „böser Glaube“, dem juristischen Gegenbegriff zu bona fides, „guter Glaube“; fides heißt „Vertrauen, Treue, gegebenes Wort“. Die deutsche Sartre-Übersetzung gibt den Ausdruck in *Das Sein und das Nichts* mit „Unaufrichtigkeit“ wieder.",
+    "body": "Unaufrichtigkeit ist die Lüge gegen sich selbst. In der Rechtssprache meint mala fides die unredliche Absicht dessen, der einen anderen täuscht; bei Sartre wird mauvaise foi zu einem Schlüsselbegriff der existentialistischen Ontologie und Moral. Bei der gewöhnlichen Lüge kennt der Lügner die Wahrheit, die er verbirgt; in der Unaufrichtigkeit sind Täuschender und Getäuschter dasselbe Bewusstsein, was paradox erscheint. Sartre hält das Paradox für möglich, weil das Bewusstsein nicht ist, was es ist, und ist, was es nicht ist.\n\nIm Kapitel über die Unaufrichtigkeit in *Das Sein und das Nichts* (1943) beschreibt Sartre berühmte Fälle. Ein Kellner im Café übertreibt seine Gesten, als wollte er Kellner sein, wie ein Tintenfass ein Tintenfass ist, und identifiziert sich mit einer Rolle, um zu vergessen, dass er sie wählt. Eine Frau lässt bei einem ersten Treffen ihre Hand in der ihres Begleiters liegen, ohne die Geste anzunehmen oder abzuweisen, und behandelt ihren eigenen Körper wie ein Ding. Selbst die Aufrichtigkeit kann unaufrichtig sein, wenn sie vom anderen verlangt, genau das zu sein, was er ist. Stets spielt die Unaufrichtigkeit mit der doppelten menschlichen Verfassung: Wir sind Faktizität, ein Leib, eine Vergangenheit und eine Situation, und Transzendenz, Entwurf und Freiheit.\n\nSartre verwirft die freudsche Erklärung durch das Unbewusste: Die verdrängende Zensur müsste wissen, was sie verdrängt, womit das Problem ins Bewusstsein zurückkehrt. Die Unaufrichtigkeit ist mit der Angst verbunden, denn man flieht die Freiheit, weil sie ängstigt, und mit der Verantwortung, die Sartre in *Der Existentialismus ist ein Humanismus* (1946) betont. Vorläufer sind Kierkegaard, der in *Die Krankheit zum Tode* (1849) die Verzweiflung beschreibt, nicht man selbst sein zu wollen, und Heidegger, dessen Uneigentlichkeit des Man in *Sein und Zeit* (1927) das Dasein davon entlastet, selbst zu entscheiden. Beauvoir nimmt den Begriff in *Für eine Moral der Doppelsinnigkeit* (1947) und im *Anderen Geschlecht* (1949) auf, wo sie die Mitwirkung von Frauen an ihrer eigenen Unterdrückung untersucht.\n\nIn der analytischen Philosophie kehrt das Problem als Paradox der Selbsttäuschung wieder, erörtert von Herbert Fingarette (1969), Donald Davidson und Alfred Mele. Der Begriff ist mit Freiheit, Angst, Verantwortung, dem Nichts und dem Unbewussten verbunden.",
+    "synonyms": [
+     "Selbsttäuschung",
+     "Unwahrhaftigkeit"
+    ],
+    "nearTerms": [
+     "Authentizität",
+     "Uneigentlichkeit",
+     "Faktizität",
+     "Transzendenz",
+     "Angst",
+     "Selbsttäuschung"
+    ],
+    "aliases": [
+     "mauvaise foi",
+     "Selbsttäuschung",
+     "Sartres Kellner",
+     "Uneigentlichkeit",
+     "Selbstbetrug"
+    ],
+    "seoTitle": "Unaufrichtigkeit (mauvaise foi) – Sartre und die Selbsttäuschung",
+    "seoDescription": "Die Unaufrichtigkeit bei Sartre: Lüge gegen sich selbst, der Kellner im Café, Faktizität und Transzendenz, Kritik am Unbewussten, Kierkegaard, Heidegger, Beauvoir."
+   }
+  }
+ },
+ {
+  "id": "con-responsibility",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-ethics",
+   "cat-political"
+  ],
+  "philosopherIds": [
+   "phi-aristotle",
+   "phi-kant",
+   "phi-sartre",
+   "phi-arendt"
+  ],
+  "schoolIds": [
+   "sch-aristotelianism",
+   "sch-existentialism",
+   "sch-phenomenology"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-modern",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-nicomachean"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-freedom",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-free-will",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-duty",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-alterity",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-bad-faith",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-determinism",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-banality-of-evil",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Responsabilidade",
+    "slug": "responsabilidade",
+    "summary": "A condição de quem deve responder por seus atos e suas consequências; de Aristóteles e Kant à responsabilidade pelo outro e pelas gerações futuras.",
+    "definition": "Responsabilidade é a condição de quem pode e deve responder por seus atos, sendo-lhe imputáveis o elogio, a censura, a sanção ou a reparação. Distinguem-se a responsabilidade retrospectiva, por atos já cometidos, e a prospectiva, por tarefas e pessoas confiadas a alguém. Sua atribuição supõe condições de controle e de conhecimento, discutidas no debate sobre o livre-arbítrio.",
+    "etymology": "Do francês responsabilité (século XVIII), derivado de responsable, a partir do latim respondere, “responder, comprometer-se em resposta”, formado por re- e spondere, “prometer solenemente”. O substantivo abstrato é moderno; a noção antiga exprimia-se pelo voluntário (hekoúsion) e pela imputação (imputatio).",
+    "body": "Ser responsável é poder e dever responder pelo que se faz. O conceito une uma dimensão jurídica, a imputação de um ato a um autor, e uma dimensão moral, o mérito do elogio ou da censura. Suas perguntas centrais são quais condições tornam alguém responsável, se a responsabilidade é compatível com o determinismo e até onde ela se estende: aos próprios atos, às consequências imprevistas, aos outros, às gerações futuras.\n\nAristóteles fixa as condições clássicas no livro III da *Ética a Nicômaco* (c. 350 a.C.): só é voluntário o ato cujo princípio está no agente e que não é realizado sob coação nem por ignorância das circunstâncias. Acrescenta que somos também responsáveis pelo caráter que formamos com nossos atos. O substantivo “responsabilidade” só surge no século XVIII; Kant fala de imputação e faz da liberdade da vontade a condição de toda moralidade. No início do século XX, Max Weber opõe, em “A Política como Vocação” (1919), a ética da convicção à ética da responsabilidade, que responde pelas consequências previsíveis da ação.\n\nNa filosofia analítica, P. F. Strawson propõe em “Liberdade e Ressentimento” (1962) fundar a responsabilidade nas atitudes reativas, como a gratidão e o ressentimento, e não numa metafísica do livre-arbítrio; Harry Frankfurt (1969) contesta que ela exija a possibilidade de agir de outro modo; Bernard Williams e Thomas Nagel discutem a sorte moral. Na tradição continental, Sartre afirma em *O Existencialismo é um Humanismo* (1946) que o homem, condenado a ser livre, é responsável por tudo o que é e, ao escolher-se, escolhe por todos. Arendt examina em *Eichmann em Jerusalém* (1963) a responsabilidade de quem apenas obedecia a ordens e distingue culpa pessoal de responsabilidade coletiva. Levinas faz da responsabilidade pelo outro a estrutura primeira da subjetividade (*Totalidade e Infinito*, 1961).\n\nHans Jonas, em *O Princípio Responsabilidade* (1979), estende o conceito à civilização tecnológica: devemos agir de modo que os efeitos de nossa ação sejam compatíveis com a permanência de uma vida humana autêntica sobre a Terra. O conceito relaciona-se com a liberdade, o livre-arbítrio, o dever, a alteridade e a má-fé.",
+    "synonyms": [
+     "Imputabilidade"
+    ],
+    "nearTerms": [
+     "Imputação",
+     "Culpa",
+     "Livre-arbítrio",
+     "Dever",
+     "Ética da responsabilidade",
+     "Sorte moral"
+    ],
+    "aliases": [
+     "responsabilidade moral",
+     "imputação",
+     "ética da responsabilidade",
+     "atitudes reativas",
+     "princípio responsabilidade"
+    ],
+    "seoTitle": "Responsabilidade — Aristóteles, Weber, Sartre, Levinas e Jonas",
+    "seoDescription": "A responsabilidade na filosofia: o voluntário em Aristóteles, a imputação, a ética da responsabilidade de Weber, Strawson, Sartre, Arendt, Levinas e Hans Jonas."
+   },
+   "en": {
+    "title": "Responsibility",
+    "slug": "responsibility",
+    "summary": "The condition of one who must answer for their acts and their consequences; from Aristotle and Kant to responsibility for the other and for future generations.",
+    "definition": "Responsibility is the condition of one who can and must answer for their acts, so that praise, blame, sanction or reparation can be imputed to them. Retrospective responsibility, for acts already done, is distinguished from prospective responsibility, for tasks and persons entrusted to someone. Its attribution presupposes conditions of control and knowledge, discussed in the free will debate.",
+    "etymology": "From French responsable, from Latin respondere, “to answer, to pledge in return”, formed from re- and spondere, “to promise solemnly”; the abstract noun appears in English and French in the late eighteenth century. The ancient notion was expressed through the voluntary (hekoúsion) and imputation (imputatio).",
+    "body": "To be responsible is to be able and obliged to answer for what one does. The concept joins a legal dimension, the imputation of an act to an author, and a moral dimension, the desert of praise or blame. Its central questions are which conditions make someone responsible, whether responsibility is compatible with determinism, and how far it extends: to one's own acts, to unforeseen consequences, to others, to future generations.\n\nAristotle sets the classic conditions in Book III of the *Nicomachean Ethics* (c. 350 BCE): an act is voluntary only if its origin lies in the agent and it is done neither under compulsion nor through ignorance of the circumstances. He adds that we are also responsible for the character we form through our acts. The noun “responsibility” appears only in the eighteenth century; Kant speaks of imputation and makes freedom of the will the condition of all morality. Early in the twentieth century Max Weber, in “Politics as a Vocation” (1919), opposes the ethic of conviction to the ethic of responsibility, which answers for the foreseeable consequences of action.\n\nIn analytic philosophy P. F. Strawson proposes in “Freedom and Resentment” (1962) to ground responsibility in reactive attitudes, such as gratitude and resentment, rather than in a metaphysics of free will; Harry Frankfurt (1969) denies that it requires the ability to do otherwise; Bernard Williams and Thomas Nagel discuss moral luck. In the continental tradition Sartre declares in *Existentialism Is a Humanism* (1946) that man, condemned to be free, is responsible for everything he is and, in choosing himself, chooses for all. Arendt examines in *Eichmann in Jerusalem* (1963) the responsibility of one who merely obeyed orders and distinguishes personal guilt from collective responsibility. Levinas makes responsibility for the other the first structure of subjectivity (*Totality and Infinity*, 1961).\n\nHans Jonas, in *The Imperative of Responsibility* (1979), extends the concept to technological civilisation: we must act so that the effects of our action are compatible with the permanence of genuine human life on earth. The concept is related to freedom, free will, duty, alterity and bad faith.",
+    "synonyms": [
+     "Accountability",
+     "Imputability"
+    ],
+    "nearTerms": [
+     "Imputation",
+     "Guilt",
+     "Free will",
+     "Duty",
+     "Ethic of responsibility",
+     "Moral luck"
+    ],
+    "aliases": [
+     "moral responsibility",
+     "accountability",
+     "ethic of responsibility",
+     "reactive attitudes",
+     "imperative of responsibility"
+    ],
+    "seoTitle": "Responsibility — Aristotle, Weber, Sartre, Levinas and Jonas",
+    "seoDescription": "Responsibility in philosophy: the voluntary in Aristotle, imputation, Weber's ethic of responsibility, Strawson, Sartre, Arendt, Levinas and Hans Jonas."
+   },
+   "fr": {
+    "title": "Responsabilité",
+    "slug": "responsabilite",
+    "summary": "La condition de celui qui doit répondre de ses actes et de leurs conséquences ; d'Aristote et Kant à la responsabilité pour autrui et pour les générations futures.",
+    "definition": "La responsabilité est la condition de celui qui peut et doit répondre de ses actes, de sorte que l'éloge, le blâme, la sanction ou la réparation puissent lui être imputés. On distingue la responsabilité rétrospective, pour des actes accomplis, et la responsabilité prospective, pour des tâches et des personnes confiées à quelqu'un. Son attribution suppose des conditions de contrôle et de connaissance, discutées dans le débat sur le libre arbitre.",
+    "etymology": "De « responsable », du latin respondere, « répondre, s'engager en retour », formé de re- et spondere, « promettre solennellement » ; le substantif « responsabilité » apparaît à la fin du XVIIIe siècle. La notion antique s'exprimait par le volontaire (hekoúsion) et l'imputation (imputatio).",
+    "body": "Être responsable, c'est pouvoir et devoir répondre de ce que l'on fait. Le concept unit une dimension juridique, l'imputation d'un acte à un auteur, et une dimension morale, le mérite de l'éloge ou du blâme. Ses questions centrales sont de savoir quelles conditions rendent quelqu'un responsable, si la responsabilité est compatible avec le déterminisme et jusqu'où elle s'étend : à ses propres actes, aux conséquences imprévues, à autrui, aux générations futures.\n\nAristote fixe les conditions classiques au livre III de l'*Éthique à Nicomaque* (v. 350 av. J.-C.) : n'est volontaire que l'acte dont le principe est dans l'agent et qui n'est accompli ni sous la contrainte ni par ignorance des circonstances. Il ajoute que nous sommes aussi responsables du caractère que nous formons par nos actes. Le substantif « responsabilité » n'apparaît qu'au XVIIIe siècle ; Kant parle d'imputation et fait de la liberté de la volonté la condition de toute moralité. Au début du XXe siècle, Max Weber oppose, dans « Le métier et la vocation d'homme politique » (1919), l'éthique de conviction à l'éthique de responsabilité, qui répond des conséquences prévisibles de l'action.\n\nEn philosophie analytique, P. F. Strawson propose dans « Liberté et ressentiment » (1962) de fonder la responsabilité sur les attitudes réactives, comme la gratitude et le ressentiment, plutôt que sur une métaphysique du libre arbitre ; Harry Frankfurt (1969) conteste qu'elle exige la possibilité d'agir autrement ; Bernard Williams et Thomas Nagel discutent la chance morale. Dans la tradition continentale, Sartre affirme dans *L'existentialisme est un humanisme* (1946) que l'homme, condamné à être libre, est responsable de tout ce qu'il est et qu'en se choisissant il choisit pour tous. Arendt examine dans *Eichmann à Jérusalem* (1963) la responsabilité de celui qui ne faisait qu'obéir aux ordres et distingue culpabilité personnelle et responsabilité collective. Levinas fait de la responsabilité pour autrui la structure première de la subjectivité (*Totalité et Infini*, 1961).\n\nHans Jonas, dans *Le Principe responsabilité* (1979), étend le concept à la civilisation technologique : il faut agir de telle sorte que les effets de notre action soient compatibles avec la permanence d'une vie authentiquement humaine sur terre. Le concept se rattache à la liberté, au libre arbitre, au devoir, à l'altérité et à la mauvaise foi.",
+    "synonyms": [
+     "Imputabilité"
+    ],
+    "nearTerms": [
+     "Imputation",
+     "Culpabilité",
+     "Libre arbitre",
+     "Devoir",
+     "Éthique de responsabilité",
+     "Chance morale"
+    ],
+    "aliases": [
+     "responsabilité morale",
+     "imputabilité",
+     "éthique de responsabilité",
+     "attitudes réactives",
+     "principe responsabilité"
+    ],
+    "seoTitle": "Responsabilité — Aristote, Weber, Sartre, Levinas et Jonas",
+    "seoDescription": "La responsabilité en philosophie : le volontaire chez Aristote, l'imputation, l'éthique de responsabilité de Weber, Strawson, Sartre, Arendt, Levinas et Hans Jonas."
+   },
+   "de": {
+    "title": "Verantwortung",
+    "slug": "verantwortung",
+    "summary": "Die Lage dessen, der für seine Handlungen und ihre Folgen einstehen muss; von Aristoteles und Kant bis zur Verantwortung für den Anderen und für künftige Generationen.",
+    "definition": "Verantwortung ist die Lage dessen, der für seine Handlungen einstehen kann und muss, sodass ihm Lob, Tadel, Strafe oder Wiedergutmachung zugerechnet werden können. Man unterscheidet die retrospektive Verantwortung für begangene Handlungen von der prospektiven für Aufgaben und Personen, die jemandem anvertraut sind. Ihre Zuschreibung setzt Bedingungen der Kontrolle und des Wissens voraus, die in der Willensfreiheitsdebatte erörtert werden.",
+    "etymology": "Von „verantworten“, mittelhochdeutsch verantwürten, „sich vor Gericht verteidigen, Rede und Antwort stehen“, zu „Antwort“; ebenso gehen französisch responsabilité und englisch responsibility auf lateinisch respondere, „antworten, sich verbürgen“, zurück. Die antike Sache verhandelte man als das Freiwillige (hekoúsion) und die Zurechnung (imputatio).",
+    "body": "Verantwortlich sein heißt, für das eigene Tun einstehen zu können und zu müssen. Der Begriff verbindet eine rechtliche Dimension, die Zurechnung einer Tat zu einem Urheber, mit einer moralischen, der Verdientheit von Lob oder Tadel. Seine Grundfragen lauten, welche Bedingungen jemanden verantwortlich machen, ob Verantwortung mit dem Determinismus vereinbar ist und wie weit sie reicht: auf die eigenen Handlungen, auf unvorhergesehene Folgen, auf andere, auf künftige Generationen.\n\nAristoteles legt im III. Buch der *Nikomachischen Ethik* (um 350 v. Chr.) die klassischen Bedingungen fest: Freiwillig ist nur die Handlung, deren Ursprung im Handelnden liegt und die weder unter Zwang noch aus Unkenntnis der Umstände geschieht. Er fügt hinzu, dass wir auch für den Charakter verantwortlich sind, den wir durch unser Handeln ausbilden. Das Substantiv „Verantwortung“ als ethischer Grundbegriff ist neuzeitlich; Kant spricht von Zurechnung und macht die Freiheit des Willens zur Bedingung aller Moralität. Zu Beginn des 20. Jahrhunderts stellt Max Weber in „Politik als Beruf“ (1919) der Gesinnungsethik die Verantwortungsethik gegenüber, die für die voraussehbaren Folgen des Handelns aufkommt.\n\nIn der analytischen Philosophie schlägt P. F. Strawson in „Freiheit und Übelnehmen“ (1962) vor, Verantwortung in reaktiven Einstellungen wie Dankbarkeit und Groll zu verankern statt in einer Metaphysik der Willensfreiheit; Harry Frankfurt (1969) bestreitet, dass sie die Möglichkeit des Andershandelns verlange; Bernard Williams und Thomas Nagel erörtern das moralische Glück. In der kontinentalen Tradition erklärt Sartre in *Der Existentialismus ist ein Humanismus* (1946), der zur Freiheit verurteilte Mensch sei für alles verantwortlich, was er ist, und wähle, indem er sich wählt, für alle. Arendt untersucht in *Eichmann in Jerusalem* (1963) die Verantwortung dessen, der nur Befehle befolgte, und unterscheidet persönliche Schuld von kollektiver Verantwortung. Levinas macht die Verantwortung für den Anderen zur ersten Struktur der Subjektivität (*Totalität und Unendlichkeit*, 1961).\n\nHans Jonas dehnt in *Das Prinzip Verantwortung* (1979) den Begriff auf die technologische Zivilisation aus: Handle so, dass die Wirkungen deiner Handlung verträglich sind mit der Permanenz echten menschlichen Lebens auf Erden. Der Begriff ist mit Freiheit, Willensfreiheit, Pflicht, Alterität und Unaufrichtigkeit verbunden.",
+    "synonyms": [
+     "Zurechenbarkeit"
+    ],
+    "nearTerms": [
+     "Zurechnung",
+     "Schuld",
+     "Willensfreiheit",
+     "Pflicht",
+     "Verantwortungsethik",
+     "Moralisches Glück"
+    ],
+    "aliases": [
+     "moralische Verantwortung",
+     "Zurechnung",
+     "Verantwortungsethik",
+     "reaktive Einstellungen",
+     "Prinzip Verantwortung"
+    ],
+    "seoTitle": "Verantwortung – Aristoteles, Weber, Sartre, Levinas und Jonas",
+    "seoDescription": "Verantwortung in der Philosophie: das Freiwillige bei Aristoteles, Zurechnung, Webers Verantwortungsethik, Strawson, Sartre, Arendt, Levinas und Hans Jonas."
+   }
+  }
+ },
+ {
+  "id": "con-alterity",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-ethics",
+   "cat-metaphysics"
+  ],
+  "philosopherIds": [
+   "phi-plato",
+   "phi-hegel",
+   "phi-husserl",
+   "phi-sartre",
+   "phi-beauvoir"
+  ],
+  "schoolIds": [
+   "sch-idealism",
+   "sch-phenomenology",
+   "sch-existentialism"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-19th",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-phenomenology-spirit",
+   "wrk-being-and-nothingness",
+   "wrk-second-sex"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-identity",
+    "kind": "opposite"
+   },
+   {
+    "conceptId": "con-recognition",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-responsibility",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-intentionality",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-consciousness",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-dignity",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Alteridade",
+    "slug": "alteridade",
+    "summary": "O caráter do que é outro; em especial, a experiência do outro ser humano, que em Levinas funda a ética como responsabilidade.",
+    "definition": "Alteridade é o caráter do que é outro, por oposição à identidade e à mesmidade. Em sentido lógico e ontológico, designa a diferença entre um ente e outro; em sentido fenomenológico e ético, a condição do outro sujeito, irredutível ao meu ponto de vista e à minha compreensão. As filosofias da alteridade perguntam como o outro me é dado e que exigências sua presença impõe.",
+    "etymology": "Do latim tardio alteritas, de alter, “o outro de dois”, distinto de alius, “um outro qualquer”. Traduz o grego tò héteron, “o outro, o diverso”, que Platão conta entre os gêneros supremos no *Sofista*.",
+    "body": "A alteridade é o caráter do que é outro. Na lógica e na ontologia, opõe-se à identidade: algo é o que é e não é outra coisa. Na filosofia moderna e contemporânea, o termo designa sobretudo a condição do outro ser humano, que não posso reduzir a um objeto do meu conhecimento nem a uma extensão de mim mesmo. As questões centrais são como o outro me é acessível e que relação ética e política se estabelece com ele.\n\nNo *Sofista*, Platão faz do outro (tò héteron) um dos gêneros supremos, ao lado do ser, do mesmo, do movimento e do repouso, e interpreta o não-ser como alteridade. Na *Fenomenologia do Espírito* (1807), Hegel mostra que a consciência de si só se constitui no confronto com outra consciência de si, na dialética do senhor e do escravo, e no reconhecimento mútuo. Husserl dedica a quinta das *Meditações Cartesianas* (1931) à experiência do outro: o outro é dado por apresentação analógica, como um corpo vivo semelhante ao meu, mas sua vida interior permanece inacessível em original. Martin Buber distingue em *Eu e Tu* (1923) a relação Eu-Tu, de encontro, da relação Eu-Isso, de uso.\n\nSartre, em *O Ser e o Nada* (1943), descreve o olhar do outro que me transforma em objeto e me revela minha dimensão de ser-para-outro. Beauvoir, em *O Segundo Sexo* (1949), mostra como a mulher foi constituída como o Outro do homem, sem reciprocidade. Levinas faz da alteridade o centro de sua filosofia: em *Totalidade e Infinito* (1961), o rosto do outro resiste a toda totalização e me convoca à responsabilidade, de modo que a ética precede a ontologia. Paul Ricoeur, em *O Si-mesmo como Outro* (1990), mostra que a própria identidade pessoal envolve alteridade.\n\nNas ciências humanas, a noção orientou a antropologia e a crítica pós-colonial, que analisa a construção do outro como exótico ou inferior, como em *Orientalismo* (1978), de Edward Said. Derrida desenvolveu a partir de Levinas uma ética da hospitalidade. O conceito relaciona-se com a identidade, o reconhecimento, a responsabilidade, a intencionalidade e a dignidade.",
+    "synonyms": [
+     "Outrem"
+    ],
+    "nearTerms": [
+     "Outro",
+     "Identidade",
+     "Reconhecimento",
+     "Intersubjetividade",
+     "Rosto",
+     "Hospitalidade"
+    ],
+    "aliases": [
+     "o outro",
+     "outrem",
+     "intersubjetividade",
+     "rosto do outro",
+     "ser-para-outro"
+    ],
+    "seoTitle": "Alteridade — Hegel, Husserl, Sartre, Beauvoir e Levinas",
+    "seoDescription": "A alteridade na filosofia: o outro no Sofista, senhor e escravo em Hegel, a experiência do outro em Husserl, o olhar em Sartre, Beauvoir e o rosto em Levinas."
+   },
+   "en": {
+    "title": "Alterity",
+    "slug": "alterity",
+    "summary": "The character of what is other; in particular, the experience of another human being, which for Levinas grounds ethics as responsibility.",
+    "definition": "Alterity is the character of what is other, as opposed to identity and sameness. In a logical and ontological sense it names the difference between one being and another; in a phenomenological and ethical sense, the condition of the other subject, irreducible to my point of view and my understanding. Philosophies of alterity ask how the other is given to me and what demands their presence makes.",
+    "etymology": "From Late Latin alteritas, from alter, “the other of two”, as distinct from alius, “some other”. It renders Greek tò héteron, “the other, the different”, which Plato counts among the greatest kinds in the *Sophist*.",
+    "body": "Alterity is the character of what is other. In logic and ontology it is opposed to identity: a thing is what it is and not something else. In modern and contemporary philosophy the term names above all the condition of another human being, whom I cannot reduce to an object of my knowledge or to an extension of myself. The central questions are how the other is accessible to me and what ethical and political relation is established with them.\n\nIn the *Sophist* Plato makes the other (tò héteron) one of the greatest kinds, alongside being, the same, motion and rest, and interprets not-being as otherness. In the *Phenomenology of Spirit* (1807) Hegel shows that self-consciousness is constituted only in confrontation with another self-consciousness, in the dialectic of master and slave, and in mutual recognition. Husserl devotes the fifth of the *Cartesian Meditations* (1931) to the experience of the other: the other is given through analogical appresentation, as a living body like mine, but their inner life remains inaccessible in the original. Martin Buber distinguishes in *I and Thou* (1923) the I–Thou relation of encounter from the I–It relation of use.\n\nSartre, in *Being and Nothingness* (1943), describes the look of the other that turns me into an object and reveals to me my being-for-others. Beauvoir, in *The Second Sex* (1949), shows how woman has been constituted as the Other of man, without reciprocity. Levinas places alterity at the centre of his philosophy: in *Totality and Infinity* (1961) the face of the other resists all totalisation and summons me to responsibility, so that ethics precedes ontology. Paul Ricoeur, in *Oneself as Another* (1990), shows that personal identity itself involves otherness.\n\nIn the human sciences the notion guided anthropology and postcolonial critique, which analyses the construction of the other as exotic or inferior, as in Edward Said's *Orientalism* (1978). Derrida developed from Levinas an ethics of hospitality. The concept is related to identity, recognition, responsibility, intentionality and dignity.",
+    "synonyms": [
+     "Otherness"
+    ],
+    "nearTerms": [
+     "The other",
+     "Identity",
+     "Recognition",
+     "Intersubjectivity",
+     "Face",
+     "Hospitality"
+    ],
+    "aliases": [
+     "otherness",
+     "the Other",
+     "intersubjectivity",
+     "face of the other",
+     "being-for-others"
+    ],
+    "seoTitle": "Alterity — Hegel, Husserl, Sartre, Beauvoir and Levinas",
+    "seoDescription": "Alterity in philosophy: the other in the Sophist, master and slave in Hegel, Husserl's experience of the other, Sartre's look, Beauvoir and Levinas's face."
+   },
+   "fr": {
+    "title": "Altérité",
+    "slug": "alterite",
+    "summary": "Le caractère de ce qui est autre ; en particulier, l'expérience d'autrui, qui chez Levinas fonde l'éthique comme responsabilité.",
+    "definition": "L'altérité est le caractère de ce qui est autre, par opposition à l'identité et à la mêmeté. Au sens logique et ontologique, elle désigne la différence entre un étant et un autre ; au sens phénoménologique et éthique, la condition de l'autre sujet, irréductible à mon point de vue et à ma compréhension. Les philosophies de l'altérité demandent comment autrui m'est donné et quelles exigences sa présence impose.",
+    "etymology": "Du latin tardif alteritas, de alter, « l'autre de deux », distinct de alius, « un autre quelconque ». Le terme traduit le grec tò héteron, « l'autre, le divers », que Platon range parmi les genres suprêmes dans le *Sophiste*.",
+    "body": "L'altérité est le caractère de ce qui est autre. En logique et en ontologie, elle s'oppose à l'identité : une chose est ce qu'elle est et non une autre. Dans la philosophie moderne et contemporaine, le terme désigne surtout la condition d'autrui, que je ne peux réduire ni à un objet de ma connaissance ni à un prolongement de moi-même. Les questions centrales sont de savoir comment autrui m'est accessible et quelle relation éthique et politique s'établit avec lui.\n\nDans le *Sophiste*, Platon fait de l'autre (tò héteron) l'un des genres suprêmes, avec l'être, le même, le mouvement et le repos, et interprète le non-être comme altérité. Dans la *Phénoménologie de l'esprit* (1807), Hegel montre que la conscience de soi ne se constitue que dans l'affrontement avec une autre conscience de soi, dans la dialectique du maître et de l'esclave, et dans la reconnaissance mutuelle. Husserl consacre la cinquième des *Méditations cartésiennes* (1931) à l'expérience d'autrui : autrui est donné par apprésentation analogique, comme un corps vivant semblable au mien, mais sa vie intérieure reste inaccessible en original. Martin Buber distingue dans *Je et Tu* (1923) la relation Je-Tu, de rencontre, de la relation Je-Cela, d'usage.\n\nSartre, dans *L'Être et le Néant* (1943), décrit le regard d'autrui qui me transforme en objet et me révèle mon être-pour-autrui. Beauvoir, dans *Le Deuxième Sexe* (1949), montre comment la femme a été constituée comme l'Autre de l'homme, sans réciprocité. Levinas place l'altérité au centre de sa philosophie : dans *Totalité et Infini* (1961), le visage d'autrui résiste à toute totalisation et m'assigne à la responsabilité, de sorte que l'éthique précède l'ontologie. Paul Ricœur, dans *Soi-même comme un autre* (1990), montre que l'identité personnelle elle-même implique l'altérité.\n\nDans les sciences humaines, la notion a orienté l'anthropologie et la critique postcoloniale, qui analyse la construction de l'autre comme exotique ou inférieur, comme dans *L'Orientalisme* (1978) d'Edward Said. Derrida a développé à partir de Levinas une éthique de l'hospitalité. Le concept se rattache à l'identité, à la reconnaissance, à la responsabilité, à l'intentionnalité et à la dignité.",
+    "synonyms": [
+     "Autrui"
+    ],
+    "nearTerms": [
+     "Autrui",
+     "Identité",
+     "Reconnaissance",
+     "Intersubjectivité",
+     "Visage",
+     "Hospitalité"
+    ],
+    "aliases": [
+     "autrui",
+     "l'Autre",
+     "intersubjectivité",
+     "visage d'autrui",
+     "être-pour-autrui"
+    ],
+    "seoTitle": "Altérité — Hegel, Husserl, Sartre, Beauvoir et Levinas",
+    "seoDescription": "L'altérité en philosophie : l'autre dans le Sophiste, maître et esclave chez Hegel, autrui chez Husserl, le regard chez Sartre, Beauvoir, Levinas."
+   },
+   "de": {
+    "title": "Alterität",
+    "slug": "alteritaet",
+    "summary": "Das Anderssein; insbesondere die Erfahrung des anderen Menschen, die bei Levinas die Ethik als Verantwortung begründet.",
+    "definition": "Alterität ist das Anderssein, im Gegensatz zu Identität und Selbigkeit. Im logischen und ontologischen Sinn bezeichnet sie den Unterschied eines Seienden von einem anderen; im phänomenologischen und ethischen Sinn die Lage des anderen Subjekts, das sich weder auf meinen Standpunkt noch auf mein Verstehen zurückführen lässt. Die Philosophien der Alterität fragen, wie mir der Andere gegeben ist und welche Ansprüche seine Gegenwart stellt.",
+    "etymology": "Von spätlateinisch alteritas, zu alter, „der andere von zweien“, im Unterschied zu alius, „irgendein anderer“. Das Wort übersetzt griechisch tò héteron, „das Andere, Verschiedene“, das Platon im *Sophistes* zu den obersten Gattungen zählt.",
+    "body": "Alterität ist das Anderssein. In Logik und Ontologie steht sie der Identität gegenüber: Etwas ist, was es ist, und nicht etwas anderes. In der neuzeitlichen und gegenwärtigen Philosophie bezeichnet der Ausdruck vor allem die Lage des anderen Menschen, den ich weder auf einen Gegenstand meiner Erkenntnis noch auf eine Verlängerung meiner selbst zurückführen kann. Die Grundfragen lauten, wie mir der Andere zugänglich ist und welches ethische und politische Verhältnis sich zu ihm ergibt.\n\nIm *Sophistes* macht Platon das Andere (tò héteron) zu einer der obersten Gattungen neben Sein, Selbigem, Bewegung und Ruhe und deutet das Nichtsein als Verschiedenheit. In der *Phänomenologie des Geistes* (1807) zeigt Hegel, dass sich Selbstbewusstsein nur in der Auseinandersetzung mit einem anderen Selbstbewusstsein bildet, in der Dialektik von Herr und Knecht und in der wechselseitigen Anerkennung. Husserl widmet die fünfte der *Cartesianischen Meditationen* (1931) der Fremderfahrung: Der Andere ist durch analogisierende Appräsentation gegeben, als ein meinem ähnlicher Leib, doch sein inneres Leben bleibt mir originär unzugänglich. Martin Buber unterscheidet in *Ich und Du* (1923) die Ich-Du-Beziehung der Begegnung von der Ich-Es-Beziehung des Gebrauchs.\n\nSartre beschreibt in *Das Sein und das Nichts* (1943) den Blick des Anderen, der mich zum Objekt macht und mir mein Für-Andere-sein enthüllt. Beauvoir zeigt in *Das andere Geschlecht* (1949), wie die Frau ohne Gegenseitigkeit als das Andere des Mannes konstituiert wurde. Levinas stellt die Alterität ins Zentrum seiner Philosophie: In *Totalität und Unendlichkeit* (1961) widersteht das Antlitz des Anderen jeder Totalisierung und ruft mich in die Verantwortung, sodass die Ethik der Ontologie vorausgeht. Paul Ricœur zeigt in *Das Selbst als ein Anderer* (1990), dass schon die personale Identität Andersheit einschließt.\n\nIn den Humanwissenschaften leitete der Begriff die Ethnologie und die postkoloniale Kritik, die die Konstruktion des Anderen als exotisch oder minderwertig untersucht, etwa in Edward Saids *Orientalismus* (1978). Derrida entwickelte im Anschluss an Levinas eine Ethik der Gastfreundschaft. Der Begriff ist mit Identität, Anerkennung, Verantwortung, Intentionalität und Würde verbunden.",
+    "synonyms": [
+     "Andersheit",
+     "Fremdheit"
+    ],
+    "nearTerms": [
+     "Der Andere",
+     "Identität",
+     "Anerkennung",
+     "Intersubjektivität",
+     "Antlitz",
+     "Gastfreundschaft"
+    ],
+    "aliases": [
+     "Andersheit",
+     "der Andere",
+     "Intersubjektivität",
+     "Fremderfahrung",
+     "Für-Andere-sein"
+    ],
+    "seoTitle": "Alterität – Hegel, Husserl, Sartre, Beauvoir und Levinas",
+    "seoDescription": "Alterität in der Philosophie: das Andere im Sophistes, Herr und Knecht bei Hegel, Husserls Fremderfahrung, Sartres Blick, Beauvoir und das Antlitz bei Levinas."
+   }
+  }
+ },
+ {
+  "id": "con-dignity",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-ethics",
+   "cat-political"
+  ],
+  "philosopherIds": [
+   "phi-kant",
+   "phi-arendt"
+  ],
+  "schoolIds": [
+   "sch-idealism"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-renaissance",
+   "per-modern",
+   "per-20th",
+   "per-contemporary"
+  ],
+  "workIds": [
+   "wrk-groundwork",
+   "wrk-origins-totalitarianism"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-autonomy",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-categorical-imperative",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-recognition",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-deontology",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Dignidade",
+    "slug": "dignidade",
+    "summary": "O valor intrínseco da pessoa, que não tem preço nem equivalente; de Cícero e Pico a Kant e à Declaração Universal dos Direitos Humanos.",
+    "definition": "Dignidade é o valor intrínseco atribuído ao ser humano enquanto tal, que exige respeito e proíbe tratá-lo como simples coisa ou meio. Em Kant, é o valor incondicionado daquilo que está acima de todo preço e não admite equivalente. No direito contemporâneo, a dignidade humana é o fundamento declarado dos direitos humanos; seu conteúdo e seu alcance continuam em debate.",
+    "etymology": "Do latim dignitas, “mérito, prestígio, cargo”, derivado de dignus, “digno, merecedor”. Em Roma, designava a posição social e a honra de um cargo; o humanismo estendeu-a a todo ser humano, e Kant usou o alemão Würde para o valor sem preço.",
+    "body": "A dignidade é o valor que pertence ao ser humano pelo simples fato de sê-lo. Diferentemente do mérito ou do prestígio, que variam de pessoa para pessoa, a dignidade humana seria igual em todos e independente do que cada um faz. Dela decorre a exigência de respeito: não se pode tratar ninguém como mera coisa, instrumento ou mercadoria. A questão filosófica é saber em que se funda esse valor e o que ele exige concretamente.\n\nEm Roma, dignitas designava a posição e a honra ligadas a um cargo ou a uma família. Cícero, no *Dos Deveres* (44 a.C.), fala já de uma excelência e dignidade da natureza humana, superior à dos animais pela razão. A tradição cristã funda-a na criação do homem à imagem de Deus. No Renascimento, Pico della Mirandola compõe o discurso depois intitulado *Sobre a Dignidade do Homem* (1486), em que o homem aparece como o único ser capaz de determinar a própria natureza.\n\nKant dá ao conceito sua formulação clássica na *Fundamentação da Metafísica dos Costumes* (1785): no reino dos fins, tudo tem um preço ou uma dignidade; o que tem preço pode ser substituído por um equivalente, o que está acima de todo preço tem dignidade. Essa dignidade funda-se na autonomia, a capacidade de legislar moralmente para si, e exige que a humanidade seja tratada sempre também como fim e nunca apenas como meio. Schopenhauer ironizou a expressão, que lhe parecia vazia. Depois da Segunda Guerra Mundial, a Declaração Universal dos Direitos Humanos (1948) afirma no artigo 1.º que todos nascem livres e iguais em dignidade e direitos, e a Lei Fundamental alemã (1949) abre com a frase “a dignidade humana é inviolável”.\n\nO conceito é hoje central na bioética e no direito, mas também contestado: Ruth Macklin (2003) o considerou inútil, redutível ao respeito pela autonomia. Jeremy Waldron o interpreta como um estatuto elevado estendido a todos, Martha Nussbaum o associa às capacidades humanas, e Habermas o vê como a fonte moral dos direitos humanos. Arendt, em *As Origens do Totalitarismo* (1951), mostrou como os apátridas perderam o “direito a ter direitos”. O conceito relaciona-se com a autonomia, o imperativo categórico, os direitos naturais, a igualdade e o reconhecimento.",
+    "synonyms": [
+     "Dignidade humana",
+     "Dignidade da pessoa humana"
+    ],
+    "nearTerms": [
+     "Respeito",
+     "Autonomia",
+     "Direitos humanos",
+     "Pessoa",
+     "Valor intrínseco",
+     "Reino dos fins"
+    ],
+    "aliases": [
+     "dignidade humana",
+     "dignidade da pessoa humana",
+     "dignitas",
+     "valor sem preço",
+     "Würde"
+    ],
+    "seoTitle": "Dignidade — Cícero, Pico della Mirandola, Kant e os direitos humanos",
+    "seoDescription": "A dignidade na filosofia: a dignitas romana, Pico della Mirandola, o preço e a dignidade em Kant, a Declaração Universal de 1948 e os debates contemporâneos."
+   },
+   "en": {
+    "title": "Dignity",
+    "slug": "dignity",
+    "summary": "The intrinsic worth of the person, which has no price and no equivalent; from Cicero and Pico to Kant and the Universal Declaration of Human Rights.",
+    "definition": "Dignity is the intrinsic worth ascribed to the human being as such, which demands respect and forbids treating a person as a mere thing or means. In Kant it is the unconditional worth of what is above all price and admits no equivalent. In contemporary law human dignity is the declared foundation of human rights; its content and scope remain under debate.",
+    "etymology": "From Latin dignitas, “merit, standing, office”, derived from dignus, “worthy, deserving”, via Old French dignité. In Rome it named social rank and the honour of an office; humanism extended it to every human being, and Kant used German Würde for worth beyond price.",
+    "body": "Dignity is the worth that belongs to the human being simply by being human. Unlike merit or prestige, which vary from person to person, human dignity would be equal in all and independent of what anyone does. From it follows the demand for respect: no one may be treated as a mere thing, instrument or commodity. The philosophical question is what grounds this worth and what it concretely requires.\n\nIn Rome dignitas named the standing and honour attached to an office or a family. Cicero, in *On Duties* (44 BCE), already speaks of an excellence and dignity of human nature, raised above the animals by reason. The Christian tradition grounds it in the creation of man in the image of God. In the Renaissance Pico della Mirandola composed the oration later titled *On the Dignity of Man* (1486), in which the human being appears as the only creature able to determine its own nature.\n\nKant gives the concept its classic formulation in the *Groundwork of the Metaphysics of Morals* (1785): in the kingdom of ends everything has either a price or a dignity; what has a price can be replaced by an equivalent, what is above all price has dignity. This dignity rests on autonomy, the capacity to give oneself the moral law, and requires that humanity always be treated also as an end and never merely as a means. Schopenhauer mocked the phrase as empty. After the Second World War the Universal Declaration of Human Rights (1948) states in Article 1 that all are born free and equal in dignity and rights, and the German Basic Law (1949) opens with the sentence “human dignity shall be inviolable”.\n\nThe concept is now central in bioethics and law, but also contested: Ruth Macklin (2003) called it useless, reducible to respect for autonomy. Jeremy Waldron interprets it as a high rank extended to everyone, Martha Nussbaum links it to human capabilities, and Habermas sees it as the moral source of human rights. Arendt, in *The Origins of Totalitarianism* (1951), showed how stateless people lost the “right to have rights”. The concept is related to autonomy, the categorical imperative, natural rights, equality and recognition.",
+    "synonyms": [
+     "Human dignity"
+    ],
+    "nearTerms": [
+     "Respect",
+     "Autonomy",
+     "Human rights",
+     "Person",
+     "Intrinsic worth",
+     "Kingdom of ends"
+    ],
+    "aliases": [
+     "human dignity",
+     "dignitas",
+     "worth beyond price",
+     "Würde",
+     "dignity of man"
+    ],
+    "seoTitle": "Dignity — Cicero, Pico della Mirandola, Kant and human rights",
+    "seoDescription": "Dignity in philosophy: Roman dignitas, Pico della Mirandola, price and dignity in Kant, the 1948 Universal Declaration and contemporary debates."
+   },
+   "fr": {
+    "title": "Dignité",
+    "slug": "dignite",
+    "summary": "La valeur intrinsèque de la personne, qui n'a ni prix ni équivalent ; de Cicéron et Pic de la Mirandole à Kant et à la Déclaration universelle des droits de l'homme.",
+    "definition": "La dignité est la valeur intrinsèque attribuée à l'être humain en tant que tel, qui exige le respect et interdit de le traiter comme une simple chose ou un simple moyen. Chez Kant, c'est la valeur inconditionnée de ce qui est au-dessus de tout prix et n'admet pas d'équivalent. Dans le droit contemporain, la dignité humaine est le fondement déclaré des droits de l'homme ; son contenu et sa portée restent débattus.",
+    "etymology": "Du latin dignitas, « mérite, prestige, charge », dérivé de dignus, « digne, qui mérite ». À Rome, le mot désignait le rang social et l'honneur d'une charge ; l'humanisme l'a étendu à tout être humain, et Kant a employé l'allemand Würde pour la valeur sans prix.",
+    "body": "La dignité est la valeur qui appartient à l'être humain du seul fait qu'il est humain. À la différence du mérite ou du prestige, qui varient d'une personne à l'autre, la dignité humaine serait égale en tous et indépendante de ce que chacun fait. D'elle découle l'exigence de respect : nul ne peut être traité comme une simple chose, un instrument ou une marchandise. La question philosophique est de savoir sur quoi se fonde cette valeur et ce qu'elle exige concrètement.\n\nÀ Rome, dignitas désignait le rang et l'honneur attachés à une charge ou à une famille. Cicéron, dans le traité *Des devoirs* (44 av. J.-C.), parle déjà d'une excellence et d'une dignité de la nature humaine, élevée au-dessus des animaux par la raison. La tradition chrétienne la fonde sur la création de l'homme à l'image de Dieu. À la Renaissance, Pic de la Mirandole compose le discours intitulé plus tard *De la dignité de l'homme* (1486), où l'homme apparaît comme le seul être capable de déterminer sa propre nature.\n\nKant donne au concept sa formulation classique dans les *Fondements de la métaphysique des mœurs* (1785) : dans le règne des fins, tout a un prix ou une dignité ; ce qui a un prix peut être remplacé par un équivalent, ce qui est au-dessus de tout prix a une dignité. Cette dignité repose sur l'autonomie, la capacité de se donner à soi-même la loi morale, et exige que l'humanité soit toujours traitée en même temps comme une fin, jamais simplement comme un moyen. Schopenhauer a raillé l'expression, qu'il jugeait creuse. Après la Seconde Guerre mondiale, la Déclaration universelle des droits de l'homme (1948) affirme dans son article premier que tous naissent libres et égaux en dignité et en droits, et la Loi fondamentale allemande (1949) s'ouvre sur la phrase « la dignité de l'être humain est intangible ».\n\nLe concept est aujourd'hui central en bioéthique et en droit, mais aussi contesté : Ruth Macklin (2003) l'a jugé inutile, réductible au respect de l'autonomie. Jeremy Waldron l'interprète comme un rang élevé étendu à tous, Martha Nussbaum le rattache aux capabilités humaines, et Habermas y voit la source morale des droits de l'homme. Arendt, dans *Les Origines du totalitarisme* (1951), a montré comment les apatrides ont perdu le « droit d'avoir des droits ». Le concept se rattache à l'autonomie, à l'impératif catégorique, aux droits naturels, à l'égalité et à la reconnaissance.",
+    "synonyms": [
+     "Dignité humaine"
+    ],
+    "nearTerms": [
+     "Respect",
+     "Autonomie",
+     "Droits de l'homme",
+     "Personne",
+     "Valeur intrinsèque",
+     "Règne des fins"
+    ],
+    "aliases": [
+     "dignité humaine",
+     "dignitas",
+     "valeur sans prix",
+     "Würde",
+     "dignité de l'homme"
+    ],
+    "seoTitle": "Dignité — Cicéron, Pic de la Mirandole, Kant et les droits de l'homme",
+    "seoDescription": "La dignité en philosophie : la dignitas romaine, Pic de la Mirandole, le prix et la dignité chez Kant, la Déclaration universelle de 1948 et les débats actuels."
+   },
+   "de": {
+    "title": "Würde",
+    "slug": "wuerde",
+    "summary": "Der innere Wert der Person, der keinen Preis und kein Äquivalent hat; von Cicero und Pico bis zu Kant und der Allgemeinen Erklärung der Menschenrechte.",
+    "definition": "Würde ist der innere Wert, der dem Menschen als solchem zugeschrieben wird; sie verlangt Achtung und verbietet, ihn als bloße Sache oder bloßes Mittel zu behandeln. Bei Kant ist sie der unbedingte Wert dessen, was über allen Preis erhaben ist und kein Äquivalent zulässt. Im heutigen Recht gilt die Menschenwürde als erklärte Grundlage der Menschenrechte; Inhalt und Reichweite bleiben umstritten.",
+    "etymology": "Althochdeutsch wirdī, „Wert, Ansehen“, zu wert; das Wort gibt lateinisch dignitas wieder, „Ansehen, Rang, Amt“, von dignus, „würdig“. In Rom bezeichnete dignitas den gesellschaftlichen Rang; der Humanismus dehnte sie auf jeden Menschen aus, und Kant fasste Würde als Wert ohne Preis.",
+    "body": "Würde ist der Wert, der dem Menschen allein dadurch zukommt, dass er Mensch ist. Anders als Verdienst oder Ansehen, die von Person zu Person verschieden sind, wäre die Menschenwürde in allen gleich und unabhängig von dem, was einer tut. Aus ihr folgt die Forderung der Achtung: Niemand darf als bloße Sache, bloßes Werkzeug oder Ware behandelt werden. Die philosophische Frage lautet, worauf dieser Wert gründet und was er konkret verlangt.\n\nIn Rom bezeichnete dignitas den Rang und die Ehre eines Amtes oder einer Familie. Cicero spricht in *Vom pflichtgemäßen Handeln* (44 v. Chr.) bereits von einer Vorzüglichkeit und Würde der menschlichen Natur, die sich durch die Vernunft über die Tiere erhebt. Die christliche Überlieferung gründet sie in der Erschaffung des Menschen nach Gottes Bild. In der Renaissance verfasst Pico della Mirandola die später *Über die Würde des Menschen* betitelte Rede (1486), in der der Mensch als einziges Wesen erscheint, das seine eigene Natur bestimmen kann.\n\nKant gibt dem Begriff seine klassische Fassung in der *Grundlegung zur Metaphysik der Sitten* (1785): Im Reich der Zwecke hat alles entweder einen Preis oder eine Würde; was einen Preis hat, kann durch ein Äquivalent ersetzt werden, was über allen Preis erhaben ist, hat eine Würde. Diese Würde gründet in der Autonomie, dem Vermögen, sich selbst das Sittengesetz zu geben, und verlangt, die Menschheit jederzeit zugleich als Zweck, niemals bloß als Mittel zu gebrauchen. Schopenhauer verspottete den Ausdruck als leer. Nach dem Zweiten Weltkrieg erklärt die Allgemeine Erklärung der Menschenrechte (1948) in Artikel 1, alle Menschen seien frei und gleich an Würde und Rechten geboren, und das Grundgesetz (1949) beginnt mit dem Satz: „Die Würde des Menschen ist unantastbar.“\n\nDer Begriff ist heute für Bioethik und Recht zentral, aber auch umstritten: Ruth Macklin (2003) hielt ihn für nutzlos und auf die Achtung der Autonomie reduzierbar. Jeremy Waldron deutet ihn als einen auf alle ausgedehnten hohen Rang, Martha Nussbaum verbindet ihn mit den menschlichen Fähigkeiten, und Habermas sieht in ihm die moralische Quelle der Menschenrechte. Arendt zeigte in *Elemente und Ursprünge totaler Herrschaft* (1951), wie Staatenlose das „Recht, Rechte zu haben“ verloren. Der Begriff ist mit Autonomie, kategorischem Imperativ, natürlichen Rechten, Gleichheit und Anerkennung verbunden.",
+    "synonyms": [
+     "Menschenwürde"
+    ],
+    "nearTerms": [
+     "Achtung",
+     "Autonomie",
+     "Menschenrechte",
+     "Person",
+     "Innerer Wert",
+     "Reich der Zwecke"
+    ],
+    "aliases": [
+     "Menschenwürde",
+     "dignitas",
+     "Wert ohne Preis",
+     "Würde des Menschen",
+     "unantastbar"
+    ],
+    "seoTitle": "Würde – Cicero, Pico della Mirandola, Kant und die Menschenrechte",
+    "seoDescription": "Die Würde in der Philosophie: römische dignitas, Pico della Mirandola, Preis und Würde bei Kant, die Allgemeine Erklärung von 1948 und heutige Debatten."
+   }
+  }
+ },
+ {
+  "id": "con-phronesis",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-ethics"
+  ],
+  "philosopherIds": [
+   "phi-plato",
+   "phi-aristotle",
+   "phi-aquinas",
+   "phi-kant"
+  ],
+  "schoolIds": [
+   "sch-aristotelianism",
+   "sch-scholasticism",
+   "sch-hermeneutics"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-medieval",
+   "per-20th",
+   "per-contemporary"
+  ],
+  "workIds": [
+   "wrk-nicomachean",
+   "wrk-summa"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-virtue",
+    "kind": "broader"
+   },
+   {
+    "conceptId": "con-eudaimonia",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-good",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-knowledge",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-responsibility",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Prudência (phronesis)",
+    "slug": "prudencia-phronesis",
+    "summary": "A sabedoria prática: a virtude de deliberar bem sobre o que é bom para o ser humano nas situações particulares, central na ética de Aristóteles.",
+    "definition": "Phronesis, traduzida por prudência ou sabedoria prática, é a virtude intelectual que permite deliberar bem sobre o que é bom e útil para a vida humana como um todo e agir de acordo nas circunstâncias particulares. Em Aristóteles, distingue-se da sabedoria teórica (sophía), que conhece o necessário, e da técnica (téchnē), que visa produzir algo fora de si, e é inseparável das virtudes morais.",
+    "etymology": "Do grego phrónēsis, “pensamento, discernimento”, derivado de phroneîn, “pensar, ter juízo”, ligado a phrḗn, o diafragma, tido como sede do pensamento. Os latinos traduziram-na por prudentia, contração de providentia, “previdência”, de onde vem “prudência”.",
+    "body": "A phronesis é a sabedoria prática: a capacidade de ver o que convém fazer aqui e agora para viver bem. Não se confunde com a esperteza nem com a cautela que a palavra “prudência” sugere hoje, mas designa a excelência do juízo sobre a ação. O conceito responde a uma dificuldade permanente da ética: as regras gerais não bastam, porque as situações são particulares, e é preciso alguém capaz de aplicá-las com discernimento.\n\nPlatão usa phronesis para a sabedoria em geral e a situa entre as virtudes principais. Aristóteles dá-lhe sentido técnico no livro VI da *Ética a Nicômaco* (c. 350 a.C.). A prudência é uma disposição verdadeira, acompanhada de razão, capaz de agir no domínio do que é bom ou mau para o ser humano. Distingue-se da ciência (epistḗmē) e da sabedoria teórica (sophía), que tratam do necessário, e da técnica (téchnē), que visa uma obra exterior. O prudente, cujo exemplo é Péricles, delibera bem e percebe o particular. A relação com as virtudes morais é recíproca: a virtude torna reto o fim, a prudência os meios, e não se pode ser bom em sentido pleno sem prudência nem prudente sem virtude moral.\n\nOs estoicos e Cícero contam a prudência entre as quatro virtudes cardeais, com a justiça, a coragem e a temperança. Tomás de Aquino a define, na *Suma Teológica*, como “reta razão do agir” (recta ratio agibilium) e a considera a mais importante das virtudes cardeais. Na modernidade o conceito perde prestígio: Kant reduz a prudência (Klugheit) à habilidade na escolha dos meios para a própria felicidade, regida por imperativos hipotéticos e não pelo imperativo categórico.\n\nNo século XX, a phronesis volta ao centro. Gadamer faz dela, em *Verdade e Método* (1960), o modelo da compreensão hermenêutica, sempre aplicada a uma situação. Pierre Aubenque (*La prudence chez Aristote*, 1963) renova sua interpretação, e a ética das virtudes, de Anscombe a MacIntyre (*Depois da Virtude*, 1981), a recoloca no centro da reflexão moral. Martha Nussbaum (*A Fragilidade da Bondade*, 1986) destaca a percepção dos particulares. O conceito relaciona-se com a virtude, a eudaimonia, o bem e a hermenêutica.",
+    "synonyms": [
+     "Sabedoria prática",
+     "Prudência"
+    ],
+    "nearTerms": [
+     "Virtude",
+     "Deliberação",
+     "Sophia",
+     "Techne",
+     "Juízo",
+     "Virtudes cardeais"
+    ],
+    "aliases": [
+     "phronesis",
+     "frónesis",
+     "sabedoria prática",
+     "prudentia",
+     "recta ratio agibilium"
+    ],
+    "seoTitle": "Prudência (phronesis) — Aristóteles, Tomás de Aquino, Gadamer",
+    "seoDescription": "A phronesis ou sabedoria prática: a virtude do juízo em Aristóteles, a prudência cardeal em Tomás de Aquino, a Klugheit de Kant, Gadamer e a ética das virtudes."
+   },
+   "en": {
+    "title": "Practical wisdom (phronesis)",
+    "slug": "practical-wisdom-phronesis",
+    "summary": "Practical wisdom: the virtue of deliberating well about what is good for human beings in particular situations, central to Aristotle's ethics.",
+    "definition": "Phronesis, translated as practical wisdom or prudence, is the intellectual virtue that enables one to deliberate well about what is good and useful for human life as a whole and to act accordingly in particular circumstances. In Aristotle it is distinguished from theoretical wisdom (sophía), which knows what is necessary, and from craft (téchnē), which aims at producing something outside itself, and it is inseparable from the moral virtues.",
+    "etymology": "From Greek phrónēsis, “thought, discernment”, derived from phroneîn, “to think, to be sensible”, related to phrḗn, the midriff, regarded as the seat of thought. Latin rendered it as prudentia, a contraction of providentia, “foresight”, whence English “prudence”.",
+    "body": "Phronesis is practical wisdom: the ability to see what should be done here and now in order to live well. It is not cleverness, nor the caution that the word “prudence” suggests today, but the excellence of judgement about action. The concept answers a lasting difficulty of ethics: general rules are not enough, because situations are particular, and someone is needed who can apply them with discernment.\n\nPlato uses phronesis for wisdom in general and places it among the chief virtues. Aristotle gives it a technical sense in Book VI of the *Nicomachean Ethics* (c. 350 BCE). Practical wisdom is a true disposition, accompanied by reason, capable of action in the domain of what is good or bad for human beings. It is distinct from scientific knowledge (epistḗmē) and theoretical wisdom (sophía), which deal with what is necessary, and from craft (téchnē), which aims at an external product. The person of practical wisdom, of whom Pericles is the example, deliberates well and perceives the particular. The relation to the moral virtues is reciprocal: virtue makes the end right, practical wisdom the means, and one cannot be good in the full sense without practical wisdom, nor practically wise without moral virtue.\n\nThe Stoics and Cicero count prudence among the four cardinal virtues, with justice, courage and temperance. Thomas Aquinas defines it, in the *Summa Theologiae*, as “right reason about things to be done” (recta ratio agibilium) and regards it as the most important of the cardinal virtues. In the modern period the concept loses standing: Kant reduces prudence (Klugheit) to skill in choosing the means to one's own happiness, governed by hypothetical imperatives rather than by the categorical imperative.\n\nIn the twentieth century phronesis returns to the centre. Gadamer makes it, in *Truth and Method* (1960), the model of hermeneutic understanding, which is always applied to a situation. Pierre Aubenque (*La prudence chez Aristote*, 1963) renews its interpretation, and virtue ethics, from Anscombe to MacIntyre (*After Virtue*, 1981), puts it back at the heart of moral reflection. Martha Nussbaum (*The Fragility of Goodness*, 1986) stresses the perception of particulars. The concept is related to virtue, eudaimonia, the good and hermeneutics.",
+    "synonyms": [
+     "Practical wisdom",
+     "Prudence"
+    ],
+    "nearTerms": [
+     "Virtue",
+     "Deliberation",
+     "Sophia",
+     "Techne",
+     "Judgement",
+     "Cardinal virtues"
+    ],
+    "aliases": [
+     "phronesis",
+     "prudence",
+     "practical reason",
+     "prudentia",
+     "recta ratio agibilium"
+    ],
+    "seoTitle": "Practical wisdom (phronesis) — Aristotle, Aquinas, Gadamer",
+    "seoDescription": "Phronesis or practical wisdom: the virtue of judgement in Aristotle, cardinal prudence in Aquinas, Kant's Klugheit, Gadamer and virtue ethics."
+   },
+   "fr": {
+    "title": "Prudence (phronèsis)",
+    "slug": "prudence-phronesis",
+    "summary": "La sagesse pratique : la vertu de bien délibérer sur ce qui est bon pour l'homme dans les situations particulières, centrale dans l'éthique d'Aristote.",
+    "definition": "La phronèsis, traduite par prudence ou sagesse pratique, est la vertu intellectuelle qui permet de bien délibérer sur ce qui est bon et utile pour la vie humaine dans son ensemble et d'agir en conséquence dans les circonstances particulières. Chez Aristote, elle se distingue de la sagesse théorique (sophía), qui connaît le nécessaire, et de l'art (téchnē), qui vise à produire quelque chose hors de soi, et elle est inséparable des vertus morales.",
+    "etymology": "Du grec phrónēsis, « pensée, discernement », dérivé de phroneîn, « penser, être sensé », lié à phrḗn, le diaphragme, tenu pour le siège de la pensée. Le latin l'a rendue par prudentia, contraction de providentia, « prévoyance », d'où « prudence ».",
+    "body": "La phronèsis est la sagesse pratique : la capacité de voir ce qu'il convient de faire ici et maintenant pour bien vivre. Elle ne se confond ni avec l'habileté ni avec la précaution que suggère aujourd'hui le mot « prudence », mais désigne l'excellence du jugement sur l'action. Le concept répond à une difficulté permanente de l'éthique : les règles générales ne suffisent pas, car les situations sont particulières, et il faut quelqu'un capable de les appliquer avec discernement.\n\nPlaton emploie phronèsis pour la sagesse en général et la place parmi les vertus principales. Aristote lui donne un sens technique au livre VI de l'*Éthique à Nicomaque* (v. 350 av. J.-C.). La prudence est une disposition vraie, accompagnée de raison, capable d'agir dans le domaine de ce qui est bon ou mauvais pour l'homme. Elle se distingue de la science (epistḗmē) et de la sagesse théorique (sophía), qui portent sur le nécessaire, et de l'art (téchnē), qui vise une œuvre extérieure. Le prudent, dont Périclès est l'exemple, délibère bien et perçoit le particulier. Le rapport aux vertus morales est réciproque : la vertu rend droite la fin, la prudence les moyens, et l'on ne peut être bon au sens plein sans prudence, ni prudent sans vertu morale.\n\nLes stoïciens et Cicéron comptent la prudence parmi les quatre vertus cardinales, avec la justice, le courage et la tempérance. Thomas d'Aquin la définit, dans la *Somme théologique*, comme « droite raison de l'agir » (recta ratio agibilium) et la tient pour la plus importante des vertus cardinales. À l'époque moderne, le concept perd de son prestige : Kant réduit la prudence (Klugheit) à l'habileté dans le choix des moyens en vue de son propre bonheur, régie par des impératifs hypothétiques et non par l'impératif catégorique.\n\nAu XXe siècle, la phronèsis revient au centre. Gadamer en fait, dans *Vérité et Méthode* (1960), le modèle de la compréhension herméneutique, toujours appliquée à une situation. Pierre Aubenque (*La Prudence chez Aristote*, 1963) en renouvelle l'interprétation, et l'éthique des vertus, d'Anscombe à MacIntyre (*Après la vertu*, 1981), la replace au cœur de la réflexion morale. Martha Nussbaum (*La Fragilité du bien*, 1986) souligne la perception des particuliers. Le concept se rattache à la vertu, à l'eudémonie, au bien et à l'herméneutique.",
+    "synonyms": [
+     "Sagesse pratique",
+     "Prudence"
+    ],
+    "nearTerms": [
+     "Vertu",
+     "Délibération",
+     "Sophia",
+     "Technè",
+     "Jugement",
+     "Vertus cardinales"
+    ],
+    "aliases": [
+     "phronèsis",
+     "phronesis",
+     "sagesse pratique",
+     "prudentia",
+     "recta ratio agibilium"
+    ],
+    "seoTitle": "Prudence (phronèsis) — Aristote, Thomas d'Aquin, Gadamer",
+    "seoDescription": "La phronèsis ou sagesse pratique : la vertu du jugement chez Aristote, la prudence cardinale chez Thomas d'Aquin, la Klugheit de Kant, Gadamer et l'éthique des vertus."
+   },
+   "de": {
+    "title": "Klugheit (phronesis)",
+    "slug": "klugheit-phronesis",
+    "summary": "Die praktische Weisheit: die Tugend, gut darüber zu beraten, was für den Menschen in besonderen Lagen gut ist, zentral in der Ethik des Aristoteles.",
+    "definition": "Phronesis, übersetzt als Klugheit oder praktische Weisheit, ist die Verstandestugend, die befähigt, gut über das für das menschliche Leben im Ganzen Gute und Zuträgliche zu beraten und in den besonderen Umständen entsprechend zu handeln. Bei Aristoteles unterscheidet sie sich von der theoretischen Weisheit (sophía), die das Notwendige erkennt, und von der Kunst (téchnē), die etwas außer ihr hervorbringen will, und ist von den ethischen Tugenden untrennbar.",
+    "etymology": "Von griechisch phrónēsis, „Denken, Einsicht“, zu phroneîn, „denken, verständig sein“, verwandt mit phrḗn, dem Zwerchfell, das als Sitz des Denkens galt. Lateinisch prudentia, zusammengezogen aus providentia, „Voraussicht“; deutsch wird sie meist mit „Klugheit“ wiedergegeben.",
+    "body": "Phronesis ist die praktische Weisheit: die Fähigkeit zu sehen, was hier und jetzt zu tun ist, um gut zu leben. Sie ist weder Schlauheit noch jene Vorsicht, an die das Wort „Klugheit“ heute denken lässt, sondern die Vortrefflichkeit des Urteils über das Handeln. Der Begriff antwortet auf eine bleibende Schwierigkeit der Ethik: Allgemeine Regeln genügen nicht, weil die Lagen besonders sind, und es braucht jemanden, der sie mit Urteilskraft anwendet.\n\nPlaton gebraucht phronesis für die Weisheit überhaupt und zählt sie zu den Haupttugenden. Aristoteles gibt ihr im VI. Buch der *Nikomachischen Ethik* (um 350 v. Chr.) einen fachlichen Sinn. Die Klugheit ist eine wahre, mit Vernunft verbundene Haltung des Handelns im Bereich dessen, was für den Menschen gut oder schlecht ist. Sie unterscheidet sich von der Wissenschaft (epistḗmē) und der theoretischen Weisheit (sophía), die vom Notwendigen handeln, und von der Kunst (téchnē), die auf ein äußeres Werk zielt. Der Kluge, für den Perikles als Beispiel steht, berät gut und nimmt das Einzelne wahr. Das Verhältnis zu den ethischen Tugenden ist wechselseitig: Die Tugend macht das Ziel richtig, die Klugheit die Wege dahin, und man kann weder im vollen Sinn gut sein ohne Klugheit noch klug ohne ethische Tugend.\n\nDie Stoiker und Cicero zählen die Klugheit zu den vier Kardinaltugenden neben Gerechtigkeit, Tapferkeit und Mäßigung. Thomas von Aquin bestimmt sie in der *Summa theologiae* als „rechte Vernunft des Handelns“ (recta ratio agibilium) und hält sie für die wichtigste der Kardinaltugenden. In der Neuzeit verliert der Begriff an Ansehen: Kant beschränkt die Klugheit auf die Geschicklichkeit in der Wahl der Mittel zum eigenen Glück, die hypothetischen Imperativen und nicht dem kategorischen Imperativ folgt.\n\nIm 20. Jahrhundert rückt die Phronesis wieder ins Zentrum. Gadamer macht sie in *Wahrheit und Methode* (1960) zum Modell des hermeneutischen Verstehens, das stets auf eine Lage angewendet wird. Pierre Aubenque (*La prudence chez Aristote*, 1963) erneuert ihre Deutung, und die Tugendethik von Anscombe bis MacIntyre (*Der Verlust der Tugend*, 1981) stellt sie wieder in die Mitte der Moralphilosophie. Martha Nussbaum (*The Fragility of Goodness*, 1986) hebt die Wahrnehmung des Einzelnen hervor. Der Begriff ist mit Tugend, Eudaimonie, dem Guten und der Hermeneutik verbunden.",
+    "synonyms": [
+     "Praktische Weisheit",
+     "Klugheit"
+    ],
+    "nearTerms": [
+     "Tugend",
+     "Überlegung",
+     "Sophia",
+     "Techne",
+     "Urteilskraft",
+     "Kardinaltugenden"
+    ],
+    "aliases": [
+     "Phronesis",
+     "praktische Weisheit",
+     "prudentia",
+     "recta ratio agibilium",
+     "Klugheit"
+    ],
+    "seoTitle": "Klugheit (phronesis) – Aristoteles, Thomas von Aquin, Gadamer",
+    "seoDescription": "Phronesis oder praktische Weisheit: die Tugend des Urteils bei Aristoteles, die Kardinaltugend bei Thomas von Aquin, Kants Klugheit, Gadamer und die Tugendethik."
+   }
+  }
+ },
+ {
+  "id": "con-absurd",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-ethics",
+   "cat-metaphysics"
+  ],
+  "philosopherIds": [
+   "phi-kierkegaard",
+   "phi-sartre"
+  ],
+  "schoolIds": [
+   "sch-existentialism"
+  ],
+  "periodIds": [
+   "per-19th",
+   "per-20th",
+   "per-contemporary"
+  ],
+  "workIds": [
+   "wrk-being-and-nothingness"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-nihilism",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-freedom",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-anxiety",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-existence",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-nothingness",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Absurdo",
+    "slug": "absurdo",
+    "summary": "O divórcio entre a exigência humana de sentido e o silêncio do mundo; em Camus, o ponto de partida de uma ética da revolta.",
+    "definition": "Em lógica, absurdo é o que contradiz a razão ou implica contradição, como na redução ao absurdo. Na filosofia da existência, designa a desproporção entre a exigência humana de sentido, de unidade e de razão e um mundo que não lhe responde. Em Camus, o absurdo não está nem no homem nem no mundo, mas em sua confrontação, e dele se extraem a revolta, a liberdade e a paixão.",
+    "etymology": "Do latim absurdus, “dissonante, que soa mal”, formado por ab- e surdus, “surdo, abafado”; daí o sentido de “contrário à razão”. A lógica medieval consagrou a expressão reductio ad absurdum para a prova que deduz uma contradição da hipótese contrária.",
+    "body": "O absurdo nomeia, em lógica, o que implica contradição: a redução ao absurdo prova uma tese mostrando que sua negação leva a consequências impossíveis. Na filosofia do século XX, o termo passou a designar uma experiência: o sentimento de que a existência humana, que exige sentido e justificação, se desenrola num mundo indiferente, sem razão nem finalidade. A questão é saber como viver diante dessa falta de sentido.\n\nA fórmula “creio porque é absurdo” é tradicionalmente atribuída a Tertuliano, mas deforma o texto do *De carne Christi*, que diz “é certo porque é impossível”. Kierkegaard dá ao absurdo um lugar central na fé: em *Temor e Tremor* (1843), Abraão, disposto a sacrificar Isaac, crê em virtude do absurdo que Deus lhe devolverá o filho, num movimento que ultrapassa a ética e a razão. Sartre, no romance *A Náusea* (1938), descreve a contingência radical da existência, e *O Ser e o Nada* (1943) chama absurda a existência que não tem fundamento.\n\nCamus faz do absurdo o tema de *O Mito de Sísifo* (1942). O absurdo nasce da confrontação entre o apelo humano e o silêncio irracional do mundo. A questão filosófica fundamental seria saber se a vida vale a pena ser vivida. Camus recusa o suicídio físico e também o “suicídio filosófico” de Kierkegaard, Jaspers e Chestov, que saltam para a transcendência. Propõe manter o absurdo vivo pela revolta, pela liberdade e pela paixão, e conclui que é preciso imaginar Sísifo feliz. O romance *O Estrangeiro* (1942) e a peça *Calígula* completam o ciclo. Em *O Homem Revoltado* (1951), a revolta torna-se princípio de solidariedade e limite contra o niilismo assassino.\n\nO teatro de Beckett e de Ionesco foi reunido por Martin Esslin sob o nome de teatro do absurdo (1961). Na filosofia analítica, Thomas Nagel (“The Absurd”, 1971; *Visão a Partir de Lugar Nenhum*, 1986) situa o absurdo no choque entre a seriedade com que vivemos e a possibilidade de olhar nossa vida de um ponto de vista exterior, que a faz parecer arbitrária. O conceito relaciona-se com o niilismo, a liberdade, a angústia, a existência e a fé.",
+    "synonyms": [
+     "Sentimento do absurdo"
+    ],
+    "nearTerms": [
+     "Sentido da vida",
+     "Revolta",
+     "Niilismo",
+     "Contingência",
+     "Náusea",
+     "Redução ao absurdo"
+    ],
+    "aliases": [
+     "o absurdo",
+     "filosofia do absurdo",
+     "mito de Sísifo",
+     "sentido da vida",
+     "reductio ad absurdum"
+    ],
+    "seoTitle": "Absurdo — Kierkegaard, Sartre, Camus e Nagel",
+    "seoDescription": "O absurdo na filosofia: a fé em virtude do absurdo em Kierkegaard, a contingência em Sartre, O Mito de Sísifo e a revolta em Camus, e o absurdo segundo Nagel."
+   },
+   "en": {
+    "title": "The absurd",
+    "slug": "absurd",
+    "summary": "The rift between the human demand for meaning and the silence of the world; in Camus, the starting point of an ethics of revolt.",
+    "definition": "In logic, the absurd is what contradicts reason or implies a contradiction, as in reductio ad absurdum. In the philosophy of existence it names the disproportion between the human demand for meaning, unity and reason and a world that does not answer it. For Camus the absurd lies neither in man nor in the world but in their confrontation, and from it he draws revolt, freedom and passion.",
+    "etymology": "From Latin absurdus, “out of tune, jarring”, formed from ab- and surdus, “deaf, muffled”; hence the sense “contrary to reason”. Medieval logic established the phrase reductio ad absurdum for a proof that derives a contradiction from the contrary hypothesis.",
+    "body": "In logic the absurd names what implies a contradiction: reductio ad absurdum proves a thesis by showing that its denial leads to impossible consequences. In twentieth-century philosophy the term came to name an experience: the feeling that human existence, which demands meaning and justification, unfolds in an indifferent world without reason or purpose. The question is how to live in the face of this lack of meaning.\n\nThe formula “I believe because it is absurd” is traditionally ascribed to Tertullian, but it distorts the text of *De carne Christi*, which says “it is certain because it is impossible”. Kierkegaard gives the absurd a central place in faith: in *Fear and Trembling* (1843) Abraham, ready to sacrifice Isaac, believes by virtue of the absurd that God will give him back his son, in a movement that goes beyond ethics and reason. Sartre, in the novel *Nausea* (1938), describes the radical contingency of existence, and *Being and Nothingness* (1943) calls absurd an existence that has no foundation.\n\nCamus makes the absurd the theme of *The Myth of Sisyphus* (1942). The absurd arises from the confrontation between the human appeal and the unreasonable silence of the world. The fundamental philosophical question would be whether life is worth living. Camus rejects physical suicide and also the “philosophical suicide” of Kierkegaard, Jaspers and Shestov, who leap into transcendence. He proposes to keep the absurd alive through revolt, freedom and passion, and concludes that one must imagine Sisyphus happy. The novel *The Stranger* (1942) and the play *Caligula* complete the cycle. In *The Rebel* (1951) revolt becomes a principle of solidarity and a limit against murderous nihilism.\n\nThe theatre of Beckett and Ionesco was grouped by Martin Esslin under the name theatre of the absurd (1961). In analytic philosophy Thomas Nagel (“The Absurd”, 1971; *The View from Nowhere*, 1986) locates the absurd in the clash between the seriousness with which we live and the possibility of viewing our life from an external standpoint that makes it seem arbitrary. The concept is related to nihilism, freedom, anxiety, existence and faith.",
+    "synonyms": [
+     "Absurdity"
+    ],
+    "nearTerms": [
+     "Meaning of life",
+     "Revolt",
+     "Nihilism",
+     "Contingency",
+     "Nausea",
+     "Reductio ad absurdum"
+    ],
+    "aliases": [
+     "absurdity",
+     "philosophy of the absurd",
+     "myth of Sisyphus",
+     "meaning of life",
+     "reductio ad absurdum"
+    ],
+    "seoTitle": "The absurd — Kierkegaard, Sartre, Camus and Nagel",
+    "seoDescription": "The absurd in philosophy: faith by virtue of the absurd in Kierkegaard, contingency in Sartre, The Myth of Sisyphus and revolt in Camus, and Nagel's absurd."
+   },
+   "fr": {
+    "title": "Absurde",
+    "slug": "absurde",
+    "summary": "Le divorce entre l'exigence humaine de sens et le silence du monde ; chez Camus, le point de départ d'une éthique de la révolte.",
+    "definition": "En logique, l'absurde est ce qui contredit la raison ou implique une contradiction, comme dans le raisonnement par l'absurde. Dans la philosophie de l'existence, il désigne la disproportion entre l'exigence humaine de sens, d'unité et de raison et un monde qui n'y répond pas. Chez Camus, l'absurde n'est ni dans l'homme ni dans le monde, mais dans leur confrontation, et il en tire la révolte, la liberté et la passion.",
+    "etymology": "Du latin absurdus, « discordant, qui sonne mal », formé de ab- et surdus, « sourd, étouffé » ; d'où le sens de « contraire à la raison ». La logique médiévale a consacré l'expression reductio ad absurdum pour la preuve qui tire une contradiction de l'hypothèse contraire.",
+    "body": "L'absurde désigne en logique ce qui implique contradiction : le raisonnement par l'absurde prouve une thèse en montrant que sa négation conduit à des conséquences impossibles. Dans la philosophie du XXe siècle, le terme en est venu à désigner une expérience : le sentiment que l'existence humaine, qui exige sens et justification, se déroule dans un monde indifférent, sans raison ni finalité. La question est de savoir comment vivre face à ce manque de sens.\n\nLa formule « je crois parce que c'est absurde » est traditionnellement attribuée à Tertullien, mais elle déforme le texte du *De carne Christi*, qui dit « c'est certain parce que c'est impossible ». Kierkegaard donne à l'absurde une place centrale dans la foi : dans *Crainte et Tremblement* (1843), Abraham, prêt à sacrifier Isaac, croit en vertu de l'absurde que Dieu lui rendra son fils, par un mouvement qui dépasse l'éthique et la raison. Sartre, dans le roman *La Nausée* (1938), décrit la contingence radicale de l'existence, et *L'Être et le Néant* (1943) appelle absurde l'existence dépourvue de fondement.\n\nCamus fait de l'absurde le thème du *Mythe de Sisyphe* (1942). L'absurde naît de la confrontation entre l'appel humain et le silence déraisonnable du monde. La question philosophique fondamentale serait de savoir si la vie vaut la peine d'être vécue. Camus refuse le suicide physique et aussi le « suicide philosophique » de Kierkegaard, Jaspers et Chestov, qui sautent dans la transcendance. Il propose de maintenir l'absurde vivant par la révolte, la liberté et la passion, et conclut qu'il faut imaginer Sisyphe heureux. Le roman *L'Étranger* (1942) et la pièce *Caligula* complètent le cycle. Dans *L'Homme révolté* (1951), la révolte devient principe de solidarité et limite contre le nihilisme meurtrier.\n\nLe théâtre de Beckett et d'Ionesco a été réuni par Martin Esslin sous le nom de théâtre de l'absurde (1961). En philosophie analytique, Thomas Nagel (« The Absurd », 1971 ; *Le Point de vue de nulle part*, 1986) situe l'absurde dans le heurt entre le sérieux avec lequel nous vivons et la possibilité de considérer notre vie d'un point de vue extérieur qui la fait paraître arbitraire. Le concept se rattache au nihilisme, à la liberté, à l'angoisse, à l'existence et à la foi.",
+    "synonyms": [
+     "Sentiment de l'absurde"
+    ],
+    "nearTerms": [
+     "Sens de la vie",
+     "Révolte",
+     "Nihilisme",
+     "Contingence",
+     "Nausée",
+     "Raisonnement par l'absurde"
+    ],
+    "aliases": [
+     "l'absurde",
+     "philosophie de l'absurde",
+     "mythe de Sisyphe",
+     "sens de la vie",
+     "reductio ad absurdum"
+    ],
+    "seoTitle": "Absurde — Kierkegaard, Sartre, Camus et Nagel",
+    "seoDescription": "L'absurde en philosophie : la foi en vertu de l'absurde chez Kierkegaard, la contingence chez Sartre, Le Mythe de Sisyphe et la révolte chez Camus, et Nagel."
+   },
+   "de": {
+    "title": "Das Absurde",
+    "slug": "das-absurde",
+    "summary": "Der Bruch zwischen dem menschlichen Verlangen nach Sinn und dem Schweigen der Welt; bei Camus der Ausgangspunkt einer Ethik der Revolte.",
+    "definition": "In der Logik ist absurd, was der Vernunft widerspricht oder einen Widerspruch einschließt, wie im indirekten Beweis. In der Existenzphilosophie bezeichnet das Absurde das Missverhältnis zwischen dem menschlichen Verlangen nach Sinn, Einheit und Vernunft und einer Welt, die darauf nicht antwortet. Bei Camus liegt das Absurde weder im Menschen noch in der Welt, sondern in ihrer Konfrontation; aus ihm leitet er Revolte, Freiheit und Leidenschaft ab.",
+    "etymology": "Von lateinisch absurdus, „misstönend“, gebildet aus ab- und surdus, „taub, dumpf“; daher die Bedeutung „vernunftwidrig“. Die mittelalterliche Logik prägte den Ausdruck reductio ad absurdum für den Beweis, der aus der Gegenannahme einen Widerspruch ableitet.",
+    "body": "Das Absurde bezeichnet in der Logik, was einen Widerspruch einschließt: Die reductio ad absurdum beweist eine These, indem sie zeigt, dass ihre Verneinung zu unmöglichen Folgen führt. In der Philosophie des 20. Jahrhunderts wurde das Wort zum Namen einer Erfahrung: des Gefühls, dass sich das menschliche Dasein, das Sinn und Rechtfertigung verlangt, in einer gleichgültigen Welt ohne Grund und Zweck abspielt. Die Frage ist, wie angesichts dieses Sinnmangels zu leben sei.\n\nDie Formel „ich glaube, weil es absurd ist“ wird herkömmlich Tertullian zugeschrieben, entstellt aber den Text von *De carne Christi*, der sagt: „es ist gewiss, weil es unmöglich ist“. Kierkegaard gibt dem Absurden eine zentrale Stellung im Glauben: In *Furcht und Zittern* (1843) glaubt Abraham, bereit, Isaak zu opfern, kraft des Absurden, dass Gott ihm den Sohn zurückgeben werde, in einer Bewegung, die Ethik und Vernunft übersteigt. Sartre beschreibt im Roman *Der Ekel* (1938) die radikale Kontingenz des Daseins, und *Das Sein und das Nichts* (1943) nennt das grundlose Existieren absurd.\n\nCamus macht das Absurde zum Thema des *Mythos des Sisyphos* (1942). Das Absurde entsteht aus der Konfrontation zwischen dem menschlichen Ruf und dem vernunftlosen Schweigen der Welt. Die philosophische Grundfrage sei, ob das Leben es wert ist, gelebt zu werden. Camus verwirft den physischen Selbstmord und ebenso den „philosophischen Selbstmord“ Kierkegaards, Jaspers' und Schestows, die in die Transzendenz springen. Er will das Absurde durch Revolte, Freiheit und Leidenschaft lebendig halten und schließt, man müsse sich Sisyphos als glücklichen Menschen vorstellen. Der Roman *Der Fremde* (1942) und das Stück *Caligula* vervollständigen den Zyklus. Im *Menschen in der Revolte* (1951) wird die Revolte zum Prinzip der Solidarität und zur Grenze gegen den mörderischen Nihilismus.\n\nDas Theater Becketts und Ionescos fasste Martin Esslin unter dem Namen Theater des Absurden zusammen (1961). In der analytischen Philosophie verortet Thomas Nagel („The Absurd“, 1971; *Der Blick von nirgendwo*, 1986) das Absurde im Zusammenstoß zwischen dem Ernst, mit dem wir leben, und der Möglichkeit, unser Leben von einem äußeren Standpunkt aus zu betrachten, der es beliebig erscheinen lässt. Der Begriff ist mit Nihilismus, Freiheit, Angst, Existenz und Glauben verbunden.",
+    "synonyms": [
+     "Absurdität"
+    ],
+    "nearTerms": [
+     "Sinn des Lebens",
+     "Revolte",
+     "Nihilismus",
+     "Kontingenz",
+     "Ekel",
+     "Reductio ad absurdum"
+    ],
+    "aliases": [
+     "absurd",
+     "Absurdität",
+     "Philosophie des Absurden",
+     "Mythos des Sisyphos",
+     "Sinn des Lebens"
+    ],
+    "seoTitle": "Das Absurde – Kierkegaard, Sartre, Camus und Nagel",
+    "seoDescription": "Das Absurde in der Philosophie: Glaube kraft des Absurden bei Kierkegaard, Kontingenz bei Sartre, der Mythos des Sisyphos und die Revolte bei Camus, Nagel."
    }
   }
  },
@@ -5102,6 +6860,14 @@
    },
    {
     "conceptId": "con-dialectic",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-alterity",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-dignity",
     "kind": "related"
    },
    {
