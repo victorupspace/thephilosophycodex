@@ -2104,6 +2104,14 @@
    {
     "conceptId": "con-ataraxia",
     "kind": "related"
+   },
+   {
+    "conceptId": "con-foundationalism",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-relativism",
+    "kind": "related"
    }
   ],
   "translations": {
@@ -2259,7 +2267,15 @@
     "kind": "related"
    },
    {
+    "conceptId": "con-intuition",
+    "kind": "related"
+   },
+   {
     "conceptId": "con-induction",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-phenomenon-noumenon",
     "kind": "related"
    }
   ],
@@ -2412,6 +2428,14 @@
     "kind": "related"
    },
    {
+    "conceptId": "con-phenomenon-noumenon",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-intuition",
+    "kind": "related"
+   },
+   {
     "conceptId": "con-knowledge",
     "kind": "related"
    }
@@ -2525,6 +2549,1402 @@
     ],
     "seoTitle": "Wahrnehmung — Definition, Locke, Berkeley, Merleau-Ponty",
     "seoDescription": "Wahrnehmung in der Philosophie: Aristoteles' wahrnehmbare Formen, der Weg der Ideen, Berkeley, Sinnesdaten, Phänomenologie und Disjunktivismus."
+   }
+  }
+ },
+ {
+  "id": "con-tabula-rasa",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-epistemology",
+   "cat-mind"
+  ],
+  "philosopherIds": [
+   "phi-aristotle",
+   "phi-avicenna",
+   "phi-aquinas",
+   "phi-kant"
+  ],
+  "schoolIds": [
+   "sch-aristotelianism",
+   "sch-scholasticism",
+   "sch-empiricism",
+   "sch-rationalism"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-medieval",
+   "per-modern",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-summa",
+   "wrk-krv"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-epistemology",
+    "kind": "broader"
+   },
+   {
+    "conceptId": "con-a-priori",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-perception",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-intuition",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-knowledge",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-induction",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Tábula rasa",
+    "slug": "tabula-rasa",
+    "summary": "A tese de que a mente nasce como uma tábua sem nada escrito e de que todo o seu conteúdo vem da experiência, contra a doutrina das ideias inatas.",
+    "definition": "Tábula rasa é a imagem da mente, antes de toda experiência, como uma tabuinha lisa em que nada está escrito. Exprime a tese empirista de que não há ideias nem princípios inatos e de que todo o conteúdo do pensamento provém da sensação e da reflexão. Opõe-se ao inatismo, que atribui à mente conhecimentos, ideias ou disposições anteriores à experiência.",
+    "etymology": "Do latim tabula rasa, “tábua raspada”: a tabuinha de cera dos romanos, alisada para receber nova escrita, de radere, “raspar”. A imagem remonta ao grego grammateîon, a tabuinha de escrever usada por Aristóteles; o português “tábula” conserva a forma latina.",
+    "body": "A tábula rasa é a imagem da mente anterior a toda experiência como uma tabuinha de cera alisada, em que nada está escrito. A metáfora resume uma tese epistemológica: não há ideias nem princípios inatos, e tudo o que pensamos vem, direta ou indiretamente, da experiência. Por trás dela está uma das grandes controvérsias da filosofia, entre empiristas e inatistas, sobre a origem do conhecimento e sobre o que a mente traz consigo ao nascer.\n\nAristóteles, no *Sobre a Alma* (livro III, 4), compara o intelecto a uma tabuinha de escrever na qual nada está atualmente escrito, pois ele é em potência todos os inteligíveis e nada em ato antes de pensar. Os estoicos descrevem a alma do recém-nascido como uma folha pronta para receber a escrita. Tomás de Aquino retoma Aristóteles e escreve que o intelecto humano é “como uma tábua rasa na qual nada está escrito” (*Suma Teológica*, I, q. 79, a. 2). No século XII, Ibn Tufayl imagina em *Hayy ibn Yaqzan* um homem criado sozinho numa ilha que chega ao conhecimento pela experiência e pela razão.\n\nA formulação clássica moderna é de Locke. No *Ensaio sobre o Entendimento Humano* (1689), ele ataca a doutrina das ideias inatas no livro I e, no livro II, supõe a mente como “papel em branco, sem quaisquer caracteres”, que a sensação e a reflexão vêm preencher. Leibniz responde nos *Novos Ensaios* (escritos por volta de 1704, publicados em 1765): a mente é antes um bloco de mármore com veios que predispõem a figura, e ao adágio “nada há no intelecto que não tenha estado antes nos sentidos” acrescenta “exceto o próprio intelecto”. Kant supera a alternativa ao distinguir a origem do conhecimento, que começa com a experiência, de sua validade, que depende de formas a priori (*Crítica da Razão Pura*, 1781).\n\nNo século XX, a questão passou à psicologia e à linguística: o behaviorismo aproximou-se da tábula rasa, enquanto Chomsky defendeu uma gramática universal inata. O conceito liga-se ao a priori, à percepção, à intuição e à indução, e continua presente nos debates sobre natureza e cultura.",
+    "synonyms": [
+     "Tabula rasa",
+     "Folha em branco"
+    ],
+    "nearTerms": [
+     "Empirismo",
+     "Inatismo",
+     "Ideias inatas",
+     "Experiência",
+     "A priori",
+     "Sensação"
+    ],
+    "aliases": [
+     "tabula rasa",
+     "papel em branco",
+     "ideias inatas",
+     "inatismo"
+    ],
+    "seoTitle": "Tábula rasa — Aristóteles, Tomás de Aquino, Locke e Leibniz",
+    "seoDescription": "A tábula rasa na filosofia: a tabuinha de escrever de Aristóteles, Tomás de Aquino, o papel em branco de Locke, a objeção de Leibniz e o debate sobre ideias inatas."
+   },
+   "en": {
+    "title": "Tabula rasa",
+    "slug": "tabula-rasa",
+    "summary": "The thesis that the mind begins as a blank tablet with nothing written on it and that all its content comes from experience, against the doctrine of innate ideas.",
+    "definition": "Tabula rasa is the image of the mind, before all experience, as a smoothed tablet on which nothing is written. It expresses the empiricist thesis that there are no innate ideas or principles and that all the content of thought derives from sensation and reflection. It is opposed to nativism, which credits the mind with knowledge, ideas or dispositions prior to experience.",
+    "etymology": "Latin tabula rasa, “scraped tablet”: the Roman wax tablet smoothed to receive new writing, from radere, “to scrape”. The image goes back to the Greek grammateîon, the writing tablet invoked by Aristotle; the English “blank slate” is a later equivalent.",
+    "body": "The tabula rasa is the image of the mind before all experience as a smoothed wax tablet on which nothing is written. The metaphor sums up an epistemological thesis: there are no innate ideas or principles, and everything we think comes, directly or indirectly, from experience. Behind it stands one of the great controversies of philosophy, between empiricists and nativists, over the origin of knowledge and what the mind brings with it at birth.\n\nAristotle, in *On the Soul* (Book III, 4), compares the intellect to a writing tablet on which nothing is actually written, since it is potentially all intelligibles and actually none of them before it thinks. The Stoics describe the soul of a newborn as a sheet ready for writing. Thomas Aquinas takes up Aristotle and writes that the human intellect is “like a clean tablet on which nothing is written” (*Summa Theologiae*, I, q. 79, a. 2). In the twelfth century Ibn Tufayl imagines, in *Hayy ibn Yaqzan*, a man raised alone on an island who reaches knowledge through experience and reason.\n\nThe classic modern formulation is Locke's. In *An Essay Concerning Human Understanding* (1689) he attacks the doctrine of innate ideas in Book I and, in Book II, supposes the mind to be “white paper, void of all characters”, which sensation and reflection come to fill. Leibniz replies in the *New Essays* (written around 1704, published in 1765): the mind is rather a block of veined marble whose veins predispose the figure, and to the adage “nothing is in the intellect that was not first in the senses” he adds “except the intellect itself”. Kant moves beyond the alternative by distinguishing the origin of knowledge, which begins with experience, from its validity, which depends on a priori forms (*Critique of Pure Reason*, 1781).\n\nIn the twentieth century the question passed to psychology and linguistics: behaviourism came close to the tabula rasa, while Chomsky defended an innate universal grammar. The concept is linked to the a priori, perception, intuition and induction, and remains present in debates over nature and nurture.",
+    "synonyms": [
+     "Blank slate"
+    ],
+    "nearTerms": [
+     "Empiricism",
+     "Nativism",
+     "Innate ideas",
+     "Experience",
+     "A priori",
+     "Sensation"
+    ],
+    "aliases": [
+     "blank slate",
+     "white paper",
+     "innate ideas",
+     "nativism"
+    ],
+    "seoTitle": "Tabula rasa — Aristotle, Aquinas, Locke and Leibniz",
+    "seoDescription": "The tabula rasa in philosophy: Aristotle's writing tablet, Aquinas, Locke's white paper, Leibniz's objection and the debate over innate ideas."
+   },
+   "fr": {
+    "title": "Table rase",
+    "slug": "table-rase",
+    "summary": "La thèse selon laquelle l'esprit naît comme une tablette où rien n'est écrit et tire tout son contenu de l'expérience, contre la doctrine des idées innées.",
+    "definition": "La table rase est l'image de l'esprit, avant toute expérience, comme une tablette lisse sur laquelle rien n'est écrit. Elle exprime la thèse empiriste selon laquelle il n'existe ni idées ni principes innés et tout le contenu de la pensée provient de la sensation et de la réflexion. Elle s'oppose à l'innéisme, qui attribue à l'esprit des connaissances, des idées ou des dispositions antérieures à l'expérience.",
+    "etymology": "Du latin tabula rasa, « tablette raclée » : la tablette de cire des Romains, lissée pour recevoir une nouvelle écriture, de radere, « racler ». L'image remonte au grec grammateîon, la tablette à écrire qu'invoque Aristote ; « faire table rase » en est l'usage courant.",
+    "body": "La table rase est l'image de l'esprit avant toute expérience comme une tablette de cire lissée sur laquelle rien n'est écrit. La métaphore résume une thèse épistémologique : il n'existe ni idées ni principes innés, et tout ce que nous pensons vient, directement ou indirectement, de l'expérience. Derrière elle se tient l'une des grandes controverses de la philosophie, entre empiristes et innéistes, sur l'origine de la connaissance et sur ce que l'esprit apporte avec lui à la naissance.\n\nAristote, dans le traité *De l'âme* (livre III, 4), compare l'intellect à une tablette à écrire sur laquelle rien n'est écrit en acte, puisqu'il est en puissance tous les intelligibles et aucun en acte avant de penser. Les stoïciens décrivent l'âme du nouveau-né comme une feuille prête à recevoir l'écriture. Thomas d'Aquin reprend Aristote et écrit que l'intellect humain est « comme une tablette rase sur laquelle rien n'est écrit » (*Somme théologique*, I, q. 79, a. 2). Au XIIe siècle, Ibn Tufayl imagine dans *Hayy ibn Yaqzan* un homme élevé seul sur une île qui parvient à la connaissance par l'expérience et la raison.\n\nLa formulation moderne classique est celle de Locke. Dans l'*Essai sur l'entendement humain* (1689), il attaque la doctrine des idées innées au livre I et, au livre II, suppose l'esprit comme un « papier blanc, vide de tous caractères », que la sensation et la réflexion viennent remplir. Leibniz répond dans les *Nouveaux Essais* (rédigés vers 1704, publiés en 1765) : l'esprit ressemble plutôt à un bloc de marbre veiné dont les veines prédisposent la figure, et à l'adage « rien n'est dans l'intellect qui n'ait d'abord été dans les sens » il ajoute « si ce n'est l'intellect lui-même ». Kant dépasse l'alternative en distinguant l'origine de la connaissance, qui commence avec l'expérience, de sa validité, qui dépend de formes a priori (*Critique de la raison pure*, 1781).\n\nAu XXe siècle, la question est passée à la psychologie et à la linguistique : le béhaviorisme s'est rapproché de la table rase, tandis que Chomsky a défendu une grammaire universelle innée. Le concept se rattache à l'a priori, à la perception, à l'intuition et à l'induction, et demeure présent dans les débats sur l'inné et l'acquis.",
+    "synonyms": [
+     "Tabula rasa"
+    ],
+    "nearTerms": [
+     "Empirisme",
+     "Innéisme",
+     "Idées innées",
+     "Expérience",
+     "A priori",
+     "Sensation"
+    ],
+    "aliases": [
+     "tabula rasa",
+     "papier blanc",
+     "idées innées",
+     "innéisme"
+    ],
+    "seoTitle": "Table rase — Aristote, Thomas d'Aquin, Locke et Leibniz",
+    "seoDescription": "La table rase en philosophie : la tablette d'Aristote, Thomas d'Aquin, le papier blanc de Locke, l'objection de Leibniz et le débat sur les idées innées."
+   },
+   "de": {
+    "title": "Tabula rasa",
+    "slug": "tabula-rasa",
+    "summary": "Die These, dass der Geist als unbeschriebene Tafel beginnt und all seinen Inhalt aus der Erfahrung empfängt, gegen die Lehre von den angeborenen Ideen.",
+    "definition": "Tabula rasa ist das Bild des Geistes vor aller Erfahrung als geglättete Tafel, auf der nichts geschrieben steht. Es drückt die empiristische These aus, dass es keine angeborenen Ideen oder Prinzipien gibt und aller Inhalt des Denkens aus Sinneswahrnehmung und Reflexion stammt. Es steht dem Nativismus entgegen, der dem Geist Erkenntnisse, Ideen oder Anlagen vor aller Erfahrung zuschreibt.",
+    "etymology": "Lateinisch tabula rasa, „abgeschabte Tafel“: die römische Wachstafel, die für neue Schrift geglättet wurde, von radere, „schaben“. Das Bild geht auf das griechische grammateîon, die Schreibtafel bei Aristoteles, zurück; deutsch sagt man auch „unbeschriebenes Blatt“.",
+    "body": "Die Tabula rasa ist das Bild des Geistes vor aller Erfahrung als geglättete Wachstafel, auf der nichts geschrieben steht. Die Metapher fasst eine erkenntnistheoretische These zusammen: Es gibt keine angeborenen Ideen oder Prinzipien, und alles, was wir denken, stammt unmittelbar oder mittelbar aus der Erfahrung. Hinter ihr steht eine der großen Kontroversen der Philosophie zwischen Empiristen und Nativisten über den Ursprung der Erkenntnis und darüber, was der Geist bei der Geburt mitbringt.\n\nAristoteles vergleicht in *Über die Seele* (Buch III, 4) den Verstand mit einer Schreibtafel, auf der der Wirklichkeit nach nichts geschrieben steht, da er vor dem Denken der Möglichkeit nach alles Denkbare und der Wirklichkeit nach nichts davon ist. Die Stoiker beschreiben die Seele des Neugeborenen als ein zum Beschreiben bereites Blatt. Thomas von Aquin nimmt Aristoteles auf und schreibt, der menschliche Verstand sei „wie eine glatte Tafel, auf der nichts geschrieben ist“ (*Summa theologiae*, I, q. 79, a. 2). Im 12. Jahrhundert entwirft Ibn Tufail in *Hayy ibn Yaqzan* einen allein auf einer Insel aufgewachsenen Menschen, der durch Erfahrung und Vernunft zur Erkenntnis gelangt.\n\nDie klassische neuzeitliche Fassung stammt von Locke. Im *Versuch über den menschlichen Verstand* (1689) bekämpft er im I. Buch die Lehre von den angeborenen Ideen und nimmt im II. Buch den Geist als „weißes Papier, ohne alle Schriftzeichen“ an, das Sinneswahrnehmung und Reflexion füllen. Leibniz antwortet in den *Neuen Abhandlungen* (um 1704 verfasst, 1765 veröffentlicht): Der Geist gleiche eher einem geäderten Marmorblock, dessen Adern die Gestalt vorzeichnen, und dem Satz „nichts ist im Verstand, was nicht zuvor in den Sinnen war“ fügt er hinzu: „außer dem Verstand selbst“. Kant überwindet die Alternative, indem er den Ursprung der Erkenntnis, die mit der Erfahrung anhebt, von ihrer Geltung unterscheidet, die auf Formen a priori beruht (*Kritik der reinen Vernunft*, 1781).\n\nIm 20. Jahrhundert ging die Frage an Psychologie und Linguistik über: Der Behaviorismus näherte sich der Tabula rasa, während Chomsky eine angeborene Universalgrammatik vertrat. Der Begriff ist mit dem Apriori, der Wahrnehmung, der Anschauung und der Induktion verbunden und bleibt in der Debatte um Anlage und Umwelt gegenwärtig.",
+    "synonyms": [
+     "Unbeschriebenes Blatt"
+    ],
+    "nearTerms": [
+     "Empirismus",
+     "Nativismus",
+     "Angeborene Ideen",
+     "Erfahrung",
+     "A priori",
+     "Sinneswahrnehmung"
+    ],
+    "aliases": [
+     "unbeschriebenes Blatt",
+     "weißes Papier",
+     "angeborene Ideen",
+     "Nativismus"
+    ],
+    "seoTitle": "Tabula rasa – Aristoteles, Thomas von Aquin, Locke und Leibniz",
+    "seoDescription": "Die Tabula rasa in der Philosophie: die Schreibtafel des Aristoteles, Thomas von Aquin, Lockes weißes Papier, Leibniz' Einwand und die angeborenen Ideen."
+   }
+  }
+ },
+ {
+  "id": "con-intuition",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-epistemology",
+   "cat-metaphysics"
+  ],
+  "philosopherIds": [
+   "phi-aristotle",
+   "phi-descartes",
+   "phi-spinoza",
+   "phi-kant",
+   "phi-husserl"
+  ],
+  "schoolIds": [
+   "sch-rationalism",
+   "sch-idealism",
+   "sch-phenomenology"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-medieval",
+   "per-modern",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-meditations",
+   "wrk-ethics-spinoza",
+   "wrk-krv",
+   "wrk-ideas-husserl"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-knowledge",
+    "kind": "broader"
+   },
+   {
+    "conceptId": "con-a-priori",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-perception",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-deduction",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-phenomenon-noumenon",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-tabula-rasa",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Intuição",
+    "slug": "intuicao",
+    "summary": "Conhecimento imediato, sem mediação de raciocínio: a visão dos primeiros princípios, a representação sensível de um objeto em Kant, a apreensão da duração em Bergson.",
+    "definition": "Intuição é a apreensão direta e imediata de um objeto ou de uma verdade, sem a mediação de conceitos encadeados ou de inferências. Distingue-se do conhecimento discursivo, que procede por raciocínio. A tradição distingue a intuição intelectual, que apreenderia princípios ou essências, da intuição sensível, pela qual, segundo Kant, os objetos nos são dados no espaço e no tempo.",
+    "etymology": "Do latim tardio intuitio, de intueri, “olhar atentamente, contemplar”, formado por in- e tueri, “olhar, observar”. Traduz o grego noêsis e epibolḗ; em alemão, Kant usa Anschauung, de anschauen, “olhar para”.",
+    "body": "A intuição é o conhecimento imediato: a apreensão de um objeto ou de uma verdade sem passar por raciocínio. Opõe-se ao conhecimento discursivo, que avança por conceitos e inferências. A questão filosófica é saber se temos intuições intelectuais, capazes de apreender princípios ou essências, ou apenas intuições sensíveis, e se a intuição pode servir de fundamento ao conhecimento.\n\nAristóteles atribui ao intelecto (noûs) a apreensão dos primeiros princípios, que não podem ser demonstrados sem regresso infinito (*Segundos Analíticos*, II, 19). Na Escolástica, Duns Escoto distingue a cognição intuitiva, que apreende a coisa como existente e presente, da cognição abstrativa, que prescinde da existência, distinção que Ockham desenvolve. Descartes, nas *Regras para a Direção do Espírito* (redigidas por volta de 1628), define a intuição como a concepção de um espírito puro e atento, tão clara que não deixa dúvida, e faz dela, com a dedução, a única via da ciência; as *Meditações* (1641) dependem dessa evidência. Espinosa chama ciência intuitiva ao terceiro gênero de conhecimento, que vai da ideia dos atributos de Deus à essência das coisas (*Ética*, 1677, II, prop. 40, escólio 2).\n\nKant transforma o conceito. Na *Crítica da Razão Pura* (1781), intuição (Anschauung) é a representação imediata de um objeto singular, e para os seres humanos ela é sempre sensível, com espaço e tempo como formas puras; “pensamentos sem conteúdo são vazios, intuições sem conceitos são cegas” (A 51/B 75). Kant nega-nos a intuição intelectual, que Fichte e Schelling reivindicarão como princípio da filosofia. Bergson faz da intuição o método da metafísica, simpatia que coincide com a duração, por oposição à análise conceitual. Husserl eleva a intuição doadora originária a “princípio de todos os princípios” (*Ideias*, 1913, § 24) e fala de intuição de essências.\n\nNa filosofia contemporânea discute-se o valor das intuições como evidência, por exemplo nos experimentos mentais, e a filosofia experimental questiona sua universalidade. Na matemática, o intuicionismo de Brouwer faz da construção intuitiva o critério da existência dos objetos matemáticos. O conceito relaciona-se com o a priori, a percepção e a dedução.",
+    "synonyms": [
+     "Apreensão imediata"
+    ],
+    "nearTerms": [
+     "Evidência",
+     "Percepção",
+     "Intelecto",
+     "Dedução",
+     "Anschauung",
+     "Visão das essências"
+    ],
+    "aliases": [
+     "intuição intelectual",
+     "intuição sensível",
+     "Anschauung",
+     "intuicionismo",
+     "ciência intuitiva"
+    ],
+    "seoTitle": "Intuição — Aristóteles, Descartes, Kant, Bergson, Husserl",
+    "seoDescription": "A intuição na filosofia: noûs em Aristóteles, intuição e dedução em Descartes, ciência intuitiva em Espinosa, intuição sensível em Kant, Bergson e Husserl."
+   },
+   "en": {
+    "title": "Intuition",
+    "slug": "intuition",
+    "summary": "Immediate knowledge without the mediation of reasoning: grasping first principles, the sensible representation of an object in Kant, the apprehension of duration in Bergson.",
+    "definition": "Intuition is the direct and immediate apprehension of an object or a truth, without the mediation of chained concepts or inferences. It is distinguished from discursive knowledge, which proceeds by reasoning. The tradition distinguishes intellectual intuition, which would grasp principles or essences, from sensible intuition, through which, according to Kant, objects are given to us in space and time.",
+    "etymology": "From Late Latin intuitio, from intueri, “to look at attentively, contemplate”, formed from in- and tueri, “to look, watch”. It renders Greek noêsis and epibolḗ; in German, Kant uses Anschauung, from anschauen, “to look at”.",
+    "body": "Intuition is immediate knowledge: the apprehension of an object or a truth without passing through reasoning. It is opposed to discursive knowledge, which advances by concepts and inferences. The philosophical question is whether we have intellectual intuitions, capable of grasping principles or essences, or only sensible intuitions, and whether intuition can serve as a foundation for knowledge.\n\nAristotle credits the intellect (noûs) with grasping first principles, which cannot be demonstrated without an infinite regress (*Posterior Analytics*, II, 19). In Scholasticism, Duns Scotus distinguishes intuitive cognition, which grasps a thing as existing and present, from abstractive cognition, which sets existence aside, a distinction Ockham develops. Descartes, in the *Rules for the Direction of the Mind* (written around 1628), defines intuition as the conception of a clear and attentive mind, so evident that it leaves no doubt, and makes it, with deduction, the only path to science; the *Meditations* (1641) rest on this evidence. Spinoza calls intuitive science the third kind of knowledge, which proceeds from the idea of God's attributes to the essence of things (*Ethics*, 1677, II, prop. 40, scholium 2).\n\nKant transforms the concept. In the *Critique of Pure Reason* (1781) intuition (Anschauung) is the immediate representation of a singular object, and for human beings it is always sensible, with space and time as its pure forms; “thoughts without content are empty, intuitions without concepts are blind” (A51/B75). Kant denies us intellectual intuition, which Fichte and Schelling would claim as the principle of philosophy. Bergson makes intuition the method of metaphysics, a sympathy that coincides with duration, as opposed to conceptual analysis. Husserl raises originary giving intuition to “the principle of all principles” (*Ideas*, 1913, §24) and speaks of the intuition of essences.\n\nContemporary philosophy debates the evidential value of intuitions, for instance in thought experiments, and experimental philosophy questions their universality. In mathematics, Brouwer's intuitionism makes intuitive construction the criterion for the existence of mathematical objects. The concept is related to the a priori, perception and deduction.",
+    "synonyms": [
+     "Immediate apprehension"
+    ],
+    "nearTerms": [
+     "Evidence",
+     "Perception",
+     "Intellect",
+     "Deduction",
+     "Anschauung",
+     "Intuition of essences"
+    ],
+    "aliases": [
+     "intellectual intuition",
+     "sensible intuition",
+     "Anschauung",
+     "intuitionism",
+     "intuitive science"
+    ],
+    "seoTitle": "Intuition — Aristotle, Descartes, Kant, Bergson, Husserl",
+    "seoDescription": "Intuition in philosophy: noûs in Aristotle, intuition and deduction in Descartes, Spinoza's intuitive science, sensible intuition in Kant, Bergson and Husserl."
+   },
+   "fr": {
+    "title": "Intuition",
+    "slug": "intuition",
+    "summary": "Connaissance immédiate, sans médiation du raisonnement : saisie des premiers principes, représentation sensible d'un objet chez Kant, saisie de la durée chez Bergson.",
+    "definition": "L'intuition est la saisie directe et immédiate d'un objet ou d'une vérité, sans la médiation de concepts enchaînés ou d'inférences. Elle se distingue de la connaissance discursive, qui procède par raisonnement. La tradition distingue l'intuition intellectuelle, qui saisirait des principes ou des essences, de l'intuition sensible, par laquelle, selon Kant, les objets nous sont donnés dans l'espace et le temps.",
+    "etymology": "Du latin tardif intuitio, de intueri, « regarder attentivement, contempler », formé de in- et tueri, « regarder, observer ». Le terme traduit le grec noêsis et epibolḗ ; en allemand, Kant emploie Anschauung, de anschauen, « regarder ».",
+    "body": "L'intuition est la connaissance immédiate : la saisie d'un objet ou d'une vérité sans passer par le raisonnement. Elle s'oppose à la connaissance discursive, qui avance par concepts et inférences. La question philosophique est de savoir si nous disposons d'intuitions intellectuelles, capables de saisir des principes ou des essences, ou seulement d'intuitions sensibles, et si l'intuition peut fonder la connaissance.\n\nAristote attribue à l'intellect (noûs) la saisie des premiers principes, qui ne peuvent être démontrés sans régression à l'infini (*Seconds Analytiques*, II, 19). Dans la scolastique, Duns Scot distingue la connaissance intuitive, qui saisit la chose comme existante et présente, de la connaissance abstractive, qui fait abstraction de l'existence, distinction que développe Ockham. Descartes, dans les *Règles pour la direction de l'esprit* (rédigées vers 1628), définit l'intuition comme la conception d'un esprit pur et attentif, si claire qu'elle ne laisse aucun doute, et en fait, avec la déduction, la seule voie de la science ; les *Méditations* (1641) reposent sur cette évidence. Spinoza appelle science intuitive le troisième genre de connaissance, qui va de l'idée des attributs de Dieu à l'essence des choses (*Éthique*, 1677, II, prop. 40, scolie 2).\n\nKant transforme le concept. Dans la *Critique de la raison pure* (1781), l'intuition (Anschauung) est la représentation immédiate d'un objet singulier ; chez l'homme elle est toujours sensible et a pour formes pures l'espace et le temps : « des pensées sans contenu sont vides, des intuitions sans concepts sont aveugles » (A 51/B 75). Kant nous refuse l'intuition intellectuelle, que Fichte et Schelling revendiqueront comme principe de la philosophie. Bergson fait de l'intuition la méthode de la métaphysique, sympathie qui coïncide avec la durée, par opposition à l'analyse conceptuelle. Husserl élève l'intuition donatrice originaire au rang de « principe des principes » (*Idées directrices*, 1913, § 24) et parle d'intuition des essences.\n\nLa philosophie contemporaine discute la valeur des intuitions comme données, par exemple dans les expériences de pensée, et la philosophie expérimentale met en question leur universalité. En mathématiques, l'intuitionnisme de Brouwer fait de la construction intuitive le critère de l'existence des objets mathématiques. Le concept se rattache à l'a priori, à la perception et à la déduction.",
+    "synonyms": [
+     "Saisie immédiate"
+    ],
+    "nearTerms": [
+     "Évidence",
+     "Perception",
+     "Intellect",
+     "Déduction",
+     "Anschauung",
+     "Intuition des essences"
+    ],
+    "aliases": [
+     "intuition intellectuelle",
+     "intuition sensible",
+     "Anschauung",
+     "intuitionnisme",
+     "science intuitive"
+    ],
+    "seoTitle": "Intuition — Aristote, Descartes, Kant, Bergson, Husserl",
+    "seoDescription": "L'intuition en philosophie : le noûs chez Aristote, intuition et déduction chez Descartes, science intuitive chez Spinoza, intuition sensible chez Kant, Bergson."
+   },
+   "de": {
+    "title": "Anschauung (Intuition)",
+    "slug": "anschauung",
+    "summary": "Unmittelbare Erkenntnis ohne Vermittlung durch Schlüsse: Erfassen der ersten Prinzipien, sinnliche Vorstellung eines Gegenstandes bei Kant, Erfassen der Dauer bei Bergson.",
+    "definition": "Anschauung oder Intuition ist das direkte und unmittelbare Erfassen eines Gegenstandes oder einer Wahrheit ohne die Vermittlung verketteter Begriffe oder Schlüsse. Sie unterscheidet sich von der diskursiven Erkenntnis, die durch Schließen fortschreitet. Die Tradition trennt die intellektuelle Anschauung, die Prinzipien oder Wesenheiten erfassen würde, von der sinnlichen Anschauung, durch die uns nach Kant Gegenstände in Raum und Zeit gegeben werden.",
+    "etymology": "Spätlateinisch intuitio, zu intueri, „aufmerksam betrachten“, aus in- und tueri, „schauen, beobachten“; übersetzt griechisch noêsis und epibolḗ. Das deutsche Anschauung, zu anschauen, ist seit Kant der maßgebliche Terminus.",
+    "body": "Anschauung ist unmittelbare Erkenntnis: das Erfassen eines Gegenstandes oder einer Wahrheit, ohne den Weg über Schlüsse zu gehen. Sie steht der diskursiven Erkenntnis gegenüber, die in Begriffen und Folgerungen fortschreitet. Die philosophische Frage lautet, ob wir über intellektuelle Anschauungen verfügen, die Prinzipien oder Wesenheiten erfassen, oder nur über sinnliche, und ob Anschauung Erkenntnis begründen kann.\n\nAristoteles schreibt dem Intellekt (noûs) das Erfassen der ersten Prinzipien zu, die sich ohne unendlichen Regress nicht beweisen lassen (*Zweite Analytik*, II 19). In der Scholastik unterscheidet Duns Scotus die intuitive Erkenntnis, die ein Ding als existierend und gegenwärtig erfasst, von der abstraktiven, die von der Existenz absieht; Ockham baut diese Unterscheidung aus. Descartes bestimmt in den *Regeln zur Leitung des Geistes* (um 1628 verfasst) die Intuition als Begreifen eines reinen und aufmerksamen Geistes, so klar, dass kein Zweifel bleibt, und macht sie neben der Deduktion zum einzigen Weg der Wissenschaft; die *Meditationen* (1641) beruhen auf dieser Evidenz. Spinoza nennt die dritte Erkenntnisgattung, die von der Idee der Attribute Gottes zum Wesen der Dinge fortgeht, intuitive Wissenschaft (*Ethik*, 1677, II, Lehrsatz 40, Anm. 2).\n\nKant verwandelt den Begriff. In der *Kritik der reinen Vernunft* (1781) ist Anschauung die unmittelbare Vorstellung eines einzelnen Gegenstandes; für den Menschen ist sie stets sinnlich und hat Raum und Zeit zu reinen Formen: „Gedanken ohne Inhalt sind leer, Anschauungen ohne Begriffe sind blind“ (A 51/B 75). Die intellektuelle Anschauung spricht Kant uns ab; Fichte und Schelling beanspruchen sie als Prinzip der Philosophie. Bergson macht die Intuition zur Methode der Metaphysik, zu einer Sympathie, die mit der Dauer zusammenfällt, im Gegensatz zur begrifflichen Analyse. Husserl erhebt die originär gebende Anschauung zum „Prinzip aller Prinzipien“ (*Ideen*, 1913, § 24) und spricht von Wesensschau.\n\nDie Gegenwartsphilosophie erörtert den Belegwert von Intuitionen, etwa in Gedankenexperimenten, und die experimentelle Philosophie bezweifelt ihre Allgemeinheit. In der Mathematik macht Brouwers Intuitionismus die anschauliche Konstruktion zum Kriterium für die Existenz mathematischer Gegenstände. Der Begriff ist mit dem Apriori, der Wahrnehmung und der Deduktion verbunden.",
+    "synonyms": [
+     "Intuition",
+     "Unmittelbare Erkenntnis"
+    ],
+    "nearTerms": [
+     "Evidenz",
+     "Wahrnehmung",
+     "Intellekt",
+     "Deduktion",
+     "Wesensschau",
+     "Intellektuelle Anschauung"
+    ],
+    "aliases": [
+     "Intuition",
+     "intellektuelle Anschauung",
+     "sinnliche Anschauung",
+     "Intuitionismus",
+     "Wesensschau"
+    ],
+    "seoTitle": "Anschauung – Aristoteles, Descartes, Kant, Bergson, Husserl",
+    "seoDescription": "Anschauung und Intuition in der Philosophie: noûs bei Aristoteles, Intuition bei Descartes, intuitive Wissenschaft bei Spinoza, Kant, Bergson und Husserl."
+   }
+  }
+ },
+ {
+  "id": "con-doxa",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-epistemology"
+  ],
+  "philosopherIds": [
+   "phi-parmenides",
+   "phi-plato",
+   "phi-aristotle",
+   "phi-sextus",
+   "phi-husserl",
+   "phi-arendt"
+  ],
+  "schoolIds": [
+   "sch-platonism",
+   "sch-aristotelianism",
+   "sch-scepticism"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-on-nature-parmenides",
+   "wrk-republic",
+   "wrk-outlines-pyrrhonism"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-knowledge",
+    "kind": "opposite"
+   },
+   {
+    "conceptId": "con-belief",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-truth",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-justification",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-scepticism",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-forms",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-dialectic",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Opinião (doxa)",
+    "slug": "opiniao-doxa",
+    "summary": "O parecer que não chega a ser conhecimento: em Platão, a crença sobre o mundo sensível, situada entre a ciência e a ignorância.",
+    "definition": "Doxa é a opinião: o juízo ou a crença que toma algo por verdadeiro sem possuir a justificação que faria dele conhecimento. Em Platão, designa o estado da alma voltado para as aparências sensíveis e opõe-se à epistḗmē, a ciência. Pode ser verdadeira ou falsa, mas mesmo a opinião verdadeira permanece instável enquanto não é fundamentada.",
+    "etymology": "Do grego dóxa, derivado de dokeîn, “parecer” e “julgar, pensar”. O termo significa tanto “opinião” quanto “reputação”; na tradução grega da Bíblia passou a significar “glória”. O latim traduziu-o por opinio, de opinari, “supor, julgar”.",
+    "body": "Doxa é a opinião: o que parece verdadeiro a alguém, sem que ele saiba justificá-lo como conhecimento. O conceito nasce de uma oposição que atravessa a filosofia grega, entre o que parece e o que é, entre a crença comum e a ciência. Pergunta-se em que a opinião difere do conhecimento, se uma opinião verdadeira já basta e que valor têm as opiniões compartilhadas na investigação e na vida política.\n\nNo poema *Sobre a Natureza* (c. 475 a.C.), a deusa ensina a Parmênides a verdade e também as opiniões dos mortais (brotôn dóxai), nas quais não há convicção verdadeira. Platão dá ao conceito sua forma clássica. No livro V da *República* (c. 375 a.C.), a opinião ocupa o lugar intermediário entre a ciência, que tem por objeto o ser, e a ignorância, que corresponde ao não-ser; seu objeto é o mundo sensível, que é e não é. Na linha dividida do livro VI, a doxa abrange a conjectura (eikasía) e a crença (pístis). No *Mênon*, a opinião verdadeira guia a ação tão bem quanto a ciência, mas foge como as estátuas de Dédalo enquanto não é amarrada por um raciocínio causal. O *Teeteto* (c. 369 a.C.) examina e recusa a definição do conhecimento como opinião verdadeira acompanhada de logos.\n\nAristóteles reabilita as opiniões reputadas (éndoxa), aceitas por todos, pela maioria ou pelos sábios, como ponto de partida da dialética (*Tópicos*, I, 1). Os céticos pirrônicos, segundo Sexto Empírico, procuram viver sem opiniões (adoxástōs), suspendendo o juízo sobre o que não é evidente. No século XX, Husserl fala de uma doxa originária e de modalidades dóxicas da crença; Arendt defende a dignidade da opinião na vida política, espaço da pluralidade, contra a pretensão de uma verdade única; Bourdieu chama doxa ao conjunto de pressupostos que uma sociedade toma como evidentes.\n\nO conceito relaciona-se com a crença, a verdade, a justificação e o ceticismo. A epistemologia contemporânea retoma o problema do *Teeteto* ao perguntar o que se deve acrescentar à crença verdadeira para obter conhecimento.",
+    "synonyms": [
+     "Opinião",
+     "Crença"
+    ],
+    "nearTerms": [
+     "Crença",
+     "Episteme",
+     "Aparência",
+     "Endoxa",
+     "Opinião verdadeira",
+     "Senso comum"
+    ],
+    "aliases": [
+     "doxa",
+     "opinião verdadeira",
+     "endoxa",
+     "opinião e ciência"
+    ],
+    "seoTitle": "Opinião (doxa) — Parmênides, Platão, Aristóteles e Arendt",
+    "seoDescription": "A doxa na filosofia: as opiniões dos mortais em Parmênides, opinião e ciência em Platão, os endoxa de Aristóteles, os céticos, Husserl, Arendt e Bourdieu."
+   },
+   "en": {
+    "title": "Opinion (doxa)",
+    "slug": "opinion-doxa",
+    "summary": "Belief that falls short of knowledge: in Plato, belief about the sensible world, placed between knowledge and ignorance.",
+    "definition": "Doxa is opinion: the judgement or belief that takes something to be true without the justification that would make it knowledge. In Plato it names the state of the soul directed at sensible appearances and is opposed to epistḗmē, knowledge. It can be true or false, but even true opinion remains unstable as long as it is not grounded.",
+    "etymology": "From Greek dóxa, derived from dokeîn, “to seem” and “to judge, think”. The word means both “opinion” and “reputation”; in the Greek translation of the Bible it came to mean “glory”. Latin rendered it as opinio, from opinari, “to suppose, judge”.",
+    "body": "Doxa is opinion: what seems true to someone, without their being able to justify it as knowledge. The concept arises from an opposition that runs through Greek philosophy, between what appears and what is, between common belief and science. The questions are how opinion differs from knowledge, whether a true opinion is already enough, and what value shared opinions have in inquiry and in political life.\n\nIn the poem *On Nature* (c. 475 BCE) the goddess teaches Parmenides the truth and also the opinions of mortals (brotôn dóxai), in which there is no true conviction. Plato gives the concept its classic form. In Book V of the *Republic* (c. 375 BCE) opinion occupies the intermediate place between knowledge, whose object is what is, and ignorance, which corresponds to what is not; its object is the sensible world, which both is and is not. In the divided line of Book VI, doxa covers conjecture (eikasía) and belief (pístis). In the *Meno*, true opinion guides action as well as knowledge does, but it runs away like the statues of Daedalus unless it is tied down by causal reasoning. The *Theaetetus* (c. 369 BCE) examines and rejects the definition of knowledge as true opinion accompanied by logos.\n\nAristotle rehabilitates reputable opinions (éndoxa), accepted by all, by most or by the wise, as the starting point of dialectic (*Topics*, I, 1). The Pyrrhonian sceptics, according to Sextus Empiricus, seek to live without opinions (adoxástōs), suspending judgement on what is not evident. In the twentieth century Husserl speaks of a primal doxa and of doxic modalities of belief; Arendt defends the dignity of opinion in political life, the space of plurality, against the claim of a single truth; Bourdieu calls doxa the set of presuppositions a society takes as self-evident.\n\nThe concept is related to belief, truth, justification and scepticism. Contemporary epistemology takes up the problem of the *Theaetetus* when it asks what must be added to true belief to yield knowledge.",
+    "synonyms": [
+     "Opinion",
+     "Belief"
+    ],
+    "nearTerms": [
+     "Belief",
+     "Episteme",
+     "Appearance",
+     "Endoxa",
+     "True opinion",
+     "Common sense"
+    ],
+    "aliases": [
+     "doxa",
+     "true opinion",
+     "endoxa",
+     "opinion and knowledge"
+    ],
+    "seoTitle": "Opinion (doxa) — Parmenides, Plato, Aristotle and Arendt",
+    "seoDescription": "Doxa in philosophy: the opinions of mortals in Parmenides, opinion and knowledge in Plato, Aristotle's endoxa, the sceptics, Husserl, Arendt and Bourdieu."
+   },
+   "fr": {
+    "title": "Opinion (doxa)",
+    "slug": "opinion-doxa",
+    "summary": "Le jugement qui n'atteint pas la science : chez Platon, la croyance portant sur le monde sensible, entre science et ignorance.",
+    "definition": "La doxa est l'opinion : le jugement ou la croyance qui tient une chose pour vraie sans posséder la justification qui en ferait une connaissance. Chez Platon, elle désigne l'état de l'âme tourné vers les apparences sensibles et s'oppose à l'epistḗmē, la science. Elle peut être vraie ou fausse, mais même l'opinion vraie reste instable tant qu'elle n'est pas fondée.",
+    "etymology": "Du grec dóxa, dérivé de dokeîn, « sembler » et « juger, penser ». Le mot signifie à la fois « opinion » et « réputation » ; dans la traduction grecque de la Bible, il prend le sens de « gloire ». Le latin l'a rendu par opinio, de opinari, « supposer, juger ».",
+    "body": "La doxa est l'opinion : ce qui paraît vrai à quelqu'un sans qu'il sache le justifier comme connaissance. Le concept naît d'une opposition qui traverse la philosophie grecque, entre ce qui paraît et ce qui est, entre la croyance commune et la science. On se demande en quoi l'opinion diffère de la connaissance, si une opinion vraie suffit déjà et quelle valeur ont les opinions partagées dans la recherche et dans la vie politique.\n\nDans le poème *De la nature* (v. 475 av. J.-C.), la déesse enseigne à Parménide la vérité et aussi les opinions des mortels (brotôn dóxai), où ne se trouve aucune conviction vraie. Platon donne au concept sa forme classique. Au livre V de la *République* (v. 375 av. J.-C.), l'opinion occupe la place intermédiaire entre la science, qui a pour objet l'être, et l'ignorance, qui répond au non-être ; son objet est le monde sensible, qui est et n'est pas. Dans la ligne divisée du livre VI, la doxa comprend la conjecture (eikasía) et la croyance (pístis). Dans le *Ménon*, l'opinion vraie guide l'action aussi bien que la science, mais elle s'enfuit comme les statues de Dédale tant qu'elle n'est pas attachée par un raisonnement causal. Le *Théétète* (v. 369 av. J.-C.) examine et rejette la définition de la science comme opinion vraie accompagnée de logos.\n\nAristote réhabilite les opinions admises (éndoxa), reçues par tous, par la plupart ou par les sages, comme point de départ de la dialectique (*Topiques*, I, 1). Les sceptiques pyrrhoniens, selon Sextus Empiricus, cherchent à vivre sans opinions (adoxástōs), en suspendant leur jugement sur ce qui n'est pas évident. Au XXe siècle, Husserl parle d'une doxa originaire et de modalités doxiques de la croyance ; Arendt défend la dignité de l'opinion dans la vie politique, espace de la pluralité, contre la prétention d'une vérité unique ; Bourdieu appelle doxa l'ensemble des présupposés qu'une société tient pour évidents.\n\nLe concept se rattache à la croyance, à la vérité, à la justification et au scepticisme. L'épistémologie contemporaine reprend le problème du *Théétète* lorsqu'elle demande ce qu'il faut ajouter à la croyance vraie pour obtenir une connaissance.",
+    "synonyms": [
+     "Opinion",
+     "Croyance"
+    ],
+    "nearTerms": [
+     "Croyance",
+     "Épistémè",
+     "Apparence",
+     "Endoxa",
+     "Opinion vraie",
+     "Sens commun"
+    ],
+    "aliases": [
+     "doxa",
+     "opinion vraie",
+     "endoxa",
+     "opinion et science"
+    ],
+    "seoTitle": "Opinion (doxa) — Parménide, Platon, Aristote et Arendt",
+    "seoDescription": "La doxa en philosophie : les opinions des mortels chez Parménide, opinion et science chez Platon, les endoxa d'Aristote, les sceptiques, Husserl, Arendt, Bourdieu."
+   },
+   "de": {
+    "title": "Meinung (doxa)",
+    "slug": "meinung-doxa",
+    "summary": "Das Fürwahrhalten, das nicht zum Wissen gelangt: bei Platon das Meinen über die Sinnenwelt, zwischen Wissen und Unwissen gelegen.",
+    "definition": "Doxa ist die Meinung: das Urteil oder der Glaube, der etwas für wahr hält, ohne die Rechtfertigung zu besitzen, die ihn zu Wissen machen würde. Bei Platon bezeichnet sie den auf die sinnlichen Erscheinungen gerichteten Zustand der Seele und steht der epistḗmē, dem Wissen, gegenüber. Sie kann wahr oder falsch sein, doch selbst die wahre Meinung bleibt unbeständig, solange sie nicht begründet ist.",
+    "etymology": "Von griechisch dóxa, abgeleitet von dokeîn, „scheinen“ und „meinen, urteilen“. Das Wort bedeutet sowohl „Meinung“ als auch „Ruf, Ansehen“; in der griechischen Bibelübersetzung nahm es die Bedeutung „Herrlichkeit“ an. Lateinisch opinio, von opinari, „vermuten, meinen“.",
+    "body": "Doxa ist die Meinung: was jemandem als wahr erscheint, ohne dass er es als Wissen rechtfertigen könnte. Der Begriff entspringt einem Gegensatz, der die griechische Philosophie durchzieht, zwischen dem, was erscheint, und dem, was ist, zwischen gemeinem Glauben und Wissenschaft. Gefragt wird, worin sich Meinung von Wissen unterscheidet, ob eine wahre Meinung schon genügt und welchen Wert geteilte Meinungen für die Forschung und das politische Leben haben.\n\nIm Lehrgedicht *Über die Natur* (um 475 v. Chr.) lehrt die Göttin Parmenides die Wahrheit und auch die Meinungen der Sterblichen (brotôn dóxai), denen keine wahre Verlässlichkeit innewohnt. Platon gibt dem Begriff seine klassische Gestalt. Im V. Buch der *Politeia* (um 375 v. Chr.) steht die Meinung in der Mitte zwischen dem Wissen, dessen Gegenstand das Seiende ist, und dem Unwissen, das dem Nichtseienden entspricht; ihr Gegenstand ist die sinnliche Welt, die ist und nicht ist. Im Liniengleichnis des VI. Buches umfasst die Doxa Vermutung (eikasía) und Glauben (pístis). Im *Menon* leitet die wahre Meinung das Handeln ebenso gut wie das Wissen, entläuft aber wie die Standbilder des Daidalos, solange sie nicht durch Begründung festgebunden ist. Der *Theaitetos* (um 369 v. Chr.) prüft und verwirft die Bestimmung des Wissens als wahre Meinung mit Logos.\n\nAristoteles rehabilitiert die anerkannten Meinungen (éndoxa), die allen, den meisten oder den Weisen gelten, als Ausgangspunkt der Dialektik (*Topik*, I 1). Die pyrrhonischen Skeptiker suchen nach Sextus Empiricus ohne Meinungen (adoxástōs) zu leben, indem sie sich des Urteils über das Nichtevidente enthalten. Im 20. Jahrhundert spricht Husserl von einer Urdoxa und von doxischen Modalitäten des Glaubens; Arendt verteidigt die Würde der Meinung im politischen Leben, dem Raum der Pluralität, gegen den Anspruch einer einzigen Wahrheit; Bourdieu nennt Doxa die Gesamtheit der Voraussetzungen, die eine Gesellschaft für selbstverständlich hält.\n\nDer Begriff ist mit Glauben, Wahrheit, Rechtfertigung und Skepsis verbunden. Die heutige Erkenntnistheorie greift das Problem des *Theaitetos* auf, wenn sie fragt, was zur wahren Überzeugung hinzukommen muss, damit Wissen entsteht.",
+    "synonyms": [
+     "Meinung",
+     "Fürwahrhalten"
+    ],
+    "nearTerms": [
+     "Glaube",
+     "Episteme",
+     "Schein",
+     "Endoxa",
+     "Wahre Meinung",
+     "Gemeinsinn"
+    ],
+    "aliases": [
+     "Doxa",
+     "wahre Meinung",
+     "Endoxa",
+     "Meinung und Wissen"
+    ],
+    "seoTitle": "Meinung (doxa) – Parmenides, Platon, Aristoteles und Arendt",
+    "seoDescription": "Die Doxa in der Philosophie: Meinungen der Sterblichen bei Parmenides, Meinung und Wissen bei Platon, Aristoteles' Endoxa, die Skeptiker, Husserl und Arendt."
+   }
+  }
+ },
+ {
+  "id": "con-foundationalism",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-epistemology"
+  ],
+  "philosopherIds": [
+   "phi-aristotle",
+   "phi-sextus",
+   "phi-descartes"
+  ],
+  "schoolIds": [
+   "sch-rationalism",
+   "sch-empiricism",
+   "sch-logical-positivism",
+   "sch-analytic"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-modern",
+   "per-20th",
+   "per-contemporary"
+  ],
+  "workIds": [
+   "wrk-outlines-pyrrhonism",
+   "wrk-meditations"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-justification",
+    "kind": "broader"
+   },
+   {
+    "conceptId": "con-coherentism",
+    "kind": "opposite"
+   },
+   {
+    "conceptId": "con-knowledge",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-cogito",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-scepticism",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-a-priori",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Fundacionalismo",
+    "slug": "fundacionalismo",
+    "summary": "A teoria de que o conhecimento repousa sobre crenças básicas, justificadas por si mesmas, das quais todas as outras recebem justificação.",
+    "definition": "Fundacionalismo é a teoria da justificação segundo a qual as crenças se dividem em básicas, justificadas sem apoio em outras crenças, e derivadas, justificadas por relações inferenciais com as básicas. As crenças básicas detêm o regresso infinito das razões. O fundacionalismo clássico exige que sejam infalíveis ou indubitáveis; o moderado admite que sejam apenas justificadas à primeira vista.",
+    "etymology": "De “fundação”, do latim fundatio, de fundare, “assentar os fundamentos”, derivado de fundus, “fundo, base”, com o sufixo -ismo. O termo é um decalque do inglês foundationalism, que se difundiu na epistemologia analítica na década de 1970; a imagem do edifício sobre alicerces remonta a Descartes.",
+    "body": "O fundacionalismo responde ao problema do regresso da justificação. Se toda crença precisa ser justificada por outra, ou a cadeia de razões continua ao infinito, ou volta sobre si mesma, ou para em algum ponto. O fundacionalista aceita a terceira opção: há crenças básicas, justificadas sem apoio em outras, e todas as demais recebem delas sua justificação, como um edifício recebe estabilidade dos alicerces.\n\nAristóteles já sustenta nos *Segundos Analíticos* (I, 3) que nem todo conhecimento é demonstrável, pois a demonstração parte de princípios primeiros conhecidos sem demonstração. Os céticos formulam a dificuldade com rigor: segundo Sexto Empírico (*Hipotiposes Pirrônicas*, I), os modos de Agripa mostram que toda justificação acaba em regresso infinito, em hipótese arbitrária ou em círculo, o que Hans Albert chamou em 1968 de trilema de Münchhausen. Descartes faz da imagem do edifício o programa das *Meditações* (1641): demolir as opiniões recebidas e reconstruir o saber sobre um fundamento indubitável, o cogito.\n\nO empirismo buscou fundamentos nos dados dos sentidos. Russell distingue o conhecimento por familiaridade do conhecimento por descrição (*Os Problemas da Filosofia*, 1912), e o Círculo de Viena debateu nos anos 1930 o estatuto das proposições protocolares, com Schlick defendendo fundamentos indubitáveis e Neurath comparando os cientistas a marinheiros que reconstroem o barco em alto-mar. Carnap tentou reconstruir o mundo a partir das vivências elementares (*A Construção Lógica do Mundo*, 1928). Popper, em *A Lógica da Pesquisa Científica* (1934), compara a ciência a um edifício erguido sobre estacas cravadas num pântano: os enunciados básicos são aceitos por decisão, não por evidência.\n\nWilfrid Sellars criticou em 1956 o “mito do dado”, a ideia de que algo simplesmente dado possa justificar crenças. Desde então, o fundacionalismo clássico perdeu terreno, mas versões moderadas, como as de Roderick Chisholm, William Alston e Robert Audi, admitem crenças básicas falíveis. O fundacionalismo opõe-se ao coerentismo, e Susan Haack propôs uma síntese, o fundaerentismo (1993).",
+    "synonyms": [
+     "Fundacionismo"
+    ],
+    "nearTerms": [
+     "Crença básica",
+     "Regresso da justificação",
+     "Dado",
+     "Coerentismo",
+     "Evidência",
+     "Trilema de Agripa"
+    ],
+    "aliases": [
+     "fundacionismo",
+     "crenças básicas",
+     "trilema de Münchhausen",
+     "mito do dado"
+    ],
+    "seoTitle": "Fundacionalismo — Descartes, Russell, Popper e Sellars",
+    "seoDescription": "O fundacionalismo na epistemologia: o regresso da justificação, o trilema de Agripa, o edifício de Descartes, os dados dos sentidos, Popper e o mito do dado."
+   },
+   "en": {
+    "title": "Foundationalism",
+    "slug": "foundationalism",
+    "summary": "The theory that knowledge rests on basic beliefs, justified in themselves, from which all other beliefs derive their justification.",
+    "definition": "Foundationalism is the theory of justification according to which beliefs divide into basic ones, justified without support from other beliefs, and derived ones, justified by inferential relations to the basic ones. Basic beliefs stop the infinite regress of reasons. Classical foundationalism requires them to be infallible or indubitable; modest foundationalism allows them to be merely prima facie justified.",
+    "etymology": "From foundation, via Old French fondation from Latin fundatio, from fundare, “to lay the foundation”, derived from fundus, “bottom, base”, with the suffix -ism. The term spread in analytic epistemology in the 1970s; the image of a building on its foundations goes back to Descartes.",
+    "body": "Foundationalism answers the regress problem of justification. If every belief must be justified by another, then either the chain of reasons goes on forever, or it loops back on itself, or it stops somewhere. The foundationalist accepts the third option: there are basic beliefs, justified without support from others, and all the rest derive their justification from them, as a building derives its stability from its foundations.\n\nAristotle already holds in the *Posterior Analytics* (I, 3) that not all knowledge is demonstrable, since demonstration starts from first principles known without demonstration. The sceptics state the difficulty rigorously: according to Sextus Empiricus (*Outlines of Pyrrhonism*, I), the modes of Agrippa show that every justification ends in infinite regress, arbitrary hypothesis or circularity, which Hans Albert called the Münchhausen trilemma in 1968. Descartes makes the image of the building the programme of the *Meditations* (1641): demolish received opinions and rebuild knowledge on an indubitable foundation, the cogito.\n\nEmpiricism sought foundations in sense data. Russell distinguishes knowledge by acquaintance from knowledge by description (*The Problems of Philosophy*, 1912), and in the 1930s the Vienna Circle debated the status of protocol sentences, with Schlick defending indubitable foundations and Neurath comparing scientists to sailors who rebuild their ship on the open sea. Carnap tried to reconstruct the world from elementary experiences (*The Logical Structure of the World*, 1928). Popper, in *The Logic of Scientific Discovery* (1934), compares science to a building erected on piles driven into a swamp: basic statements are accepted by decision, not on evidence.\n\nWilfrid Sellars attacked the “myth of the given” in 1956, the idea that something simply given could justify beliefs. Since then classical foundationalism has lost ground, but modest versions, such as those of Roderick Chisholm, William Alston and Robert Audi, admit fallible basic beliefs. Foundationalism is opposed to coherentism, and Susan Haack proposed a synthesis, foundherentism (1993).",
+    "synonyms": [
+     "Foundationism"
+    ],
+    "nearTerms": [
+     "Basic belief",
+     "Regress of justification",
+     "The given",
+     "Coherentism",
+     "Evidence",
+     "Agrippa's trilemma"
+    ],
+    "aliases": [
+     "foundationism",
+     "basic beliefs",
+     "Münchhausen trilemma",
+     "myth of the given"
+    ],
+    "seoTitle": "Foundationalism — Descartes, Russell, Popper and Sellars",
+    "seoDescription": "Foundationalism in epistemology: the regress of justification, Agrippa's trilemma, Descartes's building, sense data, Popper's piles and the myth of the given."
+   },
+   "fr": {
+    "title": "Fondationnalisme",
+    "slug": "fondationnalisme",
+    "summary": "La théorie selon laquelle la connaissance repose sur des croyances de base, justifiées par elles-mêmes, dont toutes les autres tirent leur justification.",
+    "definition": "Le fondationnalisme est la théorie de la justification selon laquelle les croyances se divisent en croyances de base, justifiées sans appui sur d'autres croyances, et en croyances dérivées, justifiées par des relations inférentielles avec les premières. Les croyances de base arrêtent la régression à l'infini des raisons. Le fondationnalisme classique exige qu'elles soient infaillibles ou indubitables ; le fondationnalisme modéré admet qu'elles soient seulement justifiées à première vue.",
+    "etymology": "De « fondation », du latin fundatio, de fundare, « poser les fondements », dérivé de fundus, « fond, base », avec le suffixe -isme. Le terme calque l'anglais foundationalism, répandu dans l'épistémologie analytique dans les années 1970 ; l'image de l'édifice sur ses fondations remonte à Descartes.",
+    "body": "Le fondationnalisme répond au problème de la régression de la justification. Si toute croyance doit être justifiée par une autre, soit la chaîne des raisons se poursuit à l'infini, soit elle revient sur elle-même, soit elle s'arrête quelque part. Le fondationnaliste choisit la troisième option : il existe des croyances de base, justifiées sans appui sur d'autres, et toutes les autres en tirent leur justification, comme un édifice tire sa stabilité de ses fondations.\n\nAristote soutient déjà dans les *Seconds Analytiques* (I, 3) que toute connaissance n'est pas démontrable, puisque la démonstration part de premiers principes connus sans démonstration. Les sceptiques formulent la difficulté avec rigueur : selon Sextus Empiricus (*Esquisses pyrrhoniennes*, I), les modes d'Agrippa montrent que toute justification aboutit à une régression à l'infini, à une hypothèse arbitraire ou à un cercle, ce que Hans Albert a appelé en 1968 le trilemme de Münchhausen. Descartes fait de l'image de l'édifice le programme des *Méditations* (1641) : renverser les opinions reçues et reconstruire le savoir sur un fondement indubitable, le cogito.\n\nL'empirisme a cherché des fondements dans les données des sens. Russell distingue la connaissance directe de la connaissance par description (*Problèmes de philosophie*, 1912), et le Cercle de Vienne débat dans les années 1930 du statut des énoncés protocolaires, Schlick défendant des fondements indubitables et Neurath comparant les savants à des marins qui reconstruisent leur navire en pleine mer. Carnap tente de reconstruire le monde à partir des vécus élémentaires (*La Construction logique du monde*, 1928). Popper, dans *La Logique de la découverte scientifique* (1934), compare la science à un édifice bâti sur des pilotis enfoncés dans un marécage : les énoncés de base sont acceptés par décision, non en vertu d'une évidence.\n\nWilfrid Sellars a critiqué en 1956 le « mythe du donné », l'idée que quelque chose de simplement donné puisse justifier des croyances. Depuis, le fondationnalisme classique a perdu du terrain, mais des versions modérées, comme celles de Roderick Chisholm, William Alston et Robert Audi, admettent des croyances de base faillibles. Le fondationnalisme s'oppose au cohérentisme, et Susan Haack a proposé une synthèse, le fondhérentisme (1993).",
+    "synonyms": [
+     "Fondationalisme"
+    ],
+    "nearTerms": [
+     "Croyance de base",
+     "Régression de la justification",
+     "Donné",
+     "Cohérentisme",
+     "Évidence",
+     "Trilemme d'Agrippa"
+    ],
+    "aliases": [
+     "fondationalisme",
+     "croyances de base",
+     "trilemme de Münchhausen",
+     "mythe du donné"
+    ],
+    "seoTitle": "Fondationnalisme — Descartes, Russell, Popper et Sellars",
+    "seoDescription": "Le fondationnalisme en épistémologie : la régression de la justification, le trilemme d'Agrippa, l'édifice de Descartes, les données des sens, Popper, Sellars."
+   },
+   "de": {
+    "title": "Fundamentalismus (erkenntnistheoretischer)",
+    "slug": "erkenntnistheoretischer-fundamentalismus",
+    "summary": "Die Theorie, dass Wissen auf basalen, durch sich selbst gerechtfertigten Überzeugungen ruht, von denen alle anderen ihre Rechtfertigung erhalten.",
+    "definition": "Der erkenntnistheoretische Fundamentalismus oder Fundationalismus ist die Rechtfertigungstheorie, nach der Überzeugungen in basale, ohne Stütze durch andere Überzeugungen gerechtfertigte, und abgeleitete zerfallen, die durch inferentielle Beziehungen zu den basalen gerechtfertigt sind. Die basalen Überzeugungen beenden den unendlichen Regress der Gründe. Der klassische Fundamentalismus verlangt, dass sie unfehlbar oder unbezweifelbar sind; der gemäßigte lässt eine bloß prima facie bestehende Rechtfertigung genügen.",
+    "etymology": "Von lateinisch fundamentum, „Grundlage“, zu fundare, „gründen“, und fundus, „Grund, Boden“, mit dem Suffix -ismus. Die Bezeichnung „Fundationalismus“ lehnt sich an englisch foundationalism an, das sich in den 1970er Jahren in der analytischen Erkenntnistheorie verbreitete; das Bild des Gebäudes auf seinem Fundament geht auf Descartes zurück.",
+    "body": "Der Fundamentalismus antwortet auf das Regressproblem der Rechtfertigung. Wenn jede Überzeugung durch eine andere gerechtfertigt werden muss, dann setzt sich die Kette der Gründe entweder ins Unendliche fort, kehrt in sich zurück oder bricht irgendwo ab. Der Fundamentalist wählt die dritte Möglichkeit: Es gibt basale Überzeugungen, die ohne Stütze durch andere gerechtfertigt sind, und alle übrigen erhalten ihre Rechtfertigung von ihnen, wie ein Gebäude seine Festigkeit vom Fundament.\n\nSchon Aristoteles vertritt in der *Zweiten Analytik* (I 3), dass nicht alles Wissen beweisbar ist, da der Beweis von ersten, unbewiesen erkannten Prinzipien ausgeht. Die Skeptiker fassen die Schwierigkeit streng: Nach Sextus Empiricus (*Grundriss der pyrrhonischen Skepsis*, I) zeigen die Tropen des Agrippa, dass jede Rechtfertigung in unendlichen Regress, willkürliche Setzung oder Zirkel mündet, was Hans Albert 1968 das Münchhausen-Trilemma nannte. Descartes macht das Bild des Gebäudes zum Programm der *Meditationen* (1641): die überkommenen Meinungen niederzureißen und das Wissen auf einem unbezweifelbaren Fundament, dem Cogito, neu zu errichten.\n\nDer Empirismus suchte das Fundament in Sinnesdaten. Russell unterscheidet Erkenntnis durch Bekanntschaft von Erkenntnis durch Beschreibung (*Probleme der Philosophie*, 1912), und der Wiener Kreis stritt in den 1930er Jahren über den Status der Protokollsätze: Schlick verteidigte unbezweifelbare Fundamente, Neurath verglich die Wissenschaftler mit Schiffern, die ihr Schiff auf offener See umbauen. Carnap versuchte, die Welt aus Elementarerlebnissen aufzubauen (*Der logische Aufbau der Welt*, 1928). Popper vergleicht in der *Logik der Forschung* (1934) die Wissenschaft mit einem Bau auf Pfählen, die in einen Sumpf gerammt sind: Basissätze werden durch Beschluss anerkannt, nicht aufgrund von Evidenz.\n\nWilfrid Sellars kritisierte 1956 den „Mythos des Gegebenen“, die Annahme, etwas schlicht Gegebenes könne Überzeugungen rechtfertigen. Seither hat der klassische Fundamentalismus an Boden verloren, doch gemäßigte Fassungen, etwa bei Roderick Chisholm, William Alston und Robert Audi, lassen fehlbare basale Überzeugungen zu. Der Fundamentalismus steht dem Kohärentismus gegenüber; Susan Haack schlug mit dem Foundherentismus (1993) eine Synthese vor.",
+    "synonyms": [
+     "Fundationalismus"
+    ],
+    "nearTerms": [
+     "Basale Überzeugung",
+     "Begründungsregress",
+     "Das Gegebene",
+     "Kohärentismus",
+     "Evidenz",
+     "Münchhausen-Trilemma"
+    ],
+    "aliases": [
+     "Fundationalismus",
+     "Fundamentalismus",
+     "Basisüberzeugungen",
+     "Mythos des Gegebenen"
+    ],
+    "seoTitle": "Erkenntnistheoretischer Fundamentalismus – Descartes bis Sellars",
+    "seoDescription": "Der Fundamentalismus in der Erkenntnistheorie: Begründungsregress, Münchhausen-Trilemma, Descartes' Gebäude, Sinnesdaten, Poppers Pfähle und der Mythos des Gegebenen."
+   }
+  }
+ },
+ {
+  "id": "con-coherentism",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-epistemology"
+  ],
+  "philosopherIds": [
+   "phi-hegel"
+  ],
+  "schoolIds": [
+   "sch-idealism",
+   "sch-logical-positivism",
+   "sch-analytic",
+   "sch-pragmatism"
+  ],
+  "periodIds": [
+   "per-19th",
+   "per-20th",
+   "per-contemporary"
+  ],
+  "workIds": [
+   "wrk-phenomenology-spirit"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-justification",
+    "kind": "broader"
+   },
+   {
+    "conceptId": "con-foundationalism",
+    "kind": "opposite"
+   },
+   {
+    "conceptId": "con-truth",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-knowledge",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-belief",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-relativism",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Coerentismo",
+    "slug": "coerentismo",
+    "summary": "A teoria de que uma crença se justifica pela coerência com um sistema de crenças, e não por repousar em fundamentos privilegiados.",
+    "definition": "Coerentismo é a teoria segundo a qual a justificação de uma crença consiste em sua pertença a um sistema coerente de crenças, e não em sua derivação de crenças básicas. A coerência inclui a consistência lógica, as relações de inferência e de explicação mútua e a abrangência do sistema. Distingue-se a teoria coerentista da justificação da teoria coerentista da verdade, que define a própria verdade como coerência.",
+    "etymology": "De “coerência”, do latim cohaerentia, de cohaerere, “estar ligado, aderir um ao outro”, formado por co-, “junto”, e haerere, “estar preso”, com o sufixo -ismo. Traduz o inglês coherentism, termo da epistemologia analítica do século XX.",
+    "body": "O coerentismo é a principal alternativa ao fundacionalismo na teoria da justificação. Diante do regresso das razões, recusa a ideia de crenças básicas que se justificariam sozinhas: uma crença é justificada pelo lugar que ocupa num sistema de crenças que se apoiam mutuamente. A imagem já não é a do edifício sobre alicerces, mas a da rede ou da jangada, em que nenhuma peça é fundamental e todas se sustentam juntas.\n\nA ideia tem antecedentes idealistas. No prefácio da *Fenomenologia do Espírito* (1807), Hegel afirma que “o verdadeiro é o todo”; F. H. Bradley e Brand Blanshard (*The Nature of Thought*, 1939) desenvolvem uma teoria da verdade como coerência de um sistema abrangente. No Círculo de Viena, Otto Neurath recusa as proposições protocolares indubitáveis defendidas por Schlick e compara os cientistas a marinheiros que devem reconstruir o barco em alto-mar, sem nunca levá-lo à doca; Carnap aproxima-se temporariamente dessa posição. Quine, em “Dois Dogmas do Empirismo” (1951), descreve o conhecimento como uma rede que só enfrenta o tribunal da experiência como um todo, e *Palavra e Objeto* (1960) retoma a imagem do barco de Neurath.\n\nO coerentismo da justificação foi formulado sistematicamente por Keith Lehrer (*Knowledge*, 1974) e Laurence BonJour (*The Structure of Empirical Knowledge*, 1985), que depois o abandonou. Donald Davidson defendeu em 1983 uma teoria coerentista da verdade e do conhecimento, e Putnam, em *Razão, Verdade e História* (1981), associou a verdade à aceitabilidade racional idealizada. Três objeções são clássicas. A do isolamento: um sistema coerente poderia não ter contato com o mundo. A dos sistemas alternativos: pode haver vários sistemas igualmente coerentes e incompatíveis. A da circularidade: a justificação mútua parece girar em círculo.\n\nPara responder a essas objeções, versões recentes dão peso especial às crenças perceptivas ou combinam coerência e fundamentos, como o fundaerentismo de Susan Haack (1993). O conceito relaciona-se com a justificação, a verdade, a crença e o debate sobre o relativismo.",
+    "synonyms": [
+     "Teoria coerentista da justificação"
+    ],
+    "nearTerms": [
+     "Coerência",
+     "Fundacionalismo",
+     "Justificação",
+     "Holismo",
+     "Rede de crenças",
+     "Teoria da verdade como coerência"
+    ],
+    "aliases": [
+     "teoria da coerência",
+     "coerência",
+     "barco de Neurath",
+     "rede de crenças",
+     "holismo epistêmico"
+    ],
+    "seoTitle": "Coerentismo — Hegel, Neurath, Quine, BonJour e Davidson",
+    "seoDescription": "O coerentismo na epistemologia: justificação pela coerência, o barco de Neurath, a rede de crenças de Quine, BonJour, Lehrer, Davidson e as objeções clássicas."
+   },
+   "en": {
+    "title": "Coherentism",
+    "slug": "coherentism",
+    "summary": "The theory that a belief is justified by its coherence with a system of beliefs, not by resting on privileged foundations.",
+    "definition": "Coherentism is the theory that the justification of a belief consists in its membership of a coherent system of beliefs rather than in its derivation from basic beliefs. Coherence includes logical consistency, relations of inference and mutual explanation, and the comprehensiveness of the system. The coherence theory of justification is distinguished from the coherence theory of truth, which defines truth itself as coherence.",
+    "etymology": "From coherence, via French cohérence from Latin cohaerentia, from cohaerere, “to stick together”, formed from co-, “together”, and haerere, “to stick”, with the suffix -ism. The term belongs to twentieth-century analytic epistemology.",
+    "body": "Coherentism is the main alternative to foundationalism in the theory of justification. Faced with the regress of reasons, it rejects the idea of basic beliefs that justify themselves: a belief is justified by the place it occupies in a system of mutually supporting beliefs. The image is no longer that of a building on its foundations but that of a web or a raft, in which no piece is fundamental and all hold together.\n\nThe idea has idealist antecedents. In the preface to the *Phenomenology of Spirit* (1807) Hegel declares that “the true is the whole”; F. H. Bradley and Brand Blanshard (*The Nature of Thought*, 1939) develop a theory of truth as the coherence of a comprehensive system. In the Vienna Circle, Otto Neurath rejects the indubitable protocol sentences defended by Schlick and compares scientists to sailors who must rebuild their ship on the open sea without ever bringing it into dock; Carnap for a time moved close to this position. Quine, in “Two Dogmas of Empiricism” (1951), describes knowledge as a web that faces the tribunal of experience only as a whole, and *Word and Object* (1960) takes up Neurath's image of the ship.\n\nThe coherence theory of justification was formulated systematically by Keith Lehrer (*Knowledge*, 1974) and Laurence BonJour (*The Structure of Empirical Knowledge*, 1985), who later abandoned it. Donald Davidson defended a coherence theory of truth and knowledge in 1983, and Putnam, in *Reason, Truth and History* (1981), tied truth to idealised rational acceptability. Three objections are classic. The isolation objection: a coherent system might have no contact with the world. The alternative-systems objection: there may be several equally coherent but incompatible systems. The circularity objection: mutual justification seems to go round in a circle.\n\nTo answer these objections, recent versions give special weight to perceptual beliefs or combine coherence with foundations, as in Susan Haack's foundherentism (1993). The concept is related to justification, truth, belief and the debate over relativism.",
+    "synonyms": [
+     "Coherence theory of justification"
+    ],
+    "nearTerms": [
+     "Coherence",
+     "Foundationalism",
+     "Justification",
+     "Holism",
+     "Web of belief",
+     "Coherence theory of truth"
+    ],
+    "aliases": [
+     "coherence theory",
+     "coherence",
+     "Neurath's boat",
+     "web of belief",
+     "epistemic holism"
+    ],
+    "seoTitle": "Coherentism — Hegel, Neurath, Quine, BonJour and Davidson",
+    "seoDescription": "Coherentism in epistemology: justification by coherence, Neurath's boat, Quine's web of belief, BonJour, Lehrer, Davidson and the classic objections."
+   },
+   "fr": {
+    "title": "Cohérentisme",
+    "slug": "coherentisme",
+    "summary": "La théorie selon laquelle une croyance est justifiée par sa cohérence avec un système de croyances, non parce qu'elle repose sur des fondements privilégiés.",
+    "definition": "Le cohérentisme est la théorie selon laquelle la justification d'une croyance tient à son appartenance à un système cohérent de croyances, et non à sa dérivation à partir de croyances de base. La cohérence comprend la consistance logique, les relations d'inférence et d'explication mutuelle et l'ampleur du système. On distingue la théorie cohérentiste de la justification de la théorie cohérentiste de la vérité, qui définit la vérité elle-même comme cohérence.",
+    "etymology": "De « cohérence », du latin cohaerentia, de cohaerere, « être attaché ensemble », formé de co-, « ensemble », et haerere, « être fixé », avec le suffixe -isme. Le terme traduit l'anglais coherentism, issu de l'épistémologie analytique du XXe siècle.",
+    "body": "Le cohérentisme est la principale alternative au fondationnalisme dans la théorie de la justification. Face à la régression des raisons, il refuse l'idée de croyances de base qui se justifieraient seules : une croyance est justifiée par la place qu'elle occupe dans un système de croyances qui se soutiennent mutuellement. L'image n'est plus celle de l'édifice sur ses fondations, mais celle du réseau ou du radeau, où aucune pièce n'est fondamentale et où toutes tiennent ensemble.\n\nL'idée a des antécédents idéalistes. Dans la préface de la *Phénoménologie de l'esprit* (1807), Hegel déclare que « le vrai est le tout » ; F. H. Bradley et Brand Blanshard (*The Nature of Thought*, 1939) développent une théorie de la vérité comme cohérence d'un système englobant. Au Cercle de Vienne, Otto Neurath refuse les énoncés protocolaires indubitables défendus par Schlick et compare les savants à des marins qui doivent reconstruire leur navire en pleine mer, sans jamais pouvoir le mettre en cale sèche ; Carnap se rapproche un temps de cette position. Quine, dans « Les deux dogmes de l'empirisme » (1951), décrit la connaissance comme un réseau qui n'affronte le tribunal de l'expérience que comme un tout, et *Le Mot et la Chose* (1960) reprend l'image du navire de Neurath.\n\nLa théorie cohérentiste de la justification a été formulée systématiquement par Keith Lehrer (*Knowledge*, 1974) et Laurence BonJour (*The Structure of Empirical Knowledge*, 1985), qui l'a ensuite abandonnée. Donald Davidson a défendu en 1983 une théorie cohérentiste de la vérité et de la connaissance, et Putnam, dans *Raison, vérité et histoire* (1981), a lié la vérité à l'acceptabilité rationnelle idéalisée. Trois objections sont classiques. L'objection de l'isolement : un système cohérent pourrait n'avoir aucun contact avec le monde. Celle des systèmes alternatifs : il peut exister plusieurs systèmes également cohérents mais incompatibles. Celle de la circularité : la justification mutuelle semble tourner en rond.\n\nPour répondre à ces objections, des versions récentes accordent un poids particulier aux croyances perceptives ou combinent cohérence et fondements, comme le fondhérentisme de Susan Haack (1993). Le concept se rattache à la justification, à la vérité, à la croyance et au débat sur le relativisme.",
+    "synonyms": [
+     "Théorie cohérentiste de la justification"
+    ],
+    "nearTerms": [
+     "Cohérence",
+     "Fondationnalisme",
+     "Justification",
+     "Holisme",
+     "Réseau de croyances",
+     "Vérité-cohérence"
+    ],
+    "aliases": [
+     "théorie de la cohérence",
+     "cohérence",
+     "navire de Neurath",
+     "réseau de croyances",
+     "holisme épistémique"
+    ],
+    "seoTitle": "Cohérentisme — Hegel, Neurath, Quine, BonJour et Davidson",
+    "seoDescription": "Le cohérentisme en épistémologie : justification par la cohérence, le navire de Neurath, le réseau de croyances de Quine, BonJour, Lehrer, Davidson et les objections."
+   },
+   "de": {
+    "title": "Kohärentismus",
+    "slug": "kohaerentismus",
+    "summary": "Die Theorie, dass eine Überzeugung durch ihre Kohärenz mit einem System von Überzeugungen gerechtfertigt ist, nicht durch privilegierte Fundamente.",
+    "definition": "Der Kohärentismus ist die Theorie, nach der die Rechtfertigung einer Überzeugung in ihrer Zugehörigkeit zu einem kohärenten Überzeugungssystem besteht und nicht in ihrer Ableitung aus basalen Überzeugungen. Kohärenz umfasst logische Widerspruchsfreiheit, Folgerungs- und wechselseitige Erklärungsbeziehungen sowie die Reichweite des Systems. Von der kohärentistischen Rechtfertigungstheorie ist die Kohärenztheorie der Wahrheit zu unterscheiden, die die Wahrheit selbst als Kohärenz bestimmt.",
+    "etymology": "Von „Kohärenz“, lateinisch cohaerentia, zu cohaerere, „zusammenhängen“, gebildet aus co-, „zusammen“, und haerere, „haften“, mit dem Suffix -ismus. Der Ausdruck übersetzt englisch coherentism aus der analytischen Erkenntnistheorie des 20. Jahrhunderts.",
+    "body": "Der Kohärentismus ist die wichtigste Alternative zum Fundamentalismus in der Rechtfertigungstheorie. Angesichts des Begründungsregresses verwirft er die Annahme basaler Überzeugungen, die sich selbst rechtfertigen: Eine Überzeugung ist durch ihren Ort in einem System sich wechselseitig stützender Überzeugungen gerechtfertigt. Das Bild ist nicht mehr das Gebäude auf seinem Fundament, sondern das Netz oder das Floß, in dem kein Teil grundlegend ist und alle zusammen halten.\n\nDie Idee hat idealistische Vorläufer. In der Vorrede der *Phänomenologie des Geistes* (1807) erklärt Hegel: „Das Wahre ist das Ganze“; F. H. Bradley und Brand Blanshard (*The Nature of Thought*, 1939) entwickeln eine Theorie der Wahrheit als Kohärenz eines umfassenden Systems. Im Wiener Kreis verwirft Otto Neurath die von Schlick verteidigten unbezweifelbaren Protokollsätze und vergleicht die Wissenschaftler mit Schiffern, die ihr Schiff auf offener See umbauen müssen, ohne es je in einem Dock zerlegen zu können; Carnap nähert sich dieser Position zeitweilig an. Quine beschreibt in „Zwei Dogmen des Empirismus“ (1951) das Wissen als Netz, das dem Tribunal der Erfahrung nur als Ganzes gegenübertritt, und *Wort und Gegenstand* (1960) nimmt Neuraths Bild vom Schiff auf.\n\nDie kohärentistische Rechtfertigungstheorie wurde systematisch von Keith Lehrer (*Knowledge*, 1974) und Laurence BonJour (*The Structure of Empirical Knowledge*, 1985) ausgearbeitet, der sie später aufgab. Donald Davidson verteidigte 1983 eine Kohärenztheorie der Wahrheit und Erkenntnis, und Putnam band in *Vernunft, Wahrheit und Geschichte* (1981) die Wahrheit an idealisierte rationale Akzeptierbarkeit. Drei Einwände sind klassisch. Der Isolationseinwand: Ein kohärentes System könnte ohne Kontakt zur Welt sein. Der Einwand der alternativen Systeme: Es kann mehrere gleich kohärente, aber unvereinbare Systeme geben. Der Zirkeleinwand: Die wechselseitige Rechtfertigung scheint sich im Kreis zu drehen.\n\nUm diesen Einwänden zu begegnen, geben neuere Fassungen Wahrnehmungsüberzeugungen besonderes Gewicht oder verbinden Kohärenz mit Fundamenten, wie der Foundherentismus Susan Haacks (1993). Der Begriff ist mit Rechtfertigung, Wahrheit, Überzeugung und der Relativismusdebatte verbunden.",
+    "synonyms": [
+     "Kohärenztheorie der Rechtfertigung"
+    ],
+    "nearTerms": [
+     "Kohärenz",
+     "Fundamentalismus",
+     "Rechtfertigung",
+     "Holismus",
+     "Überzeugungsnetz",
+     "Kohärenztheorie der Wahrheit"
+    ],
+    "aliases": [
+     "Kohärenztheorie",
+     "Kohärenz",
+     "Neuraths Schiff",
+     "Netz der Überzeugungen",
+     "epistemischer Holismus"
+    ],
+    "seoTitle": "Kohärentismus – Hegel, Neurath, Quine, BonJour und Davidson",
+    "seoDescription": "Der Kohärentismus in der Erkenntnistheorie: Rechtfertigung durch Kohärenz, Neuraths Schiff, Quines Netz der Überzeugungen, BonJour, Lehrer, Davidson und Einwände."
+   }
+  }
+ },
+ {
+  "id": "con-gettier",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-epistemology"
+  ],
+  "philosopherIds": [
+   "phi-plato"
+  ],
+  "schoolIds": [
+   "sch-analytic"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-20th",
+   "per-contemporary"
+  ],
+  "workIds": [],
+  "sourceIds": [
+   "src-sep",
+   "src-iep",
+   "src-audi",
+   "src-mittelstrass"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-knowledge",
+    "kind": "broader"
+   },
+   {
+    "conceptId": "con-justification",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-belief",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-truth",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-doxa",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-scepticism",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Problema de Gettier",
+    "slug": "problema-de-gettier",
+    "summary": "Casos em que alguém tem uma crença verdadeira e justificada que, por sorte, não parece ser conhecimento; o desafio lançado por Edmund Gettier em 1963.",
+    "definition": "O problema de Gettier é a dificuldade de definir o conhecimento como crença verdadeira justificada. Em 1963, Edmund Gettier apresentou casos em que alguém acredita em algo verdadeiro, com boa justificação, mas acerta por coincidência, de modo que intuitivamente não sabe. O problema pergunta que condição, além de crença, verdade e justificação, distingue o conhecimento da crença verdadeira obtida por sorte.",
+    "etymology": "O nome vem do filósofo norte-americano Edmund L. Gettier (1927–2021), autor do artigo “Is Justified True Belief Knowledge?”, publicado na revista *Analysis* em 1963. A análise tripartida que ele contesta traduz a fórmula do *Teeteto* platônico, “opinião verdadeira acompanhada de logos”.",
+    "body": "Segundo uma análise tradicional, alguém sabe que p quando acredita que p, p é verdadeiro e a crença está justificada. O problema de Gettier mostra que essas três condições não bastam: há casos em que uma crença verdadeira e justificada é verdadeira apenas por sorte, e ninguém diria que se trata de conhecimento. A questão tornou-se, a partir de 1963, um dos problemas centrais da epistemologia analítica.\n\nA análise tripartida costuma ser associada a Platão, que no *Teeteto* (c. 369 a.C.) examina a definição do conhecimento como opinião verdadeira acompanhada de logos e, no *Mênon*, distingue a opinião verdadeira do conhecimento amarrado por razões. No século XX, A. J. Ayer (1956) e Roderick Chisholm (1957) formularam condições desse tipo. Havia antecedentes de contraexemplos: o filósofo budista Dharmottara, no século VIII, descreve quem busca água numa miragem e a encontra por acaso no mesmo lugar, e Russell (1948) evoca quem lê a hora certa num relógio parado.\n\nNum artigo de três páginas, Gettier propôs dois casos. No primeiro, Smith tem boas razões para crer que Jones conseguirá o emprego e que Jones tem dez moedas no bolso, e infere que quem conseguir o emprego tem dez moedas no bolso; quem consegue o emprego é ele próprio, que por acaso tem dez moedas. No segundo, Smith crê justificadamente que Jones possui um Ford e infere a disjunção “Jones tem um Ford ou Brown está em Barcelona”, que é verdadeira apenas porque Brown, por acaso, está em Barcelona.\n\nAs respostas multiplicaram-se: exigir que a crença não dependa de premissas falsas, acrescentar uma condição de irrevogabilidade, uma ligação causal entre o fato e a crença (Goldman, 1967) ou a confiabilidade do processo que a produz. Robert Nozick propôs em 1981 que a crença acompanhe a verdade: se p fosse falso, o sujeito não acreditaria em p. Linda Zagzebski argumentou (1994) que, enquanto a justificação não implicar a verdade, novos casos de Gettier serão sempre possíveis, e Timothy Williamson (2000) propôs tratar o conhecimento como primitivo, sem analisá-lo. O problema relaciona-se com a justificação, a crença, a verdade e o ceticismo.",
+    "synonyms": [
+     "Casos de Gettier"
+    ],
+    "nearTerms": [
+     "Crença verdadeira justificada",
+     "Conhecimento",
+     "Sorte epistêmica",
+     "Confiabilismo",
+     "Justificação",
+     "Teeteto"
+    ],
+    "aliases": [
+     "gettier",
+     "casos de gettier",
+     "crença verdadeira justificada",
+     "análise tripartida do conhecimento",
+     "sorte epistêmica"
+    ],
+    "seoTitle": "Problema de Gettier — crença verdadeira justificada",
+    "seoDescription": "O problema de Gettier (1963): os casos de Smith e Jones, a análise tripartida do conhecimento desde o Teeteto, os antecedentes e as principais respostas."
+   },
+   "en": {
+    "title": "Gettier problem",
+    "slug": "gettier-problem",
+    "summary": "Cases in which someone has a justified true belief that, by luck, does not seem to be knowledge; the challenge Edmund Gettier raised in 1963.",
+    "definition": "The Gettier problem is the difficulty of defining knowledge as justified true belief. In 1963 Edmund Gettier presented cases in which someone believes something true, with good justification, but is right by coincidence, so that intuitively they do not know. The problem asks what condition, beyond belief, truth and justification, distinguishes knowledge from true belief reached by luck.",
+    "etymology": "Named after the American philosopher Edmund L. Gettier (1927–2021), author of the article “Is Justified True Belief Knowledge?”, published in *Analysis* in 1963. The tripartite analysis he challenges renders the formula of Plato's *Theaetetus*, “true opinion accompanied by logos”.",
+    "body": "On a traditional analysis, someone knows that p when they believe that p, p is true and the belief is justified. The Gettier problem shows that these three conditions are not enough: there are cases in which a justified true belief is true only by luck, and no one would call it knowledge. From 1963 on the question became one of the central problems of analytic epistemology.\n\nThe tripartite analysis is usually associated with Plato, who in the *Theaetetus* (c. 369 BCE) examines the definition of knowledge as true opinion accompanied by logos and, in the *Meno*, distinguishes true opinion from knowledge tied down by reasons. In the twentieth century A. J. Ayer (1956) and Roderick Chisholm (1957) stated conditions of this kind. Counterexamples had forerunners: the Buddhist philosopher Dharmottara, in the eighth century, describes someone who seeks water in a mirage and happens to find it at that very spot, and Russell (1948) imagines someone who reads the right time from a stopped clock.\n\nIn a three-page article Gettier offered two cases. In the first, Smith has good reason to believe that Jones will get the job and that Jones has ten coins in his pocket, and infers that the man who will get the job has ten coins in his pocket; the man who gets the job is Smith himself, who happens to have ten coins. In the second, Smith justifiably believes that Jones owns a Ford and infers the disjunction “Jones owns a Ford or Brown is in Barcelona”, which is true only because Brown happens to be in Barcelona.\n\nResponses multiplied: requiring that the belief not depend on false premises, adding an indefeasibility condition, a causal connection between the fact and the belief (Goldman, 1967) or the reliability of the process that produces it. Robert Nozick proposed in 1981 that belief should track truth: if p were false, the subject would not believe p. Linda Zagzebski argued (1994) that as long as justification does not entail truth, new Gettier cases will always be possible, and Timothy Williamson (2000) proposed treating knowledge as primitive, without analysing it. The problem is related to justification, belief, truth and scepticism.",
+    "synonyms": [
+     "Gettier cases"
+    ],
+    "nearTerms": [
+     "Justified true belief",
+     "Knowledge",
+     "Epistemic luck",
+     "Reliabilism",
+     "Justification",
+     "Theaetetus"
+    ],
+    "aliases": [
+     "gettier",
+     "gettier cases",
+     "justified true belief",
+     "JTB",
+     "tripartite analysis of knowledge",
+     "epistemic luck"
+    ],
+    "seoTitle": "Gettier problem — is knowledge justified true belief?",
+    "seoDescription": "The Gettier problem (1963): the Smith and Jones cases, the tripartite analysis of knowledge since the Theaetetus, its forerunners and the main responses."
+   },
+   "fr": {
+    "title": "Problème de Gettier",
+    "slug": "probleme-de-gettier",
+    "summary": "Des cas où quelqu'un a une croyance vraie et justifiée qui, par chance, ne semble pas être une connaissance ; le défi lancé par Edmund Gettier en 1963.",
+    "definition": "Le problème de Gettier est la difficulté de définir la connaissance comme croyance vraie justifiée. En 1963, Edmund Gettier a présenté des cas où quelqu'un croit une chose vraie, avec une bonne justification, mais tombe juste par coïncidence, de sorte qu'intuitivement il ne sait pas. Le problème demande quelle condition, outre la croyance, la vérité et la justification, distingue la connaissance de la croyance vraie obtenue par chance.",
+    "etymology": "Le nom vient du philosophe américain Edmund L. Gettier (1927–2021), auteur de l'article « Is Justified True Belief Knowledge? », paru dans la revue *Analysis* en 1963. L'analyse tripartite qu'il conteste traduit la formule du *Théétète* de Platon, « opinion vraie accompagnée de logos ».",
+    "body": "Selon une analyse traditionnelle, quelqu'un sait que p lorsqu'il croit que p, que p est vrai et que sa croyance est justifiée. Le problème de Gettier montre que ces trois conditions ne suffisent pas : il existe des cas où une croyance vraie et justifiée n'est vraie que par chance, et où personne ne parlerait de connaissance. À partir de 1963, la question est devenue l'un des problèmes centraux de l'épistémologie analytique.\n\nL'analyse tripartite est d'ordinaire associée à Platon, qui dans le *Théétète* (v. 369 av. J.-C.) examine la définition de la science comme opinion vraie accompagnée de logos et, dans le *Ménon*, distingue l'opinion vraie de la connaissance attachée par des raisons. Au XXe siècle, A. J. Ayer (1956) et Roderick Chisholm (1957) ont formulé des conditions de ce type. Les contre-exemples avaient des précurseurs : le philosophe bouddhiste Dharmottara, au VIIIe siècle, décrit celui qui cherche de l'eau dans un mirage et en trouve par hasard au même endroit, et Russell (1948) imagine quelqu'un qui lit l'heure exacte sur une horloge arrêtée.\n\nDans un article de trois pages, Gettier a proposé deux cas. Dans le premier, Smith a de bonnes raisons de croire que Jones obtiendra le poste et que Jones a dix pièces dans sa poche, et il en infère que celui qui obtiendra le poste a dix pièces dans sa poche ; c'est Smith lui-même qui obtient le poste, et il se trouve avoir dix pièces. Dans le second, Smith croit avec justification que Jones possède une Ford et en infère la disjonction « Jones possède une Ford ou Brown est à Barcelone », vraie seulement parce que Brown se trouve par hasard à Barcelone.\n\nLes réponses se sont multipliées : exiger que la croyance ne repose pas sur des prémisses fausses, ajouter une condition d'indéfaisabilité, un lien causal entre le fait et la croyance (Goldman, 1967) ou la fiabilité du processus qui la produit. Robert Nozick a proposé en 1981 que la croyance suive la vérité : si p était faux, le sujet ne croirait pas p. Linda Zagzebski a soutenu (1994) que, tant que la justification n'implique pas la vérité, de nouveaux cas de Gettier resteront possibles, et Timothy Williamson (2000) a proposé de tenir la connaissance pour primitive, sans l'analyser. Le problème se rattache à la justification, à la croyance, à la vérité et au scepticisme.",
+    "synonyms": [
+     "Cas de Gettier"
+    ],
+    "nearTerms": [
+     "Croyance vraie justifiée",
+     "Connaissance",
+     "Chance épistémique",
+     "Fiabilisme",
+     "Justification",
+     "Théétète"
+    ],
+    "aliases": [
+     "gettier",
+     "cas de gettier",
+     "croyance vraie justifiée",
+     "analyse tripartite de la connaissance",
+     "chance épistémique"
+    ],
+    "seoTitle": "Problème de Gettier — croyance vraie justifiée et savoir",
+    "seoDescription": "Le problème de Gettier (1963) : les cas de Smith et Jones, l'analyse tripartite de la connaissance depuis le Théétète, ses précurseurs et les principales réponses."
+   },
+   "de": {
+    "title": "Gettier-Problem",
+    "slug": "gettier-problem",
+    "summary": "Fälle, in denen jemand eine wahre, gerechtfertigte Überzeugung hat, die durch Zufall doch kein Wissen zu sein scheint; die Herausforderung Edmund Gettiers von 1963.",
+    "definition": "Das Gettier-Problem ist die Schwierigkeit, Wissen als gerechtfertigte wahre Überzeugung zu definieren. 1963 legte Edmund Gettier Fälle vor, in denen jemand etwas Wahres mit guter Rechtfertigung glaubt, aber nur zufällig richtig liegt, sodass er intuitiv nicht weiß. Das Problem fragt, welche Bedingung über Überzeugung, Wahrheit und Rechtfertigung hinaus Wissen von zufällig wahrer Überzeugung unterscheidet.",
+    "etymology": "Benannt nach dem amerikanischen Philosophen Edmund L. Gettier (1927–2021), Verfasser des Aufsatzes „Is Justified True Belief Knowledge?“, erschienen 1963 in der Zeitschrift *Analysis*. Die angegriffene dreiteilige Analyse gibt die Formel aus Platons *Theaitetos* wieder, „wahre Meinung mit Logos“.",
+    "body": "Nach einer traditionellen Analyse weiß jemand, dass p, wenn er glaubt, dass p, p wahr ist und die Überzeugung gerechtfertigt ist. Das Gettier-Problem zeigt, dass diese drei Bedingungen nicht genügen: Es gibt Fälle, in denen eine gerechtfertigte wahre Überzeugung nur durch Glück wahr ist und niemand von Wissen sprechen würde. Seit 1963 zählt die Frage zu den zentralen Problemen der analytischen Erkenntnistheorie.\n\nDie dreiteilige Analyse wird gewöhnlich mit Platon verbunden, der im *Theaitetos* (um 369 v. Chr.) die Bestimmung des Wissens als wahre Meinung mit Logos prüft und im *Menon* die wahre Meinung vom durch Gründe festgebundenen Wissen unterscheidet. Im 20. Jahrhundert formulierten A. J. Ayer (1956) und Roderick Chisholm (1957) Bedingungen dieser Art. Gegenbeispiele hatten Vorläufer: Der buddhistische Philosoph Dharmottara beschreibt im 8. Jahrhundert jemanden, der in einer Fata Morgana Wasser sucht und zufällig genau dort Wasser findet, und Russell (1948) denkt sich jemanden, der an einer stehengebliebenen Uhr die richtige Zeit abliest.\n\nIn einem dreiseitigen Aufsatz stellte Gettier zwei Fälle vor. Im ersten hat Smith gute Gründe zu glauben, dass Jones die Stelle bekommt und zehn Münzen in der Tasche hat, und schließt, dass derjenige, der die Stelle bekommt, zehn Münzen in der Tasche hat; die Stelle bekommt aber Smith selbst, der zufällig zehn Münzen bei sich trägt. Im zweiten glaubt Smith gerechtfertigt, dass Jones einen Ford besitzt, und folgert die Disjunktion „Jones besitzt einen Ford oder Brown ist in Barcelona“, die nur wahr ist, weil Brown zufällig in Barcelona ist.\n\nDie Antworten vervielfachten sich: Man verlangte, dass die Überzeugung nicht auf falschen Prämissen beruht, fügte eine Unanfechtbarkeitsbedingung hinzu, eine kausale Verbindung zwischen Tatsache und Überzeugung (Goldman, 1967) oder die Zuverlässigkeit des erzeugenden Prozesses. Robert Nozick schlug 1981 vor, die Überzeugung müsse der Wahrheit folgen: Wäre p falsch, würde das Subjekt p nicht glauben. Linda Zagzebski argumentierte (1994), dass neue Gettier-Fälle stets möglich bleiben, solange Rechtfertigung die Wahrheit nicht einschließt, und Timothy Williamson (2000) schlug vor, Wissen als unanalysierbaren Grundbegriff zu behandeln. Das Problem hängt mit Rechtfertigung, Überzeugung, Wahrheit und Skepsis zusammen.",
+    "synonyms": [
+     "Gettier-Fälle"
+    ],
+    "nearTerms": [
+     "Gerechtfertigte wahre Überzeugung",
+     "Wissen",
+     "Epistemisches Glück",
+     "Reliabilismus",
+     "Rechtfertigung",
+     "Theaitetos"
+    ],
+    "aliases": [
+     "gettier",
+     "Gettier-Fälle",
+     "gerechtfertigte wahre Meinung",
+     "Standardanalyse des Wissens",
+     "epistemisches Glück"
+    ],
+    "seoTitle": "Gettier-Problem – ist Wissen gerechtfertigte wahre Überzeugung?",
+    "seoDescription": "Das Gettier-Problem (1963): die Fälle von Smith und Jones, die dreiteilige Analyse des Wissens seit dem Theaitetos, Vorläufer und die wichtigsten Antworten."
+   }
+  }
+ },
+ {
+  "id": "con-phenomenon-noumenon",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-epistemology",
+   "cat-metaphysics"
+  ],
+  "philosopherIds": [
+   "phi-plato",
+   "phi-kant",
+   "phi-hegel",
+   "phi-husserl"
+  ],
+  "schoolIds": [
+   "sch-platonism",
+   "sch-idealism",
+   "sch-phenomenology"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-modern",
+   "per-19th",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-republic",
+   "wrk-krv",
+   "wrk-phenomenology-spirit",
+   "wrk-ideas-husserl"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-knowledge",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-a-priori",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-intuition",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-perception",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-forms",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-scepticism",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Fenômeno e coisa em si",
+    "slug": "fenomeno-e-coisa-em-si",
+    "summary": "A distinção kantiana entre as coisas tal como nos aparecem, únicas que podemos conhecer, e as coisas tal como seriam em si mesmas.",
+    "definition": "Fenômeno é o objeto tal como aparece a um sujeito, submetido às formas da sensibilidade e às categorias do entendimento; coisa em si é o objeto considerado independentemente de toda relação com o nosso modo de conhecer. Em Kant, só conhecemos fenômenos; a coisa em si pode ser pensada, mas não conhecida. O númeno é a coisa em si enquanto objeto apenas pensável pelo entendimento.",
+    "etymology": "Fenômeno vem do grego phainómenon, “o que aparece”, particípio de phaínesthai, “aparecer, mostrar-se”; númeno vem de nooúmenon, “o que é pensado”, de noeîn, “pensar”. “Coisa em si” traduz o alemão Ding an sich, fixado por Kant; o português usa também “aparência” para o alemão Erscheinung.",
+    "body": "A distinção entre fenômeno e coisa em si fixa os limites do conhecimento humano. Conhecemos as coisas apenas tal como nos aparecem, pela sensibilidade e pelo entendimento, e não como seriam independentemente de nós. A questão é saber se essa distinção separa dois mundos ou dois modos de considerar os mesmos objetos, e se tem sentido falar de algo que, por definição, não podemos conhecer.\n\nA oposição tem raízes antigas. Platão distingue o sensível, domínio da aparência e da opinião, do inteligível, acessível ao pensamento (*A República*, livros VI–VII), e a tradição chamou noûmena aos objetos do intelecto. Kant transforma essa herança na *Crítica da Razão Pura* (1781; 2.ª ed., 1787). Segundo sua “revolução copernicana”, não é o conhecimento que se regula pelos objetos, mas os objetos que se regulam pelo nosso conhecimento: espaço e tempo são formas da intuição, e as categorias, conceitos do entendimento. Daí se segue que só conhecemos fenômenos (Erscheinungen). Na segunda edição, no capítulo sobre a distinção entre fenômenos e númenos, Kant separa o númeno em sentido negativo, um objeto enquanto não é objeto da nossa intuição sensível, do númeno em sentido positivo, objeto de uma intuição intelectual que não possuímos. O conceito de coisa em si é um conceito-limite que impede a sensibilidade de se estender a tudo.\n\nA distinção foi alvo imediato de críticas. Jacobi observou em 1787 que sem a coisa em si não se pode entrar no sistema kantiano e com ela não se pode permanecer nele, pois Kant parecia atribuir-lhe uma causalidade que as categorias só autorizam entre fenômenos. Fichte eliminou a coisa em si, Hegel denunciou-a como abstração vazia (*Fenomenologia do Espírito*, 1807), e Schopenhauer identificou-a à vontade (*O Mundo como Vontade e Representação*, 1819). Husserl, com a palavra de ordem “às coisas mesmas”, fez da fenomenologia a descrição do que aparece enquanto aparece, sem pressupor um em-si inacessível.\n\nNo século XX, os intérpretes dividiram-se entre a leitura dos “dois mundos” e a dos “dois aspectos”, defendida por Henry Allison (1983). O conceito articula-se com o a priori, a intuição, a percepção e o problema cético do acesso ao mundo exterior.",
+    "synonyms": [
+     "Aparência e coisa em si",
+     "Fenômeno e númeno"
+    ],
+    "nearTerms": [
+     "Númeno",
+     "Aparência",
+     "Idealismo transcendental",
+     "Revolução copernicana",
+     "Representação",
+     "Sensível e inteligível"
+    ],
+    "aliases": [
+     "coisa em si",
+     "númeno",
+     "noumenon",
+     "Ding an sich",
+     "idealismo transcendental"
+    ],
+    "seoTitle": "Fenômeno e coisa em si — Kant e o idealismo transcendental",
+    "seoDescription": "Fenômeno e coisa em si: a distinção de Kant na Crítica da Razão Pura, o númeno negativo e positivo, a objeção de Jacobi, Fichte, Hegel, Schopenhauer e Husserl."
+   },
+   "en": {
+    "title": "Phenomenon and thing-in-itself",
+    "slug": "phenomenon-and-thing-in-itself",
+    "summary": "Kant's distinction between things as they appear to us, the only things we can know, and things as they would be in themselves.",
+    "definition": "A phenomenon is an object as it appears to a subject, subject to the forms of sensibility and the categories of the understanding; the thing-in-itself is the object considered independently of every relation to our way of knowing. For Kant we know only phenomena; the thing-in-itself can be thought but not known. The noumenon is the thing-in-itself as an object merely thinkable by the understanding.",
+    "etymology": "Phenomenon comes from Greek phainómenon, “what appears”, participle of phaínesthai, “to appear, show oneself”; noumenon from nooúmenon, “what is thought”, from noeîn, “to think”. “Thing-in-itself” renders German Ding an sich, fixed by Kant; his Erscheinung is also translated “appearance”.",
+    "body": "The distinction between phenomenon and thing-in-itself fixes the limits of human knowledge. We know things only as they appear to us, through sensibility and understanding, and not as they would be independently of us. The question is whether the distinction separates two worlds or two ways of considering the same objects, and whether it makes sense to speak of something that by definition we cannot know.\n\nThe opposition has ancient roots. Plato distinguishes the sensible, the domain of appearance and opinion, from the intelligible, accessible to thought (*Republic*, Books VI–VII), and the tradition called the objects of the intellect noûmena. Kant transforms this inheritance in the *Critique of Pure Reason* (1781; 2nd ed. 1787). According to his “Copernican revolution”, it is not knowledge that conforms to objects but objects that conform to our knowledge: space and time are forms of intuition, and the categories are concepts of the understanding. It follows that we know only appearances (Erscheinungen). In the second edition, in the chapter on the distinction between phenomena and noumena, Kant separates the noumenon in the negative sense, an object insofar as it is not an object of our sensible intuition, from the noumenon in the positive sense, the object of an intellectual intuition we do not possess. The concept of the thing-in-itself is a limiting concept that keeps sensibility from extending to everything.\n\nThe distinction drew immediate criticism. Jacobi remarked in 1787 that without the thing-in-itself one cannot enter the Kantian system and with it one cannot remain inside, since Kant seemed to ascribe to it a causality that the categories license only among appearances. Fichte eliminated the thing-in-itself, Hegel denounced it as an empty abstraction (*Phenomenology of Spirit*, 1807), and Schopenhauer identified it with the will (*The World as Will and Representation*, 1819). Husserl, with the watchword “to the things themselves”, made phenomenology the description of what appears as it appears, without presupposing an inaccessible in-itself.\n\nIn the twentieth century interpreters divided between the “two-world” reading and the “two-aspect” reading defended by Henry Allison (1983). The concept is bound up with the a priori, intuition, perception and the sceptical problem of access to the external world.",
+    "synonyms": [
+     "Appearance and thing-in-itself",
+     "Phenomenon and noumenon"
+    ],
+    "nearTerms": [
+     "Noumenon",
+     "Appearance",
+     "Transcendental idealism",
+     "Copernican revolution",
+     "Representation",
+     "Sensible and intelligible"
+    ],
+    "aliases": [
+     "thing in itself",
+     "noumenon",
+     "Ding an sich",
+     "transcendental idealism",
+     "phenomena and noumena"
+    ],
+    "seoTitle": "Phenomenon and thing-in-itself — Kant's transcendental idealism",
+    "seoDescription": "Phenomenon and thing-in-itself: Kant's distinction in the Critique of Pure Reason, negative and positive noumenon, Jacobi's objection, Fichte, Hegel, Schopenhauer."
+   },
+   "fr": {
+    "title": "Phénomène et chose en soi",
+    "slug": "phenomene-et-chose-en-soi",
+    "summary": "La distinction kantienne entre les choses telles qu'elles nous apparaissent, seules connaissables, et les choses telles qu'elles seraient en elles-mêmes.",
+    "definition": "Le phénomène est l'objet tel qu'il apparaît à un sujet, soumis aux formes de la sensibilité et aux catégories de l'entendement ; la chose en soi est l'objet considéré indépendamment de toute relation à notre manière de connaître. Chez Kant, nous ne connaissons que des phénomènes ; la chose en soi peut être pensée, non connue. Le noumène est la chose en soi en tant qu'objet seulement pensable par l'entendement.",
+    "etymology": "Phénomène vient du grec phainómenon, « ce qui apparaît », participe de phaínesthai, « apparaître, se montrer » ; noumène vient de nooúmenon, « ce qui est pensé », de noeîn, « penser ». « Chose en soi » traduit l'allemand Ding an sich, fixé par Kant ; son Erscheinung se rend aussi par « apparition ».",
+    "body": "La distinction entre phénomène et chose en soi fixe les limites de la connaissance humaine. Nous ne connaissons les choses que telles qu'elles nous apparaissent, par la sensibilité et l'entendement, et non telles qu'elles seraient indépendamment de nous. La question est de savoir si cette distinction sépare deux mondes ou deux manières de considérer les mêmes objets, et s'il y a un sens à parler de ce que, par définition, nous ne pouvons connaître.\n\nL'opposition a des racines anciennes. Platon distingue le sensible, domaine de l'apparence et de l'opinion, de l'intelligible, accessible à la pensée (*La République*, livres VI–VII), et la tradition a appelé noûmena les objets de l'intellect. Kant transforme cet héritage dans la *Critique de la raison pure* (1781 ; 2e éd. 1787). Selon sa « révolution copernicienne », ce n'est pas la connaissance qui se règle sur les objets, mais les objets qui se règlent sur notre connaissance : l'espace et le temps sont des formes de l'intuition, et les catégories des concepts de l'entendement. Il s'ensuit que nous ne connaissons que des phénomènes (Erscheinungen). Dans la seconde édition, au chapitre sur la distinction des phénomènes et des noumènes, Kant sépare le noumène au sens négatif, objet en tant qu'il n'est pas objet de notre intuition sensible, du noumène au sens positif, objet d'une intuition intellectuelle que nous ne possédons pas. Le concept de chose en soi est un concept-limite qui empêche la sensibilité de s'étendre à tout.\n\nLa distinction fut aussitôt critiquée. Jacobi remarqua en 1787 que sans la chose en soi on ne peut entrer dans le système kantien et qu'avec elle on ne peut y demeurer, car Kant semblait lui attribuer une causalité que les catégories n'autorisent qu'entre phénomènes. Fichte supprima la chose en soi, Hegel la dénonça comme une abstraction vide (*Phénoménologie de l'esprit*, 1807), et Schopenhauer l'identifia à la volonté (*Le Monde comme volonté et comme représentation*, 1819). Husserl, avec le mot d'ordre « retour aux choses mêmes », fit de la phénoménologie la description de ce qui apparaît tel qu'il apparaît, sans présupposer un en-soi inaccessible.\n\nAu XXe siècle, les interprètes se sont partagés entre la lecture des « deux mondes » et celle des « deux aspects », défendue par Henry Allison (1983). Le concept s'articule à l'a priori, à l'intuition, à la perception et au problème sceptique de l'accès au monde extérieur.",
+    "synonyms": [
+     "Phénomène et noumène"
+    ],
+    "nearTerms": [
+     "Noumène",
+     "Apparence",
+     "Idéalisme transcendantal",
+     "Révolution copernicienne",
+     "Représentation",
+     "Sensible et intelligible"
+    ],
+    "aliases": [
+     "chose en soi",
+     "noumène",
+     "Ding an sich",
+     "idéalisme transcendantal",
+     "phénomènes et noumènes"
+    ],
+    "seoTitle": "Phénomène et chose en soi — Kant et l'idéalisme transcendantal",
+    "seoDescription": "Phénomène et chose en soi : la distinction de Kant dans la Critique de la raison pure, noumène négatif et positif, l'objection de Jacobi, Fichte, Hegel, Schopenhauer."
+   },
+   "de": {
+    "title": "Erscheinung und Ding an sich",
+    "slug": "erscheinung-und-ding-an-sich",
+    "summary": "Kants Unterscheidung zwischen den Dingen, wie sie uns erscheinen und allein erkennbar sind, und den Dingen, wie sie an sich selbst wären.",
+    "definition": "Erscheinung ist der Gegenstand, wie er einem Subjekt erscheint, unterworfen den Formen der Sinnlichkeit und den Kategorien des Verstandes; das Ding an sich ist der Gegenstand, betrachtet unabhängig von jeder Beziehung auf unsere Erkenntnisweise. Nach Kant erkennen wir nur Erscheinungen; das Ding an sich kann gedacht, aber nicht erkannt werden. Das Noumenon ist das Ding an sich als bloß durch den Verstand denkbarer Gegenstand.",
+    "etymology": "Griechisch phainómenon, „das Erscheinende“, Partizip von phaínesthai, „erscheinen, sich zeigen“, und nooúmenon, „das Gedachte“, von noeîn, „denken“. „Ding an sich“ ist Kants Prägung; sein Terminus Erscheinung entspricht dem lateinischen phaenomenon.",
+    "body": "Die Unterscheidung von Erscheinung und Ding an sich bestimmt die Grenzen menschlicher Erkenntnis. Wir erkennen die Dinge nur, wie sie uns durch Sinnlichkeit und Verstand erscheinen, nicht wie sie unabhängig von uns wären. Die Frage ist, ob die Unterscheidung zwei Welten trennt oder zwei Betrachtungsweisen derselben Gegenstände, und ob es sinnvoll ist, von etwas zu reden, das wir definitionsgemäß nicht erkennen können.\n\nDer Gegensatz hat antike Wurzeln. Platon unterscheidet das Sinnliche, den Bereich des Scheins und der Meinung, vom Intelligiblen, das dem Denken zugänglich ist (*Politeia*, Bücher VI–VII), und die Tradition nannte die Gegenstände des Intellekts noûmena. Kant verwandelt dieses Erbe in der *Kritik der reinen Vernunft* (1781; 2. Aufl. 1787). Nach seiner „kopernikanischen Wende“ richtet sich nicht die Erkenntnis nach den Gegenständen, sondern die Gegenstände richten sich nach unserer Erkenntnis: Raum und Zeit sind Formen der Anschauung, die Kategorien Begriffe des Verstandes. Daraus folgt, dass wir nur Erscheinungen erkennen. In der zweiten Auflage, im Kapitel über den Grund der Unterscheidung aller Gegenstände in Phaenomena und Noumena trennt Kant das Noumenon im negativen Verstande, einen Gegenstand, sofern er nicht Objekt unserer sinnlichen Anschauung ist, vom Noumenon im positiven Verstande, dem Objekt einer intellektuellen Anschauung, die wir nicht besitzen. Der Begriff des Dinges an sich ist ein Grenzbegriff, der die Anmaßung der Sinnlichkeit einschränkt.\n\nDie Unterscheidung wurde sofort kritisiert. Jacobi bemerkte 1787, ohne das Ding an sich könne man in das kantische System nicht hineinkommen, mit ihm nicht darin bleiben, da Kant ihm eine Kausalität zuzuschreiben scheine, die die Kategorien nur zwischen Erscheinungen erlauben. Fichte beseitigte das Ding an sich, Hegel verwarf es als leere Abstraktion (*Phänomenologie des Geistes*, 1807), und Schopenhauer bestimmte es als Willen (*Die Welt als Wille und Vorstellung*, 1819). Husserl machte mit der Parole „zu den Sachen selbst“ die Phänomenologie zur Beschreibung dessen, was erscheint, so wie es erscheint, ohne ein unzugängliches An-sich vorauszusetzen.\n\nIm 20. Jahrhundert teilten sich die Interpreten in die Zwei-Welten-Lesart und die von Henry Allison (1983) vertretene Zwei-Aspekte-Lesart. Der Begriff ist mit dem Apriori, der Anschauung, der Wahrnehmung und dem skeptischen Problem des Zugangs zur Außenwelt verbunden.",
+    "synonyms": [
+     "Phaenomenon und Noumenon"
+    ],
+    "nearTerms": [
+     "Noumenon",
+     "Erscheinung",
+     "Transzendentaler Idealismus",
+     "Kopernikanische Wende",
+     "Vorstellung",
+     "Sinnenwelt und Verstandeswelt"
+    ],
+    "aliases": [
+     "Ding an sich",
+     "Noumenon",
+     "Phänomen",
+     "transzendentaler Idealismus",
+     "Phaenomena und Noumena"
+    ],
+    "seoTitle": "Erscheinung und Ding an sich – Kants transzendentaler Idealismus",
+    "seoDescription": "Erscheinung und Ding an sich: Kants Unterscheidung in der Kritik der reinen Vernunft, negatives und positives Noumenon, Jacobis Einwand, Fichte, Hegel, Schopenhauer."
+   }
+  }
+ },
+ {
+  "id": "con-relativism",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-epistemology",
+   "cat-ethics"
+  ],
+  "philosopherIds": [
+   "phi-protagoras",
+   "phi-plato",
+   "phi-sextus"
+  ],
+  "schoolIds": [
+   "sch-scepticism",
+   "sch-analytic"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-renaissance",
+   "per-20th",
+   "per-contemporary"
+  ],
+  "workIds": [
+   "wrk-outlines-pyrrhonism"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-truth",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-scepticism",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-knowledge",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-doxa",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-ethics",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-coherentism",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Relativismo",
+    "slug": "relativismo",
+    "summary": "A tese de que a verdade, o conhecimento ou os valores dependem de um ponto de vista, de uma cultura ou de um esquema conceitual, e não têm validade absoluta.",
+    "definition": "Relativismo é a doutrina segundo a qual a verdade, a justificação ou o valor de certos juízos dependem de um parâmetro, como o indivíduo, a cultura, a época, a linguagem ou o esquema conceitual, e não valem de modo absoluto. Distinguem-se o relativismo epistêmico, o relativismo moral, o relativismo cultural e o relativismo conceitual. Opõe-se ao absolutismo e ao universalismo.",
+    "etymology": "De “relativo”, do latim tardio relativus, “que se refere a algo”, derivado de relatus, particípio de referre, “reportar, referir”, com o sufixo -ismo. O termo “relativismo” difunde-se no século XIX; a tese remonta à máxima do homem-medida de Protágoras.",
+    "body": "O relativismo afirma que a verdade, o conhecimento ou os valores dependem de um ponto de vista e não valem de modo absoluto. O que é verdadeiro ou bom seria sempre verdadeiro ou bom para alguém, numa cultura, numa época ou num quadro conceitual. A tese é atraente diante da diversidade de crenças e costumes, mas enfrenta uma dificuldade lógica antiga: a própria afirmação do relativismo pretende valer para todos.\n\nProtágoras abre a história do conceito com a máxima “o homem é a medida de todas as coisas, das que são, enquanto são, das que não são, enquanto não são” (DK 80 B1), conhecida sobretudo pelo *Teeteto* de Platão (152a). Platão interpreta-a como a tese de que cada coisa é para cada um tal como lhe aparece e responde com o argumento da autorrefutação (171a–c): se toda opinião é verdadeira, também é verdadeira a opinião de quem julga Protágoras falso. Heródoto conta que Dario confrontou gregos e indianos com os costumes funerários uns dos outros e conclui, com Píndaro, que o costume é rei de todos. Os céticos recolhem as divergências de costumes e de percepções nos modos de Enesidemo (*Hipotiposes Pirrônicas*, I), mas para suspender o juízo, não para afirmar uma verdade relativa. Montaigne observa nos *Ensaios* (1580) que cada um chama barbárie ao que não é costume seu.\n\nNo século XX, a antropologia de Franz Boas e Melville Herskovits formula o relativismo cultural; a hipótese de Sapir e Whorf liga a visão do mundo à estrutura da língua; Kuhn, em *A Estrutura das Revoluções Científicas* (1962), fala da incomensurabilidade entre paradigmas, e Feyerabend radicaliza a tese. O programa forte da sociologia do conhecimento, de David Bloor (1976), trata as crenças verdadeiras e falsas de modo simétrico.\n\nAs críticas também se renovaram. Donald Davidson (1974) contesta a ideia de esquemas conceituais incomensuráveis, Putnam argumenta em *Razão, Verdade e História* (1981) que o relativismo é incoerente, e Paul Boghossian (*Fear of Knowledge*, 2006) critica o construtivismo sobre os fatos e a justificação. Formas moderadas persistem na metaética e na semântica, por exemplo nas teorias da verdade relativa ao avaliador. O conceito liga-se à verdade, ao ceticismo, ao paradigma e à ética.",
+    "synonyms": [
+     "Relativismo epistêmico"
+    ],
+    "nearTerms": [
+     "Absolutismo",
+     "Universalismo",
+     "Ceticismo",
+     "Perspectivismo",
+     "Incomensurabilidade",
+     "Relativismo cultural"
+    ],
+    "aliases": [
+     "homem-medida",
+     "relativismo moral",
+     "relativismo cultural",
+     "relativismo cognitivo",
+     "autorrefutação"
+    ],
+    "seoTitle": "Relativismo — Protágoras, Platão, Montaigne, Kuhn e Putnam",
+    "seoDescription": "O relativismo na filosofia: o homem-medida de Protágoras, a autorrefutação no Teeteto, os céticos, Montaigne, o relativismo cultural, Kuhn e as críticas de Putnam."
+   },
+   "en": {
+    "title": "Relativism",
+    "slug": "relativism",
+    "summary": "The thesis that truth, knowledge or values depend on a point of view, a culture or a conceptual scheme and have no absolute validity.",
+    "definition": "Relativism is the doctrine that the truth, justification or value of certain judgements depends on a parameter, such as the individual, the culture, the period, the language or the conceptual scheme, rather than holding absolutely. Epistemic, moral, cultural and conceptual relativism are distinguished. It is opposed to absolutism and universalism.",
+    "etymology": "From relative, via French relatif from Late Latin relativus, “referring to something”, derived from relatus, participle of referre, “to carry back, refer”, with the suffix -ism. The word spread in the nineteenth century; the thesis goes back to Protagoras's man-measure maxim.",
+    "body": "Relativism holds that truth, knowledge or values depend on a point of view and do not hold absolutely. What is true or good would always be true or good for someone, in a culture, a period or a conceptual framework. The thesis is attractive in the face of the diversity of beliefs and customs, but it faces an ancient logical difficulty: the statement of relativism itself claims to hold for everyone.\n\nProtagoras opens the history of the concept with the maxim “man is the measure of all things, of the things that are, that they are, and of the things that are not, that they are not” (DK 80 B1), known mainly through Plato's *Theaetetus* (152a). Plato reads it as the thesis that each thing is for each person as it appears to them and replies with the argument of self-refutation (171a–c): if every opinion is true, so is the opinion of those who judge Protagoras to be wrong. Herodotus tells how Darius confronted Greeks and Indians with each other's funeral customs and concludes, with Pindar, that custom is king of all. The sceptics collect divergences of customs and perceptions in the modes of Aenesidemus (*Outlines of Pyrrhonism*, I), but in order to suspend judgement, not to assert a relative truth. Montaigne observes in the *Essays* (1580) that everyone calls barbarism whatever is not their own custom.\n\nIn the twentieth century the anthropology of Franz Boas and Melville Herskovits formulated cultural relativism; the Sapir–Whorf hypothesis linked worldview to the structure of language; Kuhn, in *The Structure of Scientific Revolutions* (1962), spoke of incommensurability between paradigms, and Feyerabend radicalised the thesis. David Bloor's strong programme in the sociology of knowledge (1976) treats true and false beliefs symmetrically.\n\nThe criticisms were renewed as well. Donald Davidson (1974) challenges the very idea of incommensurable conceptual schemes, Putnam argues in *Reason, Truth and History* (1981) that relativism is incoherent, and Paul Boghossian (*Fear of Knowledge*, 2006) criticises constructivism about facts and justification. Moderate forms survive in metaethics and semantics, for instance in assessment-sensitive theories of truth. The concept is tied to truth, scepticism, paradigms and ethics.",
+    "synonyms": [
+     "Epistemic relativism"
+    ],
+    "nearTerms": [
+     "Absolutism",
+     "Universalism",
+     "Scepticism",
+     "Perspectivism",
+     "Incommensurability",
+     "Cultural relativism"
+    ],
+    "aliases": [
+     "man is the measure",
+     "moral relativism",
+     "cultural relativism",
+     "cognitive relativism",
+     "self-refutation"
+    ],
+    "seoTitle": "Relativism — Protagoras, Plato, Montaigne, Kuhn and Putnam",
+    "seoDescription": "Relativism in philosophy: Protagoras's man-measure, self-refutation in the Theaetetus, the sceptics, Montaigne, cultural relativism, Kuhn and Putnam's critique."
+   },
+   "fr": {
+    "title": "Relativisme",
+    "slug": "relativisme",
+    "summary": "La thèse selon laquelle la vérité, la connaissance ou les valeurs dépendent d'un point de vue, d'une culture ou d'un schème conceptuel et n'ont pas de validité absolue.",
+    "definition": "Le relativisme est la doctrine selon laquelle la vérité, la justification ou la valeur de certains jugements dépendent d'un paramètre, comme l'individu, la culture, l'époque, la langue ou le schème conceptuel, et ne valent pas absolument. On distingue relativisme épistémique, relativisme moral, relativisme culturel et relativisme conceptuel. Il s'oppose à l'absolutisme et à l'universalisme.",
+    "etymology": "De « relatif », du latin tardif relativus, « qui se rapporte à quelque chose », dérivé de relatus, participe de referre, « rapporter », avec le suffixe -isme. Le mot se répand au XIXe siècle ; la thèse remonte à la maxime de l'homme-mesure de Protagoras.",
+    "body": "Le relativisme affirme que la vérité, la connaissance ou les valeurs dépendent d'un point de vue et ne valent pas absolument. Ce qui est vrai ou bon le serait toujours pour quelqu'un, dans une culture, une époque ou un cadre conceptuel. La thèse séduit face à la diversité des croyances et des mœurs, mais elle se heurte à une difficulté logique ancienne : l'énoncé même du relativisme prétend valoir pour tous.\n\nProtagoras ouvre l'histoire du concept avec la maxime « l'homme est la mesure de toutes choses, de celles qui sont, en tant qu'elles sont, de celles qui ne sont pas, en tant qu'elles ne sont pas » (DK 80 B1), connue surtout par le *Théétète* de Platon (152a). Platon l'interprète comme la thèse selon laquelle chaque chose est pour chacun telle qu'elle lui apparaît et y répond par l'argument de l'autoréfutation (171a–c) : si toute opinion est vraie, l'opinion de ceux qui jugent Protagoras dans l'erreur l'est aussi. Hérodote raconte comment Darius confronta Grecs et Indiens à leurs coutumes funéraires respectives et conclut, avec Pindare, que la coutume est reine de toutes choses. Les sceptiques recueillent la diversité des mœurs et des perceptions dans les modes d'Énésidème (*Esquisses pyrrhoniennes*, I), mais pour suspendre le jugement, non pour affirmer une vérité relative. Montaigne remarque dans les *Essais* (1580) que chacun appelle barbarie ce qui n'est pas de son usage.\n\nAu XXe siècle, l'anthropologie de Franz Boas et de Melville Herskovits formule le relativisme culturel ; l'hypothèse de Sapir et Whorf lie la vision du monde à la structure de la langue ; Kuhn, dans *La Structure des révolutions scientifiques* (1962), parle d'incommensurabilité entre paradigmes, et Feyerabend radicalise la thèse. Le programme fort de la sociologie de la connaissance, de David Bloor (1976), traite symétriquement les croyances vraies et fausses.\n\nLes critiques se sont renouvelées elles aussi. Donald Davidson (1974) conteste l'idée même de schèmes conceptuels incommensurables, Putnam soutient dans *Raison, vérité et histoire* (1981) que le relativisme est incohérent, et Paul Boghossian (*La Peur du savoir*, 2006) critique le constructivisme à propos des faits et de la justification. Des formes modérées subsistent en métaéthique et en sémantique, par exemple dans les théories de la vérité relative à l'évaluateur. Le concept se rattache à la vérité, au scepticisme, au paradigme et à l'éthique.",
+    "synonyms": [
+     "Relativisme épistémique"
+    ],
+    "nearTerms": [
+     "Absolutisme",
+     "Universalisme",
+     "Scepticisme",
+     "Perspectivisme",
+     "Incommensurabilité",
+     "Relativisme culturel"
+    ],
+    "aliases": [
+     "homme-mesure",
+     "relativisme moral",
+     "relativisme culturel",
+     "relativisme cognitif",
+     "autoréfutation"
+    ],
+    "seoTitle": "Relativisme — Protagoras, Platon, Montaigne, Kuhn et Putnam",
+    "seoDescription": "Le relativisme en philosophie : l'homme-mesure de Protagoras, l'autoréfutation dans le Théétète, les sceptiques, Montaigne, le relativisme culturel, Kuhn et Putnam."
+   },
+   "de": {
+    "title": "Relativismus",
+    "slug": "relativismus",
+    "summary": "Die These, dass Wahrheit, Wissen oder Werte von einem Standpunkt, einer Kultur oder einem Begriffsschema abhängen und keine absolute Geltung haben.",
+    "definition": "Relativismus ist die Lehre, dass Wahrheit, Rechtfertigung oder Wert bestimmter Urteile von einem Parameter abhängen, etwa vom Individuum, von der Kultur, der Epoche, der Sprache oder dem Begriffsschema, und nicht absolut gelten. Man unterscheidet erkenntnistheoretischen, moralischen, kulturellen und begrifflichen Relativismus. Er steht dem Absolutismus und dem Universalismus gegenüber.",
+    "etymology": "Von „relativ“, spätlateinisch relativus, „sich auf etwas beziehend“, zu relatus, Partizip von referre, „zurücktragen, beziehen“, mit dem Suffix -ismus. Das Wort verbreitet sich im 19. Jahrhundert; die These geht auf den Homo-mensura-Satz des Protagoras zurück.",
+    "body": "Der Relativismus behauptet, dass Wahrheit, Wissen oder Werte von einem Standpunkt abhängen und nicht absolut gelten. Was wahr oder gut ist, wäre stets wahr oder gut für jemanden, in einer Kultur, einer Epoche oder einem begrifflichen Rahmen. Angesichts der Vielfalt von Überzeugungen und Sitten ist die These anziehend, doch sie steht vor einer alten logischen Schwierigkeit: Die Behauptung des Relativismus selbst beansprucht, für alle zu gelten.\n\nProtagoras eröffnet die Geschichte des Begriffs mit dem Satz „Der Mensch ist das Maß aller Dinge, der seienden, dass sie sind, der nichtseienden, dass sie nicht sind“ (DK 80 B1), überliefert vor allem durch Platons *Theaitetos* (152a). Platon deutet ihn als These, dass jedes Ding für jeden so ist, wie es ihm erscheint, und antwortet mit dem Argument der Selbstwiderlegung (171a–c): Wenn jede Meinung wahr ist, dann auch die Meinung derer, die Protagoras für im Irrtum halten. Herodot erzählt, wie Dareios Griechen und Inder mit den Bestattungssitten der jeweils anderen konfrontierte, und schließt mit Pindar, die Sitte sei König über alles. Die Skeptiker sammeln die Verschiedenheit der Sitten und Wahrnehmungen in den Tropen des Ainesidemos (*Grundriss der pyrrhonischen Skepsis*, I), aber um sich des Urteils zu enthalten, nicht um eine relative Wahrheit zu behaupten. Montaigne bemerkt in den *Essais* (1580), jeder nenne Barbarei, was nicht seiner Gewohnheit entspricht.\n\nIm 20. Jahrhundert formuliert die Anthropologie von Franz Boas und Melville Herskovits den Kulturrelativismus; die Sapir-Whorf-Hypothese verbindet das Weltbild mit der Struktur der Sprache; Kuhn spricht in *Die Struktur wissenschaftlicher Revolutionen* (1962) von der Inkommensurabilität der Paradigmen, und Feyerabend radikalisiert die These. Das starke Programm der Wissenssoziologie von David Bloor (1976) behandelt wahre und falsche Überzeugungen symmetrisch.\n\nAuch die Kritik hat sich erneuert. Donald Davidson (1974) bestreitet die Idee inkommensurabler Begriffsschemata überhaupt, Putnam hält den Relativismus in *Vernunft, Wahrheit und Geschichte* (1981) für inkohärent, und Paul Boghossian (*Angst vor der Wahrheit*, 2006) kritisiert den Konstruktivismus in Bezug auf Tatsachen und Rechtfertigung. Gemäßigte Formen bestehen in Metaethik und Semantik fort, etwa in Theorien einer vom Beurteiler abhängigen Wahrheit. Der Begriff ist mit Wahrheit, Skepsis, Paradigma und Ethik verbunden.",
+    "synonyms": [
+     "Erkenntnisrelativismus"
+    ],
+    "nearTerms": [
+     "Absolutismus",
+     "Universalismus",
+     "Skepsis",
+     "Perspektivismus",
+     "Inkommensurabilität",
+     "Kulturrelativismus"
+    ],
+    "aliases": [
+     "Homo-mensura-Satz",
+     "moralischer Relativismus",
+     "Kulturrelativismus",
+     "kognitiver Relativismus",
+     "Selbstwiderlegung"
+    ],
+    "seoTitle": "Relativismus – Protagoras, Platon, Montaigne, Kuhn und Putnam",
+    "seoDescription": "Der Relativismus in der Philosophie: Protagoras' Homo-mensura-Satz, die Selbstwiderlegung im Theaitetos, die Skeptiker, Montaigne, Kulturrelativismus, Kuhn, Putnam."
    }
   }
  },
