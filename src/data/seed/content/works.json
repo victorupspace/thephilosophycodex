@@ -10,7 +10,8 @@
   "conceptIds": [
    "con-being",
    "con-ontology",
-   "con-truth"
+   "con-truth",
+   "con-becoming"
   ],
   "sourceIds": [
    "src-sep",
@@ -119,7 +120,8 @@
    "con-virtue",
    "con-ethics",
    "con-eudaimonia",
-   "con-freedom"
+   "con-freedom",
+   "con-time"
   ],
   "sourceIds": [
    "src-sep",
@@ -227,7 +229,8 @@
   "conceptIds": [
    "con-free-will",
    "con-good",
-   "con-eudaimonia"
+   "con-eudaimonia",
+   "con-time"
   ],
   "sourceIds": [
    "src-sep",

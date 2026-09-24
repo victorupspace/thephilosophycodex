@@ -54,6 +54,14 @@
     "kind": "related"
    },
    {
+    "conceptId": "con-universals",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-modality",
+    "kind": "related"
+   },
+   {
     "conceptId": "con-identity",
     "kind": "related"
    }
@@ -224,6 +232,14 @@
     "kind": "broader"
    },
    {
+    "conceptId": "con-nothingness",
+    "kind": "opposite"
+   },
+   {
+    "conceptId": "con-modality",
+    "kind": "related"
+   },
+   {
     "conceptId": "con-dasein",
     "kind": "related"
    },
@@ -386,6 +402,10 @@
    {
     "conceptId": "con-substance",
     "kind": "related"
+   },
+   {
+    "conceptId": "con-time",
+    "kind": "related"
    }
   ],
   "translations": {
@@ -497,6 +517,1533 @@
     ],
     "seoTitle": "Identität — Definition, Leibniz-Prinzip, Frege und Kripke",
     "seoDescription": "Identität in der Philosophie: numerische und qualitative Identität, Leibniz-Prinzip, Schiff des Theseus, Locke, Hume, Freges Rätsel und Kripke."
+   }
+  }
+ },
+ {
+  "id": "con-time",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-metaphysics"
+  ],
+  "philosopherIds": [
+   "phi-plato",
+   "phi-aristotle",
+   "phi-augustine",
+   "phi-kant",
+   "phi-husserl",
+   "phi-heidegger"
+  ],
+  "schoolIds": [
+   "sch-platonism",
+   "sch-aristotelianism",
+   "sch-phenomenology"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-medieval",
+   "per-modern",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-confessions",
+   "wrk-krv",
+   "wrk-being-and-time"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-becoming",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-being",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-causality",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-consciousness",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-dasein",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Tempo",
+    "slug": "tempo",
+    "summary": "Dimensão da sucessão e da duração: pensado como medida do movimento, forma da intuição, duração vivida ou estrutura da existência.",
+    "definition": "Tempo é a dimensão segundo a qual os acontecimentos se ordenam como anteriores, simultâneos ou posteriores e segundo a qual as coisas duram. A filosofia pergunta se ele é uma realidade independente (tempo absoluto), uma relação entre acontecimentos, uma forma do sujeito ou uma estrutura da consciência e da existência, e se a passagem do presente é real ou apenas aparente.",
+    "etymology": "Do latim tempus, temporis, “tempo”, “ocasião”, de origem indo-europeia incerta. O grego distinguia chrónos, o tempo sucessivo e mensurável, kairós, o momento oportuno, e aiṓn, a duração da vida e, em Platão, a eternidade.",
+    "body": "O tempo é a dimensão em que os acontecimentos se sucedem e as coisas duram. A dificuldade de defini-lo é antiga: Agostinho escreve nas *Confissões* (c. 397–400) que sabe o que é o tempo quando ninguém lhe pergunta, mas não sabe explicá-lo a quem pergunta. As questões centrais são se o tempo existe independentemente das coisas, se o passado e o futuro são tão reais quanto o presente e se a passagem do tempo pertence ao mundo ou à mente.\n\nNo *Timeu*, Platão chama o tempo de “imagem móvel da eternidade” (37d). Aristóteles, no livro IV da *Física*, define-o como “número do movimento segundo o antes e o depois”, ligando-o à mudança e a uma alma que conta. Agostinho, no livro XI das *Confissões*, faz do tempo uma distensão da alma (distentio animi): passado, presente e futuro existem como memória, atenção e expectativa. Na modernidade, Newton postula nos *Principia* (1687) um tempo absoluto que flui uniformemente, enquanto Leibniz, na correspondência com Clarke (1715–1716), o reduz à ordem das sucessões. Na *Crítica da Razão Pura* (1781), Kant faz do tempo uma forma pura da sensibilidade, a forma do sentido interno.\n\nNo início do século XX, a reflexão se divide. McTaggart (1908) distingue a série A (passado, presente, futuro) da série B (antes e depois) e conclui pela irrealidade do tempo, abrindo o debate atual entre teorias dinâmicas e estáticas. Bergson opõe ao tempo espacializado da ciência a duração vivida, do *Ensaio sobre os dados imediatos da consciência* (1889) a *A Evolução Criadora* (1907). Husserl descreve a consciência interna do tempo pela retenção, pela impressão originária e pela protensão; Heidegger, em *Ser e Tempo* (1927), faz da temporalidade o sentido do ser do Dasein. A relatividade de Einstein (1905), ao tornar a simultaneidade relativa ao referencial, pesa em favor das concepções estáticas.\n\nO conceito articula-se com o devir, a causalidade, a memória e a historicidade. Paul Ricoeur sustenta em *Tempo e Narrativa* (1983–1985) que o tempo se torna humano ao ser articulado narrativamente. A metafísica analítica discute hoje o presentismo, o eternalismo e a teoria do bloco crescente.",
+    "synonyms": [
+     "Duração"
+    ],
+    "nearTerms": [
+     "Eternidade",
+     "Devir",
+     "Duração",
+     "Temporalidade",
+     "Espaço",
+     "Memória"
+    ],
+    "aliases": [
+     "tempo absoluto",
+     "temporalidade",
+     "série A e série B",
+     "chronos"
+    ],
+    "seoTitle": "Tempo — Aristóteles, Agostinho, Kant, Bergson, Heidegger",
+    "seoDescription": "O tempo na filosofia: medida do movimento em Aristóteles, distensão da alma em Agostinho, forma da intuição em Kant e duração em Bergson."
+   },
+   "en": {
+    "title": "Time",
+    "slug": "time",
+    "summary": "The dimension of succession and duration, conceived as the measure of motion, a form of intuition, lived duration or a structure of existence.",
+    "definition": "Time is the dimension in which events are ordered as earlier, simultaneous or later and in which things endure. Philosophy asks whether it is an independent reality (absolute time), a relation among events, a form of the subject or a structure of consciousness and existence, and whether the passage of the present is real or merely apparent.",
+    "etymology": "English time comes from Old English tīma, from Proto-Germanic *tīmô, related to tide (Old English tīd, “time, season”). Latin tempus, of uncertain Indo-European origin, gave the Romance terms. Greek distinguished chrónos, successive and measurable time, kairós, the opportune moment, and aiṓn, a lifetime and, in Plato, eternity.",
+    "body": "Time is the dimension in which events succeed one another and things endure. The difficulty of defining it is ancient: Augustine writes in the *Confessions* (c. 397–400) that he knows what time is when no one asks him, but cannot explain it to someone who does. The central questions are whether time exists independently of things, whether past and future are as real as the present, and whether the passage of time belongs to the world or to the mind.\n\nIn the *Timaeus* Plato calls time “a moving image of eternity” (37d). Aristotle, in Book IV of the *Physics*, defines it as “the number of motion with respect to before and after”, tying it to change and to a soul that counts. Augustine, in Book XI of the *Confessions*, makes time a distension of the soul (distentio animi): past, present and future exist as memory, attention and expectation. In the modern period Newton posits in the *Principia* (1687) an absolute time that flows uniformly, whereas Leibniz, in his correspondence with Clarke (1715–1716), reduces it to the order of successions. In the *Critique of Pure Reason* (1781) Kant makes time a pure form of sensibility, the form of inner sense.\n\nIn the early twentieth century the discussion divides. McTaggart (1908) distinguishes the A-series (past, present, future) from the B-series (earlier and later) and concludes that time is unreal, opening today's debate between dynamic and static theories. Bergson sets lived duration against the spatialised time of science, from the *Essay on the Immediate Data of Consciousness* (1889) to *Creative Evolution* (1907). Husserl describes inner time-consciousness through retention, primal impression and protention; Heidegger, in *Being and Time* (1927), makes temporality the meaning of the being of Dasein. Einstein's relativity (1905), by making simultaneity relative to a frame of reference, weighs in favour of static views.\n\nThe concept is bound up with becoming, causality, memory and historicity. Paul Ricoeur argues in *Time and Narrative* (1983–1985) that time becomes human when it is articulated in narrative. Analytic metaphysics now debates presentism, eternalism and the growing block theory.",
+    "synonyms": [
+     "Duration"
+    ],
+    "nearTerms": [
+     "Eternity",
+     "Becoming",
+     "Duration",
+     "Temporality",
+     "Space",
+     "Memory"
+    ],
+    "aliases": [
+     "absolute time",
+     "temporality",
+     "A-series and B-series",
+     "chronos"
+    ],
+    "seoTitle": "Time — Aristotle, Augustine, Kant, Bergson, Heidegger",
+    "seoDescription": "Time in philosophy: measure of motion in Aristotle, distension of the soul in Augustine, form of intuition in Kant, duration in Bergson."
+   },
+   "fr": {
+    "title": "Temps",
+    "slug": "temps",
+    "summary": "Dimension de la succession et de la durée, pensée comme nombre du mouvement, forme de l'intuition, durée vécue ou structure de l'existence.",
+    "definition": "Le temps est la dimension selon laquelle les événements s'ordonnent comme antérieurs, simultanés ou postérieurs, et selon laquelle les choses durent. La philosophie demande s'il est une réalité indépendante (temps absolu), une relation entre événements, une forme du sujet ou une structure de la conscience et de l'existence, et si le passage du présent est réel ou seulement apparent.",
+    "etymology": "Du latin tempus, temporis, « temps », « moment favorable », d'origine indo-européenne incertaine. Le grec distinguait chrónos, le temps successif et mesurable, kairós, l'instant opportun, et aiṓn, la durée d'une vie et, chez Platon, l'éternité.",
+    "body": "Le temps est la dimension dans laquelle les événements se succèdent et les choses durent. La difficulté de le définir est ancienne : Augustin écrit dans les *Confessions* (v. 397–400) qu'il sait ce qu'est le temps si personne ne le lui demande, mais qu'il ne sait plus l'expliquer dès qu'on le lui demande. Les questions centrales sont de savoir si le temps existe indépendamment des choses, si le passé et l'avenir sont aussi réels que le présent, et si l'écoulement du temps appartient au monde ou à l'esprit.\n\nDans le *Timée*, Platon appelle le temps « image mobile de l'éternité » (37d). Aristote, au livre IV de la *Physique*, le définit comme « le nombre du mouvement selon l'antérieur et le postérieur », le liant au changement et à une âme qui compte. Augustin, au livre XI des *Confessions*, fait du temps une distension de l'âme (distentio animi) : passé, présent et avenir existent comme mémoire, attention et attente. À l'époque moderne, Newton pose dans les *Principia* (1687) un temps absolu qui s'écoule uniformément, tandis que Leibniz, dans sa correspondance avec Clarke (1715–1716), le réduit à l'ordre des successions. Dans la *Critique de la raison pure* (1781), Kant fait du temps une forme pure de la sensibilité, la forme du sens interne.\n\nAu début du XXe siècle, la réflexion se partage. McTaggart (1908) distingue la série A (passé, présent, futur) de la série B (avant et après) et conclut à l'irréalité du temps, ouvrant le débat actuel entre théories dynamiques et statiques. Bergson oppose au temps spatialisé de la science la durée vécue, de l'*Essai sur les données immédiates de la conscience* (1889) à *L'Évolution créatrice* (1907). Husserl décrit la conscience intime du temps par la rétention, l'impression originaire et la protention ; Heidegger, dans *Être et Temps* (1927), fait de la temporalité le sens de l'être du Dasein. La relativité d'Einstein (1905), en rendant la simultanéité relative au référentiel, plaide en faveur des conceptions statiques.\n\nLe concept s'articule au devenir, à la causalité, à la mémoire et à l'historicité. Paul Ricœur soutient dans *Temps et Récit* (1983–1985) que le temps devient humain lorsqu'il est articulé de manière narrative. La métaphysique analytique discute aujourd'hui le présentisme, l'éternalisme et la théorie du bloc croissant.",
+    "synonyms": [
+     "Durée"
+    ],
+    "nearTerms": [
+     "Éternité",
+     "Devenir",
+     "Durée",
+     "Temporalité",
+     "Espace",
+     "Mémoire"
+    ],
+    "aliases": [
+     "temps absolu",
+     "temporalité",
+     "série A et série B",
+     "chronos"
+    ],
+    "seoTitle": "Temps — Aristote, Augustin, Kant, Bergson, Heidegger",
+    "seoDescription": "Le temps en philosophie : nombre du mouvement chez Aristote, distension de l'âme chez Augustin, forme de l'intuition chez Kant, durée chez Bergson."
+   },
+   "de": {
+    "title": "Zeit",
+    "slug": "zeit",
+    "summary": "Dimension der Aufeinanderfolge und Dauer, gedacht als Zahl der Bewegung, Form der Anschauung, erlebte Dauer oder Struktur der Existenz.",
+    "definition": "Zeit ist die Dimension, in der Ereignisse als früher, gleichzeitig oder später geordnet sind und in der die Dinge dauern. Die Philosophie fragt, ob sie eine selbständige Wirklichkeit (absolute Zeit), eine Relation zwischen Ereignissen, eine Form des Subjekts oder eine Struktur des Bewusstseins und der Existenz ist und ob das Vergehen der Gegenwart wirklich oder nur scheinbar ist.",
+    "etymology": "Althochdeutsch zīt, „Zeit, Zeitabschnitt“, verwandt mit englisch tide; lateinisch tempus ist indogermanisch ungeklärter Herkunft. Das Griechische unterschied chrónos, die messbare Zeitfolge, kairós, den rechten Augenblick, und aiṓn, die Lebenszeit und bei Platon die Ewigkeit.",
+    "body": "Zeit ist die Dimension, in der Ereignisse aufeinander folgen und Dinge dauern. Die Schwierigkeit, sie zu bestimmen, ist alt: Augustinus schreibt in den *Bekenntnissen* (um 397–400), er wisse, was die Zeit sei, solange ihn niemand frage; wolle er es einem Fragenden erklären, wisse er es nicht. Die Grundfragen lauten, ob die Zeit unabhängig von den Dingen existiert, ob Vergangenheit und Zukunft ebenso wirklich sind wie die Gegenwart und ob das Vergehen der Zeit der Welt oder dem Geist angehört.\n\nIm *Timaios* nennt Platon die Zeit ein „bewegtes Abbild der Ewigkeit“ (37d). Aristoteles bestimmt sie im IV. Buch der *Physik* als „Zahl der Bewegung hinsichtlich des Früher und Später“ und bindet sie an die Veränderung und an eine zählende Seele. Augustinus macht die Zeit im XI. Buch der *Bekenntnisse* zu einer Ausdehnung der Seele (distentio animi): Vergangenheit, Gegenwart und Zukunft bestehen als Erinnerung, Aufmerksamkeit und Erwartung. In der Neuzeit setzt Newton in den *Principia* (1687) eine absolute, gleichförmig fließende Zeit an, während Leibniz sie im Briefwechsel mit Clarke (1715–1716) auf die Ordnung der Aufeinanderfolge zurückführt. In der *Kritik der reinen Vernunft* (1781) wird die Zeit bei Kant zur reinen Form der Sinnlichkeit, zur Form des inneren Sinnes.\n\nIm frühen 20. Jahrhundert teilt sich die Diskussion. McTaggart (1908) unterscheidet die A-Reihe (Vergangenheit, Gegenwart, Zukunft) von der B-Reihe (früher und später) und folgert die Unwirklichkeit der Zeit; damit beginnt die heutige Debatte zwischen dynamischen und statischen Theorien. Bergson stellt der verräumlichten Zeit der Wissenschaft die erlebte Dauer (durée) entgegen, vom *Essai sur les données immédiates de la conscience* (1889) bis zur *Schöpferischen Entwicklung* (1907). Husserl beschreibt das innere Zeitbewusstsein durch Retention, Urimpression und Protention; Heidegger macht in *Sein und Zeit* (1927) die Zeitlichkeit zum Sinn des Seins des Daseins. Einsteins spezielle Relativitätstheorie (1905) relativiert die Gleichzeitigkeit auf das Bezugssystem und stützt damit statische Auffassungen.\n\nDer Begriff ist mit Werden, Kausalität, Gedächtnis und Geschichtlichkeit verknüpft. Paul Ricœur vertritt in *Zeit und Erzählung* (1983–1985) die These, dass Zeit menschlich wird, indem sie erzählend artikuliert wird. Die analytische Metaphysik diskutiert heute Präsentismus, Eternalismus und die Theorie des wachsenden Blocks.",
+    "synonyms": [
+     "Dauer"
+    ],
+    "nearTerms": [
+     "Ewigkeit",
+     "Werden",
+     "Dauer",
+     "Zeitlichkeit",
+     "Raum",
+     "Gedächtnis"
+    ],
+    "aliases": [
+     "absolute Zeit",
+     "Zeitlichkeit",
+     "A-Reihe und B-Reihe",
+     "chronos"
+    ],
+    "seoTitle": "Zeit – Aristoteles, Augustinus, Kant, Bergson, Heidegger",
+    "seoDescription": "Die Zeit in der Philosophie: Zahl der Bewegung bei Aristoteles, distentio animi bei Augustinus, Anschauungsform bei Kant, Dauer bei Bergson."
+   }
+  }
+ },
+ {
+  "id": "con-modality",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-metaphysics",
+   "cat-logic"
+  ],
+  "philosopherIds": [
+   "phi-aristotle",
+   "phi-avicenna",
+   "phi-hume",
+   "phi-kant"
+  ],
+  "schoolIds": [
+   "sch-aristotelianism",
+   "sch-scholasticism",
+   "sch-rationalism",
+   "sch-analytic"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-medieval",
+   "per-modern",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-metaphysics",
+   "wrk-krv"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-essence",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-existence",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-determinism",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-a-priori",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Possibilidade e necessidade",
+    "slug": "possibilidade-e-necessidade",
+    "summary": "As modalidades do ser e da verdade: o que pode ser, o que não pode deixar de ser e o que poderia ter sido de outro modo.",
+    "definition": "Possibilidade e necessidade são as principais modalidades: qualificam o modo como algo é ou é verdadeiro. É necessário o que não pode não ser; possível, o que não é impossível; contingente, o que é mas poderia não ser. Distinguem-se modalidades lógicas, metafísicas, físicas e epistêmicas, e a necessidade atribuída a uma proposição (de dicto) da atribuída a uma coisa (de re).",
+    "etymology": "Possibilidade vem do latim possibilitas, de possibilis, derivado de posse, “poder”; necessidade vem de necessitas, de necesse, “inevitável”, que a tradição explica por ne- e cedere, “não ceder”. Traduzem o grego dynatón e anankaîon. O termo “modalidade” vem de modus, “modo”: o modo pelo qual o predicado convém ao sujeito.",
+    "body": "Possibilidade e necessidade são modalidades: não dizem o que uma coisa é, mas o modo como ela é ou como uma proposição é verdadeira. É necessário o que não pode ser de outro modo, impossível o que não pode ser, possível o que não é impossível e contingente o que é, mas poderia não ser. A questão filosófica é saber de onde vem a necessidade: das essências das coisas, das leis da lógica, do significado das palavras ou apenas da nossa maneira de pensar.\n\nAristóteles elaborou a primeira teoria. O capítulo 9 do *Da Interpretação* discute se as proposições sobre futuros contingentes, como “amanhã haverá uma batalha naval”, já são verdadeiras ou falsas; os *Primeiros Analíticos* desenvolvem uma silogística modal; o livro IX da *Metafísica* liga o possível à potência (dýnamis). Diodoro Crono respondeu com o Argumento Dominador, segundo o qual só é possível o que é ou será. Avicena, no *Livro da Cura* (c. 1027), distingue o ser necessário por si, que é Deus, dos seres possíveis por si, que só existem por outro. Duns Escoto concebe a contingência sincrônica: no mesmo instante em que a vontade quer algo, poderia querer o oposto.\n\nLeibniz define as verdades necessárias como aquelas cujo contrário implica contradição e as associa aos mundos possíveis entre os quais Deus escolheu o melhor (*Monadologia*, 1714). Hume nega que conheçamos qualquer conexão necessária entre questões de fato (*Investigação sobre o Entendimento Humano*, 1748). Kant faz da modalidade um dos quatro títulos da tábua das categorias na *Crítica da Razão Pura* (1781) e classifica os juízos em problemáticos, assertóricos e apodícticos. No século XX, C. I. Lewis cria sistemas de lógica modal (1918), Carnap interpreta a necessidade como verdade em todas as descrições de estado (*Meaning and Necessity*, 1947) e Kripke fornece, a partir de 1959, uma semântica de mundos possíveis. Em *O Nomear e a Necessidade* (1980), Kripke separa necessidade e aprioridade: há verdades necessárias conhecidas a posteriori, como “a água é H₂O”.\n\nO debate atual opõe o realismo modal de David Lewis (*On the Plurality of Worlds*, 1986), para quem os mundos possíveis são tão reais quanto o nosso, a concepções que tratam os mundos como construções abstratas, e o ceticismo de Quine sobre a necessidade de re. As modalidades articulam-se com a essência, a existência, o determinismo e a distinção entre analítico e sintético.",
+    "synonyms": [
+     "Modalidade"
+    ],
+    "nearTerms": [
+     "Contingência",
+     "Impossibilidade",
+     "Mundos possíveis",
+     "Potência",
+     "Necessidade lógica",
+     "Necessidade metafísica"
+    ],
+    "aliases": [
+     "modalidade",
+     "necessidade",
+     "possibilidade",
+     "contingência",
+     "mundos possíveis",
+     "lógica modal"
+    ],
+    "seoTitle": "Possibilidade e necessidade — Aristóteles, Leibniz, Kripke",
+    "seoDescription": "As modalidades na filosofia: futuros contingentes em Aristóteles, necessidade em Avicena, mundos possíveis em Leibniz e necessidade a posteriori em Kripke."
+   },
+   "en": {
+    "title": "Possibility and necessity",
+    "slug": "possibility-and-necessity",
+    "summary": "The modalities of being and truth: what can be, what cannot fail to be, and what could have been otherwise.",
+    "definition": "Possibility and necessity are the main modalities: they qualify the way something is or is true. What is necessary cannot fail to be; what is possible is not impossible; what is contingent is but could have failed to be. Philosophers distinguish logical, metaphysical, physical and epistemic modalities, and necessity ascribed to a proposition (de dicto) from necessity ascribed to a thing (de re).",
+    "etymology": "Possibility comes from Latin possibilitas, from possibilis, derived from posse, “to be able”; necessity comes from necessitas, from necesse, “unavoidable”, traditionally explained as ne- plus cedere, “not to yield”. They render Greek dynatón and anankaîon. The word “modality” comes from modus, “manner”: the mode in which a predicate belongs to a subject.",
+    "body": "Possibility and necessity are modalities: they do not say what a thing is but the way it is, or the way a proposition is true. What is necessary cannot be otherwise, what is impossible cannot be, what is possible is not impossible, and what is contingent is but might not have been. The philosophical question is where necessity comes from: from the essences of things, from the laws of logic, from the meanings of words or merely from the way we think.\n\nAristotle produced the first theory. Chapter 9 of *On Interpretation* asks whether statements about future contingents, such as “there will be a sea battle tomorrow”, are already true or false; the *Prior Analytics* develop a modal syllogistic; Book IX of the *Metaphysics* ties the possible to potentiality (dýnamis). Diodorus Cronus answered with the Master Argument, according to which only what is or will be is possible. Avicenna, in the *Book of Healing* (c. 1027), distinguishes the being necessary through itself, which is God, from beings possible in themselves, which exist only through another. Duns Scotus conceives synchronic contingency: at the very instant the will wills something, it could will the opposite.\n\nLeibniz defines necessary truths as those whose contrary implies a contradiction and connects them with the possible worlds among which God chose the best (*Monadology*, 1714). Hume denies that we know any necessary connection between matters of fact (*An Enquiry Concerning Human Understanding*, 1748). Kant makes modality one of the four headings of the table of categories in the *Critique of Pure Reason* (1781) and classifies judgements as problematic, assertoric and apodictic. In the twentieth century C. I. Lewis devised systems of modal logic (1918), Carnap interpreted necessity as truth in all state descriptions (*Meaning and Necessity*, 1947), and Kripke supplied, from 1959, a possible-worlds semantics. In *Naming and Necessity* (1980) Kripke separates necessity from apriority: some necessary truths are known a posteriori, such as “water is H₂O”.\n\nThe current debate sets David Lewis's modal realism (*On the Plurality of Worlds*, 1986), for which possible worlds are as real as ours, against views that treat worlds as abstract constructions, and both against Quine's scepticism about de re necessity. The modalities are closely tied to essence, existence, determinism and the analytic–synthetic distinction.",
+    "synonyms": [
+     "Modality"
+    ],
+    "nearTerms": [
+     "Contingency",
+     "Impossibility",
+     "Possible worlds",
+     "Potentiality",
+     "Logical necessity",
+     "Metaphysical necessity"
+    ],
+    "aliases": [
+     "modality",
+     "necessity",
+     "possibility",
+     "contingency",
+     "possible worlds",
+     "modal logic"
+    ],
+    "seoTitle": "Possibility and necessity — Aristotle, Leibniz, Kripke",
+    "seoDescription": "Modality in philosophy: future contingents in Aristotle, the necessary being in Avicenna, possible worlds in Leibniz and a posteriori necessity in Kripke."
+   },
+   "fr": {
+    "title": "Possibilité et nécessité",
+    "slug": "possibilite-et-necessite",
+    "summary": "Les modalités de l'être et de la vérité : ce qui peut être, ce qui ne peut pas ne pas être et ce qui aurait pu être autrement.",
+    "definition": "La possibilité et la nécessité sont les principales modalités : elles qualifient la manière dont une chose est ou dont une proposition est vraie. Est nécessaire ce qui ne peut pas ne pas être ; possible, ce qui n'est pas impossible ; contingent, ce qui est mais aurait pu ne pas être. On distingue modalités logiques, métaphysiques, physiques et épistémiques, ainsi que la nécessité de dicto, qui porte sur une proposition, et de re, qui porte sur une chose.",
+    "etymology": "Possibilité vient du latin possibilitas, de possibilis, dérivé de posse, « pouvoir » ; nécessité vient de necessitas, de necesse, « inévitable », que la tradition explique par ne- et cedere, « ne pas céder ». Ces termes traduisent le grec dynatón et anankaîon. Le mot « modalité » vient de modus, « manière » : le mode selon lequel le prédicat convient au sujet.",
+    "body": "La possibilité et la nécessité sont des modalités : elles ne disent pas ce qu'est une chose, mais la manière dont elle est ou dont une proposition est vraie. Est nécessaire ce qui ne peut être autrement, impossible ce qui ne peut être, possible ce qui n'est pas impossible, contingent ce qui est mais aurait pu ne pas être. La question philosophique est de savoir d'où vient la nécessité : des essences des choses, des lois de la logique, du sens des mots ou seulement de notre manière de penser.\n\nAristote a élaboré la première théorie. Le chapitre 9 du traité *De l'interprétation* demande si les propositions sur les futurs contingents, comme « il y aura demain une bataille navale », sont déjà vraies ou fausses ; les *Premiers Analytiques* développent une syllogistique modale ; le livre IX de la *Métaphysique* rattache le possible à la puissance (dýnamis). Diodore Cronos répondit par l'Argument dominateur, selon lequel seul est possible ce qui est ou sera. Avicenne, dans le *Livre de la guérison* (v. 1027), distingue l'être nécessaire par soi, qui est Dieu, des êtres possibles par soi, qui n'existent que par un autre. Duns Scot conçoit une contingence synchronique : à l'instant même où la volonté veut quelque chose, elle pourrait vouloir l'opposé.\n\nLeibniz définit les vérités nécessaires comme celles dont le contraire implique contradiction et les rattache aux mondes possibles parmi lesquels Dieu a choisi le meilleur (*Monadologie*, 1714). Hume nie que nous connaissions une connexion nécessaire entre des faits (*Enquête sur l'entendement humain*, 1748). Kant fait de la modalité l'un des quatre titres de la table des catégories dans la *Critique de la raison pure* (1781) et classe les jugements en problématiques, assertoriques et apodictiques. Au XXe siècle, C. I. Lewis construit des systèmes de logique modale (1918), Carnap interprète la nécessité comme vérité dans toutes les descriptions d'état (*Meaning and Necessity*, 1947) et Kripke fournit, à partir de 1959, une sémantique des mondes possibles. Dans *La Logique des noms propres* (1980), Kripke sépare nécessité et apriorité : certaines vérités nécessaires sont connues a posteriori, comme « l'eau est H₂O ».\n\nLe débat actuel oppose le réalisme modal de David Lewis (*On the Plurality of Worlds*, 1986), pour qui les mondes possibles sont aussi réels que le nôtre, aux conceptions qui en font des constructions abstraites, et toutes deux au scepticisme de Quine envers la nécessité de re. Les modalités s'articulent à l'essence, à l'existence, au déterminisme et à la distinction entre analytique et synthétique.",
+    "synonyms": [
+     "Modalité"
+    ],
+    "nearTerms": [
+     "Contingence",
+     "Impossibilité",
+     "Mondes possibles",
+     "Puissance",
+     "Nécessité logique",
+     "Nécessité métaphysique"
+    ],
+    "aliases": [
+     "modalité",
+     "nécessité",
+     "possibilité",
+     "contingence",
+     "mondes possibles",
+     "logique modale"
+    ],
+    "seoTitle": "Possibilité et nécessité — Aristote, Leibniz, Kripke",
+    "seoDescription": "Les modalités en philosophie : futurs contingents chez Aristote, être nécessaire chez Avicenne, mondes possibles chez Leibniz, nécessité a posteriori chez Kripke."
+   },
+   "de": {
+    "title": "Möglichkeit und Notwendigkeit",
+    "slug": "moeglichkeit-und-notwendigkeit",
+    "summary": "Die Modalitäten des Seins und der Wahrheit: was sein kann, was nicht nicht sein kann und was auch anders hätte sein können.",
+    "definition": "Möglichkeit und Notwendigkeit sind die wichtigsten Modalitäten: Sie bestimmen die Art und Weise, wie etwas ist oder wahr ist. Notwendig ist, was nicht nicht sein kann; möglich, was nicht unmöglich ist; kontingent, was ist, aber auch nicht sein könnte. Man unterscheidet logische, metaphysische, physikalische und epistemische Modalitäten sowie die Notwendigkeit de dicto, die einem Satz, von der Notwendigkeit de re, die einem Ding zukommt.",
+    "etymology": "Lateinisch possibilitas, von possibilis, zu posse, „können“, und necessitas, von necesse, „unausweichlich“, das die Tradition aus ne- und cedere, „nicht weichen“, erklärt; beide übersetzen griechisch dynatón und anankaîon. „Modalität“ kommt von modus, „Art und Weise“: der Modus, in dem das Prädikat dem Subjekt zukommt.",
+    "body": "Möglichkeit und Notwendigkeit sind Modalitäten: Sie sagen nicht, was ein Ding ist, sondern wie es ist oder wie ein Satz wahr ist. Notwendig ist, was nicht anders sein kann, unmöglich, was nicht sein kann, möglich, was nicht unmöglich ist, und kontingent, was ist, aber auch nicht sein könnte. Die philosophische Frage lautet, woher die Notwendigkeit stammt: aus dem Wesen der Dinge, aus den Gesetzen der Logik, aus der Bedeutung der Wörter oder bloß aus unserer Denkweise.\n\nAristoteles entwarf die erste Theorie. Kapitel 9 von *De interpretatione* fragt, ob Aussagen über zukünftige kontingente Ereignisse, etwa „morgen wird eine Seeschlacht stattfinden“, schon wahr oder falsch sind; die *Erste Analytik* entwickelt eine modale Syllogistik; Buch IX der *Metaphysik* verbindet das Mögliche mit dem Vermögen (dýnamis). Diodoros Kronos antwortete mit dem Meisterargument, wonach nur möglich ist, was ist oder sein wird. Avicenna unterscheidet im *Buch der Genesung* (um 1027) das durch sich notwendige Sein, Gott, von den an sich möglichen Seienden, die nur durch ein anderes existieren. Duns Scotus denkt eine synchrone Kontingenz: Im selben Augenblick, in dem der Wille etwas will, könnte er auch das Gegenteil wollen.\n\nLeibniz bestimmt notwendige Wahrheiten als solche, deren Gegenteil einen Widerspruch einschließt, und verbindet sie mit den möglichen Welten, unter denen Gott die beste gewählt hat (*Monadologie*, 1714). Hume bestreitet, dass wir eine notwendige Verknüpfung zwischen Tatsachen erkennen (*Eine Untersuchung über den menschlichen Verstand*, 1748). Kant macht die Modalität in der *Kritik der reinen Vernunft* (1781) zu einem der vier Titel der Kategorientafel und teilt die Urteile in problematische, assertorische und apodiktische ein. Im 20. Jahrhundert entwickelt C. I. Lewis Systeme der Modallogik (1918), Carnap deutet Notwendigkeit als Wahrheit in allen Zustandsbeschreibungen (*Meaning and Necessity*, 1947), und Kripke liefert ab 1959 eine Semantik möglicher Welten. In *Name und Notwendigkeit* (1980) trennt Kripke Notwendigkeit und Apriorität: Manche notwendigen Wahrheiten werden a posteriori erkannt, etwa „Wasser ist H₂O“.\n\nDie heutige Debatte stellt David Lewis' modalen Realismus (*On the Plurality of Worlds*, 1986), für den mögliche Welten ebenso wirklich sind wie unsere, Auffassungen gegenüber, die Welten als abstrakte Konstruktionen behandeln, und beide Quines Skepsis gegenüber der Notwendigkeit de re. Die Modalitäten sind eng mit Wesen, Existenz, Determinismus und der Unterscheidung von analytisch und synthetisch verbunden.",
+    "synonyms": [
+     "Modalität"
+    ],
+    "nearTerms": [
+     "Kontingenz",
+     "Unmöglichkeit",
+     "Mögliche Welten",
+     "Vermögen",
+     "Logische Notwendigkeit",
+     "Metaphysische Notwendigkeit"
+    ],
+    "aliases": [
+     "Modalität",
+     "Notwendigkeit",
+     "Möglichkeit",
+     "Kontingenz",
+     "mögliche Welten",
+     "Modallogik"
+    ],
+    "seoTitle": "Möglichkeit und Notwendigkeit – Aristoteles, Leibniz, Kripke",
+    "seoDescription": "Modalität in der Philosophie: zukünftige Kontingente bei Aristoteles, notwendiges Sein bei Avicenna, mögliche Welten bei Leibniz, Kripkes Notwendigkeit a posteriori."
+   }
+  }
+ },
+ {
+  "id": "con-universals",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-metaphysics",
+   "cat-language"
+  ],
+  "philosopherIds": [
+   "phi-plato",
+   "phi-aristotle",
+   "phi-boethius",
+   "phi-abelard",
+   "phi-aquinas"
+  ],
+  "schoolIds": [
+   "sch-platonism",
+   "sch-aristotelianism",
+   "sch-scholasticism",
+   "sch-analytic"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-medieval",
+   "per-modern",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-republic",
+   "wrk-metaphysics",
+   "wrk-investigations"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-forms",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-essence",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-substance",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Universais",
+    "slug": "universais",
+    "summary": "Aquilo que pode ser comum a muitos indivíduos, como a humanidade ou o vermelho; o problema é saber se existe nas coisas, fora delas ou só no pensamento.",
+    "definition": "Universal é o que pode ser predicado de muitos ou instanciado por muitos, como gêneros, espécies, propriedades e relações; opõe-se ao particular ou individual. O problema dos universais pergunta que tipo de existência eles têm: o realismo afirma que existem independentemente da mente, o conceitualismo que existem como conceitos, o nominalismo que só existem indivíduos e nomes gerais.",
+    "etymology": "Do latim universalis, de universus, “tomado em conjunto, inteiro”, formado a partir de unus, “um”, e versus, “voltado”. Traduz o grego tò kathólou, “segundo o todo”, termo de Aristóteles. A expressão “querela dos universais” designa a controvérsia medieval sobre o seu estatuto.",
+    "body": "Um universal é aquilo que pode estar presente em muitos indivíduos ao mesmo tempo: a humanidade em Sócrates e em Cálias, o vermelho em todas as coisas vermelhas. O problema dos universais pergunta se essas entidades existem, e de que modo: nas coisas, fora delas, na mente ou apenas nas palavras. Dele dependem a explicação da semelhança entre coisas, a possibilidade da definição e da ciência e o significado dos termos gerais.\n\nPlatão responde com as Formas, realidades separadas e imutáveis das quais as coisas sensíveis participam (*A República*, livros VI–VII). Aristóteles critica a separação: o universal, tò kathólou, existe nas coisas e não é substância (*Metafísica*, livro VII). Na *Isagoge* (c. 270), Porfírio formula três perguntas que deixa sem resposta: se gêneros e espécies subsistem ou estão apenas no intelecto; se subsistem, se são corpóreos ou incorpóreos; e se estão separados dos sensíveis ou neles. Boécio transmite-as ao Ocidente latino e dá início à querela dos universais.\n\nNo século XII, Roscelino é apresentado por seus adversários como tendo reduzido o universal a um sopro de voz (flatus vocis), Guilherme de Champeaux defende um realismo forte e Abelardo sustenta que o universal é um termo significativo (sermo) fundado num estado (status) comum às coisas. Tomás de Aquino, retomando Avicena, distingue o universal antes das coisas, na mente divina, nas coisas e depois das coisas, no intelecto. Duns Escoto admite uma natureza comum individualizada pela hecceidade. Guilherme de Ockham, na *Suma de Lógica* (c. 1323), afirma que só existem indivíduos e que o universal é um signo mental predicável de muitos. Locke fala de ideias gerais abstratas; Berkeley, no *Tratado sobre os Princípios do Conhecimento Humano* (1710), nega que tais ideias existam.\n\nNo século XX, Russell defende em *Os Problemas da Filosofia* (1912) um mundo de universais, especialmente relações, enquanto Quine (1948) examina o compromisso ontológico com entidades abstratas e Wittgenstein propõe as semelhanças de família (*Investigações Filosóficas*, 1953). O debate atual opõe o realismo imanente de D. M. Armstrong (1978), a teoria dos tropos, ou propriedades particulares, e diversas formas de nominalismo.",
+    "synonyms": [
+     "Conceitos gerais"
+    ],
+    "nearTerms": [
+     "Particular",
+     "Forma",
+     "Nominalismo",
+     "Realismo",
+     "Conceitualismo",
+     "Espécie"
+    ],
+    "aliases": [
+     "problema dos universais",
+     "querela dos universais",
+     "nominalismo",
+     "realismo medieval"
+    ],
+    "seoTitle": "Universais — Platão, Porfírio, Abelardo, Ockham, Russell",
+    "seoDescription": "O problema dos universais: Formas em Platão, as perguntas de Porfírio, a querela medieval entre realismo e nominalismo, e o debate analítico atual."
+   },
+   "en": {
+    "title": "Universals",
+    "slug": "universals",
+    "summary": "What can be common to many individuals, such as humanity or redness; the problem is whether it exists in things, apart from them or only in thought.",
+    "definition": "A universal is what can be predicated of many or instantiated by many, such as genera, species, properties and relations; it is contrasted with the particular or individual. The problem of universals asks what kind of existence they have: realism holds that they exist independently of the mind, conceptualism that they exist as concepts, and nominalism that only individuals and general names exist.",
+    "etymology": "From Latin universalis, from universus, “taken all together, whole”, formed from unus, “one”, and versus, “turned”. It renders Greek tò kathólou, “according to the whole”, Aristotle's term. The phrase “quarrel of universals” names the medieval controversy over their status.",
+    "body": "A universal is something that can be present in many individuals at once: humanity in Socrates and in Callias, redness in every red thing. The problem of universals asks whether such entities exist, and in what way: in things, apart from them, in the mind or only in words. On the answer depend the explanation of resemblance between things, the possibility of definition and of science, and the meaning of general terms.\n\nPlato answers with the Forms, separate and unchanging realities in which sensible things participate (*Republic*, Books VI–VII). Aristotle rejects separation: the universal, tò kathólou, exists in things and is not a substance (*Metaphysics*, Book VII). In the *Isagoge* (c. 270) Porphyry raises three questions he leaves unanswered: whether genera and species subsist or are only in the intellect; if they subsist, whether they are corporeal or incorporeal; and whether they are separate from sensible things or in them. Boethius transmits these questions to the Latin West and opens the quarrel of universals.\n\nIn the twelfth century Roscelin is presented by his opponents as reducing the universal to a breath of the voice (flatus vocis), William of Champeaux defends a strong realism, and Abelard holds that the universal is a significant word (sermo) grounded in a status that things share. Thomas Aquinas, following Avicenna, distinguishes the universal before things, in the divine mind, in things, and after things, in the intellect. Duns Scotus admits a common nature individuated by haecceity. William of Ockham, in the *Summa Logicae* (c. 1323), holds that only individuals exist and that the universal is a mental sign predicable of many. Locke speaks of abstract general ideas; Berkeley, in *A Treatise Concerning the Principles of Human Knowledge* (1710), denies that there are any.\n\nIn the twentieth century Russell defends a world of universals, relations above all, in *The Problems of Philosophy* (1912), while Quine (1948) examines ontological commitment to abstract entities and Wittgenstein proposes family resemblances (*Philosophical Investigations*, 1953). The current debate sets D. M. Armstrong's immanent realism (1978) against trope theory, which posits particular properties, and against various forms of nominalism.",
+    "synonyms": [
+     "General concepts"
+    ],
+    "nearTerms": [
+     "Particular",
+     "Form",
+     "Nominalism",
+     "Realism",
+     "Conceptualism",
+     "Species"
+    ],
+    "aliases": [
+     "problem of universals",
+     "quarrel of universals",
+     "nominalism",
+     "medieval realism"
+    ],
+    "seoTitle": "Universals — Plato, Porphyry, Abelard, Ockham, Russell",
+    "seoDescription": "The problem of universals: Plato's Forms, Porphyry's questions, the medieval quarrel between realism and nominalism, and the current analytic debate."
+   },
+   "fr": {
+    "title": "Universaux",
+    "slug": "universaux",
+    "summary": "Ce qui peut être commun à plusieurs individus, comme l'humanité ou le rouge ; la question est de savoir s'il existe dans les choses, hors d'elles ou dans la pensée.",
+    "definition": "Un universel est ce qui peut être prédiqué de plusieurs ou instancié par plusieurs, comme les genres, les espèces, les propriétés et les relations ; il s'oppose au particulier ou à l'individu. Le problème des universaux demande quel mode d'existence leur revient : le réalisme affirme qu'ils existent indépendamment de l'esprit, le conceptualisme qu'ils existent comme concepts, le nominalisme qu'il n'existe que des individus et des noms généraux.",
+    "etymology": "Du latin universalis, de universus, « pris dans son ensemble, entier », formé sur unus, « un », et versus, « tourné ». Le terme traduit le grec tò kathólou, « selon le tout », employé par Aristote. L'expression « querelle des universaux » désigne la controverse médiévale sur leur statut.",
+    "body": "Un universel est ce qui peut être présent en plusieurs individus à la fois : l'humanité en Socrate et en Callias, le rouge dans toutes les choses rouges. Le problème des universaux demande si de telles entités existent, et de quelle manière : dans les choses, hors d'elles, dans l'esprit ou seulement dans les mots. De la réponse dépendent l'explication de la ressemblance entre les choses, la possibilité de la définition et de la science, et le sens des termes généraux.\n\nPlaton répond par les Idées, réalités séparées et immuables auxquelles participent les choses sensibles (*La République*, livres VI–VII). Aristote refuse la séparation : l'universel, tò kathólou, existe dans les choses et n'est pas une substance (*Métaphysique*, livre VII). Dans l'*Isagogè* (v. 270), Porphyre pose trois questions qu'il laisse sans réponse : les genres et les espèces subsistent-ils ou ne sont-ils que dans l'intellect ; s'ils subsistent, sont-ils corporels ou incorporels ; sont-ils séparés des choses sensibles ou en elles ? Boèce transmet ces questions à l'Occident latin et ouvre la querelle des universaux.\n\nAu XIIe siècle, Roscelin est présenté par ses adversaires comme réduisant l'universel à un souffle de voix (flatus vocis), Guillaume de Champeaux défend un réalisme fort et Abélard soutient que l'universel est un terme signifiant (sermo) fondé sur un état (status) commun aux choses. Thomas d'Aquin, reprenant Avicenne, distingue l'universel avant les choses, dans l'intellect divin, dans les choses, et après les choses, dans l'intellect humain. Duns Scot admet une nature commune individuée par l'eccéité. Guillaume d'Ockham, dans la *Somme de logique* (v. 1323), affirme qu'il n'existe que des individus et que l'universel est un signe mental prédicable de plusieurs. Locke parle d'idées générales abstraites ; Berkeley, dans le *Traité sur les principes de la connaissance humaine* (1710), nie qu'il en existe.\n\nAu XXe siècle, Russell défend dans *Problèmes de philosophie* (1912) un monde des universaux, surtout des relations, tandis que Quine (1948) examine l'engagement ontologique envers les entités abstraites et que Wittgenstein propose les ressemblances de famille (*Recherches philosophiques*, 1953). Le débat actuel oppose le réalisme immanent de D. M. Armstrong (1978), la théorie des tropes, ou propriétés particulières, et diverses formes de nominalisme.",
+    "synonyms": [
+     "Concepts généraux"
+    ],
+    "nearTerms": [
+     "Particulier",
+     "Idée",
+     "Nominalisme",
+     "Réalisme",
+     "Conceptualisme",
+     "Espèce"
+    ],
+    "aliases": [
+     "universel",
+     "problème des universaux",
+     "querelle des universaux",
+     "nominalisme"
+    ],
+    "seoTitle": "Universaux — Platon, Porphyre, Abélard, Ockham, Russell",
+    "seoDescription": "Le problème des universaux : les Idées de Platon, les questions de Porphyre, la querelle médiévale entre réalisme et nominalisme, le débat analytique actuel."
+   },
+   "de": {
+    "title": "Universalien",
+    "slug": "universalien",
+    "summary": "Was vielen Einzeldingen gemeinsam sein kann, etwa das Menschsein oder die Röte; strittig ist, ob es in den Dingen, außerhalb ihrer oder nur im Denken existiert.",
+    "definition": "Ein Universale ist, was von vielem ausgesagt oder in vielem instanziiert werden kann, etwa Gattungen, Arten, Eigenschaften und Relationen; es steht dem Besonderen oder Individuellen gegenüber. Das Universalienproblem fragt, welche Art von Existenz ihnen zukommt: Der Realismus behauptet ihre geistesunabhängige Existenz, der Konzeptualismus ihre Existenz als Begriffe, der Nominalismus erkennt nur Einzeldinge und allgemeine Namen an.",
+    "etymology": "Von lateinisch universalis, zu universus, „insgesamt, ganz“, gebildet aus unus, „eins“, und versus, „gewendet“; übersetzt griechisch tò kathólou, „dem Ganzen nach“, einen Terminus des Aristoteles. Der Ausdruck „Universalienstreit“ bezeichnet die mittelalterliche Kontroverse über ihren Status.",
+    "body": "Ein Universale ist etwas, das zugleich in vielen Einzeldingen vorliegen kann: das Menschsein in Sokrates und in Kallias, die Röte in allen roten Dingen. Das Universalienproblem fragt, ob es solche Entitäten gibt und auf welche Weise: in den Dingen, getrennt von ihnen, im Geist oder nur in den Wörtern. Von der Antwort hängen die Erklärung der Ähnlichkeit zwischen Dingen, die Möglichkeit von Definition und Wissenschaft und die Bedeutung allgemeiner Ausdrücke ab.\n\nPlaton antwortet mit den Ideen, getrennten und unveränderlichen Wirklichkeiten, an denen die sinnlichen Dinge teilhaben (*Politeia*, Bücher VI–VII). Aristoteles verwirft die Trennung: Das Allgemeine, tò kathólou, existiert in den Dingen und ist keine Substanz (*Metaphysik*, Buch VII). In der *Isagoge* (um 270) stellt Porphyrios drei Fragen, die er offenlässt: ob Gattungen und Arten bestehen oder nur im Verstand sind; wenn sie bestehen, ob sie körperlich oder unkörperlich sind; und ob sie von den sinnlichen Dingen getrennt oder in ihnen sind. Boethius vermittelt diese Fragen dem lateinischen Westen und eröffnet den Universalienstreit.\n\nIm 12. Jahrhundert wird Roscelin von seinen Gegnern so dargestellt, als habe er das Allgemeine auf einen Hauch der Stimme (flatus vocis) reduziert; Wilhelm von Champeaux vertritt einen starken Realismus, Abaelard die These, das Universale sei ein bedeutungstragendes Wort (sermo), das in einem gemeinsamen Zustand (status) der Dinge gründet. Thomas von Aquin unterscheidet im Anschluss an Avicenna das Universale vor den Dingen im göttlichen Geist, in den Dingen und nach den Dingen im menschlichen Verstand. Duns Scotus nimmt eine gemeinsame Natur an, die durch die Haecceitas individuiert wird. Wilhelm von Ockham lehrt in der *Summa Logicae* (um 1323), dass nur Einzeldinge existieren und das Universale ein von vielem aussagbares mentales Zeichen ist. Locke spricht von abstrakten allgemeinen Ideen; Berkeley bestreitet in der *Abhandlung über die Prinzipien der menschlichen Erkenntnis* (1710) ihre Existenz.\n\nIm 20. Jahrhundert verteidigt Russell in *Probleme der Philosophie* (1912) eine Welt der Universalien, vor allem der Relationen, während Quine (1948) die ontologische Verpflichtung auf abstrakte Entitäten untersucht und Wittgenstein die Familienähnlichkeit einführt (*Philosophische Untersuchungen*, 1953). Die heutige Debatte stellt den immanenten Realismus D. M. Armstrongs (1978) der Tropentheorie, die besondere Eigenschaften annimmt, und verschiedenen Formen des Nominalismus gegenüber.",
+    "synonyms": [
+     "Allgemeinbegriffe"
+    ],
+    "nearTerms": [
+     "Einzelding",
+     "Idee",
+     "Nominalismus",
+     "Realismus",
+     "Konzeptualismus",
+     "Art"
+    ],
+    "aliases": [
+     "Universale",
+     "Universalienproblem",
+     "Universalienstreit",
+     "Nominalismus"
+    ],
+    "seoTitle": "Universalien – Platon, Porphyrios, Abaelard, Ockham, Russell",
+    "seoDescription": "Das Universalienproblem: Platons Ideen, die Fragen des Porphyrios, der mittelalterliche Universalienstreit und die heutige analytische Debatte."
+   }
+  }
+ },
+ {
+  "id": "con-becoming",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-metaphysics"
+  ],
+  "philosopherIds": [
+   "phi-heraclitus",
+   "phi-parmenides",
+   "phi-plato",
+   "phi-aristotle",
+   "phi-hegel",
+   "phi-nietzsche"
+  ],
+  "schoolIds": [
+   "sch-platonism",
+   "sch-aristotelianism",
+   "sch-idealism"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-19th",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-on-nature-parmenides",
+   "wrk-metaphysics"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-being",
+    "kind": "opposite"
+   },
+   {
+    "conceptId": "con-time",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-nothingness",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-dialectic",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-arche",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-logos",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Devir",
+    "slug": "devir",
+    "summary": "O vir a ser: passagem de um estado a outro, geração e mudança, pensada em oposição ou em unidade com o ser.",
+    "definition": "Devir é o processo pelo qual algo vem a ser, deixa de ser ou se torna outro: geração, corrupção, alteração e movimento. A metafísica pergunta se o devir é real ou mera aparência, como explicá-lo sem fazer algo surgir do nada e se o fundamental é o ser estável ou o próprio processo.",
+    "etymology": "Do francês devenir, “tornar-se”, a partir do latim devenire, “chegar a”, formado por de- e venire, “vir”. Traduz o grego génesis, “geração”, de gígnesthai, “vir a ser”, e o alemão Werden, termo técnico de Hegel e de Nietzsche.",
+    "body": "Devir é o vir a ser: a passagem de um estado a outro, o surgimento e o desaparecimento das coisas. O problema é tão antigo quanto a filosofia grega, porque a mudança parece exigir que algo seja e não seja ao mesmo tempo. Diante dela, a metafísica pode negar o devir em nome do ser, subordiná-lo ao ser ou fazer do próprio processo a realidade fundamental.\n\nHeráclito toma o fluxo e a tensão dos contrários como estrutura do real; a fórmula “tudo flui” (panta rhei) é um resumo posterior das suas sentenças. Parmênides, no poema *Sobre a Natureza* (c. 475 a.C.), recusa a geração porque o ser não pode vir do não-ser. Platão divide a realidade entre o que sempre é e nunca devém, o inteligível, e o que devém e nunca é, o sensível (*Timeu*, 27d–28a). Aristóteles resolve a aporia na *Física* (livro I) e na *Metafísica*: toda mudança supõe um substrato que passa da privação à forma, da potência ao ato. Distingue assim a geração e a corrupção da alteração, do crescimento e do movimento local.\n\nHegel inverte a prioridade clássica. Na *Ciência da Lógica* (1812), o ser puro e o nada puro revelam-se idênticos, e sua verdade é o devir (Werden), primeiro pensamento concreto. Nietzsche fala da “inocência do devir” (*Crepúsculo dos Ídolos*, 1889) contra as metafísicas que desvalorizam o mundo mutável. Bergson faz da duração criadora a substância das coisas (*A Evolução Criadora*, 1907), e Whitehead, em *Processo e Realidade* (1929), constrói uma filosofia do processo em que os entes são ocasiões de experiência que vêm a ser e perecem.\n\nNo século XX, Deleuze opõe à identidade uma ontologia da diferença e do devir (*Diferença e Repetição*, 1968). O conceito relaciona-se com o tempo, o nada, a dialética e a busca do princípio (arché) que sustenta a mudança. A metafísica analítica retoma a questão ao discutir a persistência dos objetos no tempo, entre o perdurantismo e o endurantismo.",
+    "synonyms": [
+     "Vir a ser",
+     "Mudança"
+    ],
+    "nearTerms": [
+     "Ser",
+     "Mudança",
+     "Movimento",
+     "Potência e ato",
+     "Processo",
+     "Fluxo"
+    ],
+    "aliases": [
+     "vir a ser",
+     "panta rhei",
+     "filosofia do processo",
+     "génesis"
+    ],
+    "seoTitle": "Devir — Heráclito, Parmênides, Aristóteles, Hegel, Bergson",
+    "seoDescription": "O devir na filosofia: fluxo em Heráclito, negação em Parmênides, potência e ato em Aristóteles, unidade de ser e nada em Hegel e filosofia do processo."
+   },
+   "en": {
+    "title": "Becoming",
+    "slug": "becoming",
+    "summary": "Coming to be: the passage from one state to another, generation and change, conceived in opposition to being or in unity with it.",
+    "definition": "Becoming is the process by which something comes to be, ceases to be or turns into something else: generation, corruption, alteration and motion. Metaphysics asks whether becoming is real or mere appearance, how to explain it without making something arise from nothing, and whether what is fundamental is stable being or process itself.",
+    "etymology": "From Old English becuman, “to come to, arrive, happen”, formed from be- and cuman, “to come”. It renders Greek génesis, “generation”, from gígnesthai, “to come to be”, and German Werden, the technical term of Hegel and Nietzsche.",
+    "body": "Becoming is coming to be: the passage from one state to another, the arising and passing away of things. The problem is as old as Greek philosophy, because change seems to require that something both is and is not at once. Faced with it, metaphysics can deny becoming in the name of being, subordinate it to being, or make process itself the fundamental reality.\n\nHeraclitus takes flux and the tension of opposites as the structure of the real; the formula “everything flows” (panta rhei) is a later summary of his sayings. Parmenides, in the poem *On Nature* (c. 475 BCE), rejects generation because what is cannot come from what is not. Plato divides reality into what always is and never becomes, the intelligible, and what becomes and never is, the sensible (*Timaeus*, 27d–28a). Aristotle resolves the difficulty in the *Physics* (Book I) and the *Metaphysics*: every change presupposes a substrate that passes from privation to form, from potentiality to actuality. He thereby distinguishes generation and corruption from alteration, growth and locomotion.\n\nHegel reverses the classical priority. In the *Science of Logic* (1812) pure being and pure nothing prove to be identical, and their truth is becoming (Werden), the first concrete thought. Nietzsche speaks of the “innocence of becoming” (*Twilight of the Idols*, 1889) against metaphysics that devalues the changing world. Bergson makes creative duration the stuff of things (*Creative Evolution*, 1907), and Whitehead, in *Process and Reality* (1929), builds a philosophy of process in which entities are occasions of experience that come to be and perish.\n\nIn the twentieth century Deleuze opposes to identity an ontology of difference and becoming (*Difference and Repetition*, 1968). The concept is related to time, nothingness, dialectic and the search for a principle (archê) that underlies change. Analytic metaphysics takes up the question in the debate on how objects persist through time, between perdurantism and endurantism.",
+    "synonyms": [
+     "Coming to be",
+     "Change"
+    ],
+    "nearTerms": [
+     "Being",
+     "Change",
+     "Motion",
+     "Potentiality and actuality",
+     "Process",
+     "Flux"
+    ],
+    "aliases": [
+     "coming to be",
+     "panta rhei",
+     "process philosophy",
+     "genesis"
+    ],
+    "seoTitle": "Becoming — Heraclitus, Parmenides, Aristotle, Hegel, Bergson",
+    "seoDescription": "Becoming in philosophy: flux in Heraclitus, denial in Parmenides, potentiality and actuality in Aristotle, unity of being and nothing in Hegel, process philosophy."
+   },
+   "fr": {
+    "title": "Devenir",
+    "slug": "devenir",
+    "summary": "Le fait de venir à être : passage d'un état à un autre, génération et changement, pensé en opposition ou en unité avec l'être.",
+    "definition": "Le devenir est le processus par lequel quelque chose vient à être, cesse d'être ou devient autre : génération, corruption, altération et mouvement. La métaphysique demande si le devenir est réel ou pure apparence, comment l'expliquer sans faire naître quelque chose du néant, et si le fondamental est l'être stable ou le processus lui-même.",
+    "etymology": "Du latin devenire, « arriver à », formé de de- et venire, « venir » ; substantivé en français à partir de l'infinitif. Le terme traduit le grec génesis, « génération », de gígnesthai, « venir à être », et l'allemand Werden, terme technique de Hegel et de Nietzsche.",
+    "body": "Le devenir est le fait de venir à être : le passage d'un état à un autre, l'apparition et la disparition des choses. Le problème est aussi ancien que la philosophie grecque, car le changement semble exiger qu'une chose soit et ne soit pas à la fois. Devant lui, la métaphysique peut nier le devenir au nom de l'être, le subordonner à l'être ou faire du processus lui-même la réalité fondamentale.\n\nHéraclite prend le flux et la tension des contraires pour la structure du réel ; la formule « tout s'écoule » (panta rhei) est un résumé tardif de ses sentences. Parménide, dans le poème *De la nature* (v. 475 av. J.-C.), refuse la génération parce que l'être ne peut venir du non-être. Platon partage la réalité entre ce qui est toujours et ne devient jamais, l'intelligible, et ce qui devient et n'est jamais, le sensible (*Timée*, 27d–28a). Aristote résout l'aporie dans la *Physique* (livre I) et la *Métaphysique* : tout changement suppose un substrat qui passe de la privation à la forme, de la puissance à l'acte. Il distingue ainsi la génération et la corruption de l'altération, de la croissance et du mouvement local.\n\nHegel renverse la priorité classique. Dans la *Science de la logique* (1812), l'être pur et le néant pur se révèlent identiques, et leur vérité est le devenir (Werden), première pensée concrète. Nietzsche parle de l'« innocence du devenir » (*Crépuscule des idoles*, 1889) contre les métaphysiques qui dévalorisent le monde changeant. Bergson fait de la durée créatrice l'étoffe des choses (*L'Évolution créatrice*, 1907), et Whitehead, dans *Procès et réalité* (1929), bâtit une philosophie du processus où les étants sont des occasions d'expérience qui adviennent et périssent.\n\nAu XXe siècle, Deleuze oppose à l'identité une ontologie de la différence et du devenir (*Différence et Répétition*, 1968). Le concept se rattache au temps, au néant, à la dialectique et à la recherche d'un principe (archè) sous-jacent au changement. La métaphysique analytique reprend la question dans le débat sur la persistance des objets dans le temps, entre perdurantisme et endurantisme.",
+    "synonyms": [
+     "Changement"
+    ],
+    "nearTerms": [
+     "Être",
+     "Changement",
+     "Mouvement",
+     "Puissance et acte",
+     "Processus",
+     "Flux"
+    ],
+    "aliases": [
+     "venir à être",
+     "panta rhei",
+     "philosophie du processus",
+     "genesis"
+    ],
+    "seoTitle": "Devenir — Héraclite, Parménide, Aristote, Hegel, Bergson",
+    "seoDescription": "Le devenir en philosophie : flux chez Héraclite, négation chez Parménide, puissance et acte chez Aristote, unité de l'être et du néant chez Hegel, processus."
+   },
+   "de": {
+    "title": "Werden",
+    "slug": "werden",
+    "summary": "Das Entstehen: Übergang von einem Zustand in einen anderen, Entstehen und Veränderung, gedacht im Gegensatz oder in Einheit mit dem Sein.",
+    "definition": "Werden ist der Vorgang, durch den etwas entsteht, vergeht oder zu etwas anderem wird: Entstehen, Vergehen, qualitative Veränderung und Bewegung. Die Metaphysik fragt, ob das Werden wirklich oder bloßer Schein ist, wie es sich erklären lässt, ohne etwas aus dem Nichts hervorgehen zu lassen, und ob das Grundlegende das beständige Sein oder der Prozess selbst ist.",
+    "etymology": "Althochdeutsch werdan, „werden, entstehen“, zur indogermanischen Wurzel *wer-, „drehen, wenden“, verwandt mit lateinisch vertere. Das Wort übersetzt griechisch génesis, „Entstehung“, von gígnesthai, „werden“, und ist bei Hegel und Nietzsche ein Grundbegriff.",
+    "body": "Werden heißt Entstehen: der Übergang von einem Zustand in einen anderen, das Hervortreten und Vergehen der Dinge. Das Problem ist so alt wie die griechische Philosophie, denn Veränderung scheint zu verlangen, dass etwas zugleich ist und nicht ist. Die Metaphysik kann daher das Werden im Namen des Seins leugnen, es dem Sein unterordnen oder den Prozess selbst zur grundlegenden Wirklichkeit erklären.\n\nHeraklit fasst Fluss und Spannung der Gegensätze als Struktur des Wirklichen; die Formel „alles fließt“ (panta rhei) ist eine spätere Zusammenfassung seiner Sprüche. Parmenides verwirft im Lehrgedicht *Über die Natur* (um 475 v. Chr.) das Entstehen, weil das Seiende nicht aus dem Nichtseienden kommen kann. Platon teilt die Wirklichkeit in das, was immer ist und nie wird, das Intelligible, und das, was wird und nie ist, das Sinnliche (*Timaios*, 27d–28a). Aristoteles löst die Aporie in der *Physik* (Buch I) und der *Metaphysik*: Jede Veränderung setzt ein Substrat voraus, das von der Privation zur Form, vom Vermögen zur Wirklichkeit übergeht. So unterscheidet er Entstehen und Vergehen von qualitativer Veränderung, Wachstum und Ortsbewegung.\n\nHegel kehrt den klassischen Vorrang um. In der *Wissenschaft der Logik* (1812) erweisen sich reines Sein und reines Nichts als dasselbe, und ihre Wahrheit ist das Werden, der erste konkrete Gedanke. Nietzsche spricht von der „Unschuld des Werdens“ (*Götzen-Dämmerung*, 1889) gegen eine Metaphysik, die die veränderliche Welt entwertet. Bergson macht die schöpferische Dauer zum Stoff der Dinge (*Schöpferische Entwicklung*, 1907), und Whitehead entwirft in *Prozess und Realität* (1929) eine Prozessphilosophie, in der die Seienden Erfahrungsereignisse sind, die werden und vergehen.\n\nIm 20. Jahrhundert setzt Deleuze der Identität eine Ontologie der Differenz und des Werdens entgegen (*Differenz und Wiederholung*, 1968). Der Begriff steht in Verbindung mit Zeit, Nichts, Dialektik und der Suche nach einem Prinzip (archḗ), das der Veränderung zugrunde liegt. Die analytische Metaphysik nimmt die Frage in der Debatte über die Fortdauer von Gegenständen in der Zeit auf, zwischen Perdurantismus und Endurantismus.",
+    "synonyms": [
+     "Entstehen",
+     "Veränderung"
+    ],
+    "nearTerms": [
+     "Sein",
+     "Veränderung",
+     "Bewegung",
+     "Möglichkeit und Wirklichkeit",
+     "Prozess",
+     "Fluss"
+    ],
+    "aliases": [
+     "Entstehen",
+     "panta rhei",
+     "Prozessphilosophie",
+     "genesis"
+    ],
+    "seoTitle": "Werden – Heraklit, Parmenides, Aristoteles, Hegel, Bergson",
+    "seoDescription": "Das Werden in der Philosophie: Fluss bei Heraklit, Leugnung bei Parmenides, Vermögen und Wirklichkeit bei Aristoteles, Einheit von Sein und Nichts bei Hegel."
+   }
+  }
+ },
+ {
+  "id": "con-nothingness",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-metaphysics"
+  ],
+  "philosopherIds": [
+   "phi-parmenides",
+   "phi-plato",
+   "phi-hegel",
+   "phi-heidegger",
+   "phi-sartre"
+  ],
+  "schoolIds": [
+   "sch-idealism",
+   "sch-phenomenology",
+   "sch-existentialism",
+   "sch-logical-positivism"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-modern",
+   "per-19th",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-on-nature-parmenides",
+   "wrk-being-and-time",
+   "wrk-being-and-nothingness"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-being",
+    "kind": "opposite"
+   },
+   {
+    "conceptId": "con-becoming",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-existence",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-anxiety",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Nada",
+    "slug": "nada",
+    "summary": "A negação de todo ser: o que se opõe ao ente, o que nem pode ser pensado segundo Parmênides e o que a consciência introduz no mundo segundo Sartre.",
+    "definition": "Nada é a ausência ou negação de todo ente. A metafísica distingue o nada absoluto, negação de tudo, do nada relativo, a falta de algo determinado, e discute se o nada é um conceito legítimo, um pseudoconceito produzido pela linguagem ou uma experiência originária, revelada, por exemplo, na angústia.",
+    "etymology": "Do latim (res) nata, “coisa nascida”, usado em frases negativas até assumir o sentido de “nenhuma coisa”. O latim clássico dizia nihil, de ne- e hilum, “nem um fio”; o grego distinguia tò mḕ ón, o não-ente, e tò oudén, o nada.",
+    "body": "O nada é a negação de todo ser. A questão aparece já na origem da metafísica e retorna em cada época: pode-se pensar e dizer o nada sem transformá-lo em algo? O nada é mera negação lógica, falta de algo determinado, ou tem algum papel na constituição do mundo e da experiência humana?\n\nParmênides, no poema *Sobre a Natureza* (c. 475 a.C.), proíbe o caminho do não-ser: o que não é não pode ser pensado nem dito. Platão, no *Sofista* (258b), escapa à interdição interpretando o não-ser como alteridade: dizer que algo “não é” significa que é outro. O princípio “nada vem do nada”, formulado por Lucrécio (*Da Natureza das Coisas*, I, 150), opõe-se à doutrina cristã da criação a partir do nada (creatio ex nihilo), que Agostinho desenvolve. Leibniz faz do nada o horizonte da pergunta metafísica fundamental: “por que há algo e não antes nada?” (*Princípios da Natureza e da Graça*, 1714, § 7).\n\nNa *Ciência da Lógica* (1812), Hegel afirma que o ser puro e o nada puro são o mesmo e que sua verdade é o devir. Bergson, em *A Evolução Criadora* (1907), considera a ideia de nada absoluto uma pseudoideia, pois pensar a supressão de tudo é sempre substituir uma coisa por outra. Heidegger, na conferência “Que é Metafísica?” (1929), sustenta que a angústia revela o nada e que “o próprio nada nadifica”. Carnap responde em 1932 que tais frases violam a sintaxe lógica e são pseudoproposições, episódio que se tornou emblemático da oposição entre as tradições analítica e continental. Sartre, em *O Ser e o Nada* (1943), faz da consciência, o para-si, a fonte pela qual o nada vem ao mundo: ela nadifica o dado e, por isso, é livre.\n\nO conceito relaciona-se com o ser, o devir, a existência, a angústia e o niilismo. Em outras tradições, a Escola de Kyoto elaborou uma filosofia do nada absoluto em diálogo com o budismo. A metafísica analítica discute hoje se poderia não ter existido nada e o que explicaria a existência do mundo.",
+    "synonyms": [
+     "Não-ser"
+    ],
+    "nearTerms": [
+     "Ser",
+     "Não-ser",
+     "Negação",
+     "Vazio",
+     "Angústia",
+     "Niilismo"
+    ],
+    "aliases": [
+     "não-ser",
+     "nada absoluto",
+     "ex nihilo",
+     "nadificação",
+     "por que há algo e não o nada"
+    ],
+    "seoTitle": "Nada — Parmênides, Leibniz, Hegel, Heidegger, Sartre",
+    "seoDescription": "O nada na filosofia: interdição do não-ser em Parmênides, alteridade no Sofista, ser e nada em Hegel, a angústia em Heidegger e a nadificação em Sartre."
+   },
+   "en": {
+    "title": "Nothingness",
+    "slug": "nothingness",
+    "summary": "The negation of all being: what stands opposed to beings, what cannot even be thought according to Parmenides, and what consciousness brings into the world according to Sartre.",
+    "definition": "Nothingness is the absence or negation of every being. Metaphysics distinguishes absolute nothingness, the negation of everything, from relative nothingness, the lack of something determinate, and asks whether nothingness is a legitimate concept, a pseudo-concept generated by language, or an original experience, revealed for instance in anxiety.",
+    "etymology": "English nothing combines no and thing; nothingness adds the abstract suffix -ness. Latin said nihil, from ne- and hilum, “not a thread”; Greek distinguished tò mḕ ón, what is not, and tò oudén, nothing.",
+    "body": "Nothingness is the negation of all being. The question appears at the very origin of metaphysics and returns in every period: can nothing be thought and said without turning it into something? Is nothingness merely logical negation, the lack of something determinate, or does it play a role in the constitution of the world and of human experience?\n\nParmenides, in the poem *On Nature* (c. 475 BCE), forbids the path of not-being: what is not can be neither thought nor said. Plato, in the *Sophist* (258b), escapes the prohibition by interpreting not-being as otherness: to say that something “is not” means that it is other. The principle “nothing comes from nothing”, stated by Lucretius (*On the Nature of Things*, I.150), is opposed to the Christian doctrine of creation from nothing (creatio ex nihilo), which Augustine develops. Leibniz makes nothingness the horizon of the fundamental question of metaphysics: “why is there something rather than nothing?” (*Principles of Nature and Grace*, 1714, §7).\n\nIn the *Science of Logic* (1812) Hegel holds that pure being and pure nothing are the same and that their truth is becoming. Bergson, in *Creative Evolution* (1907), regards the idea of absolute nothingness as a pseudo-idea, since to think away everything is always to replace one thing with another. Heidegger, in the lecture “What Is Metaphysics?” (1929), maintains that anxiety reveals the nothing and that “the nothing itself nothings”. Carnap replied in 1932 that such sentences violate logical syntax and are pseudo-statements, an episode that became emblematic of the divide between the analytic and continental traditions. Sartre, in *Being and Nothingness* (1943), makes consciousness, the for-itself, the source through which nothingness comes into the world: it nihilates what is given and is therefore free.\n\nThe concept is related to being, becoming, existence, anxiety and nihilism. In other traditions, the Kyoto School developed a philosophy of absolute nothingness in dialogue with Buddhism. Analytic metaphysics now asks whether there might have been nothing at all and what could explain the existence of the world.",
+    "synonyms": [
+     "Non-being",
+     "Nothing"
+    ],
+    "nearTerms": [
+     "Being",
+     "Non-being",
+     "Negation",
+     "Void",
+     "Anxiety",
+     "Nihilism"
+    ],
+    "aliases": [
+     "nothing",
+     "non-being",
+     "ex nihilo",
+     "nihilation",
+     "why is there something rather than nothing"
+    ],
+    "seoTitle": "Nothingness — Parmenides, Leibniz, Hegel, Heidegger, Sartre",
+    "seoDescription": "Nothingness in philosophy: Parmenides on not-being, otherness in the Sophist, being and nothing in Hegel, anxiety in Heidegger and nihilation in Sartre."
+   },
+   "fr": {
+    "title": "Néant",
+    "slug": "neant",
+    "summary": "La négation de tout être : ce qui s'oppose à l'étant, ce qui ne peut même pas être pensé selon Parménide et ce que la conscience introduit dans le monde selon Sartre.",
+    "definition": "Le néant est l'absence ou la négation de tout étant. La métaphysique distingue le néant absolu, négation de tout, du néant relatif, manque de quelque chose de déterminé, et se demande si le néant est un concept légitime, un pseudo-concept engendré par le langage ou une expérience originaire, révélée par exemple dans l'angoisse.",
+    "etymology": "Du latin populaire *ne gentem, « pas un être », formé de la négation ne et de gens. Le latin classique disait nihil, de ne- et hilum, « pas un fil » ; le grec distinguait tò mḕ ón, le non-étant, et tò oudén, le rien.",
+    "body": "Le néant est la négation de tout être. La question apparaît dès l'origine de la métaphysique et revient à chaque époque : peut-on penser et dire le néant sans en faire quelque chose ? Le néant n'est-il qu'une négation logique, le manque d'une chose déterminée, ou joue-t-il un rôle dans la constitution du monde et de l'expérience humaine ?\n\nParménide, dans le poème *De la nature* (v. 475 av. J.-C.), interdit la voie du non-être : ce qui n'est pas ne peut être ni pensé ni dit. Platon, dans le *Sophiste* (258b), échappe à l'interdit en interprétant le non-être comme altérité : dire qu'une chose « n'est pas » signifie qu'elle est autre. Le principe « rien ne naît de rien », formulé par Lucrèce (*De la nature des choses*, I, 150), s'oppose à la doctrine chrétienne de la création à partir de rien (creatio ex nihilo), que développe Augustin. Leibniz fait du néant l'horizon de la question fondamentale de la métaphysique : « pourquoi il y a plutôt quelque chose que rien ? » (*Principes de la nature et de la grâce*, 1714, § 7).\n\nDans la *Science de la logique* (1812), Hegel affirme que l'être pur et le néant pur sont le même et que leur vérité est le devenir. Bergson, dans *L'Évolution créatrice* (1907), tient l'idée de néant absolu pour une pseudo-idée, car penser la suppression de tout revient toujours à substituer une chose à une autre. Heidegger, dans la conférence « Qu'est-ce que la métaphysique ? » (1929), soutient que l'angoisse révèle le néant et que « le néant lui-même néantit ». Carnap répond en 1932 que ces phrases violent la syntaxe logique et sont des pseudo-propositions, épisode devenu emblématique de la séparation entre traditions analytique et continentale. Sartre, dans *L'Être et le Néant* (1943), fait de la conscience, le pour-soi, la source par laquelle le néant vient au monde : elle néantise le donné et, par là, elle est libre.\n\nLe concept se rattache à l'être, au devenir, à l'existence, à l'angoisse et au nihilisme. Dans d'autres traditions, l'école de Kyoto a élaboré une philosophie du néant absolu en dialogue avec le bouddhisme. La métaphysique analytique se demande aujourd'hui s'il aurait pu n'y avoir rien et ce qui expliquerait l'existence du monde.",
+    "synonyms": [
+     "Non-être",
+     "Rien"
+    ],
+    "nearTerms": [
+     "Être",
+     "Non-être",
+     "Négation",
+     "Vide",
+     "Angoisse",
+     "Nihilisme"
+    ],
+    "aliases": [
+     "rien",
+     "non-être",
+     "ex nihilo",
+     "néantisation",
+     "pourquoi il y a plutôt quelque chose que rien"
+    ],
+    "seoTitle": "Néant — Parménide, Leibniz, Hegel, Heidegger, Sartre",
+    "seoDescription": "Le néant en philosophie : l'interdit du non-être chez Parménide, l'altérité dans le Sophiste, être et néant chez Hegel, l'angoisse chez Heidegger, Sartre."
+   },
+   "de": {
+    "title": "Nichts",
+    "slug": "nichts",
+    "summary": "Die Verneinung alles Seins: was dem Seienden entgegensteht, was nach Parmenides nicht einmal gedacht werden kann und was nach Sartre das Bewusstsein in die Welt bringt.",
+    "definition": "Das Nichts ist die Abwesenheit oder Verneinung alles Seienden. Die Metaphysik unterscheidet das absolute Nichts, die Verneinung von allem, vom relativen Nichts, dem Fehlen von etwas Bestimmtem, und fragt, ob das Nichts ein legitimer Begriff, ein von der Sprache erzeugter Scheinbegriff oder eine ursprüngliche Erfahrung ist, wie sie etwa die Angst eröffnet.",
+    "etymology": "Mittelhochdeutsch niht, aus althochdeutsch niowiht, „nicht irgendein Ding“, gebildet aus ni, „nicht“, io, „je“, und wiht, „Ding, Wesen“. Lateinisch nihil geht auf ne- und hilum, „nicht ein Faden“, zurück; das Griechische unterschied tò mḕ ón, das Nichtseiende, und tò oudén, das Nichts.",
+    "body": "Das Nichts ist die Verneinung alles Seins. Die Frage steht am Anfang der Metaphysik und kehrt in jeder Epoche wieder: Lässt sich das Nichts denken und sagen, ohne es zu einem Etwas zu machen? Ist es bloße logische Negation, das Fehlen von etwas Bestimmtem, oder spielt es eine Rolle für die Verfassung der Welt und der menschlichen Erfahrung?\n\nParmenides verbietet im Lehrgedicht *Über die Natur* (um 475 v. Chr.) den Weg des Nichtseins: Was nicht ist, kann weder gedacht noch gesagt werden. Platon entgeht dem Verbot im *Sophistes* (258b), indem er das Nichtsein als Verschiedenheit deutet: Zu sagen, etwas „ist nicht“, heißt, es ist etwas anderes. Der Grundsatz „aus nichts wird nichts“, den Lukrez formuliert (*Über die Natur der Dinge*, I 150), steht der christlichen Lehre von der Schöpfung aus dem Nichts (creatio ex nihilo) gegenüber, die Augustinus ausarbeitet. Leibniz macht das Nichts zum Horizont der metaphysischen Grundfrage: „Warum ist eher etwas als nichts?“ (*Vernunftprinzipien der Natur und der Gnade*, 1714, § 7).\n\nIn der *Wissenschaft der Logik* (1812) erklärt Hegel, reines Sein und reines Nichts seien dasselbe und ihre Wahrheit sei das Werden. Bergson hält in der *Schöpferischen Entwicklung* (1907) die Idee des absoluten Nichts für eine Scheinidee, da das Wegdenken von allem stets eine Sache durch eine andere ersetzt. Heidegger vertritt in der Antrittsvorlesung *Was ist Metaphysik?* (1929), die Angst offenbare das Nichts und „das Nichts selbst nichtet“. Carnap antwortet 1932, solche Sätze verletzten die logische Syntax und seien Scheinsätze; die Episode wurde zum Sinnbild der Trennung zwischen analytischer und kontinentaler Tradition. Sartre macht in *Das Sein und das Nichts* (1943) das Bewusstsein, das Für-sich, zur Quelle, durch die das Nichts in die Welt kommt: Es nichtet das Gegebene und ist darum frei.\n\nDer Begriff ist mit Sein, Werden, Existenz, Angst und Nihilismus verbunden. In anderen Traditionen hat die Kyoto-Schule im Gespräch mit dem Buddhismus eine Philosophie des absoluten Nichts entwickelt. Die analytische Metaphysik fragt heute, ob es auch gar nichts hätte geben können und was die Existenz der Welt erklären würde.",
+    "synonyms": [
+     "Nichtsein"
+    ],
+    "nearTerms": [
+     "Sein",
+     "Nichtsein",
+     "Negation",
+     "Leere",
+     "Angst",
+     "Nihilismus"
+    ],
+    "aliases": [
+     "Nichtsein",
+     "absolutes Nichts",
+     "ex nihilo",
+     "Nichtung",
+     "warum ist überhaupt Seiendes und nicht vielmehr Nichts"
+    ],
+    "seoTitle": "Nichts – Parmenides, Leibniz, Hegel, Heidegger, Sartre",
+    "seoDescription": "Das Nichts in der Philosophie: Parmenides' Verbot des Nichtseins, Verschiedenheit im Sophistes, Sein und Nichts bei Hegel, Angst bei Heidegger, Sartre."
+   }
+  }
+ },
+ {
+  "id": "con-monad",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-metaphysics"
+  ],
+  "philosopherIds": [
+   "phi-descartes",
+   "phi-spinoza",
+   "phi-kant",
+   "phi-husserl"
+  ],
+  "schoolIds": [
+   "sch-rationalism",
+   "sch-phenomenology"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-renaissance",
+   "per-modern",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-krv"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-substance",
+    "kind": "broader"
+   },
+   {
+    "conceptId": "con-identity",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-perception",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-dualism",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-materialism",
+    "kind": "opposite"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Mônada",
+    "slug": "monada",
+    "summary": "Unidade simples e indivisível; em Leibniz, a substância sem partes que percebe e espelha todo o universo do seu próprio ponto de vista.",
+    "definition": "Mônada é uma unidade simples, sem partes. Na tradição pitagórica e platônica designa o princípio do número; em Leibniz, a substância simples e verdadeiramente una, dotada de percepção e apetição, sem janelas por onde algo entre ou saia, e que exprime o universo inteiro do seu ponto de vista. O termo reaparece em Husserl para designar o ego concreto.",
+    "etymology": "Do grego monás, monádos, “unidade”, derivado de mónos, “só, único”, pelo latim tardio monas. Os pitagóricos usavam-no para a unidade geradora dos números; Leibniz adota o termo a partir de 1696 para as suas substâncias simples.",
+    "body": "A mônada é uma unidade simples, sem partes. O conceito responde a uma exigência antiga da metafísica: se os compostos são feitos de partes, deve haver algo verdadeiramente uno do qual eles resultam. Resta saber se essa unidade é material, como o átomo, ou de natureza espiritual, e como unidades separadas compõem um mundo ordenado.\n\nNa tradição pitagórica, a mônada é o princípio dos números; Platão fala de mônadas no *Filebo* ao discutir a unidade das Formas, e os neoplatônicos fazem do Uno a fonte de toda multiplicidade. No Renascimento, Giordano Bruno dedica-lhe o tratado *De monade* (1591). O conceito ganha sua forma clássica com Leibniz, que o adota por volta de 1696 e o expõe na *Monadologia* (redigida em francês em 1714 e publicada postumamente, primeiro em tradução alemã, em 1720). Contra a substância extensa de Descartes e a substância única de Espinosa, Leibniz afirma um pluralismo de substâncias simples. As mônadas não têm extensão, figura nem partes e “não têm janelas” (§ 7): nada entra nelas nem delas sai. Cada uma possui percepções e apetições e é um “espelho vivo do universo” (§ 56), que exprime do seu ponto de vista.\n\nComo as mônadas não agem umas sobre as outras, a correspondência entre elas se explica pela harmonia preestabelecida por Deus, a mônada suprema, que escolheu o melhor dos mundos possíveis (*Ensaios de Teodiceia*, 1710). Leibniz distingue mônadas nuas, almas dotadas de memória e espíritos capazes de razão. Kant critica a monadologia na *Crítica da Razão Pura* (1781) como confusão entre conceitos do entendimento e fenômenos, a “anfibolia dos conceitos da reflexão”. No século XX, Husserl chama mônada ao ego concreto e descreve a intersubjetividade como comunidade de mônadas nas *Meditações Cartesianas* (1931).\n\nGabriel Tarde retomou o conceito em sociologia (*Monadologia e sociologia*, 1893), e Deleuze reinterpretou Leibniz em *A Dobra* (1988). A mônada articula-se com a substância, a identidade dos indiscerníveis, a percepção e a teodiceia, e opõe-se às ontologias materialistas que fazem da matéria o fundamento último.",
+    "synonyms": [
+     "Substância simples"
+    ],
+    "nearTerms": [
+     "Substância",
+     "Unidade",
+     "Harmonia preestabelecida",
+     "Percepção",
+     "Átomo",
+     "Uno"
+    ],
+    "aliases": [
+     "monadologia",
+     "mônadas",
+     "monada",
+     "harmonia preestabelecida"
+    ],
+    "seoTitle": "Mônada — Leibniz, a Monadologia e a harmonia preestabelecida",
+    "seoDescription": "A mônada na filosofia: unidade pitagórica, as substâncias simples de Leibniz sem janelas, a harmonia preestabelecida, a crítica de Kant e o ego de Husserl."
+   },
+   "en": {
+    "title": "Monad",
+    "slug": "monad",
+    "summary": "A simple, indivisible unit; in Leibniz, the partless substance that perceives and mirrors the whole universe from its own point of view.",
+    "definition": "A monad is a simple unit without parts. In the Pythagorean and Platonic tradition it names the principle of number; in Leibniz it is the simple and truly unified substance, endowed with perception and appetition, without windows through which anything could enter or leave, and expressing the whole universe from its point of view. The term reappears in Husserl for the concrete ego.",
+    "etymology": "From Greek monás, monádos, “unit”, derived from mónos, “alone, single”, through Late Latin monas. The Pythagoreans used it for the unit that generates the numbers; Leibniz adopted the word from 1696 for his simple substances.",
+    "body": "A monad is a simple unit without parts. The concept answers an old demand of metaphysics: if composites are made of parts, there must be something truly one from which they result. The question is whether that unity is material, like the atom, or of a spiritual nature, and how separate units can make up an ordered world.\n\nIn the Pythagorean tradition the monad is the principle of the numbers; Plato speaks of monads in the *Philebus* when discussing the unity of the Forms, and the Neoplatonists make the One the source of all multiplicity. In the Renaissance Giordano Bruno devoted the treatise *De monade* (1591) to it. The concept takes its classical form with Leibniz, who adopted it around 1696 and set it out in the *Monadology* (written in French in 1714 and published posthumously, first in German translation, in 1720). Against Descartes's extended substance and Spinoza's single substance, Leibniz defends a pluralism of simple substances. Monads have no extension, shape or parts and “have no windows” (§7): nothing enters or leaves them. Each has perceptions and appetitions and is a “living mirror of the universe” (§56), which it expresses from its own point of view.\n\nSince monads do not act on one another, their correspondence is explained by the harmony pre-established by God, the supreme monad, who chose the best of all possible worlds (*Theodicy*, 1710). Leibniz distinguishes bare monads, souls endowed with memory, and spirits capable of reason. Kant criticises the monadology in the *Critique of Pure Reason* (1781) as a confusion of concepts of the understanding with appearances, the “amphiboly of the concepts of reflection”. In the twentieth century Husserl calls the concrete ego a monad and describes intersubjectivity as a community of monads in the *Cartesian Meditations* (1931).\n\nGabriel Tarde took the concept into sociology (*Monadology and Sociology*, 1893), and Deleuze reinterpreted Leibniz in *The Fold* (1988). The monad is bound up with substance, the identity of indiscernibles, perception and theodicy, and stands opposed to materialist ontologies that make matter the ultimate ground.",
+    "synonyms": [
+     "Simple substance"
+    ],
+    "nearTerms": [
+     "Substance",
+     "Unity",
+     "Pre-established harmony",
+     "Perception",
+     "Atom",
+     "The One"
+    ],
+    "aliases": [
+     "monadology",
+     "monads",
+     "pre-established harmony",
+     "windowless monads"
+    ],
+    "seoTitle": "Monad — Leibniz, the Monadology and pre-established harmony",
+    "seoDescription": "The monad in philosophy: the Pythagorean unit, Leibniz's windowless simple substances, pre-established harmony, Kant's critique and Husserl's ego."
+   },
+   "fr": {
+    "title": "Monade",
+    "slug": "monade",
+    "summary": "Unité simple et indivisible ; chez Leibniz, la substance sans parties qui perçoit et reflète l'univers entier de son propre point de vue.",
+    "definition": "La monade est une unité simple, sans parties. Dans la tradition pythagoricienne et platonicienne, elle désigne le principe du nombre ; chez Leibniz, la substance simple et véritablement une, douée de perception et d'appétition, sans fenêtres par lesquelles quelque chose pourrait entrer ou sortir, et qui exprime l'univers entier de son point de vue. Le terme reparaît chez Husserl pour désigner l'ego concret.",
+    "etymology": "Du grec monás, monádos, « unité », dérivé de mónos, « seul, unique », par le latin tardif monas. Les pythagoriciens l'employaient pour l'unité génératrice des nombres ; Leibniz adopte le mot à partir de 1696 pour ses substances simples.",
+    "body": "La monade est une unité simple, sans parties. Le concept répond à une exigence ancienne de la métaphysique : si les composés sont faits de parties, il doit exister quelque chose de véritablement un dont ils résultent. Reste à savoir si cette unité est matérielle, comme l'atome, ou de nature spirituelle, et comment des unités séparées composent un monde ordonné.\n\nDans la tradition pythagoricienne, la monade est le principe des nombres ; Platon parle de monades dans le *Philèbe* à propos de l'unité des Idées, et les néoplatoniciens font de l'Un la source de toute multiplicité. À la Renaissance, Giordano Bruno lui consacre le traité *De monade* (1591). Le concept prend sa forme classique chez Leibniz, qui l'adopte vers 1696 et l'expose dans la *Monadologie* (rédigée en français en 1714 et publiée à titre posthume, d'abord en traduction allemande, en 1720). Contre la substance étendue de Descartes et la substance unique de Spinoza, Leibniz affirme un pluralisme de substances simples. Les monades n'ont ni étendue, ni figure, ni parties, et « n'ont point de fenêtres » (§ 7) : rien n'y entre ni n'en sort. Chacune a des perceptions et des appétitions et constitue un « miroir vivant de l'univers » (§ 56), qu'elle exprime de son point de vue.\n\nPuisque les monades n'agissent pas les unes sur les autres, leur accord s'explique par l'harmonie préétablie par Dieu, la monade suprême, qui a choisi le meilleur des mondes possibles (*Essais de théodicée*, 1710). Leibniz distingue les monades nues, les âmes douées de mémoire et les esprits capables de raison. Kant critique la monadologie dans la *Critique de la raison pure* (1781) comme une confusion des concepts de l'entendement avec les phénomènes, l'« amphibologie des concepts de la réflexion ». Au XXe siècle, Husserl appelle monade l'ego concret et décrit l'intersubjectivité comme communauté des monades dans les *Méditations cartésiennes* (1931).\n\nGabriel Tarde a transposé le concept en sociologie (*Monadologie et sociologie*, 1893), et Deleuze a réinterprété Leibniz dans *Le Pli* (1988). La monade s'articule à la substance, à l'identité des indiscernables, à la perception et à la théodicée, et s'oppose aux ontologies matérialistes qui font de la matière le fondement ultime.",
+    "synonyms": [
+     "Substance simple"
+    ],
+    "nearTerms": [
+     "Substance",
+     "Unité",
+     "Harmonie préétablie",
+     "Perception",
+     "Atome",
+     "L'Un"
+    ],
+    "aliases": [
+     "monadologie",
+     "monades",
+     "harmonie préétablie",
+     "monades sans fenêtres"
+    ],
+    "seoTitle": "Monade — Leibniz, la Monadologie et l'harmonie préétablie",
+    "seoDescription": "La monade en philosophie : l'unité pythagoricienne, les substances simples sans fenêtres de Leibniz, l'harmonie préétablie, la critique de Kant, Husserl."
+   },
+   "de": {
+    "title": "Monade",
+    "slug": "monade",
+    "summary": "Einfache, unteilbare Einheit; bei Leibniz die teillose Substanz, die das ganze Universum aus ihrem eigenen Gesichtspunkt wahrnimmt und spiegelt.",
+    "definition": "Die Monade ist eine einfache Einheit ohne Teile. In der pythagoreischen und platonischen Tradition bezeichnet sie das Prinzip der Zahl; bei Leibniz die einfache, wahrhaft eine Substanz, begabt mit Perzeption und Appetition, ohne Fenster, durch die etwas ein- oder austreten könnte, und Ausdruck des ganzen Universums aus ihrem Gesichtspunkt. Bei Husserl bezeichnet der Ausdruck das konkrete Ich.",
+    "etymology": "Von griechisch monás, monádos, „Einheit“, abgeleitet von mónos, „allein, einzig“, über spätlateinisch monas. Die Pythagoreer bezeichneten damit die Einheit, aus der die Zahlen hervorgehen; Leibniz übernimmt das Wort ab 1696 für seine einfachen Substanzen.",
+    "body": "Die Monade ist eine einfache Einheit ohne Teile. Der Begriff antwortet auf eine alte Forderung der Metaphysik: Wenn Zusammengesetztes aus Teilen besteht, muss es etwas wahrhaft Eines geben, aus dem es sich ergibt. Offen ist, ob diese Einheit materiell ist wie das Atom oder geistiger Natur, und wie getrennte Einheiten eine geordnete Welt bilden.\n\nIn der pythagoreischen Tradition ist die Monade das Prinzip der Zahlen; Platon spricht im *Philebos* von Monaden, wenn er die Einheit der Ideen erörtert, und die Neuplatoniker machen das Eine zur Quelle aller Vielheit. In der Renaissance widmet ihr Giordano Bruno die Schrift *De monade* (1591). Seine klassische Gestalt erhält der Begriff bei Leibniz, der ihn um 1696 übernimmt und in der *Monadologie* darlegt (1714 französisch verfasst, 1720 postum zuerst in deutscher Übersetzung veröffentlicht). Gegen die ausgedehnte Substanz des Descartes und die eine Substanz Spinozas vertritt Leibniz einen Pluralismus einfacher Substanzen. Die Monaden haben weder Ausdehnung noch Gestalt noch Teile und „haben keine Fenster“ (§ 7): Nichts tritt in sie ein oder aus ihnen heraus. Jede besitzt Perzeptionen und Appetitionen und ist ein „lebendiger Spiegel des Universums“ (§ 56), den sie aus ihrem Gesichtspunkt ausdrückt.\n\nDa die Monaden nicht aufeinander einwirken, erklärt sich ihre Übereinstimmung durch die von Gott, der höchsten Monade, prästabilierte Harmonie; Gott hat die beste aller möglichen Welten gewählt (*Theodizee*, 1710). Leibniz unterscheidet bloße Monaden, mit Gedächtnis begabte Seelen und vernunftfähige Geister. Kant kritisiert die Monadologie in der *Kritik der reinen Vernunft* (1781) als Verwechslung von Verstandesbegriffen mit Erscheinungen, als „Amphibolie der Reflexionsbegriffe“. Im 20. Jahrhundert nennt Husserl das konkrete Ich eine Monade und beschreibt die Intersubjektivität in den *Cartesianischen Meditationen* (1931) als Monadengemeinschaft.\n\nGabriel Tarde übertrug den Begriff in die Soziologie (*Monadologie und Soziologie*, 1893), und Deleuze deutete Leibniz in *Die Falte* (1988) neu. Die Monade ist mit Substanz, der Identität des Ununterscheidbaren, Perzeption und Theodizee verbunden und steht materialistischen Ontologien entgegen, die die Materie zum letzten Grund machen.",
+    "synonyms": [
+     "Einfache Substanz"
+    ],
+    "nearTerms": [
+     "Substanz",
+     "Einheit",
+     "Prästabilierte Harmonie",
+     "Perzeption",
+     "Atom",
+     "Das Eine"
+    ],
+    "aliases": [
+     "Monadologie",
+     "Monaden",
+     "prästabilierte Harmonie",
+     "fensterlose Monaden"
+    ],
+    "seoTitle": "Monade – Leibniz, die Monadologie und die prästabilierte Harmonie",
+    "seoDescription": "Die Monade in der Philosophie: pythagoreische Einheit, Leibniz' fensterlose einfache Substanzen, prästabilierte Harmonie, Kants Kritik und Husserls Ich."
+   }
+  }
+ },
+ {
+  "id": "con-materialism",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-metaphysics",
+   "cat-mind"
+  ],
+  "philosopherIds": [
+   "phi-democritus",
+   "phi-epicurus",
+   "phi-marx"
+  ],
+  "schoolIds": [
+   "sch-atomism",
+   "sch-epicureanism",
+   "sch-marxism"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-modern",
+   "per-19th",
+   "per-20th"
+  ],
+  "workIds": [],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-dualism",
+    "kind": "opposite"
+   },
+   {
+    "conceptId": "con-determinism",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-substance",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Materialismo",
+    "slug": "materialismo",
+    "summary": "A tese de que tudo o que existe é matéria ou depende da matéria, inclusive a mente; do atomismo antigo ao fisicalismo contemporâneo.",
+    "definition": "Materialismo é a doutrina segundo a qual a realidade é fundamentalmente material: tudo o que existe é matéria, seus movimentos e suas propriedades, e os fenômenos mentais dependem de processos materiais ou se reduzem a eles. Opõe-se ao dualismo e ao idealismo. O termo também designa, em Marx, a primazia das condições materiais da vida social sobre as ideias.",
+    "etymology": "Do latim materia, “madeira de construção”, “matéria”, derivado de mater, “mãe”, com o sufixo -ismo. O termo “materialista” aparece no fim do século XVII, em Boyle e em Leibniz, para designar os que explicam tudo pela matéria e pelo movimento.",
+    "body": "O materialismo afirma que a realidade é fundamentalmente material: existem corpos, seus movimentos e suas propriedades, e nada que seja independente deles. A mente, a vida e a sociedade devem então ser explicadas a partir da matéria. A tese enfrenta duas dificuldades recorrentes: dar conta da consciência e do pensamento, e dizer com precisão o que se entende por “matéria”, conceito que mudou com a física.\n\nNa Antiguidade, Leucipo e Demócrito sustentam que só existem átomos e vazio; Epicuro retoma o atomismo para libertar os homens do medo dos deuses e da morte, e Lucrécio o expõe em *Da Natureza das Coisas* (século I a.C.). Os estoicos defendem um corporalismo segundo o qual só os corpos agem e padecem; na Índia, a escola Cārvāka reduz a consciência a uma combinação de elementos. Na modernidade, Hobbes afirma no *Leviatã* (1651) que o universo é corpo e que o pensamento é movimento; Gassendi reabilita Epicuro. No século XVIII, La Mettrie publica *O Homem-Máquina* (1747) e d'Holbach o *Sistema da Natureza* (1770), obras de um materialismo mecanicista e ateu.\n\nNo século XIX, Feuerbach faz da teologia uma projeção da essência humana (*A Essência do Cristianismo*, 1841), e o materialismo científico de Büchner e Moleschott populariza a tese de que o pensamento é função do cérebro. Marx e Engels, em *A Ideologia Alemã* (1845–1846), deslocam o conceito: não é a consciência que determina a vida, mas a vida material que determina a consciência. A expressão “materialismo dialético”, difundida por Plekhanov, tornou-se depois doutrina oficial do marxismo soviético.\n\nNo século XX, o materialismo toma a forma do fisicalismo: a teoria da identidade de Place (1956) e Smart (1959) identifica estados mentais a estados cerebrais, e o materialismo eliminativo de Paul e Patricia Churchland propõe abandonar o vocabulário mental comum. Dennett defende uma explicação naturalista da consciência (*Consciência Explicada*, 1991). O conceito relaciona-se com o problema mente-corpo, o mecanicismo e o determinismo, e opõe-se ao dualismo.",
+    "synonyms": [
+     "Fisicalismo"
+    ],
+    "nearTerms": [
+     "Atomismo",
+     "Fisicalismo",
+     "Mecanicismo",
+     "Naturalismo",
+     "Dualismo",
+     "Idealismo"
+    ],
+    "aliases": [
+     "materialista",
+     "materialismo mecanicista",
+     "materialismo dialético",
+     "materialismo eliminativo"
+    ],
+    "seoTitle": "Materialismo — Demócrito, Hobbes, Marx e o fisicalismo",
+    "seoDescription": "O materialismo na filosofia: átomos e vazio em Demócrito, corpo e movimento em Hobbes, o Homem-Máquina, Feuerbach, Marx e o fisicalismo contemporâneo."
+   },
+   "en": {
+    "title": "Materialism",
+    "slug": "materialism",
+    "summary": "The thesis that everything that exists is matter or depends on matter, the mind included; from ancient atomism to contemporary physicalism.",
+    "definition": "Materialism is the doctrine that reality is fundamentally material: everything that exists is matter, its motions and its properties, and mental phenomena depend on or reduce to material processes. It is opposed to dualism and idealism. In Marx the term also names the primacy of the material conditions of social life over ideas.",
+    "etymology": "From Latin materia, “building timber”, “matter”, derived from mater, “mother”, with the suffix -ism. The word “materialist” appears in the late seventeenth century, in Boyle and Leibniz, for those who explain everything by matter and motion.",
+    "body": "Materialism holds that reality is fundamentally material: there are bodies, their motions and their properties, and nothing independent of them. Mind, life and society must then be explained on the basis of matter. The thesis faces two recurrent difficulties: accounting for consciousness and thought, and saying precisely what “matter” means, a concept that has changed with physics.\n\nIn antiquity Leucippus and Democritus hold that only atoms and the void exist; Epicurus takes up atomism to free human beings from the fear of the gods and of death, and Lucretius sets it out in *On the Nature of Things* (1st century BCE). The Stoics defend a corporealism according to which only bodies act and are acted upon; in India the Cārvāka school reduces consciousness to a combination of elements. In the modern period Hobbes asserts in *Leviathan* (1651) that the universe is body and that thought is motion; Gassendi rehabilitates Epicurus. In the eighteenth century La Mettrie publishes *Man a Machine* (1747) and d'Holbach the *System of Nature* (1770), works of a mechanistic and atheist materialism.\n\nIn the nineteenth century Feuerbach treats theology as a projection of human essence (*The Essence of Christianity*, 1841), and the scientific materialism of Büchner and Moleschott popularises the view that thought is a function of the brain. Marx and Engels, in *The German Ideology* (1845–1846), shift the concept: it is not consciousness that determines life, but material life that determines consciousness. The phrase “dialectical materialism”, spread by Plekhanov, later became the official doctrine of Soviet Marxism.\n\nIn the twentieth century materialism takes the form of physicalism: the identity theory of Place (1956) and Smart (1959) identifies mental states with brain states, and the eliminative materialism of Paul and Patricia Churchland proposes abandoning everyday mental vocabulary. Dennett defends a naturalistic account of consciousness (*Consciousness Explained*, 1991). The concept is related to the mind–body problem, mechanism and determinism, and is opposed to dualism.",
+    "synonyms": [
+     "Physicalism"
+    ],
+    "nearTerms": [
+     "Atomism",
+     "Physicalism",
+     "Mechanism",
+     "Naturalism",
+     "Dualism",
+     "Idealism"
+    ],
+    "aliases": [
+     "materialist",
+     "mechanistic materialism",
+     "dialectical materialism",
+     "eliminative materialism"
+    ],
+    "seoTitle": "Materialism — Democritus, Hobbes, Marx and physicalism",
+    "seoDescription": "Materialism in philosophy: atoms and void in Democritus, body and motion in Hobbes, Man a Machine, Feuerbach, Marx and contemporary physicalism."
+   },
+   "fr": {
+    "title": "Matérialisme",
+    "slug": "materialisme",
+    "summary": "La thèse selon laquelle tout ce qui existe est matière ou dépend de la matière, l'esprit compris ; de l'atomisme antique au physicalisme contemporain.",
+    "definition": "Le matérialisme est la doctrine selon laquelle la réalité est fondamentalement matérielle : tout ce qui existe est matière, ses mouvements et ses propriétés, et les phénomènes mentaux dépendent de processus matériels ou s'y réduisent. Il s'oppose au dualisme et à l'idéalisme. Chez Marx, le terme désigne aussi le primat des conditions matérielles de la vie sociale sur les idées.",
+    "etymology": "Du latin materia, « bois de construction », « matière », dérivé de mater, « mère », avec le suffixe -isme. Le mot « matérialiste » apparaît à la fin du XVIIe siècle, chez Boyle et chez Leibniz, pour désigner ceux qui expliquent tout par la matière et le mouvement.",
+    "body": "Le matérialisme affirme que la réalité est fondamentalement matérielle : il existe des corps, leurs mouvements et leurs propriétés, et rien qui en soit indépendant. L'esprit, la vie et la société doivent alors s'expliquer à partir de la matière. La thèse affronte deux difficultés récurrentes : rendre compte de la conscience et de la pensée, et dire précisément ce qu'on entend par « matière », notion qui a changé avec la physique.\n\nDans l'Antiquité, Leucippe et Démocrite soutiennent qu'il n'existe que des atomes et du vide ; Épicure reprend l'atomisme pour délivrer les hommes de la crainte des dieux et de la mort, et Lucrèce l'expose dans *De la nature des choses* (Ier siècle av. J.-C.). Les stoïciens défendent un corporalisme selon lequel seuls les corps agissent et pâtissent ; en Inde, l'école Cārvāka réduit la conscience à une combinaison d'éléments. À l'époque moderne, Hobbes affirme dans le *Léviathan* (1651) que l'univers est corps et que la pensée est mouvement ; Gassendi réhabilite Épicure. Au XVIIIe siècle, La Mettrie publie *L'Homme machine* (1747) et d'Holbach le *Système de la nature* (1770), œuvres d'un matérialisme mécaniste et athée.\n\nAu XIXe siècle, Feuerbach fait de la théologie une projection de l'essence humaine (*L'Essence du christianisme*, 1841), et le matérialisme scientifique de Büchner et de Moleschott popularise la thèse selon laquelle la pensée est une fonction du cerveau. Marx et Engels, dans *L'Idéologie allemande* (1845–1846), déplacent le concept : ce n'est pas la conscience qui détermine la vie, c'est la vie matérielle qui détermine la conscience. L'expression « matérialisme dialectique », diffusée par Plekhanov, devint ensuite la doctrine officielle du marxisme soviétique.\n\nAu XXe siècle, le matérialisme prend la forme du physicalisme : la théorie de l'identité de Place (1956) et de Smart (1959) identifie les états mentaux aux états cérébraux, et le matérialisme éliminativiste de Paul et Patricia Churchland propose d'abandonner le vocabulaire mental ordinaire. Dennett défend une explication naturaliste de la conscience (*La Conscience expliquée*, 1991). Le concept se rattache au problème corps-esprit, au mécanisme et au déterminisme, et s'oppose au dualisme.",
+    "synonyms": [
+     "Physicalisme"
+    ],
+    "nearTerms": [
+     "Atomisme",
+     "Physicalisme",
+     "Mécanisme",
+     "Naturalisme",
+     "Dualisme",
+     "Idéalisme"
+    ],
+    "aliases": [
+     "matérialiste",
+     "matérialisme mécaniste",
+     "matérialisme dialectique",
+     "matérialisme éliminativiste"
+    ],
+    "seoTitle": "Matérialisme — Démocrite, Hobbes, Marx et le physicalisme",
+    "seoDescription": "Le matérialisme en philosophie : atomes et vide chez Démocrite, corps et mouvement chez Hobbes, L'Homme machine, Feuerbach, Marx et le physicalisme."
+   },
+   "de": {
+    "title": "Materialismus",
+    "slug": "materialismus",
+    "summary": "Die These, dass alles Existierende Materie ist oder von Materie abhängt, auch der Geist; vom antiken Atomismus bis zum heutigen Physikalismus.",
+    "definition": "Materialismus ist die Lehre, dass die Wirklichkeit grundlegend materiell ist: Alles Existierende ist Materie, deren Bewegungen und Eigenschaften, und geistige Phänomene hängen von materiellen Vorgängen ab oder lassen sich auf sie zurückführen. Er steht dem Dualismus und dem Idealismus entgegen. Bei Marx bezeichnet der Ausdruck zudem den Vorrang der materiellen Bedingungen des gesellschaftlichen Lebens vor den Ideen.",
+    "etymology": "Von lateinisch materia, „Bauholz“, „Stoff“, abgeleitet von mater, „Mutter“, mit dem Suffix -ismus. Das Wort „Materialist“ taucht im späten 17. Jahrhundert bei Boyle und Leibniz auf und bezeichnet jene, die alles aus Materie und Bewegung erklären.",
+    "body": "Der Materialismus behauptet, dass die Wirklichkeit grundlegend materiell ist: Es gibt Körper, ihre Bewegungen und Eigenschaften, und nichts, was von ihnen unabhängig wäre. Geist, Leben und Gesellschaft sind dann aus der Materie zu erklären. Die These steht vor zwei wiederkehrenden Schwierigkeiten: Bewusstsein und Denken verständlich zu machen und genau zu sagen, was „Materie“ heißt, ein Begriff, der sich mit der Physik gewandelt hat.\n\nIn der Antike lehren Leukipp und Demokrit, es gebe nur Atome und Leeres; Epikur übernimmt den Atomismus, um die Menschen von der Furcht vor den Göttern und dem Tod zu befreien, und Lukrez stellt ihn in *Über die Natur der Dinge* (1. Jahrhundert v. Chr.) dar. Die Stoiker vertreten einen Korporalismus, nach dem nur Körper wirken und leiden; in Indien führt die Cārvāka-Schule das Bewusstsein auf eine Verbindung von Elementen zurück. In der Neuzeit erklärt Hobbes im *Leviathan* (1651), das Universum sei Körper und das Denken Bewegung; Gassendi rehabilitiert Epikur. Im 18. Jahrhundert veröffentlichen La Mettrie *Der Mensch eine Maschine* (1747) und d'Holbach das *System der Natur* (1770), Werke eines mechanistischen und atheistischen Materialismus.\n\nIm 19. Jahrhundert deutet Feuerbach die Theologie als Projektion des menschlichen Wesens (*Das Wesen des Christentums*, 1841), und der naturwissenschaftliche Materialismus Büchners und Moleschotts verbreitet die These, das Denken sei eine Funktion des Gehirns. Marx und Engels verschieben in der *Deutschen Ideologie* (1845–1846) den Begriff: Nicht das Bewusstsein bestimmt das Leben, sondern das materielle Leben das Bewusstsein. Der Ausdruck „dialektischer Materialismus“, durch Plechanow verbreitet, wurde später zur offiziellen Lehre des sowjetischen Marxismus.\n\nIm 20. Jahrhundert tritt der Materialismus als Physikalismus auf: Die Identitätstheorie von Place (1956) und Smart (1959) setzt mentale Zustände mit Gehirnzuständen gleich, und der eliminative Materialismus von Paul und Patricia Churchland will das alltägliche mentale Vokabular aufgeben. Dennett verteidigt eine naturalistische Erklärung des Bewusstseins (*Philosophie des menschlichen Bewußtseins*, 1991). Der Begriff steht in Verbindung mit dem Leib-Seele-Problem, dem Mechanismus und dem Determinismus und ist dem Dualismus entgegengesetzt.",
+    "synonyms": [
+     "Physikalismus"
+    ],
+    "nearTerms": [
+     "Atomismus",
+     "Physikalismus",
+     "Mechanismus",
+     "Naturalismus",
+     "Dualismus",
+     "Idealismus"
+    ],
+    "aliases": [
+     "Materialist",
+     "mechanistischer Materialismus",
+     "dialektischer Materialismus",
+     "eliminativer Materialismus"
+    ],
+    "seoTitle": "Materialismus – Demokrit, Hobbes, Marx und der Physikalismus",
+    "seoDescription": "Der Materialismus in der Philosophie: Atome und Leeres bei Demokrit, Körper und Bewegung bei Hobbes, La Mettrie, Feuerbach, Marx und der Physikalismus."
+   }
+  }
+ },
+ {
+  "id": "con-arche",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-metaphysics",
+   "cat-science"
+  ],
+  "philosopherIds": [
+   "phi-heraclitus",
+   "phi-parmenides",
+   "phi-democritus",
+   "phi-plato",
+   "phi-aristotle"
+  ],
+  "schoolIds": [
+   "sch-atomism",
+   "sch-platonism",
+   "sch-aristotelianism"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-medieval"
+  ],
+  "workIds": [
+   "wrk-on-nature-parmenides",
+   "wrk-metaphysics"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-being",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-becoming",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-substance",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-causality",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-logos",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-materialism",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Arché (princípio)",
+    "slug": "arche",
+    "summary": "O princípio primeiro de que as coisas provêm e que as rege: água, ápeiron, ar, fogo, número ou átomos para os primeiros filósofos gregos.",
+    "definition": "Arché é o princípio: aquilo de onde algo é, vem a ser ou é conhecido. Para os primeiros filósofos gregos, designa a realidade originária e permanente da qual todas as coisas provêm e na qual se resolvem; Aristóteles generaliza o termo e distingue princípios do ser, do devir e do conhecimento.",
+    "etymology": "Do grego archḗ, “começo, origem” e também “comando, magistratura”, derivado do verbo árchein, “começar” e “governar”. O latim traduziu-o por principium, de princeps, “o primeiro”, de onde vem “princípio”.",
+    "body": "Arché significa ao mesmo tempo começo e comando: o ponto de partida de que algo procede e aquilo que continua a governá-lo. Na filosofia grega o termo nomeia a busca de um princípio único e permanente por trás da diversidade e da mudança das coisas. Com essa busca, o pensamento passa das narrativas míticas de origem à explicação racional da natureza (phýsis).\n\nNo livro I da *Metafísica* (c. 350 a.C.), Aristóteles apresenta os primeiros filósofos como investigadores do princípio material: Tales afirma que tudo vem da água, Anaximandro propõe o ápeiron, o ilimitado, e Anaxímenes, o ar. Segundo uma notícia de Teofrasto transmitida por Simplício, Anaximandro teria sido o primeiro a chamar arché ao substrato das coisas, informação discutida pelos historiadores. Heráclito toma o fogo como medida da transformação do cosmos; os pitagóricos, o número; Empédocles, as quatro raízes movidas pelo Amor e pela Discórdia; Anaxágoras, sementes ordenadas por um Intelecto (noûs); Leucipo e Demócrito, os átomos e o vazio. Parmênides desloca a questão do princípio material para o próprio ser, uno e imutável.\n\nAristóteles sistematiza o conceito. No livro V da *Metafísica*, define arché como “o primeiro ponto a partir do qual algo é, vem a ser ou é conhecido” e distingue os princípios do ser, do devir e da demonstração, entre eles os axiomas como o princípio de não contradição. Critica os antigos por considerarem apenas a causa material e desenvolve a doutrina das quatro causas. Plotino, nas *Enéadas*, faz do Uno o princípio além do ser de que tudo procede por emanação; a tradição cristã identifica o princípio a Deus criador.\n\nO latim principium transmitiu o termo à filosofia medieval e moderna, em expressões como princípio de razão suficiente e princípios do conhecimento. No século XX, Heidegger reinterpretou a arché grega como aquilo que domina desde o início, e a desconstrução de Derrida criticou a busca metafísica de uma origem plena. O conceito articula-se com o ser, o devir, a substância, a causalidade e o logos.",
+    "synonyms": [
+     "Princípio",
+     "Origem"
+    ],
+    "nearTerms": [
+     "Princípio",
+     "Causa",
+     "Substrato",
+     "Physis",
+     "Ápeiron",
+     "Elemento"
+    ],
+    "aliases": [
+     "arque",
+     "arkhé",
+     "archê",
+     "princípio primeiro",
+     "pré-socráticos"
+    ],
+    "seoTitle": "Arché — o princípio nos pré-socráticos e em Aristóteles",
+    "seoDescription": "A arché na filosofia grega: água em Tales, ápeiron em Anaximandro, fogo em Heráclito, átomos em Demócrito e a definição de princípio na Metafísica de Aristóteles."
+   },
+   "en": {
+    "title": "Archê (first principle)",
+    "slug": "arche",
+    "summary": "The first principle from which things come and by which they are governed: water, the apeiron, air, fire, number or atoms for the first Greek philosophers.",
+    "definition": "Archê is principle: that from which something is, comes to be or is known. For the first Greek philosophers it names the original and abiding reality from which all things come and into which they are resolved; Aristotle generalises the term and distinguishes principles of being, of becoming and of knowledge.",
+    "etymology": "From Greek archḗ, “beginning, origin” and also “command, office”, derived from the verb árchein, “to begin” and “to rule”. Latin rendered it as principium, from princeps, “first”, whence English “principle”.",
+    "body": "Archê means both beginning and rule: the starting point from which something proceeds and that which continues to govern it. In Greek philosophy the term names the search for a single, abiding principle behind the diversity and change of things. With that search, thought moves from mythical narratives of origin to the rational explanation of nature (phýsis).\n\nIn Book I of the *Metaphysics* (c. 350 BCE) Aristotle presents the first philosophers as inquirers into the material principle: Thales holds that everything comes from water, Anaximander proposes the apeiron, the boundless, and Anaximenes air. According to a report of Theophrastus preserved by Simplicius, Anaximander was the first to call the substrate of things archê, a claim historians still debate. Heraclitus takes fire as the measure of the cosmos's transformations; the Pythagoreans, number; Empedocles, four roots moved by Love and Strife; Anaxagoras, seeds ordered by Intellect (noûs); Leucippus and Democritus, atoms and the void. Parmenides shifts the question from a material principle to being itself, one and unchanging.\n\nAristotle systematises the concept. In Book V of the *Metaphysics* he defines archê as “the first point from which a thing either is or comes to be or is known” and distinguishes principles of being, of becoming and of demonstration, among them axioms such as the principle of non-contradiction. He criticises his predecessors for considering only the material cause and develops the doctrine of the four causes. Plotinus, in the *Enneads*, makes the One the principle beyond being from which everything proceeds by emanation; the Christian tradition identifies the principle with God the creator.\n\nLatin principium carried the term into medieval and modern philosophy, in expressions such as the principle of sufficient reason and the principles of knowledge. In the twentieth century Heidegger reinterpreted the Greek archê as what rules from the beginning, and Derrida's deconstruction criticised metaphysics' search for a full origin. The concept is bound up with being, becoming, substance, causality and logos.",
+    "synonyms": [
+     "Principle",
+     "Origin"
+    ],
+    "nearTerms": [
+     "Principle",
+     "Cause",
+     "Substrate",
+     "Physis",
+     "Apeiron",
+     "Element"
+    ],
+    "aliases": [
+     "arche",
+     "arkhe",
+     "first principle",
+     "Presocratics"
+    ],
+    "seoTitle": "Archê — the first principle in the Presocratics and Aristotle",
+    "seoDescription": "Archê in Greek philosophy: water in Thales, the apeiron in Anaximander, fire in Heraclitus, atoms in Democritus and Aristotle's definition of principle."
+   },
+   "fr": {
+    "title": "Archè (principe)",
+    "slug": "arche",
+    "summary": "Le principe premier dont proviennent les choses et qui les gouverne : eau, apeiron, air, feu, nombre ou atomes pour les premiers philosophes grecs.",
+    "definition": "L'archè est le principe : ce à partir de quoi une chose est, devient ou est connue. Pour les premiers philosophes grecs, elle désigne la réalité originaire et permanente dont proviennent toutes choses et en laquelle elles se résolvent ; Aristote généralise le terme et distingue principes de l'être, du devenir et de la connaissance.",
+    "etymology": "Du grec archḗ, « commencement, origine » et aussi « commandement, magistrature », dérivé du verbe árchein, « commencer » et « gouverner ». Le latin l'a rendu par principium, de princeps, « le premier », d'où « principe ».",
+    "body": "Archè signifie à la fois commencement et commandement : le point de départ d'où une chose procède et ce qui continue de la régir. Dans la philosophie grecque, le terme nomme la recherche d'un principe unique et permanent derrière la diversité et le changement des choses. Avec cette recherche, la pensée passe des récits mythiques d'origine à l'explication rationnelle de la nature (phýsis).\n\nAu livre I de la *Métaphysique* (v. 350 av. J.-C.), Aristote présente les premiers philosophes comme des chercheurs du principe matériel : Thalès affirme que tout vient de l'eau, Anaximandre propose l'apeiron, l'illimité, et Anaximène l'air. Selon un témoignage de Théophraste conservé par Simplicius, Anaximandre aurait été le premier à nommer archè le substrat des choses, point discuté par les historiens. Héraclite fait du feu la mesure des transformations du cosmos ; les pythagoriciens, du nombre ; Empédocle retient quatre racines mues par l'Amour et la Haine ; Anaxagore, des semences ordonnées par un Intellect (noûs) ; Leucippe et Démocrite, les atomes et le vide. Parménide déplace la question du principe matériel vers l'être lui-même, un et immuable.\n\nAristote systématise le concept. Au livre V de la *Métaphysique*, il définit l'archè comme « le point premier à partir duquel une chose est, devient ou est connue » et distingue principes de l'être, du devenir et de la démonstration, parmi lesquels les axiomes comme le principe de non-contradiction. Il reproche à ses prédécesseurs de n'avoir considéré que la cause matérielle et élabore la doctrine des quatre causes. Plotin, dans les *Ennéades*, fait de l'Un le principe au-delà de l'être d'où tout procède par émanation ; la tradition chrétienne identifie le principe à Dieu créateur.\n\nLe latin principium a transmis le terme à la philosophie médiévale et moderne, dans des expressions comme principe de raison suffisante ou principes de la connaissance. Au XXe siècle, Heidegger a réinterprété l'archè grecque comme ce qui domine dès le commencement, et la déconstruction de Derrida a critiqué la quête métaphysique d'une origine pleine. Le concept s'articule à l'être, au devenir, à la substance, à la causalité et au logos.",
+    "synonyms": [
+     "Principe",
+     "Origine"
+    ],
+    "nearTerms": [
+     "Principe",
+     "Cause",
+     "Substrat",
+     "Physis",
+     "Apeiron",
+     "Élément"
+    ],
+    "aliases": [
+     "arkhè",
+     "archê",
+     "principe premier",
+     "présocratiques"
+    ],
+    "seoTitle": "Archè — le principe chez les présocratiques et Aristote",
+    "seoDescription": "L'archè dans la philosophie grecque : l'eau chez Thalès, l'apeiron chez Anaximandre, le feu chez Héraclite, les atomes, et la définition du principe chez Aristote."
+   },
+   "de": {
+    "title": "Arché (Prinzip)",
+    "slug": "arche",
+    "summary": "Der erste Ursprung, aus dem die Dinge hervorgehen und der sie beherrscht: Wasser, Apeiron, Luft, Feuer, Zahl oder Atome bei den ersten griechischen Philosophen.",
+    "definition": "Arché ist das Prinzip: das, von dem her etwas ist, wird oder erkannt wird. Bei den ersten griechischen Philosophen bezeichnet sie die ursprüngliche und bleibende Wirklichkeit, aus der alle Dinge hervorgehen und in die sie sich auflösen; Aristoteles verallgemeinert den Ausdruck und unterscheidet Prinzipien des Seins, des Werdens und der Erkenntnis.",
+    "etymology": "Von griechisch archḗ, „Anfang, Ursprung“ und zugleich „Herrschaft, Amt“, abgeleitet von árchein, „anfangen“ und „herrschen“. Das Lateinische übersetzte es mit principium, von princeps, „der Erste“, woraus „Prinzip“ hervorging.",
+    "body": "Arché bedeutet zugleich Anfang und Herrschaft: den Ausgangspunkt, aus dem etwas hervorgeht, und das, was es weiterhin bestimmt. In der griechischen Philosophie bezeichnet der Ausdruck die Suche nach einem einzigen, bleibenden Prinzip hinter der Vielfalt und dem Wandel der Dinge. Mit dieser Suche geht das Denken von mythischen Ursprungserzählungen zur rationalen Erklärung der Natur (phýsis) über.\n\nIm I. Buch der *Metaphysik* (um 350 v. Chr.) stellt Aristoteles die ersten Philosophen als Erforscher des stofflichen Prinzips dar: Thales erklärt, alles komme aus dem Wasser, Anaximander setzt das Apeiron, das Unbegrenzte, Anaximenes die Luft. Nach einem von Simplikios überlieferten Bericht des Theophrast soll Anaximander als Erster das Zugrundeliegende der Dinge Arché genannt haben, was in der Forschung umstritten ist. Heraklit fasst das Feuer als Maß der Verwandlungen des Kosmos; die Pythagoreer die Zahl; Empedokles vier Wurzeln, bewegt von Liebe und Streit; Anaxagoras Samen, geordnet durch den Geist (noûs); Leukipp und Demokrit die Atome und das Leere. Parmenides verlagert die Frage vom stofflichen Prinzip auf das Sein selbst, das eine und unveränderliche.\n\nAristoteles systematisiert den Begriff. Im V. Buch der *Metaphysik* bestimmt er die Arché als „das Erste, von dem her etwas ist, wird oder erkannt wird“, und unterscheidet Prinzipien des Seins, des Werdens und des Beweises, darunter Axiome wie den Satz vom Widerspruch. Er wirft seinen Vorgängern vor, nur die Stoffursache betrachtet zu haben, und entwickelt die Lehre von den vier Ursachen. Plotin macht in den *Enneaden* das Eine zum Prinzip jenseits des Seins, aus dem alles durch Emanation hervorgeht; die christliche Tradition identifiziert das Prinzip mit Gott dem Schöpfer.\n\nDas lateinische principium vermittelte den Ausdruck der mittelalterlichen und neuzeitlichen Philosophie, etwa im Satz vom zureichenden Grund oder in den Prinzipien der Erkenntnis. Im 20. Jahrhundert deutete Heidegger die griechische Arché als das, was vom Anfang her waltet, und Derridas Dekonstruktion kritisierte die metaphysische Suche nach einem erfüllten Ursprung. Der Begriff ist mit Sein, Werden, Substanz, Kausalität und Logos verbunden.",
+    "synonyms": [
+     "Prinzip",
+     "Ursprung"
+    ],
+    "nearTerms": [
+     "Prinzip",
+     "Ursache",
+     "Substrat",
+     "Physis",
+     "Apeiron",
+     "Element"
+    ],
+    "aliases": [
+     "Arche",
+     "Archē",
+     "Urprinzip",
+     "Vorsokratiker"
+    ],
+    "seoTitle": "Arché – das Prinzip bei den Vorsokratikern und Aristoteles",
+    "seoDescription": "Die Arché in der griechischen Philosophie: Wasser bei Thales, Apeiron bei Anaximander, Feuer bei Heraklit, Atome bei Demokrit und das Prinzip bei Aristoteles."
+   }
+  }
+ },
+ {
+  "id": "con-logos",
+  "status": "published",
+  "featured": false,
+  "categoryIds": [
+   "cat-metaphysics",
+   "cat-language",
+   "cat-religion"
+  ],
+  "philosopherIds": [
+   "phi-heraclitus",
+   "phi-plato",
+   "phi-aristotle",
+   "phi-zeno",
+   "phi-augustine",
+   "phi-heidegger"
+  ],
+  "schoolIds": [
+   "sch-platonism",
+   "sch-aristotelianism",
+   "sch-stoicism"
+  ],
+  "periodIds": [
+   "per-antiquity",
+   "per-medieval",
+   "per-20th"
+  ],
+  "workIds": [
+   "wrk-being-and-time"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-abbagnano",
+   "src-lalande",
+   "src-hwph"
+  ],
+  "relations": [
+   {
+    "conceptId": "con-truth",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-knowledge",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-dialectic",
+    "kind": "related"
+   },
+   {
+    "conceptId": "con-arche",
+    "kind": "related"
+   }
+  ],
+  "translations": {
+   "pt": {
+    "title": "Logos",
+    "slug": "logos",
+    "summary": "Palavra, razão, proporção e discurso: a ordem racional do cosmos em Heráclito e nos estoicos, a capacidade humana de falar e argumentar, o Verbo em João.",
+    "definition": "Logos é um termo grego de sentidos múltiplos: palavra, discurso, relato, razão, cálculo, proporção e definição. Na filosofia designa tanto a faculdade humana de pensar e dizer de modo articulado quanto a ordem racional que governaria o mundo; na tradição cristã, o Verbo divino. Por extensão, nomeia a racionalidade que se dá conta de algo por meio da linguagem.",
+    "etymology": "Do grego lógos, substantivo derivado do verbo légein, cujo sentido originário é “reunir, recolher” e depois “contar” e “dizer”. Os latinos o traduziram ora por ratio, “razão, cálculo”, ora por verbum e oratio, “palavra, discurso”; o termo sobrevive no sufixo -logia.",
+    "body": "Logos é uma das palavras mais carregadas da língua filosófica grega. Reúne sentidos que o português separa: palavra, discurso, relato, razão, cálculo, proporção, definição, argumento. Essa pluralidade não é acidental, pois exprime a ideia de que pensar é reunir e articular numa fala aquilo que se compreende, e de que o mundo pode ser dito porque tem uma ordem.\n\nEm Heráclito, o logos é a razão ou medida comum segundo a qual tudo acontece e que a maioria dos homens não compreende (DK 22 B1, B2, B50). Platão faz do logos o discurso racional que dá conta de algo; no *Teeteto* (c. 369 a.C.) examina a definição do conhecimento como opinião verdadeira acompanhada de logos. Aristóteles define o ser humano como o único animal que possui logos (*Política*, livro I), distingue-o da mera voz, que exprime prazer e dor, e faz do logos, na *Retórica*, uma das três provas do discurso, ao lado do caráter (ethos) e da emoção (pathos). Os estoicos, a partir de Zenão de Cítio, concebem o logos como razão divina imanente ao cosmos, com suas razões seminais (lógoi spermatikoí), e a razão humana como parcela dela.\n\nFílon de Alexandria faz do Logos o intermediário entre Deus e o mundo, e o prólogo do Evangelho de João começa: “No princípio era o Logos”, traduzido em latim por Verbum. A teologia patrística, de Justino a Agostinho, identifica o Logos à segunda pessoa da Trindade e a ele liga a racionalidade da criação. Na modernidade, o termo recua diante de ratio e de razão, mas reaparece em Hegel como razão que se desenvolve na história.\n\nNo século XX, Heidegger interpreta o logos a partir de légein como “deixar ver” e reunir (*Ser e Tempo*, § 7, 1927), e Derrida, na *Gramatologia* (1967), denuncia o logocentrismo da metafísica ocidental, que privilegia a fala e a presença sobre a escrita. O conceito relaciona-se com a verdade, o conhecimento, o significado, a dialética e a busca do princípio (arché).",
+    "synonyms": [
+     "Razão",
+     "Verbo",
+     "Discurso"
+    ],
+    "nearTerms": [
+     "Razão",
+     "Discurso",
+     "Verbo",
+     "Ratio",
+     "Logocentrismo",
+     "Dialética"
+    ],
+    "aliases": [
+     "lógos",
+     "Verbo divino",
+     "logocentrismo",
+     "animal racional",
+     "zoon logon echon"
+    ],
+    "seoTitle": "Logos — Heráclito, Aristóteles, estoicos, João e Derrida",
+    "seoDescription": "O logos na filosofia: razão comum em Heráclito, animal que possui logos em Aristóteles, razão cósmica dos estoicos, o Verbo de João e o logocentrismo em Derrida."
+   },
+   "en": {
+    "title": "Logos",
+    "slug": "logos",
+    "summary": "Word, reason, ratio and discourse: the rational order of the cosmos in Heraclitus and the Stoics, the human capacity to speak and argue, the Word in John.",
+    "definition": "Logos is a Greek term with many senses: word, speech, account, reason, reckoning, ratio and definition. In philosophy it names both the human faculty of thinking and speaking in an articulate way and the rational order that supposedly governs the world; in the Christian tradition, the divine Word. By extension it names the rationality that gives an account of something through language.",
+    "etymology": "From Greek lógos, a noun derived from the verb légein, whose original sense is “to gather, collect” and later “to count” and “to say”. Latin rendered it sometimes as ratio, “reason, reckoning”, sometimes as verbum and oratio, “word, speech”; the term survives in the suffix -logy.",
+    "body": "Logos is one of the most heavily laden words of Greek philosophical language. It gathers senses that English separates: word, speech, account, reason, reckoning, ratio, definition, argument. The plurality is not accidental, for it expresses the idea that thinking consists in gathering and articulating in speech what one understands, and that the world can be spoken of because it has an order.\n\nIn Heraclitus the logos is the common reason or measure according to which all things happen and which most people fail to understand (DK 22 B1, B2, B50). Plato makes logos the rational discourse that gives an account of something; in the *Theaetetus* (c. 369 BCE) he examines the definition of knowledge as true belief accompanied by logos. Aristotle defines the human being as the only animal that has logos (*Politics*, Book I), distinguishes it from mere voice, which expresses pleasure and pain, and in the *Rhetoric* makes logos one of the three proofs of a speech, alongside character (ethos) and emotion (pathos). The Stoics, from Zeno of Citium on, conceive the logos as divine reason immanent in the cosmos, with its seminal reasons (lógoi spermatikoí), and human reason as a portion of it.\n\nPhilo of Alexandria makes the Logos the intermediary between God and the world, and the prologue of the Gospel of John begins: “In the beginning was the Logos”, rendered in Latin as Verbum. Patristic theology, from Justin to Augustine, identifies the Logos with the second person of the Trinity and ties to it the rationality of creation. In the modern period the term gives way to ratio and reason, but it returns in Hegel as reason unfolding in history.\n\nIn the twentieth century Heidegger interprets logos from légein as “letting be seen” and gathering (*Being and Time*, §7, 1927), and Derrida, in *Of Grammatology* (1967), denounces the logocentrism of Western metaphysics, which privileges speech and presence over writing. The concept is related to truth, knowledge, meaning, dialectic and the search for a first principle (archê).",
+    "synonyms": [
+     "Reason",
+     "Word",
+     "Discourse"
+    ],
+    "nearTerms": [
+     "Reason",
+     "Discourse",
+     "Word",
+     "Ratio",
+     "Logocentrism",
+     "Dialectic"
+    ],
+    "aliases": [
+     "the Word",
+     "divine Word",
+     "logocentrism",
+     "rational animal",
+     "zoon logon echon"
+    ],
+    "seoTitle": "Logos — Heraclitus, Aristotle, the Stoics, John and Derrida",
+    "seoDescription": "Logos in philosophy: common reason in Heraclitus, the animal that has logos in Aristotle, Stoic cosmic reason, the Word of John and Derrida's logocentrism."
+   },
+   "fr": {
+    "title": "Logos",
+    "slug": "logos",
+    "summary": "Parole, raison, proportion et discours : l'ordre rationnel du cosmos chez Héraclite et les stoïciens, la capacité humaine de parler et d'argumenter, le Verbe chez Jean.",
+    "definition": "Logos est un terme grec aux sens multiples : parole, discours, récit, raison, calcul, proportion et définition. En philosophie, il désigne à la fois la faculté humaine de penser et de dire de manière articulée et l'ordre rationnel qui gouvernerait le monde ; dans la tradition chrétienne, le Verbe divin. Par extension, il nomme la rationalité qui rend raison de quelque chose par le langage.",
+    "etymology": "Du grec lógos, substantif dérivé du verbe légein, dont le sens originaire est « rassembler, recueillir », puis « compter » et « dire ». Le latin l'a rendu tantôt par ratio, « raison, calcul », tantôt par verbum et oratio, « parole, discours » ; le terme survit dans le suffixe -logie.",
+    "body": "Logos est l'un des mots les plus chargés de la langue philosophique grecque. Il rassemble des sens que le français sépare : parole, discours, récit, raison, calcul, proportion, définition, argument. Cette pluralité n'est pas accidentelle, car elle exprime l'idée que penser consiste à rassembler et à articuler dans une parole ce que l'on comprend, et que le monde peut être dit parce qu'il a un ordre.\n\nChez Héraclite, le logos est la raison ou la mesure commune selon laquelle tout advient et que la plupart des hommes ne comprennent pas (DK 22 B1, B2, B50). Platon fait du logos le discours rationnel qui rend raison d'une chose ; dans le *Théétète* (v. 369 av. J.-C.), il examine la définition de la science comme opinion vraie accompagnée de logos. Aristote définit l'homme comme le seul animal qui possède le logos (*Politique*, livre I), le distingue de la simple voix, qui exprime le plaisir et la douleur, et fait du logos, dans la *Rhétorique*, l'une des trois preuves du discours, avec le caractère (ethos) et la passion (pathos). Les stoïciens, à partir de Zénon de Citium, conçoivent le logos comme raison divine immanente au cosmos, avec ses raisons séminales (lógoi spermatikoí), et la raison humaine comme une parcelle de celle-ci.\n\nPhilon d'Alexandrie fait du Logos l'intermédiaire entre Dieu et le monde, et le prologue de l'Évangile de Jean commence par : « Au commencement était le Logos », traduit en latin par Verbum. La théologie patristique, de Justin à Augustin, identifie le Logos à la deuxième personne de la Trinité et y rattache la rationalité de la création. À l'époque moderne, le terme s'efface devant ratio et raison, mais il reparaît chez Hegel comme raison qui se déploie dans l'histoire.\n\nAu XXe siècle, Heidegger interprète le logos à partir de légein comme « faire voir » et rassembler (*Être et Temps*, § 7, 1927), et Derrida, dans *De la grammatologie* (1967), dénonce le logocentrisme de la métaphysique occidentale, qui privilégie la parole et la présence sur l'écriture. Le concept se rattache à la vérité, à la connaissance, au sens, à la dialectique et à la recherche d'un principe premier (archè).",
+    "synonyms": [
+     "Raison",
+     "Verbe",
+     "Discours"
+    ],
+    "nearTerms": [
+     "Raison",
+     "Discours",
+     "Verbe",
+     "Ratio",
+     "Logocentrisme",
+     "Dialectique"
+    ],
+    "aliases": [
+     "lógos",
+     "Verbe divin",
+     "logocentrisme",
+     "animal raisonnable",
+     "zoon logon echon"
+    ],
+    "seoTitle": "Logos — Héraclite, Aristote, les stoïciens, Jean et Derrida",
+    "seoDescription": "Le logos en philosophie : raison commune chez Héraclite, animal doué de logos chez Aristote, raison cosmique des stoïciens, le Verbe de Jean, le logocentrisme."
+   },
+   "de": {
+    "title": "Logos",
+    "slug": "logos",
+    "summary": "Wort, Vernunft, Verhältnis und Rede: die vernünftige Ordnung des Kosmos bei Heraklit und den Stoikern, die menschliche Fähigkeit zu sprechen und zu begründen, das Wort bei Johannes.",
+    "definition": "Logos ist ein griechischer Ausdruck mit vielen Bedeutungen: Wort, Rede, Bericht, Vernunft, Berechnung, Verhältnis und Definition. In der Philosophie bezeichnet er sowohl das menschliche Vermögen, gegliedert zu denken und zu sprechen, als auch die vernünftige Ordnung, die die Welt durchwalten soll; in der christlichen Tradition das göttliche Wort. Im weiteren Sinn meint er die Vernunft, die durch Sprache von etwas Rechenschaft gibt.",
+    "etymology": "Von griechisch lógos, einem Substantiv zu légein, dessen ursprüngliche Bedeutung „sammeln, lesen“ ist, später „zählen“ und „sagen“. Das Lateinische übersetzte es teils mit ratio, „Vernunft, Berechnung“, teils mit verbum und oratio, „Wort, Rede“; der Ausdruck lebt in der Endung -logie fort.",
+    "body": "Logos ist eines der bedeutungsschwersten Wörter der griechischen Philosophiesprache. Es vereint Bedeutungen, die das Deutsche trennt: Wort, Rede, Bericht, Vernunft, Berechnung, Verhältnis, Definition, Argument. Diese Vielfalt ist kein Zufall; sie drückt aus, dass Denken darin besteht, das Verstandene zu sammeln und in der Rede zu gliedern, und dass sich die Welt sagen lässt, weil sie eine Ordnung hat.\n\nBei Heraklit ist der Logos die gemeinsame Vernunft oder das Maß, nach dem alles geschieht und das die meisten Menschen nicht verstehen (DK 22 B1, B2, B50). Platon versteht den Logos als vernünftige Rede, die von etwas Rechenschaft gibt; im *Theaitetos* (um 369 v. Chr.) prüft er die Bestimmung des Wissens als wahre Meinung mit Logos. Aristoteles bestimmt den Menschen als das einzige Lebewesen, das Logos hat (*Politik*, Buch I), unterscheidet ihn von der bloßen Stimme, die Lust und Schmerz anzeigt, und macht den Logos in der *Rhetorik* zu einem der drei Überzeugungsmittel neben dem Charakter (ethos) und dem Affekt (pathos). Die Stoiker denken den Logos seit Zenon von Kition als göttliche, dem Kosmos innewohnende Vernunft mit ihren Keimkräften (lógoi spermatikoí), die menschliche Vernunft als deren Teil.\n\nPhilon von Alexandria macht den Logos zum Mittler zwischen Gott und Welt, und der Prolog des Johannesevangeliums beginnt: „Im Anfang war der Logos“, lateinisch mit Verbum wiedergegeben. Die patristische Theologie von Justin bis Augustinus identifiziert den Logos mit der zweiten Person der Trinität und bindet an ihn die Vernünftigkeit der Schöpfung. In der Neuzeit tritt der Ausdruck hinter ratio und Vernunft zurück, kehrt aber bei Hegel als in der Geschichte sich entfaltende Vernunft wieder.\n\nIm 20. Jahrhundert deutet Heidegger den Logos von légein her als „Sehenlassen“ und Sammeln (*Sein und Zeit*, § 7, 1927), und Derrida kritisiert in der *Grammatologie* (1967) den Logozentrismus der abendländischen Metaphysik, der Rede und Präsenz vor der Schrift bevorzugt. Der Begriff steht in Verbindung mit Wahrheit, Erkenntnis, Bedeutung, Dialektik und der Suche nach einem ersten Prinzip (archḗ).",
+    "synonyms": [
+     "Vernunft",
+     "Wort",
+     "Rede"
+    ],
+    "nearTerms": [
+     "Vernunft",
+     "Rede",
+     "Wort",
+     "Ratio",
+     "Logozentrismus",
+     "Dialektik"
+    ],
+    "aliases": [
+     "lógos",
+     "göttliches Wort",
+     "Logozentrismus",
+     "vernünftiges Lebewesen",
+     "zoon logon echon"
+    ],
+    "seoTitle": "Logos – Heraklit, Aristoteles, die Stoiker, Johannes und Derrida",
+    "seoDescription": "Der Logos in der Philosophie: gemeinsame Vernunft bei Heraklit, das Lebewesen mit Logos bei Aristoteles, stoische Weltvernunft, Johannes und Derridas Logozentrismus."
    }
   }
  },
@@ -702,6 +2249,10 @@
    {
     "conceptId": "con-knowledge",
     "kind": "broader"
+   },
+   {
+    "conceptId": "con-modality",
+    "kind": "related"
    },
    {
     "conceptId": "con-justification",
@@ -1965,6 +3516,10 @@
    "src-hwph"
   ],
   "relations": [
+   {
+    "conceptId": "con-materialism",
+    "kind": "opposite"
+   },
    {
     "conceptId": "con-substance",
     "kind": "related"
