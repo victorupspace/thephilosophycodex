@@ -9520,5 +9520,779 @@
     "seoDescription": "Biographie von Chalmers (geb. 1966): schwieriges Problem des Bewusstseins, Zombie-Argument, naturalistischer Dualismus, erweiterter Geist, Reality+."
    }
   }
+ },
+ {
+  "id": "phi-macintyre",
+  "status": "published",
+  "featured": false,
+  "birthYear": 1929,
+  "deathYear": 2025,
+  "birthYearApprox": false,
+  "periodId": "per-contemporary",
+  "schoolIds": [
+   "sch-aristotelianism",
+   "sch-analytic"
+  ],
+  "categoryIds": [
+   "cat-ethics",
+   "cat-political"
+  ],
+  "influencedByIds": [
+   "phi-aristotle",
+   "phi-aquinas",
+   "phi-marx",
+   "phi-hegel",
+   "phi-anscombe"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-routledge",
+   "src-iep"
+  ],
+  "portrait": null,
+  "translations": {
+   "pt": {
+    "title": "Alasdair MacIntyre",
+    "slug": "alasdair-macintyre",
+    "summary": "Filósofo escocês radicado nos Estados Unidos; em Depois da virtude criticou a moral moderna e renovou a ética das virtudes de matriz aristotélica e tomista.",
+    "biography": "Alasdair Chalmers MacIntyre nasceu em 12 de janeiro de 1929 em Glasgow, filho de médicos, e estudou no Queen Mary College de Londres e na Universidade de Manchester. Lecionou em Manchester, Leeds, Oxford e Essex e, na juventude, participou da Nova Esquerda britânica, escrevendo sobre o marxismo e o cristianismo (*Marxism: An Interpretation*, 1953). Em 1970 transferiu-se para os Estados Unidos, onde ensinou em Brandeis, na Universidade de Boston, em Wellesley, em Vanderbilt e em Duke, e sobretudo na Universidade de Notre Dame (1988–1994 e de 2000 até a aposentadoria, em 2010). No início da década de 1980 converteu-se ao catolicismo.\n\n*A Short History of Ethics* (1966) já mostrava que os conceitos morais mudam com as formas de vida social. *Depois da virtude* (1981) sustenta que a linguagem moral moderna é feita de fragmentos de um esquema anterior cuja unidade se perdeu; por isso as disputas morais contemporâneas são intermináveis, e o emotivismo, falso como teoria do significado, descreve bem o uso efetivo dessa linguagem. O projeto iluminista de fundar a moral numa razão independente de qualquer tradição teria fracassado necessariamente, deixando a alternativa entre Nietzsche e Aristóteles. *Justiça de quem? Qual racionalidade?* (1988) e *Three Rival Versions of Moral Enquiry* (1990), originadas das Gifford Lectures de 1988, desenvolvem a ideia de racionalidade constituída pela tradição e defendem a superioridade da síntese tomista.\n\nMacIntyre define a virtude em três níveis: as práticas, atividades cooperativas com bens internos que só a excelência nelas alcança; a unidade narrativa de uma vida humana, que dá sentido às escolhas; e a tradição moral, argumento historicamente prolongado sobre os bens que a constituem. Uma tradição progride ao resolver crises epistemológicas que suas rivais não conseguem resolver. *Dependent Rational Animals* (1999) corrige a ênfase anterior na autossuficiência: somos animais vulneráveis, e a vida boa exige virtudes da dependência reconhecida. *Ethics in the Conflicts of Modernity* (2016) aplica essa perspectiva ao desejo, à economia e às narrativas pessoais.\n\n*Depois da virtude* esteve na origem do renascimento contemporâneo da ética das virtudes e foi associado ao comunitarismo, rótulo que MacIntyre recusou, criticando tanto o Estado liberal quanto o capitalismo em nome de comunidades locais de deliberação. Sua obra influenciou a filosofia moral, a teologia e a ética profissional. MacIntyre morreu em 21 de maio de 2025, em South Bend, Indiana, aos 96 anos.",
+    "keyIdeas": [
+     "Fracasso do projeto iluminista de justificação da moral",
+     "Crítica do emotivismo como forma da cultura moderna",
+     "Práticas e bens internos",
+     "Unidade narrativa da vida humana",
+     "Racionalidade constituída pela tradição e crises epistemológicas",
+     "Virtudes da dependência reconhecida"
+    ],
+    "areas": [
+     "Ética",
+     "Filosofia Política"
+    ],
+    "aliases": [
+     "MacIntyre",
+     "Alasdair Chalmers MacIntyre"
+    ],
+    "seoTitle": "Alasdair MacIntyre — Depois da virtude e ética das virtudes",
+    "seoDescription": "Biografia de MacIntyre (1929–2025): crítica da moral moderna, práticas, narrativa, tradição e a ética aristotélico-tomista das virtudes."
+   },
+   "en": {
+    "title": "Alasdair MacIntyre",
+    "slug": "alasdair-macintyre",
+    "summary": "Scottish-born philosopher who worked in the United States; in After Virtue he diagnosed the crisis of modern morality and revived Aristotelian and Thomist virtue ethics.",
+    "biography": "Alasdair Chalmers MacIntyre was born on 12 January 1929 in Glasgow, the son of two doctors, and studied at Queen Mary College, London, and at the University of Manchester. He taught at Manchester, Leeds, Oxford and Essex and was active in the British New Left, writing on Marxism and Christianity (*Marxism: An Interpretation*, 1953). In 1970 he moved to the United States, where he taught at Brandeis, Boston University, Wellesley, Vanderbilt and Duke and above all at the University of Notre Dame (1988–1994, and from 2000 until he retired in 2010). In the early 1980s he became a Roman Catholic.\n\n*A Short History of Ethics* (1966) already argued that moral concepts change with forms of social life. *After Virtue* (1981) contends that modern moral language consists of fragments of an earlier scheme whose unity has been lost; this is why contemporary moral disputes are interminable, and why emotivism, false as a theory of meaning, accurately describes how that language is actually used. The Enlightenment project of grounding morality in a reason independent of any tradition was bound to fail, leaving the choice between Nietzsche and Aristotle. *Whose Justice? Which Rationality?* (1988) and *Three Rival Versions of Moral Enquiry* (1990), which grew out of his 1988 Gifford Lectures, develop the idea of tradition-constituted rationality and defend the superiority of the Thomist synthesis.\n\nMacIntyre defines virtue at three levels: practices, cooperative activities with internal goods that only excellence within them achieves; the narrative unity of a human life, which makes choices intelligible; and a moral tradition, a historically extended argument about the goods that constitute it. A tradition makes progress by resolving epistemological crises that its rivals cannot resolve. *Dependent Rational Animals* (1999) corrects his earlier emphasis on self-sufficiency: we are vulnerable animals, and a good life requires the virtues of acknowledged dependence. *Ethics in the Conflicts of Modernity* (2016) applies this outlook to desire, economic life and personal narratives.\n\n*After Virtue* stood at the origin of the contemporary revival of virtue ethics and was associated with communitarianism, a label MacIntyre rejected, criticising both the liberal state and capitalism in the name of local communities of shared deliberation. His work has influenced moral philosophy, theology and professional ethics. MacIntyre died on 21 May 2025 in South Bend, Indiana, aged 96.",
+    "keyIdeas": [
+     "Failure of the Enlightenment project of justifying morality",
+     "Emotivism as the shape of modern moral culture",
+     "Practices and internal goods",
+     "Narrative unity of a human life",
+     "Tradition-constituted rationality and epistemological crises",
+     "Virtues of acknowledged dependence"
+    ],
+    "areas": [
+     "Ethics",
+     "Political Philosophy"
+    ],
+    "aliases": [
+     "MacIntyre",
+     "Alasdair Chalmers MacIntyre"
+    ],
+    "seoTitle": "Alasdair MacIntyre — After Virtue and virtue ethics",
+    "seoDescription": "Biography of MacIntyre (1929–2025): critique of modern morality, practices, narrative, tradition and Aristotelian-Thomist virtue ethics."
+   },
+   "fr": {
+    "title": "Alasdair MacIntyre",
+    "slug": "alasdair-macintyre",
+    "summary": "Philosophe écossais établi aux États-Unis ; dans Après la vertu, il a diagnostiqué la crise de la morale moderne et renouvelé l'éthique des vertus aristotélicienne et thomiste.",
+    "biography": "Alasdair Chalmers MacIntyre naît le 12 janvier 1929 à Glasgow, dans une famille de médecins, et étudie au Queen Mary College de Londres et à l'université de Manchester. Il enseigne à Manchester, Leeds, Oxford et Essex et participe à la Nouvelle Gauche britannique, écrivant sur le marxisme et le christianisme (*Marxism: An Interpretation*, 1953). En 1970, il s'installe aux États-Unis, où il enseigne à Brandeis, à l'université de Boston, à Wellesley, à Vanderbilt et à Duke, et surtout à l'université de Notre Dame (1988-1994, puis de 2000 à sa retraite en 2010). Au début des années 1980, il se convertit au catholicisme.\n\n*A Short History of Ethics* (1966) montrait déjà que les concepts moraux varient avec les formes de la vie sociale. *Après la vertu* (1981) soutient que le langage moral moderne est fait de fragments d'un schème antérieur dont l'unité s'est perdue ; c'est pourquoi les controverses morales contemporaines sont sans fin, et pourquoi l'émotivisme, faux comme théorie de la signification, décrit fidèlement l'usage effectif de ce langage. Le projet des Lumières de fonder la morale sur une raison indépendante de toute tradition devait échouer, ne laissant que l'alternative entre Nietzsche et Aristote. *Quelle justice ? Quelle rationalité ?* (1988) et *Three Rival Versions of Moral Enquiry* (1990), issus des Gifford Lectures de 1988, développent l'idée d'une rationalité constituée par la tradition et défendent la supériorité de la synthèse thomiste.\n\nMacIntyre définit la vertu à trois niveaux : les pratiques, activités coopératives dotées de biens internes que seule l'excellence en elles permet d'atteindre ; l'unité narrative d'une vie humaine, qui rend les choix intelligibles ; la tradition morale, argument historiquement prolongé sur les biens qui la constituent. Une tradition progresse en résolvant des crises épistémologiques que ses rivales ne savent pas résoudre. *Dependent Rational Animals* (1999) corrige l'accent mis naguère sur l'autosuffisance : nous sommes des animaux vulnérables, et la vie bonne exige les vertus de la dépendance reconnue. *Ethics in the Conflicts of Modernity* (2016) applique cette perspective au désir, à l'économie et aux récits personnels.\n\n*Après la vertu* est à l'origine du renouveau contemporain de l'éthique des vertus ; on l'a rattaché au communautarisme, étiquette que MacIntyre a récusée, critiquant à la fois l'État libéral et le capitalisme au nom de communautés locales de délibération. Son œuvre a marqué la philosophie morale, la théologie et l'éthique professionnelle. MacIntyre est mort le 21 mai 2025 à South Bend, dans l'Indiana, à l'âge de 96 ans.",
+    "keyIdeas": [
+     "Échec du projet des Lumières de justification de la morale",
+     "L'émotivisme comme forme de la culture morale moderne",
+     "Pratiques et biens internes",
+     "Unité narrative d'une vie humaine",
+     "Rationalité constituée par la tradition et crises épistémologiques",
+     "Vertus de la dépendance reconnue"
+    ],
+    "areas": [
+     "Éthique",
+     "Philosophie politique"
+    ],
+    "aliases": [
+     "MacIntyre",
+     "Alasdair Chalmers MacIntyre"
+    ],
+    "seoTitle": "Alasdair MacIntyre — Après la vertu et éthique des vertus",
+    "seoDescription": "Biographie de MacIntyre (1929-2025) : critique de la morale moderne, pratiques, récit, tradition et éthique aristotélico-thomiste des vertus."
+   },
+   "de": {
+    "title": "Alasdair MacIntyre",
+    "slug": "alasdair-macintyre",
+    "summary": "Schottischer, in den USA wirkender Philosoph; diagnostizierte in Der Verlust der Tugend die Krise der modernen Moral und erneuerte die aristotelisch-thomistische Tugendethik.",
+    "biography": "Alasdair Chalmers MacIntyre wurde am 12. Januar 1929 in Glasgow als Sohn zweier Ärzte geboren und studierte am Queen Mary College in London und an der Universität Manchester. Er lehrte in Manchester, Leeds, Oxford und Essex und engagierte sich in der britischen Neuen Linken; er schrieb über Marxismus und Christentum (*Marxism: An Interpretation*, 1953). 1970 ging er in die Vereinigten Staaten, wo er in Brandeis, an der Boston University, in Wellesley, Vanderbilt und Duke lehrte, vor allem aber an der University of Notre Dame (1988–1994 und von 2000 bis zu seiner Emeritierung 2010). Anfang der 1980er Jahre konvertierte er zum Katholizismus.\n\n*Geschichte der Ethik im Überblick* (engl. 1966) zeigte bereits, dass sich moralische Begriffe mit den Formen des sozialen Lebens wandeln. *Der Verlust der Tugend* (1981) vertritt die These, die moderne Moralsprache bestehe aus Bruchstücken eines früheren Schemas, dessen Einheit verloren gegangen sei; deshalb seien die gegenwärtigen Moraldebatten unabschließbar, und deshalb beschreibe der Emotivismus, als Bedeutungstheorie falsch, den tatsächlichen Gebrauch dieser Sprache zutreffend. Das aufklärerische Projekt, die Moral auf eine von jeder Tradition unabhängige Vernunft zu gründen, musste scheitern und ließ nur die Wahl zwischen Nietzsche und Aristoteles. *Whose Justice? Which Rationality?* (1988) und *Three Rival Versions of Moral Enquiry* (1990), hervorgegangen aus den Gifford Lectures von 1988, entfalten den Gedanken einer traditionsgebundenen Rationalität und verteidigen die Überlegenheit der thomistischen Synthese.\n\nMacIntyre bestimmt die Tugend auf drei Ebenen: Praktiken, kooperative Tätigkeiten mit internen Gütern, die nur durch Vortrefflichkeit in ihnen erreichbar sind; die narrative Einheit eines menschlichen Lebens, die Entscheidungen verständlich macht; und die moralische Tradition, ein geschichtlich fortgesetzter Streit über die Güter, die sie ausmachen. Eine Tradition macht Fortschritte, indem sie epistemologische Krisen löst, an denen ihre Rivalen scheitern. *Die Anerkennung der Abhängigkeit* (1999) korrigiert die frühere Betonung der Selbstgenügsamkeit: Wir sind verletzliche Lebewesen, und das gute Leben verlangt Tugenden der anerkannten Abhängigkeit. *Ethics in the Conflicts of Modernity* (2016) wendet diese Sicht auf Begehren, Wirtschaft und persönliche Lebensgeschichten an.\n\n*Der Verlust der Tugend* steht am Anfang der gegenwärtigen Wiederbelebung der Tugendethik und wurde dem Kommunitarismus zugerechnet, eine Etikettierung, die MacIntyre zurückwies; er kritisierte den liberalen Staat ebenso wie den Kapitalismus im Namen lokaler Gemeinschaften gemeinsamer Beratung. Sein Werk prägte Moralphilosophie, Theologie und Berufsethik. MacIntyre starb am 21. Mai 2025 in South Bend (Indiana) im Alter von 96 Jahren.",
+    "keyIdeas": [
+     "Scheitern des aufklärerischen Projekts einer Begründung der Moral",
+     "Emotivismus als Gestalt der modernen Moralkultur",
+     "Praxis und interne Güter",
+     "Narrative Einheit eines menschlichen Lebens",
+     "Traditionsgebundene Rationalität und epistemologische Krisen",
+     "Tugenden der anerkannten Abhängigkeit"
+    ],
+    "areas": [
+     "Ethik",
+     "Politische Philosophie"
+    ],
+    "aliases": [
+     "MacIntyre",
+     "Alasdair Chalmers MacIntyre"
+    ],
+    "seoTitle": "Alasdair MacIntyre — Der Verlust der Tugend, Tugendethik",
+    "seoDescription": "Biographie MacIntyres (1929–2025): Kritik der modernen Moral, Praktiken, Narrativität, Tradition und aristotelisch-thomistische Tugendethik."
+   }
+  }
+ },
+ {
+  "id": "phi-nussbaum",
+  "status": "published",
+  "featured": false,
+  "birthYear": 1947,
+  "deathYear": null,
+  "birthYearApprox": false,
+  "periodId": "per-contemporary",
+  "schoolIds": [
+   "sch-aristotelianism",
+   "sch-liberalism"
+  ],
+  "categoryIds": [
+   "cat-ethics",
+   "cat-political",
+   "cat-aesthetics"
+  ],
+  "influencedByIds": [
+   "phi-aristotle",
+   "phi-rawls",
+   "phi-mill",
+   "phi-seneca"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-routledge",
+   "src-iep"
+  ],
+  "portrait": null,
+  "translations": {
+   "pt": {
+    "title": "Martha Nussbaum",
+    "slug": "martha-nussbaum",
+    "summary": "Filósofa norte-americana; estudiosa da ética grega, formulou com Amartya Sen a abordagem das capacidades e uma teoria cognitiva das emoções.",
+    "biography": "Martha Craven Nussbaum nasceu em 6 de maio de 1947 em Nova York. Formou-se na Universidade de Nova York (1969) e doutorou-se em filologia clássica em Harvard (1975), com uma edição comentada do *De motu animalium* de Aristóteles (1978). Lecionou em Harvard e na Universidade Brown (1984–1995) e, desde 1995, é professora na Universidade de Chicago, onde ocupa a cátedra Ernst Freund Distinguished Service Professor de Direito e Ética, com vínculos com os departamentos de filosofia e com a faculdade de direito. De 1986 a 1993 foi consultora do Instituto Mundial de Pesquisa em Economia do Desenvolvimento (WIDER), em Helsinque, onde iniciou a colaboração com Amartya Sen.\n\n*A fragilidade da bondade* (1986) examina, na tragédia grega, em Platão e em Aristóteles, até que ponto a vida humana boa depende da fortuna, e defende contra o ideal platônico de autossuficiência a pluralidade de valores e a vulnerabilidade da excelência. *Love's Knowledge* (1990) sustenta que certas verdades morais só podem ser expressas na forma literária do romance. *The Therapy of Desire* (1994) estuda a filosofia helenística como terapia das paixões, e *Upheavals of Thought* (2001), derivado das Gifford Lectures de 1993, desenvolve uma teoria neoestoica das emoções como juízos avaliativos sobre coisas importantes que não controlamos. Seguiram-se *Hiding from Humanity* (2004), sobre o nojo e a vergonha no direito, *Emoções políticas* (2013) e *Anger and Forgiveness* (2016).\n\nNa filosofia política, Nussbaum defende a abordagem das capacidades: a justiça básica exige garantir a cada pessoa um limiar de capacidades humanas centrais, como vida, saúde, integridade corporal, imaginação, afiliação e controle sobre o próprio ambiente, entendidas como liberdades reais de funcionar, e não como bens ou satisfação. *Women and Human Development* (2000) propõe uma lista de dez capacidades; *Fronteiras da justiça* (2006) mostra os limites do contratualismo de Rawls diante da deficiência, da desigualdade entre nações e dos animais, estes objeto de *Justice for Animals* (2023). *Sem fins lucrativos* (2010) defende as humanidades na formação democrática.\n\nA obra de Nussbaum abrange mais de trinta livros e é central na ética do desenvolvimento, na teoria feminista e no debate sobre emoções e direito. Recebeu o Prêmio Kyoto (2016), o Prêmio Berggruen (2018) e o Prêmio Holberg (2021), e em setembro de 2026 foi anunciada como vencedora do Prêmio John W. Kluge da Biblioteca do Congresso.",
+    "keyIdeas": [
+     "Fragilidade da vida boa diante da fortuna",
+     "Abordagem das capacidades e lista das capacidades humanas centrais",
+     "Emoções como juízos de valor",
+     "A literatura como forma de conhecimento moral",
+     "Cosmopolitismo e educação humanista",
+     "Justiça para além do contrato: deficiência, nacionalidade e animais"
+    ],
+    "areas": [
+     "Ética",
+     "Filosofia Política",
+     "Estética"
+    ],
+    "aliases": [
+     "Nussbaum",
+     "Martha C. Nussbaum",
+     "Martha Craven Nussbaum"
+    ],
+    "seoTitle": "Martha Nussbaum — capacidades, emoções e ética grega",
+    "seoDescription": "Biografia de Martha Nussbaum (n. 1947): A fragilidade da bondade, abordagem das capacidades, teoria das emoções e justiça para os animais."
+   },
+   "en": {
+    "title": "Martha Nussbaum",
+    "slug": "martha-nussbaum",
+    "summary": "American philosopher; a scholar of Greek ethics who developed, with Amartya Sen, the capabilities approach and a cognitive theory of the emotions.",
+    "biography": "Martha Craven Nussbaum was born on 6 May 1947 in New York City. She graduated from New York University (1969) and took her doctorate in classical philology at Harvard (1975), with an edition and commentary of Aristotle's *De motu animalium* (1978). She taught at Harvard and at Brown University (1984–1995) and since 1995 has been at the University of Chicago, where she holds the chair of Ernst Freund Distinguished Service Professor of Law and Ethics, with appointments in philosophy and the law school. From 1986 to 1993 she was a research adviser at the World Institute for Development Economics Research (WIDER) in Helsinki, where her collaboration with Amartya Sen began.\n\n*The Fragility of Goodness* (1986) examines, in Greek tragedy, Plato and Aristotle, how far a good human life depends on fortune, and defends against the Platonic ideal of self-sufficiency the plurality of values and the vulnerability of excellence. *Love's Knowledge* (1990) argues that certain moral truths can be expressed only in the literary form of the novel. *The Therapy of Desire* (1994) reads Hellenistic philosophy as a therapy of the passions, and *Upheavals of Thought* (2001), based on her 1993 Gifford Lectures, develops a neo-Stoic theory of emotions as evaluative judgements about important things we do not control. There followed *Hiding from Humanity* (2004), on disgust and shame in the law, *Political Emotions* (2013) and *Anger and Forgiveness* (2016).\n\nIn political philosophy Nussbaum defends the capabilities approach: basic justice requires securing for each person a threshold of central human capabilities, such as life, bodily health, bodily integrity, imagination, affiliation and control over one's environment, understood as real freedoms to function rather than as resources or satisfaction. *Women and Human Development* (2000) proposes a list of ten capabilities; *Frontiers of Justice* (2006) shows the limits of Rawls's contractarianism with respect to disability, inequality between nations and animals, the subject of *Justice for Animals* (2023). *Not for Profit* (2010) defends the humanities as part of democratic education.\n\nNussbaum's work comprises more than thirty books and is central to development ethics, feminist theory and the study of emotions and law. She has received the Kyoto Prize (2016), the Berggruen Prize (2018) and the Holberg Prize (2021), and in September 2026 she was named recipient of the Library of Congress's John W. Kluge Prize.",
+    "keyIdeas": [
+     "Fragility of the good life before fortune",
+     "Capabilities approach and the list of central human capabilities",
+     "Emotions as judgements of value",
+     "Literature as a form of moral knowledge",
+     "Cosmopolitanism and humanistic education",
+     "Justice beyond the contract: disability, nationality and animals"
+    ],
+    "areas": [
+     "Ethics",
+     "Political Philosophy",
+     "Aesthetics"
+    ],
+    "aliases": [
+     "Nussbaum",
+     "Martha C. Nussbaum",
+     "Martha Craven Nussbaum"
+    ],
+    "seoTitle": "Martha Nussbaum — capabilities, emotions, Greek ethics",
+    "seoDescription": "Biography of Martha Nussbaum (b. 1947): The Fragility of Goodness, the capabilities approach, emotions as judgements and justice for animals."
+   },
+   "fr": {
+    "title": "Martha Nussbaum",
+    "slug": "martha-nussbaum",
+    "summary": "Philosophe américaine, spécialiste de l'éthique grecque ; elle a élaboré avec Amartya Sen l'approche par les capabilités et une théorie cognitive des émotions.",
+    "biography": "Martha Craven Nussbaum naît le 6 mai 1947 à New York. Diplômée de l'université de New York (1969), elle soutient en 1975 à Harvard un doctorat de philologie classique, qui donne une édition commentée du *De motu animalium* d'Aristote (1978). Elle enseigne à Harvard puis à l'université Brown (1984-1995) et, depuis 1995, à l'université de Chicago, où elle occupe la chaire Ernst Freund Distinguished Service Professor de droit et d'éthique, rattachée au département de philosophie et à la faculté de droit. De 1986 à 1993, elle est conseillère de l'Institut mondial pour la recherche sur l'économie du développement (WIDER) à Helsinki, où commence sa collaboration avec Amartya Sen.\n\n*La Fragilité du bien* (1986) examine, dans la tragédie grecque, chez Platon et chez Aristote, dans quelle mesure la vie humaine bonne dépend de la fortune, et défend, contre l'idéal platonicien d'autosuffisance, la pluralité des valeurs et la vulnérabilité de l'excellence. *La Connaissance de l'amour* (1990) soutient que certaines vérités morales ne peuvent s'exprimer que dans la forme littéraire du roman. *The Therapy of Desire* (1994) lit la philosophie hellénistique comme une thérapie des passions, et *Upheavals of Thought* (2001), issu des Gifford Lectures de 1993, développe une théorie néo-stoïcienne des émotions comme jugements évaluatifs portant sur des choses importantes qui échappent à notre contrôle. Suivent *Hiding from Humanity* (2004), sur le dégoût et la honte dans le droit, *Political Emotions* (2013) et *Anger and Forgiveness* (2016).\n\nEn philosophie politique, Nussbaum défend l'approche par les capabilités : la justice élémentaire exige de garantir à chacun un seuil de capabilités humaines centrales, telles que la vie, la santé, l'intégrité corporelle, l'imagination, l'affiliation et le contrôle de son environnement, comprises comme des libertés réelles de fonctionner et non comme des ressources ou des satisfactions. *Women and Human Development* (2000) propose une liste de dix capabilités ; *Frontiers of Justice* (2006) montre les limites du contractualisme de Rawls face au handicap, aux inégalités entre nations et aux animaux, objet de *Justice for Animals* (2023). *Les Émotions démocratiques* (2010) défend les humanités dans la formation du citoyen.\n\nL'œuvre de Nussbaum compte plus de trente livres et occupe une place centrale dans l'éthique du développement, la théorie féministe et l'étude des émotions et du droit. Elle a reçu le prix de Kyoto (2016), le prix Berggruen (2018) et le prix Holberg (2021) ; en septembre 2026, la Bibliothèque du Congrès lui a attribué le prix John W. Kluge.",
+    "keyIdeas": [
+     "Fragilité de la vie bonne face à la fortune",
+     "Approche par les capabilités et liste des capabilités humaines centrales",
+     "Les émotions comme jugements de valeur",
+     "La littérature comme connaissance morale",
+     "Cosmopolitisme et éducation humaniste",
+     "La justice au-delà du contrat : handicap, nationalité, animaux"
+    ],
+    "areas": [
+     "Éthique",
+     "Philosophie politique",
+     "Esthétique"
+    ],
+    "aliases": [
+     "Nussbaum",
+     "Martha C. Nussbaum",
+     "Martha Craven Nussbaum"
+    ],
+    "seoTitle": "Martha Nussbaum — capabilités, émotions, éthique grecque",
+    "seoDescription": "Biographie de Martha Nussbaum (née en 1947) : La Fragilité du bien, l'approche par les capabilités, les émotions et la justice pour les animaux."
+   },
+   "de": {
+    "title": "Martha Nussbaum",
+    "slug": "martha-nussbaum",
+    "summary": "Amerikanische Philosophin und Kennerin der griechischen Ethik; entwickelte mit Amartya Sen den Fähigkeitenansatz sowie eine kognitive Theorie der Emotionen.",
+    "biography": "Martha Craven Nussbaum wurde am 6. Mai 1947 in New York City geboren. Sie schloss ihr Studium an der New York University (1969) ab und wurde 1975 in Harvard in klassischer Philologie promoviert; daraus ging eine kommentierte Ausgabe von Aristoteles' *De motu animalium* (1978) hervor. Sie lehrte in Harvard und an der Brown University (1984–1995) und ist seit 1995 an der University of Chicago tätig, wo sie als Ernst Freund Distinguished Service Professor of Law and Ethics der Philosophie und der Law School angehört. Von 1986 bis 1993 beriet sie das World Institute for Development Economics Research (WIDER) in Helsinki; dort begann ihre Zusammenarbeit mit Amartya Sen.\n\n*The Fragility of Goodness* (1986) untersucht an der griechischen Tragödie, an Platon und an Aristoteles, wie weit ein gutes menschliches Leben vom Glück abhängt, und verteidigt gegen das platonische Ideal der Selbstgenügsamkeit die Pluralität der Werte und die Verletzlichkeit der Tugend. *Love's Knowledge* (1990) vertritt die These, dass sich manche moralischen Wahrheiten nur in der literarischen Form des Romans ausdrücken lassen. *The Therapy of Desire* (1994) liest die hellenistische Philosophie als Therapie der Leidenschaften, und *Upheavals of Thought* (2001), hervorgegangen aus den Gifford Lectures von 1993, entwickelt eine neostoische Theorie der Emotionen als wertende Urteile über wichtige Dinge, die wir nicht beherrschen. Es folgten *Hiding from Humanity* (2004) über Ekel und Scham im Recht, *Politische Emotionen* (2013) und *Zorn und Vergebung* (2016).\n\nIn der politischen Philosophie vertritt Nussbaum den Fähigkeitenansatz: Grundlegende Gerechtigkeit verlangt, jedem Menschen eine Schwelle zentraler menschlicher Fähigkeiten zu sichern, etwa Leben, Gesundheit, körperliche Unversehrtheit, Vorstellungskraft, Zugehörigkeit und Kontrolle über die eigene Umwelt, verstanden als reale Freiheiten zu bestimmten Funktionsweisen, nicht als Güter oder Befriedigung. *Women and Human Development* (2000) schlägt eine Liste von zehn Fähigkeiten vor; *Die Grenzen der Gerechtigkeit* (2006) zeigt die Schranken von Rawls' Kontraktualismus angesichts von Behinderung, Ungleichheit zwischen Nationen und Tieren, denen *Gerechtigkeit für Tiere* (2023) gewidmet ist. *Nicht für den Profit!* (2010) verteidigt die Geisteswissenschaften als Teil demokratischer Bildung.\n\nNussbaums Werk umfasst mehr als dreißig Bücher und ist zentral für die Entwicklungsethik, die feministische Theorie und die Erforschung von Emotionen und Recht. Sie erhielt den Kyoto-Preis (2016), den Berggruen-Preis (2018) und den Holberg-Preis (2021); im September 2026 wurde ihr der John-W.-Kluge-Preis der Library of Congress zuerkannt.",
+    "keyIdeas": [
+     "Zerbrechlichkeit des guten Lebens gegenüber dem Glück",
+     "Fähigkeitenansatz (Capabilities Approach) und Liste zentraler menschlicher Fähigkeiten",
+     "Emotionen als Werturteile",
+     "Literatur als Form moralischer Erkenntnis",
+     "Kosmopolitismus und humanistische Bildung",
+     "Gerechtigkeit jenseits des Vertrags: Behinderung, Nationalität, Tiere"
+    ],
+    "areas": [
+     "Ethik",
+     "Politische Philosophie",
+     "Ästhetik"
+    ],
+    "aliases": [
+     "Nussbaum",
+     "Martha C. Nussbaum",
+     "Martha Craven Nussbaum"
+    ],
+    "seoTitle": "Martha Nussbaum — Fähigkeitenansatz, Emotionen, Ethik",
+    "seoDescription": "Biographie Martha Nussbaums (geb. 1947): The Fragility of Goodness, Fähigkeitenansatz, Emotionen als Urteile und Gerechtigkeit für Tiere."
+   }
+  }
+ },
+ {
+  "id": "phi-singer",
+  "status": "published",
+  "featured": false,
+  "birthYear": 1946,
+  "deathYear": null,
+  "birthYearApprox": false,
+  "periodId": "per-contemporary",
+  "schoolIds": [
+   "sch-utilitarianism"
+  ],
+  "categoryIds": [
+   "cat-ethics",
+   "cat-political"
+  ],
+  "influencedByIds": [
+   "phi-bentham",
+   "phi-mill",
+   "phi-hume"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-routledge",
+   "src-iep"
+  ],
+  "portrait": null,
+  "translations": {
+   "pt": {
+    "title": "Peter Singer",
+    "slug": "peter-singer",
+    "summary": "Filósofo australiano utilitarista; autor de Libertação animal e Ética prática, é referência na ética aplicada, na bioética e no altruísmo eficaz.",
+    "biography": "Peter Albert David Singer nasceu em 6 de julho de 1946 em Melbourne, filho de judeus vienenses que haviam deixado a Áustria em 1938. Estudou na Universidade de Melbourne e em Oxford, onde obteve o BPhil em 1971 sob a orientação de R. M. Hare, cujo prescritivismo universal marcou sua forma de argumentar. Depois de lecionar em Oxford, na Universidade de Nova York e na La Trobe, foi professor na Universidade Monash (1977–1999), onde dirigiu o Centro de Bioética Humana. Em 1999 tornou-se professor de bioética na Universidade de Princeton, onde hoje é emérito, e também está ligado à Universidade de Melbourne.\n\nO artigo \"Famine, Affluence, and Morality\" (1972) sustenta que, se está ao nosso alcance impedir algo muito mau sem sacrificar nada de importância moral comparável, devemos fazê-lo, e que a distância não altera esse dever. *Libertação animal* (1975) aplica aos animais o princípio da igual consideração de interesses: a capacidade de sofrer é o critério relevante, e desconsiderar o sofrimento animal é especismo, termo cunhado por Richard Ryder em 1970, análogo ao racismo; o livro critica a pecuária industrial e a experimentação animal. *Ética prática* (1979) estende esse método ao aborto, à eutanásia, à pobreza e ao ambiente. *The Expanding Circle* (1981) explica a moral como expansão progressiva do círculo dos seres considerados.\n\nSinger defendeu inicialmente um utilitarismo de preferências; em *The Point of View of the Universe* (2014), escrito com Katarzyna de Lazari-Radek e dedicado a Henry Sidgwick, passou a defender o utilitarismo hedonista e a objetividade das razões morais. *Rethinking Life and Death* (1994) critica a doutrina da santidade da vida; *Um só mundo* (2002) trata da ética da globalização; *Quanto custa salvar uma vida?* (2009) e *The Most Good You Can Do* (2015) aproximam sua obra do movimento do altruísmo eficaz. Seus argumentos em *Ética prática* sobre a eutanásia de recém-nascidos com deficiências graves foram fortemente contestados por defensores dos direitos das pessoas com deficiência e provocaram protestos, sobretudo na Alemanha.\n\n*Libertação animal*, revisto em 2023 como *Animal Liberation Now*, é considerado uma das obras fundadoras do movimento pelos direitos dos animais. Singer é hoje um dos filósofos morais mais lidos fora da academia; recebeu o Prêmio Berggruen em 2021.",
+    "keyIdeas": [
+     "Princípio da igual consideração de interesses",
+     "Crítica do especismo",
+     "Dever de ajudar os pobres distantes",
+     "Círculo em expansão da consideração moral",
+     "Utilitarismo de preferências e, depois, hedonista",
+     "Altruísmo eficaz"
+    ],
+    "areas": [
+     "Ética",
+     "Filosofia Política"
+    ],
+    "aliases": [
+     "Singer",
+     "Peter Albert David Singer"
+    ],
+    "seoTitle": "Peter Singer — Libertação animal e ética prática",
+    "seoDescription": "Biografia de Peter Singer (n. 1946): igual consideração de interesses, especismo, dever de ajudar os pobres e altruísmo eficaz."
+   },
+   "en": {
+    "title": "Peter Singer",
+    "slug": "peter-singer",
+    "summary": "Australian utilitarian philosopher; author of Animal Liberation and Practical Ethics, a leading figure in applied ethics, bioethics and effective altruism.",
+    "biography": "Peter Albert David Singer was born on 6 July 1946 in Melbourne, the son of Viennese Jews who had left Austria in 1938. He studied at the University of Melbourne and at Oxford, where he took the BPhil in 1971 under R. M. Hare, whose universal prescriptivism shaped his style of argument. After teaching at Oxford, New York University and La Trobe, he was professor at Monash University (1977–1999), where he directed the Centre for Human Bioethics. In 1999 he became Ira W. DeCamp Professor of Bioethics at Princeton University, where he is now emeritus, and he is also affiliated with the University of Melbourne.\n\nThe article \"Famine, Affluence, and Morality\" (1972) argues that if it is in our power to prevent something very bad without sacrificing anything of comparable moral importance, we ought to do it, and that distance makes no difference to this duty. *Animal Liberation* (1975) applies the principle of equal consideration of interests to animals: the capacity to suffer is the relevant criterion, and discounting animal suffering is speciesism, a term coined by Richard Ryder in 1970, analogous to racism; the book criticises factory farming and animal experimentation. *Practical Ethics* (1979) extends this method to abortion, euthanasia, poverty and the environment. *The Expanding Circle* (1981) explains morality as the progressive widening of the circle of beings whose interests count.\n\nSinger first defended preference utilitarianism; in *The Point of View of the Universe* (2014), written with Katarzyna de Lazari-Radek and devoted to Henry Sidgwick, he came to defend hedonistic utilitarianism and the objectivity of moral reasons. *Rethinking Life and Death* (1994) attacks the doctrine of the sanctity of life; *One World* (2002) addresses the ethics of globalisation; *The Life You Can Save* (2009) and *The Most Good You Can Do* (2015) tie his work to the effective altruism movement. His arguments in *Practical Ethics* about euthanasia for severely disabled newborns have been strongly contested by disability rights advocates and have provoked protests, notably in Germany.\n\n*Animal Liberation*, revised in 2023 as *Animal Liberation Now*, is regarded as one of the founding texts of the animal rights movement. Singer is one of the most widely read moral philosophers outside academia; he received the Berggruen Prize in 2021.",
+    "keyIdeas": [
+     "Principle of equal consideration of interests",
+     "Critique of speciesism",
+     "Duty to aid distant strangers in need",
+     "The expanding circle of moral concern",
+     "Preference, later hedonistic, utilitarianism",
+     "Effective altruism"
+    ],
+    "areas": [
+     "Ethics",
+     "Political Philosophy"
+    ],
+    "aliases": [
+     "Singer",
+     "Peter Albert David Singer"
+    ],
+    "seoTitle": "Peter Singer — Animal Liberation and practical ethics",
+    "seoDescription": "Biography of Peter Singer (b. 1946): equal consideration of interests, speciesism, the duty to aid the poor and effective altruism."
+   },
+   "fr": {
+    "title": "Peter Singer",
+    "slug": "peter-singer",
+    "summary": "Philosophe utilitariste australien ; auteur de La Libération animale et de Questions d'éthique pratique, figure de l'éthique appliquée et de l'altruisme efficace.",
+    "biography": "Peter Albert David Singer naît le 6 juillet 1946 à Melbourne, fils de Juifs viennois qui avaient quitté l'Autriche en 1938. Il étudie à l'université de Melbourne puis à Oxford, où il obtient le BPhil en 1971 sous la direction de R. M. Hare, dont le prescriptivisme universel marque sa manière d'argumenter. Après avoir enseigné à Oxford, à l'université de New York et à La Trobe, il est professeur à l'université Monash (1977-1999), où il dirige le Centre de bioéthique humaine. En 1999, il devient professeur de bioéthique à l'université de Princeton, dont il est aujourd'hui émérite, et il est également rattaché à l'université de Melbourne.\n\nL'article « Famine, Affluence, and Morality » (1972) soutient que, s'il est en notre pouvoir d'empêcher quelque chose de très mauvais sans sacrifier rien d'une importance morale comparable, nous devons le faire, et que la distance ne change rien à ce devoir. *La Libération animale* (1975) applique aux animaux le principe d'égale considération des intérêts : la capacité de souffrir est le critère pertinent, et négliger la souffrance animale relève du spécisme, terme forgé par Richard Ryder en 1970 par analogie avec le racisme ; le livre critique l'élevage industriel et l'expérimentation animale. *Questions d'éthique pratique* (1979) étend cette méthode à l'avortement, à l'euthanasie, à la pauvreté et à l'environnement. *The Expanding Circle* (1981) explique la morale comme l'élargissement progressif du cercle des êtres dont les intérêts comptent.\n\nSinger a d'abord défendu un utilitarisme des préférences ; dans *The Point of View of the Universe* (2014), écrit avec Katarzyna de Lazari-Radek et consacré à Henry Sidgwick, il en vient à défendre l'utilitarisme hédoniste et l'objectivité des raisons morales. *Rethinking Life and Death* (1994) critique la doctrine du caractère sacré de la vie ; *One World* (2002) traite de l'éthique de la mondialisation ; *Sauver une vie* (2009) et *L'Altruisme efficace* (2015) rattachent son œuvre au mouvement de l'altruisme efficace. Ses thèses de *Questions d'éthique pratique* sur l'euthanasie de nouveau-nés gravement handicapés ont été vivement contestées par les défenseurs des droits des personnes handicapées et ont suscité des protestations, notamment en Allemagne.\n\n*La Libération animale*, révisée en 2023 sous le titre *Animal Liberation Now*, passe pour l'un des textes fondateurs du mouvement pour les droits des animaux. Singer est l'un des philosophes moraux les plus lus hors de l'université ; il a reçu le prix Berggruen en 2021.",
+    "keyIdeas": [
+     "Principe d'égale considération des intérêts",
+     "Critique du spécisme",
+     "Devoir d'assistance aux lointains démunis",
+     "Le cercle élargi de la considération morale",
+     "Utilitarisme des préférences, puis hédoniste",
+     "Altruisme efficace"
+    ],
+    "areas": [
+     "Éthique",
+     "Philosophie politique"
+    ],
+    "aliases": [
+     "Singer",
+     "Peter Albert David Singer"
+    ],
+    "seoTitle": "Peter Singer — La Libération animale et éthique pratique",
+    "seoDescription": "Biographie de Peter Singer (né en 1946) : égale considération des intérêts, spécisme, devoir d'aide aux pauvres et altruisme efficace."
+   },
+   "de": {
+    "title": "Peter Singer",
+    "slug": "peter-singer",
+    "summary": "Australischer utilitaristischer Philosoph; Autor von Die Befreiung der Tiere und Praktische Ethik, prägende Figur der angewandten Ethik und des effektiven Altruismus.",
+    "biography": "Peter Albert David Singer wurde am 6. Juli 1946 in Melbourne als Sohn Wiener Juden geboren, die Österreich 1938 verlassen hatten. Er studierte an der University of Melbourne und in Oxford, wo er 1971 bei R. M. Hare den BPhil erwarb; dessen universeller Präskriptivismus prägte seine Argumentationsweise. Nach Lehrtätigkeiten in Oxford, an der New York University und an der La Trobe University war er Professor an der Monash University (1977–1999) und leitete dort das Centre for Human Bioethics. 1999 wurde er Professor für Bioethik an der Princeton University, wo er heute emeritiert ist; zudem ist er der University of Melbourne verbunden.\n\nDer Aufsatz „Famine, Affluence, and Morality“ (1972) argumentiert: Wenn es in unserer Macht steht, etwas sehr Schlechtes zu verhindern, ohne etwas von vergleichbarer moralischer Bedeutung zu opfern, sollen wir es tun, und die Entfernung ändert an dieser Pflicht nichts. *Die Befreiung der Tiere* (1975) wendet das Prinzip der gleichen Interessenabwägung auf Tiere an: Maßgeblich ist die Leidensfähigkeit, und die Missachtung tierischen Leidens ist Speziesismus, ein 1970 von Richard Ryder geprägter, dem Rassismus nachgebildeter Begriff; das Buch kritisiert Massentierhaltung und Tierversuche. *Praktische Ethik* (1979) überträgt diese Methode auf Abtreibung, Euthanasie, Armut und Umwelt. *The Expanding Circle* (1981) deutet die Moral als fortschreitende Erweiterung des Kreises der Wesen, deren Interessen zählen.\n\nSinger vertrat zunächst einen Präferenzutilitarismus; in *The Point of View of the Universe* (2014), gemeinsam mit Katarzyna de Lazari-Radek verfasst und Henry Sidgwick gewidmet, verteidigt er den hedonistischen Utilitarismus und die Objektivität moralischer Gründe. *Rethinking Life and Death* (1994) kritisiert die Lehre von der Heiligkeit des Lebens, *One World* (2002) behandelt die Ethik der Globalisierung, *Leben retten* (2009) und *Effektiver Altruismus* (2015) verbinden sein Werk mit der Bewegung des effektiven Altruismus. Seine Thesen in *Praktische Ethik* zur Euthanasie schwerstbehinderter Neugeborener stießen bei Vertretern der Behindertenrechtsbewegung auf entschiedenen Widerspruch und lösten besonders in Deutschland Proteste aus.\n\n*Die Befreiung der Tiere*, 2023 überarbeitet als *Animal Liberation Now* erschienen, gilt als einer der Gründungstexte der Tierrechtsbewegung. Singer gehört zu den meistgelesenen Moralphilosophen außerhalb der Universität; 2021 erhielt er den Berggruen-Preis.",
+    "keyIdeas": [
+     "Prinzip der gleichen Interessenabwägung",
+     "Kritik des Speziesismus",
+     "Pflicht zur Hilfe für ferne Notleidende",
+     "Der sich erweiternde Kreis moralischer Berücksichtigung",
+     "Präferenz-, später hedonistischer Utilitarismus",
+     "Effektiver Altruismus"
+    ],
+    "areas": [
+     "Ethik",
+     "Politische Philosophie"
+    ],
+    "aliases": [
+     "Singer",
+     "Peter Albert David Singer"
+    ],
+    "seoTitle": "Peter Singer — Befreiung der Tiere und Praktische Ethik",
+    "seoDescription": "Biographie Peter Singers (geb. 1946): gleiche Interessenabwägung, Speziesismus, Hilfspflicht gegenüber Armen und effektiver Altruismus."
+   }
+  }
+ },
+ {
+  "id": "phi-honneth",
+  "status": "published",
+  "featured": false,
+  "birthYear": 1949,
+  "deathYear": null,
+  "birthYearApprox": false,
+  "periodId": "per-contemporary",
+  "schoolIds": [
+   "sch-critical-theory"
+  ],
+  "categoryIds": [
+   "cat-social",
+   "cat-political",
+   "cat-ethics"
+  ],
+  "influencedByIds": [
+   "phi-hegel",
+   "phi-habermas",
+   "phi-marx",
+   "phi-dewey"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-routledge",
+   "src-metzler"
+  ],
+  "portrait": null,
+  "translations": {
+   "pt": {
+    "title": "Axel Honneth",
+    "slug": "axel-honneth",
+    "summary": "Filósofo social alemão da terceira geração da Escola de Frankfurt; fez do reconhecimento intersubjetivo o fundamento normativo da teoria crítica.",
+    "biography": "Axel Honneth nasceu em 18 de julho de 1949 em Essen. Estudou filosofia, sociologia e letras germânicas em Bonn e em Bochum e doutorou-se na Universidade Livre de Berlim; a tese deu origem a *Kritik der Macht* (1985), que examina a teoria crítica de Horkheimer e Adorno e a obra de Foucault e lhes aponta um déficit sociológico. De 1984 a 1990 foi assistente de Jürgen Habermas em Frankfurt, onde obteve a habilitação. Depois de lecionar em Konstanz e na Universidade Livre de Berlim, tornou-se em 1996 professor de filosofia social na Universidade Goethe de Frankfurt. Dirigiu o Instituto de Pesquisa Social de 2001 a 2018 e, desde 2011, é professor na Universidade Columbia, em Nova York.\n\n*Luta por reconhecimento* (1992) reconstrói os escritos de juventude de Hegel em Jena com o auxílio da psicologia social de George Herbert Mead. A identidade prática forma-se em três relações de reconhecimento: o amor, que dá autoconfiança; o direito, que dá autorrespeito; e a estima social ou solidariedade, que dá autoestima. A cada uma corresponde uma forma de desrespeito, a violência física, a privação de direitos e a degradação, e a experiência dessas lesões move lutas sociais de caráter moral. No debate com Nancy Fraser, reunido em *Umverteilung oder Anerkennung?* (2003), Honneth sustenta que também os conflitos distributivos se deixam compreender como lutas por reconhecimento.\n\n*Sofrimento de indeterminação* (2001) atualiza a *Filosofia do direito* de Hegel como teoria da justiça, e *Verdinglichung* (2005), originado das Tanner Lectures, interpreta a reificação como esquecimento de um reconhecimento anterior a toda cognição. *O direito da liberdade* (2011) propõe uma reconstrução normativa das instituições modernas, nas quais a liberdade social se realiza nas relações pessoais, no mercado e na esfera pública democrática. *A ideia de socialismo* (2015) reformula o socialismo como projeto experimental de liberdade social, na linha de Dewey, e *Der arbeitende Souverän* (2023) examina as condições de trabalho que a participação democrática pressupõe.\n\nHonneth deu à teoria crítica um novo fundamento normativo, distinto da pragmática universal de Habermas, e sua teoria do reconhecimento é hoje discutida na filosofia política, na sociologia, na psicologia e nos estudos sobre justiça social.",
+    "keyIdeas": [
+     "Luta por reconhecimento como gramática moral dos conflitos sociais",
+     "Três esferas do reconhecimento: amor, direito e solidariedade",
+     "Desrespeito e patologias sociais",
+     "Reificação como esquecimento do reconhecimento",
+     "Liberdade social e eticidade democrática",
+     "Reconstrução normativa"
+    ],
+    "areas": [
+     "Filosofia Social",
+     "Filosofia Política",
+     "Ética"
+    ],
+    "aliases": [
+     "Honneth"
+    ],
+    "seoTitle": "Axel Honneth — luta por reconhecimento e teoria crítica",
+    "seoDescription": "Biografia de Axel Honneth (n. 1949): luta por reconhecimento, amor, direito e solidariedade, reificação e liberdade social."
+   },
+   "en": {
+    "title": "Axel Honneth",
+    "slug": "axel-honneth",
+    "summary": "German social philosopher of the third generation of the Frankfurt School; he made intersubjective recognition the normative foundation of critical theory.",
+    "biography": "Axel Honneth was born on 18 July 1949 in Essen. He studied philosophy, sociology and German literature at Bonn and Bochum and took his doctorate at the Free University of Berlin; the dissertation became *The Critique of Power* (1985), which examines the critical theory of Horkheimer and Adorno and the work of Foucault and finds in both a sociological deficit. From 1984 to 1990 he was Jürgen Habermas's assistant in Frankfurt, where he completed his habilitation. After teaching at Konstanz and at the Free University of Berlin, he became professor of social philosophy at Goethe University Frankfurt in 1996. He directed the Institute for Social Research from 2001 to 2018 and since 2011 has been a professor at Columbia University in New York.\n\n*The Struggle for Recognition* (1992) reconstructs Hegel's early Jena writings with the help of George Herbert Mead's social psychology. Practical identity is formed in three relations of recognition: love, which gives self-confidence; rights, which give self-respect; and social esteem or solidarity, which gives self-esteem. To each corresponds a form of disrespect, namely physical violation, denial of rights and denigration, and the experience of these injuries drives social struggles of a moral kind. In his exchange with Nancy Fraser, collected in *Redistribution or Recognition?* (2003), Honneth argues that distributive conflicts too can be understood as struggles for recognition.\n\n*Suffering from Indeterminacy* (2001) reactualises Hegel's *Philosophy of Right* as a theory of justice, and *Reification* (2005), based on his Tanner Lectures, interprets reification as the forgetting of a recognition that precedes all cognition. *Freedom's Right* (2011) offers a normative reconstruction of modern institutions, in which social freedom is realised in personal relationships, the market and the democratic public sphere. *The Idea of Socialism* (2015) recasts socialism as an experimental project of social freedom in a Deweyan spirit, and *The Working Sovereign* (2023) examines the conditions of work that democratic participation presupposes.\n\nHonneth gave critical theory a new normative basis, distinct from Habermas's universal pragmatics, and his theory of recognition is now debated across political philosophy, sociology, psychology and the study of social justice.",
+    "keyIdeas": [
+     "Struggle for recognition as the moral grammar of social conflicts",
+     "Three spheres of recognition: love, rights and solidarity",
+     "Disrespect and social pathologies",
+     "Reification as a forgetting of recognition",
+     "Social freedom and democratic ethical life",
+     "Normative reconstruction"
+    ],
+    "areas": [
+     "Social Philosophy",
+     "Political Philosophy",
+     "Ethics"
+    ],
+    "aliases": [
+     "Honneth"
+    ],
+    "seoTitle": "Axel Honneth — struggle for recognition, critical theory",
+    "seoDescription": "Biography of Axel Honneth (b. 1949): the struggle for recognition, love, rights and solidarity, reification and social freedom."
+   },
+   "fr": {
+    "title": "Axel Honneth",
+    "slug": "axel-honneth",
+    "summary": "Philosophe social allemand de la troisième génération de l'École de Francfort ; il a fait de la reconnaissance intersubjective le fondement normatif de la théorie critique.",
+    "biography": "Axel Honneth naît le 18 juillet 1949 à Essen. Il étudie la philosophie, la sociologie et les lettres allemandes à Bonn et à Bochum et soutient son doctorat à l'Université libre de Berlin ; la thèse devient *Critique du pouvoir* (1985), qui examine la théorie critique de Horkheimer et d'Adorno ainsi que l'œuvre de Foucault et y décèle un déficit sociologique. De 1984 à 1990, il est l'assistant de Jürgen Habermas à Francfort, où il obtient son habilitation. Après avoir enseigné à Constance et à l'Université libre de Berlin, il devient en 1996 professeur de philosophie sociale à l'université Goethe de Francfort. Il dirige l'Institut de recherche sociale de 2001 à 2018 et enseigne depuis 2011 à l'université Columbia, à New York.\n\n*La Lutte pour la reconnaissance* (1992) reconstruit les écrits de jeunesse de Hegel à Iéna à l'aide de la psychologie sociale de George Herbert Mead. L'identité pratique se forme dans trois rapports de reconnaissance : l'amour, qui donne la confiance en soi ; le droit, qui donne le respect de soi ; l'estime sociale ou solidarité, qui donne l'estime de soi. À chacun correspond une forme de mépris, l'atteinte physique, la privation de droits et le dénigrement, et l'expérience de ces blessures alimente des luttes sociales de nature morale. Dans le débat avec Nancy Fraser, réuni dans *Umverteilung oder Anerkennung?* (2003), Honneth soutient que les conflits de répartition eux-mêmes peuvent se comprendre comme des luttes pour la reconnaissance.\n\n*Les Pathologies de la liberté* (2001) réactualise les *Principes de la philosophie du droit* de Hegel comme théorie de la justice, et *La Réification* (2005), issue des Tanner Lectures, interprète la réification comme l'oubli d'une reconnaissance antérieure à toute connaissance. *Le Droit de la liberté* (2011) propose une reconstruction normative des institutions modernes, où la liberté sociale se réalise dans les relations personnelles, le marché et l'espace public démocratique. *L'Idée du socialisme* (2015) redéfinit le socialisme comme projet expérimental de liberté sociale, dans l'esprit de Dewey, et *Der arbeitende Souverän* (2023) étudie les conditions de travail que présuppose la participation démocratique.\n\nHonneth a donné à la théorie critique un nouveau fondement normatif, distinct de la pragmatique universelle de Habermas, et sa théorie de la reconnaissance est aujourd'hui discutée en philosophie politique, en sociologie, en psychologie et dans les études sur la justice sociale.",
+    "keyIdeas": [
+     "Lutte pour la reconnaissance, grammaire morale des conflits sociaux",
+     "Trois sphères de la reconnaissance : amour, droit, solidarité",
+     "Mépris et pathologies sociales",
+     "La réification comme oubli de la reconnaissance",
+     "Liberté sociale et éthicité démocratique",
+     "Reconstruction normative"
+    ],
+    "areas": [
+     "Philosophie sociale",
+     "Philosophie politique",
+     "Éthique"
+    ],
+    "aliases": [
+     "Honneth"
+    ],
+    "seoTitle": "Axel Honneth — lutte pour la reconnaissance",
+    "seoDescription": "Biographie d'Axel Honneth (né en 1949) : lutte pour la reconnaissance, amour, droit et solidarité, réification et liberté sociale."
+   },
+   "de": {
+    "title": "Axel Honneth",
+    "slug": "axel-honneth",
+    "summary": "Deutscher Sozialphilosoph der dritten Generation der Frankfurter Schule; machte die intersubjektive Anerkennung zur normativen Grundlage der Kritischen Theorie.",
+    "biography": "Axel Honneth wurde am 18. Juli 1949 in Essen geboren. Er studierte Philosophie, Soziologie und Germanistik in Bonn und Bochum und wurde an der Freien Universität Berlin promoviert; aus der Dissertation ging *Kritik der Macht* (1985) hervor, die die Kritische Theorie Horkheimers und Adornos sowie das Werk Foucaults untersucht und beiden ein soziologisches Defizit nachweist. Von 1984 bis 1990 war er Assistent von Jürgen Habermas in Frankfurt, wo er sich habilitierte. Nach Lehrtätigkeiten in Konstanz und an der Freien Universität Berlin wurde er 1996 Professor für Sozialphilosophie an der Goethe-Universität Frankfurt. Von 2001 bis 2018 leitete er das Institut für Sozialforschung; seit 2011 lehrt er zudem an der Columbia University in New York.\n\n*Kampf um Anerkennung* (1992) rekonstruiert Hegels Jenaer Frühschriften mit Hilfe der Sozialpsychologie George Herbert Meads. Praktische Identität bildet sich in drei Anerkennungsverhältnissen: Liebe, die Selbstvertrauen, Recht, das Selbstachtung, und soziale Wertschätzung oder Solidarität, die Selbstschätzung ermöglicht. Jedem entspricht eine Form der Missachtung, nämlich Misshandlung, Entrechtung und Entwürdigung, und die Erfahrung solcher Verletzungen treibt soziale Kämpfe moralischer Art an. In der Kontroverse mit Nancy Fraser, dokumentiert in *Umverteilung oder Anerkennung?* (2003), vertritt Honneth die These, dass sich auch Verteilungskonflikte als Kämpfe um Anerkennung begreifen lassen.\n\n*Leiden an Unbestimmtheit* (2001) reaktualisiert Hegels *Grundlinien der Philosophie des Rechts* als Gerechtigkeitstheorie, und *Verdinglichung* (2005), hervorgegangen aus den Tanner Lectures, deutet Verdinglichung als Vergessen einer aller Erkenntnis vorausgehenden Anerkennung. *Das Recht der Freiheit* (2011) unternimmt eine normative Rekonstruktion der modernen Institutionen, in denen sich soziale Freiheit in persönlichen Beziehungen, im Markt und in der demokratischen Öffentlichkeit verwirklicht. *Die Idee des Sozialismus* (2015) fasst den Sozialismus im Anschluss an Dewey als experimentelles Projekt sozialer Freiheit, und *Der arbeitende Souverän* (2023) untersucht die Arbeitsbedingungen, die demokratische Teilhabe voraussetzt.\n\nHonneth gab der Kritischen Theorie ein neues normatives Fundament, das sich von der Universalpragmatik Habermas' unterscheidet; seine Anerkennungstheorie wird heute in der politischen Philosophie, der Soziologie, der Psychologie und der Gerechtigkeitsforschung breit diskutiert.",
+    "keyIdeas": [
+     "Kampf um Anerkennung als moralische Grammatik sozialer Konflikte",
+     "Drei Anerkennungssphären: Liebe, Recht, Solidarität",
+     "Missachtung und soziale Pathologien",
+     "Verdinglichung als Anerkennungsvergessenheit",
+     "Soziale Freiheit und demokratische Sittlichkeit",
+     "Normative Rekonstruktion"
+    ],
+    "areas": [
+     "Sozialphilosophie",
+     "Politische Philosophie",
+     "Ethik"
+    ],
+    "aliases": [
+     "Honneth"
+    ],
+    "seoTitle": "Axel Honneth — Kampf um Anerkennung, Kritische Theorie",
+    "seoDescription": "Biographie Axel Honneths (geb. 1949): Kampf um Anerkennung, Liebe, Recht und Solidarität, Verdinglichung und soziale Freiheit."
+   }
+  }
+ },
+ {
+  "id": "phi-butler",
+  "status": "published",
+  "featured": false,
+  "birthYear": 1956,
+  "deathYear": null,
+  "birthYearApprox": false,
+  "periodId": "per-contemporary",
+  "schoolIds": [
+   "sch-post-structuralism"
+  ],
+  "categoryIds": [
+   "cat-social",
+   "cat-political",
+   "cat-ethics"
+  ],
+  "influencedByIds": [
+   "phi-foucault",
+   "phi-beauvoir",
+   "phi-hegel",
+   "phi-austin",
+   "phi-derrida",
+   "phi-levinas"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-routledge",
+   "src-iep"
+  ],
+  "portrait": null,
+  "translations": {
+   "pt": {
+    "title": "Judith Butler",
+    "slug": "judith-butler",
+    "summary": "Figura central da teoria feminista e queer nos Estados Unidos; em Problemas de gênero (1990) formulou a teoria da performatividade de gênero.",
+    "biography": "Judith Butler nasceu em 24 de fevereiro de 1956 em Cleveland, Ohio, numa família judia. Estudou no Bennington College e na Universidade Yale, onde concluiu a graduação em 1978 e o doutorado em filosofia em 1984, depois de um período de estudos em Heidelberg (1979–1980). A tese, publicada como *Subjects of Desire* (1987), examina a recepção francesa da noção hegeliana de desejo em Kojève, Hyppolite, Sartre, Lacan, Deleuze e Foucault. Depois de lecionar em Wesleyan, na Universidade George Washington e na Universidade Johns Hopkins, Butler ingressou em 1993 na Universidade da Califórnia em Berkeley, nos departamentos de retórica e de literatura comparada e no programa de teoria crítica, instituição à qual continua vinculada. Recebeu o Prêmio Adorno da cidade de Frankfurt em 2012.\n\n*Problemas de gênero* (1990) contesta a ideia de um sexo natural sobre o qual se inscreveria culturalmente o gênero. O gênero é performativo: não exprime uma identidade prévia, mas é produzido pela repetição estilizada de atos, gestos e normas, sob uma matriz heterossexual que torna inteligíveis apenas certas combinações de sexo, gênero e desejo. A paródia, como no *drag*, expõe o caráter imitativo de todo gênero, e a repetição deslocada das normas abre espaço à subversão. *Corpos que importam* (1993) responde às leituras voluntaristas dessa tese, recorrendo à citacionalidade de Derrida para pensar a materialização dos corpos. *Discurso de ódio* (1997) discute com Austin o poder injurioso da linguagem, e *A vida psíquica do poder* (1997) combina Foucault e a psicanálise para explicar como o sujeito se forma em sua própria sujeição.\n\nA partir de *Vida precária* (2004), escrito depois dos atentados de 11 de setembro de 2001, a obra volta-se para a vulnerabilidade comum e para a distribuição desigual do luto público: certas vidas não são reconhecidas como vidas passíveis de luto. *Relatar a si mesmo* (2005), originado das Adorno-Vorlesungen de 2002, *Quadros de guerra* (2009), *Caminhos divergentes* (2012), *Corpos em aliança e a política das ruas* (2015) e *A força da não violência* (2020) desenvolvem essa ética, em diálogo com Levinas, Arendt e Benjamin. *Quem tem medo do gênero?* (2024) analisa os movimentos contrários à chamada ideologia de gênero.\n\nConsiderado um texto fundador da teoria queer, *Problemas de gênero* é uma das obras filosóficas mais citadas das últimas décadas, e a obra de Butler é discutida hoje na filosofia, nos estudos de gênero, no direito e na teoria política.",
+    "keyIdeas": [
+     "Performatividade de gênero",
+     "Crítica da distinção entre sexo e gênero e da matriz heterossexual",
+     "Sujeição: o poder que forma o sujeito",
+     "Ressignificação e citacionalidade",
+     "Precariedade e vidas passíveis de luto",
+     "Ética da vulnerabilidade e da não violência"
+    ],
+    "areas": [
+     "Filosofia Social",
+     "Filosofia Política",
+     "Ética"
+    ],
+    "aliases": [
+     "Butler"
+    ],
+    "seoTitle": "Judith Butler — performatividade de gênero e precariedade",
+    "seoDescription": "Biografia de Judith Butler (n. 1956): Problemas de gênero, performatividade, sujeição, vida precária e ética da não violência."
+   },
+   "en": {
+    "title": "Judith Butler",
+    "slug": "judith-butler",
+    "summary": "Central figure of feminist and queer theory in the United States; in Gender Trouble (1990) Butler formulated the theory of gender performativity.",
+    "biography": "Judith Butler was born on 24 February 1956 in Cleveland, Ohio, into a Jewish family. Butler studied at Bennington College and at Yale University, receiving a BA in 1978 and a PhD in philosophy in 1984, after a year of study in Heidelberg (1979–1980). The dissertation, published as *Subjects of Desire* (1987), examines the French reception of Hegel's concept of desire in Kojève, Hyppolite, Sartre, Lacan, Deleuze and Foucault. After teaching at Wesleyan, George Washington University and Johns Hopkins, Butler joined the University of California, Berkeley, in 1993, in the departments of rhetoric and comparative literature and the program in critical theory, and remains at Berkeley. Butler received the Adorno Prize of the city of Frankfurt in 2012.\n\n*Gender Trouble* (1990) challenges the idea of a natural sex onto which gender is culturally inscribed. Gender is performative: it does not express a prior identity but is produced by the stylised repetition of acts, gestures and norms, under a heterosexual matrix that makes only certain combinations of sex, gender and desire intelligible. Parody, as in drag, exposes the imitative structure of all gender, and the displaced repetition of norms opens room for subversion. *Bodies That Matter* (1993) answers voluntarist readings of this thesis, drawing on Derrida's notion of citationality to think the materialisation of bodies. *Excitable Speech* (1997) engages Austin on the injurious power of language, and *The Psychic Life of Power* (1997) combines Foucault and psychoanalysis to explain how the subject is formed in its own subjection.\n\nFrom *Precarious Life* (2004), written after the attacks of 11 September 2001, the work turns to shared vulnerability and the unequal distribution of public mourning: some lives are not recognised as grievable. *Giving an Account of Oneself* (2005), based on the 2002 Adorno Lectures in Frankfurt, *Frames of War* (2009), *Parting Ways* (2012), *Notes Toward a Performative Theory of Assembly* (2015) and *The Force of Nonviolence* (2020) develop this ethics in dialogue with Levinas, Arendt and Benjamin. *Who's Afraid of Gender?* (2024) analyses the movements opposed to so-called gender ideology.\n\nRegarded as a founding text of queer theory, *Gender Trouble* is one of the most cited philosophical works of recent decades, and Butler's work is now discussed across philosophy, gender studies, law and political theory.",
+    "keyIdeas": [
+     "Gender performativity",
+     "Critique of the sex/gender distinction and of the heterosexual matrix",
+     "Subjection: the power that forms the subject",
+     "Resignification and citationality",
+     "Precarity and grievable lives",
+     "Ethics of vulnerability and non-violence"
+    ],
+    "areas": [
+     "Social Philosophy",
+     "Political Philosophy",
+     "Ethics"
+    ],
+    "aliases": [
+     "Butler"
+    ],
+    "seoTitle": "Judith Butler — gender performativity and precarity",
+    "seoDescription": "Biography of Judith Butler (b. 1956): Gender Trouble, performativity, subjection, precarious life and the ethics of non-violence."
+   },
+   "fr": {
+    "title": "Judith Butler",
+    "slug": "judith-butler",
+    "summary": "Figure centrale de la théorie féministe et queer aux États-Unis ; dans Trouble dans le genre (1990), Butler formule la théorie de la performativité du genre.",
+    "biography": "Judith Butler naît le 24 février 1956 à Cleveland, dans l'Ohio, dans une famille juive. Butler étudie au Bennington College puis à l'université Yale, où Butler obtient le BA en 1978 et le doctorat de philosophie en 1984, après une année d'études à Heidelberg (1979-1980). La thèse, publiée sous le titre *Subjects of Desire* (1987), examine la réception française du concept hégélien de désir chez Kojève, Hyppolite, Sartre, Lacan, Deleuze et Foucault. Après avoir enseigné à Wesleyan, à l'université George Washington et à l'université Johns Hopkins, Butler rejoint en 1993 l'université de Californie à Berkeley, dans les départements de rhétorique et de littérature comparée et le programme de théorie critique, et y enseigne toujours. Butler a reçu le prix Adorno de la ville de Francfort en 2012.\n\n*Trouble dans le genre* (1990) conteste l'idée d'un sexe naturel sur lequel le genre viendrait s'inscrire culturellement. Le genre est performatif : il n'exprime pas une identité préalable, mais se produit par la répétition stylisée d'actes, de gestes et de normes, sous une matrice hétérosexuelle qui ne rend intelligibles que certaines combinaisons de sexe, de genre et de désir. La parodie, comme dans le drag, révèle la structure imitative de tout genre, et la répétition déplacée des normes ouvre un espace à la subversion. *Ces corps qui comptent* (1993) répond aux lectures volontaristes de cette thèse en recourant à la citationnalité derridienne pour penser la matérialisation des corps. *Le Pouvoir des mots* (1997) discute avec Austin la puissance injurieuse du langage, et *La Vie psychique du pouvoir* (1997) associe Foucault et la psychanalyse pour expliquer comment le sujet se forme dans son propre assujettissement.\n\nÀ partir de *Vie précaire* (2004), écrit après les attentats du 11 septembre 2001, l'œuvre se tourne vers la vulnérabilité commune et la répartition inégale du deuil public : certaines vies ne sont pas reconnues comme dignes d'être pleurées. *Le Récit de soi* (2005), issu des Adorno-Vorlesungen de 2002, *Ce qui fait une vie* (2009), *Vers la cohabitation* (2012), *Rassemblement* (2015) et *La Force de la non-violence* (2020) développent cette éthique en dialogue avec Levinas, Arendt et Benjamin. *Who's Afraid of Gender?* (2024) analyse les mouvements hostiles à la prétendue idéologie du genre.\n\nTenu pour un texte fondateur de la théorie queer, *Trouble dans le genre* compte parmi les ouvrages philosophiques les plus cités des dernières décennies, et l'œuvre de Butler est aujourd'hui discutée en philosophie, en études de genre, en droit et en théorie politique.",
+    "keyIdeas": [
+     "Performativité du genre",
+     "Critique de la distinction sexe/genre et de la matrice hétérosexuelle",
+     "Assujettissement : le pouvoir qui forme le sujet",
+     "Resignification et citationnalité",
+     "Précarité et vies dignes d'être pleurées",
+     "Éthique de la vulnérabilité et de la non-violence"
+    ],
+    "areas": [
+     "Philosophie sociale",
+     "Philosophie politique",
+     "Éthique"
+    ],
+    "aliases": [
+     "Butler"
+    ],
+    "seoTitle": "Judith Butler — performativité du genre et précarité",
+    "seoDescription": "Biographie de Judith Butler (1956) : Trouble dans le genre, performativité, assujettissement, vie précaire et éthique de la non-violence."
+   },
+   "de": {
+    "title": "Judith Butler",
+    "slug": "judith-butler",
+    "summary": "Zentrale Stimme der feministischen und queeren Theorie in den USA; entwickelte in Das Unbehagen der Geschlechter (1990) die Theorie der Performativität von Geschlecht.",
+    "biography": "Judith Butler wurde am 24. Februar 1956 in Cleveland (Ohio) in eine jüdische Familie geboren. Butler studierte am Bennington College und an der Yale University, schloss dort 1978 mit dem BA ab und wurde 1984 in Philosophie promoviert, nach einem Studienjahr in Heidelberg (1979–1980). Die Dissertation, veröffentlicht als *Subjects of Desire* (1987), untersucht die französische Rezeption des Hegelschen Begriffs der Begierde bei Kojève, Hyppolite, Sartre, Lacan, Deleuze und Foucault. Nach Lehrtätigkeiten in Wesleyan, an der George Washington University und an der Johns Hopkins University wechselte Butler 1993 an die University of California in Berkeley, in die Departments für Rhetorik und Vergleichende Literaturwissenschaft und das Programm für Kritische Theorie, und lehrt weiterhin dort. 2012 erhielt Butler den Adorno-Preis der Stadt Frankfurt am Main.\n\n*Das Unbehagen der Geschlechter* (1990) bestreitet die Vorstellung eines natürlichen Geschlechts (sex), dem die Geschlechtsidentität (gender) kulturell eingeschrieben würde. Gender ist performativ: Es drückt keine vorgängige Identität aus, sondern wird durch die stilisierte Wiederholung von Akten, Gesten und Normen erzeugt, unter einer heterosexuellen Matrix, die nur bestimmte Verbindungen von Geschlecht, Geschlechtsidentität und Begehren intelligibel macht. Die Parodie, etwa im Drag, legt die imitative Struktur jedes Geschlechts offen, und die verschobene Wiederholung der Normen eröffnet Raum für Subversion. *Körper von Gewicht* (1993) antwortet auf voluntaristische Lesarten dieser These und greift auf Derridas Begriff der Zitathaftigkeit zurück, um die Materialisierung der Körper zu denken. *Haß spricht* (1997) setzt sich mit Austin über die verletzende Macht der Sprache auseinander, und *Psyche der Macht* (1997) verbindet Foucault und Psychoanalyse, um zu erklären, wie das Subjekt in seiner eigenen Unterwerfung entsteht.\n\nSeit *Gefährdetes Leben* (2004), nach den Anschlägen vom 11. September 2001 geschrieben, wendet sich das Werk der geteilten Verletzlichkeit und der ungleichen Verteilung öffentlicher Trauer zu: Manches Leben gilt nicht als betrauerbar. *Kritik der ethischen Gewalt* (2003), hervorgegangen aus den Frankfurter Adorno-Vorlesungen von 2002, *Raster des Krieges* (2009), *Am Scheideweg* (2012), *Anmerkungen zu einer performativen Theorie der Versammlung* (2015) und *Die Macht der Gewaltlosigkeit* (2020) entfalten diese Ethik im Gespräch mit Levinas, Arendt und Benjamin. *Wer hat Angst vor Gender?* (2024) analysiert die Bewegungen gegen die sogenannte Gender-Ideologie.\n\n*Das Unbehagen der Geschlechter* gilt als Gründungstext der Queer Theory und zählt zu den meistzitierten philosophischen Büchern der letzten Jahrzehnte; Butlers Werk wird heute in Philosophie, Geschlechterforschung, Rechtswissenschaft und politischer Theorie diskutiert.",
+    "keyIdeas": [
+     "Performativität von Geschlecht (Gender)",
+     "Kritik der Unterscheidung von sex und gender und der heterosexuellen Matrix",
+     "Subjektivation: die Macht, die das Subjekt hervorbringt",
+     "Resignifizierung und Zitathaftigkeit",
+     "Prekarität und betrauerbares Leben",
+     "Ethik der Verletzlichkeit und der Gewaltlosigkeit"
+    ],
+    "areas": [
+     "Sozialphilosophie",
+     "Politische Philosophie",
+     "Ethik"
+    ],
+    "aliases": [
+     "Butler"
+    ],
+    "seoTitle": "Judith Butler — Performativität von Geschlecht",
+    "seoDescription": "Biographie von Judith Butler (geb. 1956): Das Unbehagen der Geschlechter, Performativität, Subjektivation, Prekarität und Gewaltlosigkeit."
+   }
+  }
+ },
+ {
+  "id": "phi-danto",
+  "status": "published",
+  "featured": false,
+  "birthYear": 1924,
+  "deathYear": 2013,
+  "birthYearApprox": false,
+  "periodId": "per-contemporary",
+  "schoolIds": [
+   "sch-analytic"
+  ],
+  "categoryIds": [
+   "cat-aesthetics",
+   "cat-history"
+  ],
+  "influencedByIds": [
+   "phi-hegel",
+   "phi-nietzsche",
+   "phi-wittgenstein"
+  ],
+  "sourceIds": [
+   "src-sep",
+   "src-routledge",
+   "src-iep"
+  ],
+  "portrait": null,
+  "translations": {
+   "pt": {
+    "title": "Arthur Danto",
+    "slug": "arthur-danto",
+    "summary": "Filósofo e crítico de arte norte-americano; formulou a noção de mundo da arte, a teoria dos indiscerníveis e a tese do fim da arte.",
+    "biography": "Arthur Coleman Danto nasceu em 1º de janeiro de 1924 em Ann Arbor, Michigan, e cresceu em Detroit. Serviu no exército norte-americano durante a Segunda Guerra Mundial, na África do Norte e na Itália, e depois estudou arte e história na Wayne University. Fez o mestrado (1949) e o doutorado (1952) em filosofia na Universidade Columbia, com um ano de estudos em Paris junto a Jean Wahl. Lecionou em Columbia de 1951 até a aposentadoria, em 1992, como Johnsonian Professor. Nos anos 1950 foi também gravurista. De 1984 a 2009 foi crítico de arte da revista *The Nation*.\n\nNa filosofia da história, *Analytical Philosophy of History* (1965) mostra que a narrativa histórica depende de frases narrativas, que descrevem um acontecimento à luz de acontecimentos posteriores que seus contemporâneos não podiam conhecer; mesmo um cronista ideal, que registrasse tudo no instante em que acontece, não poderia formulá-las. Danto escreveu ainda sobre a teoria da ação, em que introduziu a noção de ações básicas, sobre o conhecimento, e dedicou livros a Nietzsche (*Nietzsche as Philosopher*, 1965) e a Sartre (1975).\n\nO ensaio \"The Artworld\" (1964), suscitado pelas *Brillo Box* de Andy Warhol, sustenta que ver algo como arte exige uma atmosfera de teoria e um conhecimento da história da arte, um mundo da arte. *A transfiguração do lugar-comum* (1981) desenvolve o problema dos indiscerníveis: se uma obra e um objeto comum podem ser perceptivamente idênticos, o que os distingue não é visível; as obras de arte são sobre algo e encarnam seu significado. No ensaio \"The End of Art\" (1984) e em *Após o fim da arte* (1997), originado das Mellon Lectures de 1995, Danto defende, numa leitura de Hegel, que a arte chegou ao fim de sua narrativa histórica quando passou a interrogar a própria natureza, abrindo uma era pluralista em que tudo pode ser arte. *O abuso da beleza* (2003) e *What Art Is* (2013) retomam essas teses.\n\nA teoria de Danto influenciou a teoria institucional da arte de George Dickie e tornou-se referência central da estética analítica e da crítica da arte contemporânea. Danto morreu em 25 de outubro de 2013, em Manhattan, Nova York, aos 89 anos.",
+    "keyIdeas": [
+     "O mundo da arte (artworld)",
+     "Problema dos indiscerníveis",
+     "A obra de arte como significado encarnado",
+     "Fim da arte e pluralismo pós-histórico",
+     "Frases narrativas na explicação histórica",
+     "Ações básicas"
+    ],
+    "areas": [
+     "Estética",
+     "Filosofia da História"
+    ],
+    "aliases": [
+     "Danto",
+     "Arthur C. Danto",
+     "Arthur Coleman Danto"
+    ],
+    "seoTitle": "Arthur Danto — mundo da arte e fim da arte",
+    "seoDescription": "Biografia de Arthur Danto (1924–2013): mundo da arte, indiscerníveis, A transfiguração do lugar-comum, fim da arte e frases narrativas."
+   },
+   "en": {
+    "title": "Arthur Danto",
+    "slug": "arthur-danto",
+    "summary": "American philosopher and art critic; he formulated the notion of the artworld, the problem of indiscernibles and the thesis of the end of art.",
+    "biography": "Arthur Coleman Danto was born on 1 January 1924 in Ann Arbor, Michigan, and grew up in Detroit. He served in the US Army during the Second World War, in North Africa and Italy, and then studied art and history at Wayne University. He took his MA (1949) and PhD (1952) in philosophy at Columbia University, with a year of study in Paris under Jean Wahl. He taught at Columbia from 1951 until his retirement in 1992, latterly as Johnsonian Professor. In the 1950s he was also a printmaker. From 1984 to 2009 he was art critic for *The Nation*.\n\nIn the philosophy of history, *Analytical Philosophy of History* (1965) shows that historical narrative depends on narrative sentences, which describe an event in the light of later events its contemporaries could not know; even an ideal chronicler, recording everything at the moment it happens, could not formulate them. Danto also wrote on the theory of action, where he introduced the notion of basic actions, and on knowledge, and devoted books to Nietzsche (*Nietzsche as Philosopher*, 1965) and Sartre (1975).\n\nThe essay \"The Artworld\" (1964), prompted by Andy Warhol's *Brillo Box*, argues that seeing something as art requires an atmosphere of theory and a knowledge of the history of art, an artworld. *The Transfiguration of the Commonplace* (1981) develops the problem of indiscernibles: if an artwork and an ordinary object can be perceptually identical, what distinguishes them is not visible; artworks are about something and embody their meaning. In the essay \"The End of Art\" (1984) and in *After the End of Art* (1997), based on his 1995 Mellon Lectures, Danto argues, in a reading of Hegel, that art reached the end of its historical narrative when it began to question its own nature, opening a pluralist era in which anything can be art. *The Abuse of Beauty* (2003) and *What Art Is* (2013) return to these theses.\n\nDanto's theory influenced George Dickie's institutional theory of art and became a central reference in analytic aesthetics and in the criticism of contemporary art. Danto died on 25 October 2013 in Manhattan, New York, aged 89.",
+    "keyIdeas": [
+     "The artworld",
+     "Problem of indiscernibles",
+     "The artwork as embodied meaning",
+     "End of art and post-historical pluralism",
+     "Narrative sentences in historical explanation",
+     "Basic actions"
+    ],
+    "areas": [
+     "Aesthetics",
+     "Philosophy of History"
+    ],
+    "aliases": [
+     "Danto",
+     "Arthur C. Danto",
+     "Arthur Coleman Danto"
+    ],
+    "seoTitle": "Arthur Danto — the artworld and the end of art",
+    "seoDescription": "Biography of Arthur Danto (1924–2013): the artworld, indiscernibles, The Transfiguration of the Commonplace, the end of art, narrative sentences."
+   },
+   "fr": {
+    "title": "Arthur Danto",
+    "slug": "arthur-danto",
+    "summary": "Philosophe et critique d'art américain ; il a formulé la notion de monde de l'art, le problème des indiscernables et la thèse de la fin de l'art.",
+    "biography": "Arthur Coleman Danto naît le 1er janvier 1924 à Ann Arbor, dans le Michigan, et grandit à Detroit. Il sert dans l'armée américaine pendant la Seconde Guerre mondiale, en Afrique du Nord et en Italie, puis étudie l'art et l'histoire à la Wayne University. Il obtient à l'université Columbia une maîtrise (1949) et un doctorat (1952) de philosophie, après une année d'études à Paris auprès de Jean Wahl. Il enseigne à Columbia de 1951 à sa retraite en 1992, comme Johnsonian Professor. Dans les années 1950, il est aussi graveur. De 1984 à 2009, il est critique d'art de l'hebdomadaire *The Nation*.\n\nEn philosophie de l'histoire, *Analytical Philosophy of History* (1965) montre que le récit historique repose sur des phrases narratives, qui décrivent un événement à la lumière d'événements ultérieurs que ses contemporains ne pouvaient connaître ; même un chroniqueur idéal, qui enregistrerait tout au moment où cela se produit, ne pourrait les formuler. Danto a aussi écrit sur la théorie de l'action, où il introduit la notion d'actions de base, et sur la connaissance, et consacré des livres à Nietzsche (*Nietzsche as Philosopher*, 1965) et à Sartre (1975).\n\nL'essai « The Artworld » (1964), suscité par les *Brillo Box* d'Andy Warhol, soutient que voir quelque chose comme art exige une atmosphère de théorie et une connaissance de l'histoire de l'art, un monde de l'art. *La Transfiguration du banal* (1981) développe le problème des indiscernables : si une œuvre et un objet ordinaire peuvent être perceptivement identiques, ce qui les distingue n'est pas visible ; les œuvres d'art portent sur quelque chose et incarnent leur signification. Dans l'essai « The End of Art » (1984) et dans *L'Art contemporain et la clôture de l'histoire* (1997), issu des Mellon Lectures de 1995, Danto soutient, dans une lecture de Hegel, que l'art a atteint la fin de son récit historique en s'interrogeant sur sa propre nature, ouvrant une ère pluraliste où n'importe quoi peut être de l'art. *The Abuse of Beauty* (2003) et *Ce qu'est l'art* (2013) reprennent ces thèses.\n\nLa théorie de Danto a influencé la théorie institutionnelle de l'art de George Dickie et est devenue une référence centrale de l'esthétique analytique et de la critique de l'art contemporain. Danto est mort le 25 octobre 2013 à Manhattan, à New York, à l'âge de 89 ans.",
+    "keyIdeas": [
+     "Le monde de l'art (artworld)",
+     "Problème des indiscernables",
+     "L'œuvre d'art comme signification incarnée",
+     "Fin de l'art et pluralisme post-historique",
+     "Phrases narratives dans l'explication historique",
+     "Actions de base"
+    ],
+    "areas": [
+     "Esthétique",
+     "Philosophie de l'histoire"
+    ],
+    "aliases": [
+     "Danto",
+     "Arthur C. Danto",
+     "Arthur Coleman Danto"
+    ],
+    "seoTitle": "Arthur Danto — le monde de l'art et la fin de l'art",
+    "seoDescription": "Biographie d'Arthur Danto (1924-2013) : monde de l'art, indiscernables, La Transfiguration du banal, fin de l'art et phrases narratives."
+   },
+   "de": {
+    "title": "Arthur C. Danto",
+    "slug": "arthur-c-danto",
+    "summary": "Amerikanischer Philosoph und Kunstkritiker; prägte den Begriff der Kunstwelt, das Problem der ununterscheidbaren Gegenstücke und die These vom Ende der Kunst.",
+    "biography": "Arthur Coleman Danto wurde am 1. Januar 1924 in Ann Arbor (Michigan) geboren und wuchs in Detroit auf. Im Zweiten Weltkrieg diente er in der US-Armee in Nordafrika und Italien und studierte danach Kunst und Geschichte an der Wayne University. An der Columbia University erwarb er den Master (1949) und wurde 1952 in Philosophie promoviert; ein Studienjahr verbrachte er in Paris bei Jean Wahl. Er lehrte von 1951 bis zu seiner Emeritierung 1992 an der Columbia, zuletzt als Johnsonian Professor. In den 1950er Jahren war er auch als Druckgrafiker tätig. Von 1984 bis 2009 schrieb er als Kunstkritiker für *The Nation*.\n\nIn der Geschichtsphilosophie zeigt *Analytische Philosophie der Geschichte* (1965), dass die historische Erzählung auf narrativen Sätzen beruht, die ein Ereignis im Licht späterer Ereignisse beschreiben, welche die Zeitgenossen nicht kennen konnten; selbst ein idealer Chronist, der alles im Augenblick des Geschehens festhielte, könnte sie nicht bilden. Danto schrieb zudem über Handlungstheorie, in die er den Begriff der Basishandlung einführte, und über Erkenntnistheorie und widmete Nietzsche (*Nietzsche as Philosopher*, 1965) und Sartre (1975) eigene Bücher.\n\nDer Aufsatz „The Artworld“ (1964), angeregt durch Andy Warhols *Brillo Box*, vertritt die These, dass etwas als Kunst zu sehen eine Atmosphäre von Theorie und Kenntnis der Kunstgeschichte voraussetzt, eine Kunstwelt. *Die Verklärung des Gewöhnlichen* (1981) entfaltet das Problem der ununterscheidbaren Gegenstücke: Wenn ein Kunstwerk und ein gewöhnlicher Gegenstand wahrnehmungsmäßig identisch sein können, ist das, was sie unterscheidet, nicht sichtbar; Kunstwerke handeln von etwas und verkörpern ihre Bedeutung. Im Aufsatz „The End of Art“ (1984) und in *Das Fortleben der Kunst* (1997), hervorgegangen aus den Mellon Lectures von 1995, vertritt Danto im Anschluss an Hegel die These, die Kunst sei an das Ende ihrer geschichtlichen Erzählung gelangt, als sie nach ihrem eigenen Wesen zu fragen begann; damit beginne eine pluralistische Epoche, in der alles Kunst sein kann. *The Abuse of Beauty* (2003) und *Was Kunst ist* (2013) nehmen diese Thesen wieder auf.\n\nDantos Theorie beeinflusste George Dickies institutionelle Kunsttheorie und wurde zu einem zentralen Bezugspunkt der analytischen Ästhetik und der Kritik zeitgenössischer Kunst. Danto starb am 25. Oktober 2013 in Manhattan (New York) im Alter von 89 Jahren.",
+    "keyIdeas": [
+     "Die Kunstwelt (artworld)",
+     "Problem der ununterscheidbaren Gegenstücke",
+     "Das Kunstwerk als verkörperte Bedeutung",
+     "Ende der Kunst und posthistorischer Pluralismus",
+     "Narrative Sätze in der historischen Erklärung",
+     "Basishandlungen"
+    ],
+    "areas": [
+     "Ästhetik",
+     "Geschichtsphilosophie"
+    ],
+    "aliases": [
+     "Danto",
+     "Arthur Danto",
+     "Arthur Coleman Danto"
+    ],
+    "seoTitle": "Arthur C. Danto — Kunstwelt und Ende der Kunst",
+    "seoDescription": "Biographie Arthur C. Dantos (1924–2013): Kunstwelt, ununterscheidbare Gegenstücke, Die Verklärung des Gewöhnlichen, Ende der Kunst."
+   }
+  }
  }
 ]
