@@ -33,7 +33,8 @@
    "wrk-book-healing",
    "wrk-summa",
    "wrk-essay-locke",
-   "wrk-ideas-husserl"
+   "wrk-ideas-husserl",
+   "wrk-naming-necessity"
   ],
   "sourceIds": [
    "src-sep",
@@ -405,7 +406,9 @@
    "wrk-metaphysics",
    "wrk-essay-locke",
    "wrk-monadology",
-   "wrk-treatise-hume"
+   "wrk-treatise-hume",
+   "wrk-sense-reference",
+   "wrk-naming-necessity"
   ],
   "sourceIds": [
    "src-sep",
@@ -590,7 +593,9 @@
   "workIds": [
    "wrk-confessions",
    "wrk-krv",
-   "wrk-being-and-time"
+   "wrk-creative-evolution",
+   "wrk-being-and-time",
+   "wrk-time-narrative"
   ],
   "sourceIds": [
    "src-sep",
@@ -774,7 +779,8 @@
    "wrk-book-healing",
    "wrk-monadology",
    "wrk-enquiry-understanding",
-   "wrk-krv"
+   "wrk-krv",
+   "wrk-naming-necessity"
   ],
   "sourceIds": [
    "src-sep",
@@ -966,6 +972,7 @@
    "wrk-metaphysics",
    "wrk-summa-logicae",
    "wrk-principles-berkeley",
+   "wrk-problems-philosophy",
    "wrk-investigations"
   ],
   "sourceIds": [
@@ -1140,7 +1147,10 @@
   ],
   "workIds": [
    "wrk-on-nature-parmenides",
-   "wrk-metaphysics"
+   "wrk-metaphysics",
+   "wrk-creative-evolution",
+   "wrk-process-reality",
+   "wrk-difference-repetition"
   ],
   "sourceIds": [
    "src-sep",
@@ -1319,6 +1329,7 @@
   ],
   "workIds": [
    "wrk-on-nature-parmenides",
+   "wrk-creative-evolution",
    "wrk-being-and-time",
    "wrk-being-and-nothingness"
   ],
@@ -1673,7 +1684,9 @@
   ],
   "workIds": [
    "wrk-leviathan",
-   "wrk-essence-christianity"
+   "wrk-essence-christianity",
+   "wrk-german-ideology",
+   "wrk-consciousness-explained"
   ],
   "sourceIds": [
    "src-sep",
@@ -2033,7 +2046,8 @@
   "workIds": [
    "wrk-theaetetus",
    "wrk-politics",
-   "wrk-being-and-time"
+   "wrk-being-and-time",
+   "wrk-of-grammatology"
   ],
   "sourceIds": [
    "src-sep",
@@ -2227,7 +2241,8 @@
    "wrk-essays-montaigne",
    "wrk-meditations",
    "wrk-treatise-hume",
-   "wrk-enquiry-understanding"
+   "wrk-enquiry-understanding",
+   "wrk-reason-truth-history"
   ],
   "sourceIds": [
    "src-sep",
@@ -2403,7 +2418,9 @@
   "workIds": [
    "wrk-monadology",
    "wrk-enquiry-understanding",
-   "wrk-krv"
+   "wrk-krv",
+   "wrk-two-dogmas",
+   "wrk-naming-necessity"
   ],
   "sourceIds": [
    "src-sep",
@@ -2580,7 +2597,9 @@
    "wrk-de-anima",
    "wrk-essay-locke",
    "wrk-principles-berkeley",
-   "wrk-treatise-hume"
+   "wrk-treatise-hume",
+   "wrk-problems-philosophy",
+   "wrk-phenomenology-perception"
   ],
   "sourceIds": [
    "src-sep",
@@ -2940,6 +2959,7 @@
    "wrk-meditations",
    "wrk-ethics-spinoza",
    "wrk-krv",
+   "wrk-creative-evolution",
    "wrk-ideas-husserl"
   ],
   "sourceIds": [
@@ -3300,7 +3320,10 @@
   ],
   "workIds": [
    "wrk-outlines-pyrrhonism",
-   "wrk-meditations"
+   "wrk-meditations",
+   "wrk-problems-philosophy",
+   "wrk-logical-structure-world",
+   "wrk-logic-scientific-discovery"
   ],
   "sourceIds": [
    "src-sep",
@@ -3470,7 +3493,10 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-phenomenology-spirit"
+   "wrk-phenomenology-spirit",
+   "wrk-two-dogmas",
+   "wrk-word-object",
+   "wrk-reason-truth-history"
   ],
   "sourceIds": [
    "src-sep",
@@ -4003,7 +4029,9 @@
   "workIds": [
    "wrk-theaetetus",
    "wrk-outlines-pyrrhonism",
-   "wrk-essays-montaigne"
+   "wrk-essays-montaigne",
+   "wrk-structure-revolutions",
+   "wrk-reason-truth-history"
   ],
   "sourceIds": [
    "src-sep",
@@ -4374,7 +4402,8 @@
    "wrk-enchiridion",
    "wrk-groundwork",
    "wrk-critique-practical-reason",
-   "wrk-philosophy-right"
+   "wrk-philosophy-right",
+   "wrk-utilitarianism"
   ],
   "sourceIds": [
    "src-sep",
@@ -4553,7 +4582,11 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-principles-morals-legislation"
+   "wrk-principles-morals-legislation",
+   "wrk-utilitarianism",
+   "wrk-theory-justice",
+   "wrk-anarchy-state-utopia",
+   "wrk-animal-liberation"
   ],
   "sourceIds": [
    "src-sep",
@@ -4725,7 +4758,9 @@
   ],
   "workIds": [
    "wrk-groundwork",
-   "wrk-critique-practical-reason"
+   "wrk-critique-practical-reason",
+   "wrk-theory-justice",
+   "wrk-anarchy-state-utopia"
   ],
   "sourceIds": [
    "src-sep",
@@ -4910,7 +4945,12 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-principles-morals-legislation"
+   "wrk-principles-morals-legislation",
+   "wrk-utilitarianism",
+   "wrk-on-liberty",
+   "wrk-theory-justice",
+   "wrk-anarchy-state-utopia",
+   "wrk-animal-liberation"
   ],
   "sourceIds": [
    "src-sep",
@@ -5089,7 +5129,9 @@
   "workIds": [
    "wrk-menoeceus",
    "wrk-nicomachean",
-   "wrk-principles-morals-legislation"
+   "wrk-principles-morals-legislation",
+   "wrk-utilitarianism",
+   "wrk-anarchy-state-utopia"
   ],
   "sourceIds": [
    "src-sep",
@@ -5263,7 +5305,10 @@
   ],
   "workIds": [
    "wrk-zarathustra",
-   "wrk-genealogy"
+   "wrk-beyond-good-evil",
+   "wrk-genealogy",
+   "wrk-myth-sisyphus",
+   "wrk-rebel"
   ],
   "sourceIds": [
    "src-sep",
@@ -5438,6 +5483,7 @@
    "wrk-sickness-unto-death",
    "wrk-being-and-time",
    "wrk-being-and-nothingness",
+   "wrk-existentialism-humanism",
    "wrk-second-sex"
   ],
   "sourceIds": [
@@ -5617,7 +5663,11 @@
    "per-20th"
   ],
   "workIds": [
-   "wrk-nicomachean"
+   "wrk-nicomachean",
+   "wrk-existentialism-humanism",
+   "wrk-eichmann",
+   "wrk-totality-infinity",
+   "wrk-imperative-responsibility"
   ],
   "sourceIds": [
    "src-sep",
@@ -5801,7 +5851,9 @@
   "workIds": [
    "wrk-phenomenology-spirit",
    "wrk-being-and-nothingness",
-   "wrk-second-sex"
+   "wrk-second-sex",
+   "wrk-totality-infinity",
+   "wrk-oneself-as-another"
   ],
   "sourceIds": [
    "src-sep",
@@ -6160,7 +6212,10 @@
   ],
   "workIds": [
    "wrk-nicomachean",
-   "wrk-summa"
+   "wrk-summa",
+   "wrk-truth-method",
+   "wrk-after-virtue",
+   "wrk-fragility-goodness"
   ],
   "sourceIds": [
    "src-sep",
@@ -6337,7 +6392,10 @@
   ],
   "workIds": [
    "wrk-fear-trembling",
-   "wrk-being-and-nothingness"
+   "wrk-being-and-nothingness",
+   "wrk-myth-sisyphus",
+   "wrk-rebel",
+   "wrk-view-from-nowhere"
   ],
   "sourceIds": [
    "src-sep",
@@ -6521,7 +6579,8 @@
    "wrk-city-of-god",
    "wrk-prince",
    "wrk-leviathan",
-   "wrk-philosophy-right"
+   "wrk-philosophy-right",
+   "wrk-anarchy-state-utopia"
   ],
   "sourceIds": [
    "src-sep",
@@ -6706,7 +6765,8 @@
    "wrk-leviathan",
    "wrk-two-treatises",
    "wrk-social-contract",
-   "wrk-perpetual-peace"
+   "wrk-perpetual-peace",
+   "wrk-discipline-punish"
   ],
   "sourceIds": [
    "src-sep",
@@ -6890,7 +6950,8 @@
    "wrk-republic",
    "wrk-leviathan",
    "wrk-two-treatises",
-   "wrk-social-contract"
+   "wrk-social-contract",
+   "wrk-theory-justice"
   ],
   "sourceIds": [
    "src-sep",
@@ -7074,7 +7135,8 @@
    "wrk-leviathan",
    "wrk-two-treatises",
    "wrk-discourse-inequality",
-   "wrk-social-contract"
+   "wrk-social-contract",
+   "wrk-anarchy-state-utopia"
   ],
   "sourceIds": [
    "src-sep",
@@ -7255,7 +7317,8 @@
   "workIds": [
    "wrk-prince",
    "wrk-leviathan",
-   "wrk-human-condition"
+   "wrk-human-condition",
+   "wrk-discipline-punish"
   ],
   "sourceIds": [
    "src-sep",
@@ -7444,7 +7507,8 @@
    "wrk-summa",
    "wrk-leviathan",
    "wrk-two-treatises",
-   "wrk-origins-totalitarianism"
+   "wrk-origins-totalitarianism",
+   "wrk-anarchy-state-utopia"
   ],
   "sourceIds": [
    "src-sep",
@@ -7634,7 +7698,9 @@
    "wrk-republic",
    "wrk-politics",
    "wrk-social-contract",
-   "wrk-democracy-america"
+   "wrk-democracy-america",
+   "wrk-on-liberty",
+   "wrk-communicative-action"
   ],
   "sourceIds": [
    "src-sep",
@@ -7817,7 +7883,9 @@
   ],
   "workIds": [
    "wrk-two-treatises",
-   "wrk-social-contract"
+   "wrk-social-contract",
+   "wrk-communicative-action",
+   "wrk-theory-justice"
   ],
   "sourceIds": [
    "src-sep",
@@ -7993,7 +8061,11 @@
    "per-20th"
   ],
   "workIds": [
-   "wrk-origins-totalitarianism"
+   "wrk-origins-totalitarianism",
+   "wrk-open-society",
+   "wrk-dialectic-enlightenment",
+   "wrk-eichmann",
+   "wrk-rebel"
   ],
   "sourceIds": [
    "src-sep",
@@ -8169,6 +8241,8 @@
    "per-contemporary"
   ],
   "workIds": [
+   "wrk-theory-justice",
+   "wrk-anarchy-state-utopia",
    "wrk-groundwork"
   ],
   "sourceIds": [
@@ -8532,7 +8606,8 @@
    "wrk-politics",
    "wrk-leviathan",
    "wrk-discourse-inequality",
-   "wrk-democracy-america"
+   "wrk-democracy-america",
+   "wrk-theory-justice"
   ],
   "sourceIds": [
    "src-sep",
@@ -8715,7 +8790,8 @@
   ],
   "workIds": [
    "wrk-critique-judgment",
-   "wrk-world-as-will"
+   "wrk-world-as-will",
+   "wrk-aesthetic-theory"
   ],
   "sourceIds": [
    "src-sep",
@@ -8883,7 +8959,8 @@
    "per-20th"
   ],
   "workIds": [
-   "wrk-critique-judgment"
+   "wrk-critique-judgment",
+   "wrk-truth-method"
   ],
   "sourceIds": [
    "src-sep",
@@ -9054,7 +9131,10 @@
   ],
   "workIds": [
    "wrk-republic",
-   "wrk-poetics"
+   "wrk-poetics",
+   "wrk-dialectic-enlightenment",
+   "wrk-aesthetic-theory",
+   "wrk-time-narrative"
   ],
   "sourceIds": [
    "src-sep",
@@ -9229,7 +9309,9 @@
   "workIds": [
    "wrk-poetics",
    "wrk-politics",
-   "wrk-phaedo"
+   "wrk-phaedo",
+   "wrk-birth-tragedy",
+   "wrk-fragility-goodness"
   ],
   "sourceIds": [
    "src-sep",
@@ -9403,7 +9485,8 @@
   "workIds": [
    "wrk-critique-judgment",
    "wrk-system-transcendental-idealism",
-   "wrk-world-as-will"
+   "wrk-world-as-will",
+   "wrk-truth-method"
   ],
   "sourceIds": [
    "src-sep",
@@ -9573,7 +9656,11 @@
    "per-20th",
    "per-contemporary"
   ],
-  "workIds": [],
+  "workIds": [
+   "wrk-work-of-art",
+   "wrk-dialectic-enlightenment",
+   "wrk-aesthetic-theory"
+  ],
   "sourceIds": [
    "src-sep",
    "src-routledge"
@@ -9738,7 +9825,10 @@
   "workIds": [
    "wrk-republic",
    "wrk-poetics",
-   "wrk-critique-judgment"
+   "wrk-critique-judgment",
+   "wrk-origin-work-of-art",
+   "wrk-aesthetic-theory",
+   "wrk-transfiguration-commonplace"
   ],
   "sourceIds": [
    "src-sep",
@@ -9919,7 +10009,10 @@
   ],
   "workIds": [
    "wrk-critique-judgment",
-   "wrk-world-as-will"
+   "wrk-world-as-will",
+   "wrk-experience-nature",
+   "wrk-truth-method",
+   "wrk-aesthetic-theory"
   ],
   "sourceIds": [
    "src-sep",
@@ -10089,7 +10182,9 @@
    "per-20th"
   ],
   "workIds": [
-   "wrk-world-as-will"
+   "wrk-birth-tragedy",
+   "wrk-world-as-will",
+   "wrk-beyond-good-evil"
   ],
   "sourceIds": [
    "src-sep",
@@ -10257,7 +10352,10 @@
   ],
   "workIds": [
    "wrk-discourse",
-   "wrk-krv"
+   "wrk-krv",
+   "wrk-begriffsschrift",
+   "wrk-principia-mathematica",
+   "wrk-logic-scientific-discovery"
   ],
   "sourceIds": [
    "src-sep",
@@ -10443,7 +10541,8 @@
    "wrk-summa-logicae",
    "wrk-novum-organum",
    "wrk-discourse",
-   "wrk-krv"
+   "wrk-krv",
+   "wrk-begriffsschrift"
   ],
   "sourceIds": [
    "src-sep",
@@ -10620,7 +10719,11 @@
    "per-19th",
    "per-20th"
   ],
-  "workIds": [],
+  "workIds": [
+   "wrk-sense-reference",
+   "wrk-tractatus",
+   "wrk-word-object"
+  ],
   "sourceIds": [
    "src-sep",
    "src-abbagnano",
@@ -10797,7 +10900,10 @@
    "per-20th"
   ],
   "workIds": [
-   "wrk-summa-logicae"
+   "wrk-summa-logicae",
+   "wrk-begriffsschrift",
+   "wrk-principia-mathematica",
+   "wrk-tractatus"
   ],
   "sourceIds": [
    "src-sep",
@@ -11166,7 +11272,8 @@
   ],
   "workIds": [
    "wrk-krv",
-   "wrk-fear-trembling"
+   "wrk-fear-trembling",
+   "wrk-principia-mathematica"
   ],
   "sourceIds": [
    "src-sep",
@@ -11512,7 +11619,10 @@
    "per-20th",
    "per-contemporary"
   ],
-  "workIds": [],
+  "workIds": [
+   "wrk-fixation-belief",
+   "wrk-logic-scientific-discovery"
+  ],
   "sourceIds": [
    "src-sep",
    "src-abbagnano",
@@ -11687,6 +11797,8 @@
    "per-20th"
   ],
   "workIds": [
+   "wrk-tractatus",
+   "wrk-two-dogmas",
    "wrk-investigations"
   ],
   "sourceIds": [
@@ -11860,7 +11972,10 @@
   "workIds": [
    "wrk-monadology",
    "wrk-enquiry-understanding",
-   "wrk-krv"
+   "wrk-krv",
+   "wrk-logical-investigations",
+   "wrk-two-dogmas",
+   "wrk-naming-necessity"
   ],
   "sourceIds": [
    "src-sep",
@@ -12037,7 +12152,10 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-enquiry-understanding"
+   "wrk-enquiry-understanding",
+   "wrk-logic-scientific-discovery",
+   "wrk-two-dogmas",
+   "wrk-structure-revolutions"
   ],
   "sourceIds": [
    "src-sep",
@@ -12215,7 +12333,10 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-republic"
+   "wrk-republic",
+   "wrk-logic-scientific-discovery",
+   "wrk-structure-revolutions",
+   "wrk-order-things"
   ],
   "sourceIds": [
    "src-sep",
@@ -12395,7 +12516,10 @@
   ],
   "workIds": [
    "wrk-novum-organum",
-   "wrk-discourse"
+   "wrk-discourse",
+   "wrk-fixation-belief",
+   "wrk-logic-scientific-discovery",
+   "wrk-structure-revolutions"
   ],
   "sourceIds": [
    "src-sep",
@@ -12576,7 +12700,9 @@
   ],
   "workIds": [
    "wrk-metaphysics",
-   "wrk-enquiry-understanding"
+   "wrk-enquiry-understanding",
+   "wrk-introduction-human-sciences",
+   "wrk-logic-scientific-discovery"
   ],
   "sourceIds": [
    "src-sep",
@@ -12923,7 +13049,10 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-enquiry-understanding"
+   "wrk-enquiry-understanding",
+   "wrk-tractatus",
+   "wrk-logic-scientific-discovery",
+   "wrk-two-dogmas"
   ],
   "sourceIds": [
    "src-sep",
@@ -13103,7 +13232,8 @@
   "workIds": [
    "wrk-phaedo",
    "wrk-republic",
-   "wrk-krv"
+   "wrk-krv",
+   "wrk-logic-scientific-discovery"
   ],
   "sourceIds": [
    "src-sep",
@@ -13461,7 +13591,9 @@
   ],
   "workIds": [
    "wrk-krv",
-   "wrk-positive-philosophy"
+   "wrk-positive-philosophy",
+   "wrk-logic-scientific-discovery",
+   "wrk-structure-revolutions"
   ],
   "sourceIds": [
    "src-sep",
@@ -13636,7 +13768,11 @@
    "per-20th",
    "per-contemporary"
   ],
-  "workIds": [],
+  "workIds": [
+   "wrk-word-object",
+   "wrk-structure-revolutions",
+   "wrk-reason-truth-history"
+  ],
   "sourceIds": [
    "src-sep",
    "src-abbagnano",
@@ -13806,7 +13942,8 @@
    "wrk-discourse",
    "wrk-leviathan",
    "wrk-monadology",
-   "wrk-critique-judgment"
+   "wrk-critique-judgment",
+   "wrk-creative-evolution"
   ],
   "sourceIds": [
    "src-sep",
@@ -13991,7 +14128,9 @@
    "wrk-phaedo",
    "wrk-book-healing",
    "wrk-meditations",
-   "wrk-monadology"
+   "wrk-monadology",
+   "wrk-concept-mind",
+   "wrk-conscious-mind"
   ],
   "sourceIds": [
    "src-sep",
@@ -14177,7 +14316,10 @@
   "workIds": [
    "wrk-de-anima",
    "wrk-meditations",
-   "wrk-ethics-spinoza"
+   "wrk-ethics-spinoza",
+   "wrk-concept-mind",
+   "wrk-what-is-it-like-bat",
+   "wrk-conscious-mind"
   ],
   "sourceIds": [
    "src-sep",
@@ -14357,7 +14499,10 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-essay-locke"
+   "wrk-essay-locke",
+   "wrk-what-is-it-like-bat",
+   "wrk-consciousness-explained",
+   "wrk-conscious-mind"
   ],
   "sourceIds": [
    "src-sep",
@@ -14544,7 +14689,11 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-leviathan"
+   "wrk-leviathan",
+   "wrk-word-object",
+   "wrk-naming-necessity",
+   "wrk-consciousness-explained",
+   "wrk-conscious-mind"
   ],
   "sourceIds": [
    "src-sep",
@@ -14721,7 +14870,9 @@
   ],
   "workIds": [
    "wrk-de-anima",
-   "wrk-leviathan"
+   "wrk-leviathan",
+   "wrk-consciousness-explained",
+   "wrk-conscious-mind"
   ],
   "sourceIds": [
    "src-sep",
@@ -14895,7 +15046,9 @@
   "workIds": [
    "wrk-essay-locke",
    "wrk-treatise-hume",
-   "wrk-krv"
+   "wrk-krv",
+   "wrk-after-virtue",
+   "wrk-oneself-as-another"
   ],
   "sourceIds": [
    "src-sep",
@@ -15251,7 +15404,9 @@
   "workIds": [
    "wrk-ideas-husserl",
    "wrk-being-and-nothingness",
-   "wrk-second-sex"
+   "wrk-phenomenology-perception",
+   "wrk-second-sex",
+   "wrk-black-skin"
   ],
   "sourceIds": [
    "src-sep",
@@ -15420,7 +15575,10 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-monadology"
+   "wrk-monadology",
+   "wrk-what-is-it-like-bat",
+   "wrk-consciousness-explained",
+   "wrk-conscious-mind"
   ],
   "sourceIds": [
    "src-sep",
@@ -15589,7 +15747,9 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-monadology"
+   "wrk-monadology",
+   "wrk-consciousness-explained",
+   "wrk-conscious-mind"
   ],
   "sourceIds": [
    "src-sep",
@@ -15763,6 +15923,9 @@
    "per-contemporary"
   ],
   "workIds": [
+   "wrk-concept-mind",
+   "wrk-logical-investigations",
+   "wrk-principia-mathematica",
    "wrk-investigations"
   ],
   "sourceIds": [
@@ -15943,7 +16106,11 @@
   ],
   "workIds": [
    "wrk-essay-locke",
-   "wrk-investigations"
+   "wrk-sense-reference",
+   "wrk-tractatus",
+   "wrk-investigations",
+   "wrk-two-dogmas",
+   "wrk-word-object"
   ],
   "sourceIds": [
    "src-sep",
@@ -16127,7 +16294,11 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-summa-logicae"
+   "wrk-summa-logicae",
+   "wrk-sense-reference",
+   "wrk-problems-philosophy",
+   "wrk-word-object",
+   "wrk-naming-necessity"
   ],
   "sourceIds": [
    "src-sep",
@@ -16300,7 +16471,12 @@
    "per-20th",
    "per-contemporary"
   ],
-  "workIds": [],
+  "workIds": [
+   "wrk-sense-reference",
+   "wrk-begriffsschrift",
+   "wrk-logical-investigations",
+   "wrk-naming-necessity"
+  ],
   "sourceIds": [
    "src-sep",
    "src-abbagnano",
@@ -16476,7 +16652,11 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-investigations"
+   "wrk-how-to-do-things",
+   "wrk-speech-acts",
+   "wrk-investigations",
+   "wrk-communicative-action",
+   "wrk-gender-trouble"
   ],
   "sourceIds": [
    "src-sep",
@@ -16656,7 +16836,9 @@
   "workIds": [
    "wrk-outlines-pyrrhonism",
    "wrk-summa-logicae",
-   "wrk-essay-locke"
+   "wrk-essay-locke",
+   "wrk-logical-investigations",
+   "wrk-of-grammatology"
   ],
   "sourceIds": [
    "src-sep",
@@ -16819,7 +17001,10 @@
    "per-20th"
   ],
   "workIds": [
-   "wrk-being-and-time"
+   "wrk-introduction-human-sciences",
+   "wrk-being-and-time",
+   "wrk-truth-method",
+   "wrk-time-narrative"
   ],
   "sourceIds": [
    "src-sep",
@@ -16992,7 +17177,12 @@
    "per-20th",
    "per-contemporary"
   ],
-  "workIds": [],
+  "workIds": [
+   "wrk-naming-necessity",
+   "wrk-sense-reference",
+   "wrk-speech-acts",
+   "wrk-conscious-mind"
+  ],
   "sourceIds": [
    "src-sep",
    "src-abbagnano",
@@ -17157,7 +17347,9 @@
   ],
   "workIds": [
    "wrk-investigations",
-   "wrk-confessions"
+   "wrk-tractatus",
+   "wrk-confessions",
+   "wrk-how-to-do-things"
   ],
   "sourceIds": [
    "src-sep",
@@ -17326,7 +17518,11 @@
    "per-20th",
    "per-contemporary"
   ],
-  "workIds": [],
+  "workIds": [
+   "wrk-word-object",
+   "wrk-two-dogmas",
+   "wrk-reason-truth-history"
+  ],
   "sourceIds": [
    "src-sep",
    "src-abbagnano",
@@ -17491,7 +17687,10 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-being-and-time"
+   "wrk-of-grammatology",
+   "wrk-logical-investigations",
+   "wrk-being-and-time",
+   "wrk-gender-trouble"
   ],
   "sourceIds": [
    "src-sep",
@@ -17658,7 +17857,8 @@
   "workIds": [
    "wrk-investigations",
    "wrk-meditations",
-   "wrk-essay-locke"
+   "wrk-essay-locke",
+   "wrk-concept-mind"
   ],
   "sourceIds": [
    "src-sep",
@@ -19110,7 +19310,8 @@
    "wrk-republic",
    "wrk-enneads",
    "wrk-krv",
-   "wrk-being-and-time"
+   "wrk-being-and-time",
+   "wrk-totality-infinity"
   ],
   "sourceIds": [
    "src-sep",
@@ -19283,7 +19484,11 @@
    "per-20th",
    "per-contemporary"
   ],
-  "workIds": [],
+  "workIds": [
+   "wrk-varieties-religious-experience",
+   "wrk-work-of-art",
+   "wrk-communicative-action"
+  ],
   "sourceIds": [
    "src-sep",
    "src-abbagnano",
@@ -19458,7 +19663,9 @@
   "workIds": [
    "wrk-phenomenology-spirit",
    "wrk-essence-christianity",
-   "wrk-zarathustra"
+   "wrk-zarathustra",
+   "wrk-existentialism-humanism",
+   "wrk-rebel"
   ],
   "sourceIds": [
    "src-sep",
@@ -19633,7 +19840,9 @@
    "wrk-phenomenology-spirit",
    "wrk-philosophy-right",
    "wrk-being-and-nothingness",
-   "wrk-second-sex"
+   "wrk-second-sex",
+   "wrk-black-skin",
+   "wrk-struggle-recognition"
   ],
   "sourceIds": [
    "src-sep",
@@ -19805,7 +20014,9 @@
   ],
   "workIds": [
    "wrk-treatise-hume",
-   "wrk-philosophy-right"
+   "wrk-philosophy-right",
+   "wrk-speech-acts",
+   "wrk-theory-justice"
   ],
   "sourceIds": [
    "src-sep",
@@ -19975,6 +20186,7 @@
   ],
   "workIds": [
    "wrk-perpetual-peace",
+   "wrk-on-liberty",
    "wrk-human-condition"
   ],
   "sourceIds": [
@@ -20144,7 +20356,9 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-capital"
+   "wrk-capital",
+   "wrk-dialectic-enlightenment",
+   "wrk-negative-dialectics"
   ],
   "sourceIds": [
    "src-sep",
@@ -20310,7 +20524,11 @@
    "per-20th",
    "per-contemporary"
   ],
-  "workIds": [],
+  "workIds": [
+   "wrk-dialectic-enlightenment",
+   "wrk-work-of-art",
+   "wrk-aesthetic-theory"
+  ],
   "sourceIds": [
    "src-sep",
    "src-universalis",
@@ -20471,7 +20689,8 @@
    "per-20th"
   ],
   "workIds": [
-   "wrk-genealogy"
+   "wrk-genealogy",
+   "wrk-discipline-punish"
   ],
   "sourceIds": [
    "src-sep",
@@ -20646,7 +20865,8 @@
   "workIds": [
    "wrk-politics",
    "wrk-phenomenology-spirit",
-   "wrk-capital"
+   "wrk-capital",
+   "wrk-dialectic-enlightenment"
   ],
   "sourceIds": [
    "src-sep",
@@ -20822,7 +21042,9 @@
    "per-contemporary"
   ],
   "workIds": [
-   "wrk-second-sex"
+   "wrk-german-ideology",
+   "wrk-second-sex",
+   "wrk-wretched-earth"
   ],
   "sourceIds": [
    "src-sep",
@@ -20992,6 +21214,7 @@
    "per-contemporary"
   ],
   "workIds": [
+   "wrk-discipline-punish",
    "wrk-human-condition"
   ],
   "sourceIds": [
@@ -21157,7 +21380,11 @@
    "per-20th",
    "per-contemporary"
   ],
-  "workIds": [],
+  "workIds": [
+   "wrk-how-to-do-things",
+   "wrk-speech-acts",
+   "wrk-gender-trouble"
+  ],
   "sourceIds": [
    "src-sep",
    "src-universalis",
@@ -21320,7 +21547,12 @@
    "per-20th",
    "per-contemporary"
   ],
-  "workIds": [],
+  "workIds": [
+   "wrk-crisis",
+   "wrk-how-to-do-things",
+   "wrk-speech-acts",
+   "wrk-communicative-action"
+  ],
   "sourceIds": [
    "src-sep",
    "src-universalis",
@@ -21495,7 +21727,9 @@
    "wrk-novum-organum",
    "wrk-discourse-inequality",
    "wrk-positive-philosophy",
-   "wrk-lectures-philosophy-history"
+   "wrk-lectures-philosophy-history",
+   "wrk-theses-history",
+   "wrk-dialectic-enlightenment"
   ],
   "sourceIds": [
    "src-sep",
@@ -21674,7 +21908,10 @@
    "per-20th"
   ],
   "workIds": [
-   "wrk-new-science"
+   "wrk-new-science",
+   "wrk-introduction-human-sciences",
+   "wrk-open-society",
+   "wrk-truth-method"
   ],
   "sourceIds": [
    "src-sep",
@@ -22031,7 +22268,9 @@
    "per-20th"
   ],
   "workIds": [
+   "wrk-german-ideology",
    "wrk-capital",
+   "wrk-theses-history",
    "wrk-lectures-philosophy-history"
   ],
   "sourceIds": [
@@ -22207,6 +22446,9 @@
   ],
   "workIds": [
    "wrk-genealogy",
+   "wrk-beyond-good-evil",
+   "wrk-discipline-punish",
+   "wrk-gender-trouble",
    "wrk-treatise-hume"
   ],
   "sourceIds": [
@@ -22383,7 +22625,10 @@
    "per-20th"
   ],
   "workIds": [
-   "wrk-being-and-time"
+   "wrk-introduction-human-sciences",
+   "wrk-being-and-time",
+   "wrk-crisis",
+   "wrk-truth-method"
   ],
   "sourceIds": [
    "src-sep",
@@ -22908,7 +23153,9 @@
   ],
   "workIds": [
    "wrk-philosophy-right",
-   "wrk-lectures-philosophy-history"
+   "wrk-lectures-philosophy-history",
+   "wrk-structure-revolutions",
+   "wrk-order-things"
   ],
   "sourceIds": [
    "src-sep",
@@ -23081,7 +23328,8 @@
   "workIds": [
    "wrk-new-science",
    "wrk-lectures-philosophy-history",
-   "wrk-capital"
+   "wrk-capital",
+   "wrk-negative-dialectics"
   ],
   "sourceIds": [
    "src-sep",
