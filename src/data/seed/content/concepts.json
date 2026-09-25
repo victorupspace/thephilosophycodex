@@ -13,7 +13,8 @@
    "phi-duns-scotus",
    "phi-locke",
    "phi-husserl",
-   "phi-sartre"
+   "phi-sartre",
+   "phi-kripke"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -193,6 +194,7 @@
    "phi-aquinas",
    "phi-kant",
    "phi-kierkegaard",
+   "phi-frege",
    "phi-heidegger",
    "phi-sartre"
   ],
@@ -378,7 +380,10 @@
    "phi-locke",
    "phi-leibniz",
    "phi-hume",
-   "phi-hegel"
+   "phi-hegel",
+   "phi-frege",
+   "phi-quine",
+   "phi-kripke"
   ],
   "schoolIds": [
    "sch-rationalism",
@@ -561,6 +566,7 @@
    "phi-augustine",
    "phi-leibniz",
    "phi-kant",
+   "phi-bergson",
    "phi-husserl",
    "phi-heidegger"
   ],
@@ -741,7 +747,9 @@
    "phi-duns-scotus",
    "phi-leibniz",
    "phi-hume",
-   "phi-kant"
+   "phi-kant",
+   "phi-carnap",
+   "phi-kripke"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -929,7 +937,8 @@
    "phi-abelard",
    "phi-aquinas",
    "phi-duns-scotus",
-   "phi-ockham"
+   "phi-ockham",
+   "phi-russell"
   ],
   "schoolIds": [
    "sch-platonism",
@@ -1104,7 +1113,9 @@
    "phi-plato",
    "phi-aristotle",
    "phi-hegel",
-   "phi-nietzsche"
+   "phi-nietzsche",
+   "phi-bergson",
+   "phi-whitehead"
   ],
   "schoolIds": [
    "sch-platonism",
@@ -1278,7 +1289,9 @@
    "phi-plato",
    "phi-leibniz",
    "phi-hegel",
+   "phi-bergson",
    "phi-heidegger",
+   "phi-carnap",
    "phi-sartre"
   ],
   "schoolIds": [
@@ -1459,7 +1472,8 @@
    "phi-spinoza",
    "phi-leibniz",
    "phi-kant",
-   "phi-husserl"
+   "phi-husserl",
+   "phi-deleuze"
   ],
   "schoolIds": [
    "sch-rationalism",
@@ -1629,7 +1643,9 @@
    "phi-democritus",
    "phi-epicurus",
    "phi-hobbes",
-   "phi-marx"
+   "phi-feuerbach",
+   "phi-marx",
+   "phi-dennett"
   ],
   "schoolIds": [
    "sch-atomism",
@@ -1984,7 +2000,8 @@
    "phi-aristotle",
    "phi-zeno",
    "phi-augustine",
-   "phi-heidegger"
+   "phi-heidegger",
+   "phi-derrida"
   ],
   "schoolIds": [
    "sch-platonism",
@@ -2173,7 +2190,8 @@
    "phi-descartes",
    "phi-hume",
    "phi-kant",
-   "phi-wittgenstein"
+   "phi-wittgenstein",
+   "phi-putnam"
   ],
   "schoolIds": [
    "sch-scepticism",
@@ -2344,7 +2362,11 @@
    "phi-aristotle",
    "phi-leibniz",
    "phi-hume",
-   "phi-kant"
+   "phi-kant",
+   "phi-mill",
+   "phi-frege",
+   "phi-quine",
+   "phi-kripke"
   ],
   "schoolIds": [
    "sch-rationalism",
@@ -2515,7 +2537,10 @@
    "phi-locke",
    "phi-berkeley",
    "phi-hume",
-   "phi-husserl"
+   "phi-husserl",
+   "phi-russell",
+   "phi-merleau-ponty",
+   "phi-austin"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -2870,6 +2895,7 @@
    "phi-descartes",
    "phi-spinoza",
    "phi-kant",
+   "phi-bergson",
    "phi-husserl"
   ],
   "schoolIds": [
@@ -3227,7 +3253,10 @@
   "philosopherIds": [
    "phi-aristotle",
    "phi-sextus",
-   "phi-descartes"
+   "phi-descartes",
+   "phi-russell",
+   "phi-carnap",
+   "phi-popper"
   ],
   "schoolIds": [
    "sch-rationalism",
@@ -3396,7 +3425,10 @@
    "cat-epistemology"
   ],
   "philosopherIds": [
-   "phi-hegel"
+   "phi-hegel",
+   "phi-carnap",
+   "phi-quine",
+   "phi-putnam"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -3567,7 +3599,9 @@
    "cat-epistemology"
   ],
   "philosopherIds": [
-   "phi-plato"
+   "phi-plato",
+   "phi-russell",
+   "phi-nozick"
   ],
   "schoolIds": [
    "sch-analytic"
@@ -3737,7 +3771,9 @@
   "philosopherIds": [
    "phi-plato",
    "phi-kant",
+   "phi-fichte",
    "phi-hegel",
+   "phi-schopenhauer",
    "phi-husserl"
   ],
   "schoolIds": [
@@ -3918,7 +3954,9 @@
    "phi-protagoras",
    "phi-plato",
    "phi-sextus",
-   "phi-montaigne"
+   "phi-montaigne",
+   "phi-kuhn",
+   "phi-putnam"
   ],
   "schoolIds": [
    "sch-scepticism",
@@ -4100,6 +4138,7 @@
    "phi-aquinas",
    "phi-spinoza",
    "phi-kant",
+   "phi-mill",
    "phi-nietzsche"
   ],
   "schoolIds": [
@@ -4282,7 +4321,10 @@
    "phi-zeno",
    "phi-epictetus",
    "phi-kant",
-   "phi-hegel"
+   "phi-fichte",
+   "phi-hegel",
+   "phi-mill",
+   "phi-anscombe"
   ],
   "schoolIds": [
    "sch-stoicism",
@@ -4458,7 +4500,11 @@
    "cat-ethics"
   ],
   "philosopherIds": [
-   "phi-bentham"
+   "phi-bentham",
+   "phi-mill",
+   "phi-anscombe",
+   "phi-rawls",
+   "phi-nozick"
   ],
   "schoolIds": [
    "sch-utilitarianism",
@@ -4623,7 +4669,10 @@
   "philosopherIds": [
    "phi-aquinas",
    "phi-kant",
-   "phi-bentham"
+   "phi-bentham",
+   "phi-anscombe",
+   "phi-rawls",
+   "phi-nozick"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -4804,7 +4853,10 @@
   ],
   "philosopherIds": [
    "phi-hume",
-   "phi-bentham"
+   "phi-bentham",
+   "phi-mill",
+   "phi-rawls",
+   "phi-nozick"
   ],
   "schoolIds": [
    "sch-utilitarianism",
@@ -4977,7 +5029,9 @@
    "phi-plato",
    "phi-aristotle",
    "phi-epicurus",
-   "phi-bentham"
+   "phi-bentham",
+   "phi-mill",
+   "phi-nozick"
   ],
   "schoolIds": [
    "sch-epicureanism",
@@ -5150,8 +5204,11 @@
    "cat-metaphysics"
   ],
   "philosopherIds": [
+   "phi-fichte",
+   "phi-schopenhauer",
    "phi-nietzsche",
-   "phi-heidegger"
+   "phi-heidegger",
+   "phi-camus"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -5501,7 +5558,9 @@
    "phi-aristotle",
    "phi-kant",
    "phi-sartre",
-   "phi-arendt"
+   "phi-arendt",
+   "phi-levinas",
+   "phi-jonas"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -5681,7 +5740,9 @@
    "phi-hegel",
    "phi-husserl",
    "phi-sartre",
-   "phi-beauvoir"
+   "phi-beauvoir",
+   "phi-levinas",
+   "phi-ricoeur"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -5856,7 +5917,9 @@
   ],
   "philosopherIds": [
    "phi-kant",
-   "phi-arendt"
+   "phi-schopenhauer",
+   "phi-arendt",
+   "phi-habermas"
   ],
   "schoolIds": [
    "sch-humanism",
@@ -6033,7 +6096,8 @@
    "phi-plato",
    "phi-aristotle",
    "phi-aquinas",
-   "phi-kant"
+   "phi-kant",
+   "phi-gadamer"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -6211,7 +6275,9 @@
   ],
   "philosopherIds": [
    "phi-kierkegaard",
-   "phi-sartre"
+   "phi-sartre",
+   "phi-camus",
+   "phi-nagel"
   ],
   "schoolIds": [
    "sch-existentialism"
@@ -6384,7 +6450,8 @@
    "phi-machiavelli",
    "phi-hobbes",
    "phi-hegel",
-   "phi-marx"
+   "phi-marx",
+   "phi-nozick"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -6568,7 +6635,8 @@
    "phi-locke",
    "phi-rousseau",
    "phi-kant",
-   "phi-arendt"
+   "phi-arendt",
+   "phi-foucault"
   ],
   "schoolIds": [
    "sch-contractualism",
@@ -6746,7 +6814,8 @@
    "phi-locke",
    "phi-hume",
    "phi-rousseau",
-   "phi-kant"
+   "phi-kant",
+   "phi-rawls"
   ],
   "schoolIds": [
    "sch-contractualism",
@@ -6926,7 +6995,9 @@
    "phi-hobbes",
    "phi-locke",
    "phi-rousseau",
-   "phi-kant"
+   "phi-kant",
+   "phi-rawls",
+   "phi-nozick"
   ],
   "schoolIds": [
    "sch-contractualism",
@@ -7098,7 +7169,8 @@
    "phi-hobbes",
    "phi-spinoza",
    "phi-nietzsche",
-   "phi-arendt"
+   "phi-arendt",
+   "phi-foucault"
   ],
   "schoolIds": [
    "sch-contractualism",
@@ -7284,7 +7356,8 @@
    "phi-hobbes",
    "phi-locke",
    "phi-bentham",
-   "phi-marx"
+   "phi-marx",
+   "phi-nozick"
   ],
   "schoolIds": [
    "sch-scholasticism",
@@ -7466,7 +7539,11 @@
   "philosopherIds": [
    "phi-plato",
    "phi-aristotle",
-   "phi-rousseau"
+   "phi-rousseau",
+   "phi-tocqueville",
+   "phi-mill",
+   "phi-dewey",
+   "phi-habermas"
   ],
   "schoolIds": [
    "sch-liberalism",
@@ -7649,7 +7726,9 @@
   "philosopherIds": [
    "phi-locke",
    "phi-rousseau",
-   "phi-kant"
+   "phi-kant",
+   "phi-habermas",
+   "phi-rawls"
   ],
   "schoolIds": [
    "sch-contractualism",
@@ -7822,7 +7901,11 @@
    "cat-social"
   ],
   "philosopherIds": [
-   "phi-arendt"
+   "phi-arendt",
+   "phi-popper",
+   "phi-horkheimer",
+   "phi-adorno",
+   "phi-camus"
   ],
   "schoolIds": [
    "sch-critical-theory",
@@ -7994,7 +8077,10 @@
    "cat-ethics"
   ],
   "philosopherIds": [
-   "phi-kant"
+   "phi-kant",
+   "phi-rawls",
+   "phi-nozick",
+   "phi-habermas"
   ],
   "schoolIds": [
    "sch-contractualism",
@@ -8164,7 +8250,8 @@
   "philosopherIds": [
    "phi-rousseau",
    "phi-kant",
-   "phi-hegel"
+   "phi-hegel",
+   "phi-habermas"
   ],
   "schoolIds": [
    "sch-contractualism",
@@ -8341,7 +8428,9 @@
    "phi-hobbes",
    "phi-locke",
    "phi-rousseau",
-   "phi-marx"
+   "phi-tocqueville",
+   "phi-marx",
+   "phi-rawls"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -8523,7 +8612,9 @@
   ],
   "philosopherIds": [
    "phi-kant",
-   "phi-hegel"
+   "phi-hegel",
+   "phi-schopenhauer",
+   "phi-adorno"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -8690,6 +8781,7 @@
   "philosopherIds": [
    "phi-hume",
    "phi-kant",
+   "phi-gadamer",
    "phi-arendt"
   ],
   "schoolIds": [
@@ -8854,7 +8946,10 @@
   ],
   "philosopherIds": [
    "phi-plato",
-   "phi-aristotle"
+   "phi-aristotle",
+   "phi-benjamin",
+   "phi-adorno",
+   "phi-ricoeur"
   ],
   "schoolIds": [
    "sch-platonism",
@@ -9196,6 +9291,8 @@
   "philosopherIds": [
    "phi-plato",
    "phi-kant",
+   "phi-schelling",
+   "phi-schopenhauer",
    "phi-nietzsche"
   ],
   "schoolIds": [
@@ -9362,7 +9459,11 @@
    "cat-aesthetics",
    "cat-social"
   ],
-  "philosopherIds": [],
+  "philosopherIds": [
+   "phi-benjamin",
+   "phi-adorno",
+   "phi-habermas"
+  ],
   "schoolIds": [
    "sch-critical-theory",
    "sch-marxism"
@@ -9517,7 +9618,8 @@
    "phi-aristotle",
    "phi-kant",
    "phi-hegel",
-   "phi-heidegger"
+   "phi-heidegger",
+   "phi-adorno"
   ],
   "schoolIds": [
    "sch-platonism",
@@ -9693,7 +9795,11 @@
    "cat-aesthetics"
   ],
   "philosopherIds": [
-   "phi-kant"
+   "phi-kant",
+   "phi-schopenhauer",
+   "phi-dewey",
+   "phi-gadamer",
+   "phi-adorno"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -9864,8 +9970,10 @@
    "cat-metaphysics"
   ],
   "philosopherIds": [
+   "phi-schopenhauer",
    "phi-nietzsche",
-   "phi-heidegger"
+   "phi-heidegger",
+   "phi-deleuze"
   ],
   "schoolIds": [],
   "periodIds": [
@@ -10020,7 +10128,11 @@
   "philosopherIds": [
    "phi-aristotle",
    "phi-descartes",
-   "phi-kant"
+   "phi-kant",
+   "phi-mill",
+   "phi-peirce",
+   "phi-frege",
+   "phi-popper"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -10202,7 +10314,9 @@
    "phi-ockham",
    "phi-bacon",
    "phi-descartes",
-   "phi-kant"
+   "phi-kant",
+   "phi-mill",
+   "phi-frege"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -10379,7 +10493,10 @@
    "phi-aristotle",
    "phi-boethius",
    "phi-abelard",
-   "phi-wittgenstein"
+   "phi-frege",
+   "phi-russell",
+   "phi-wittgenstein",
+   "phi-quine"
   ],
   "schoolIds": [
    "sch-stoicism",
@@ -10551,7 +10668,10 @@
   "philosopherIds": [
    "phi-aristotle",
    "phi-ockham",
-   "phi-wittgenstein"
+   "phi-frege",
+   "phi-russell",
+   "phi-wittgenstein",
+   "phi-quine"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -10913,7 +11033,11 @@
   "philosopherIds": [
    "phi-aristotle",
    "phi-kant",
-   "phi-kierkegaard"
+   "phi-kierkegaard",
+   "phi-frege",
+   "phi-russell",
+   "phi-quine",
+   "phi-kripke"
   ],
   "schoolIds": [
    "sch-stoicism",
@@ -11079,7 +11203,8 @@
    "phi-ockham",
    "phi-bacon",
    "phi-locke",
-   "phi-kant"
+   "phi-kant",
+   "phi-mill"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -11254,7 +11379,10 @@
    "cat-science"
   ],
   "philosopherIds": [
-   "phi-aristotle"
+   "phi-aristotle",
+   "phi-peirce",
+   "phi-popper",
+   "phi-putnam"
   ],
   "schoolIds": [
    "sch-pragmatism",
@@ -11427,7 +11555,10 @@
   ],
   "philosopherIds": [
    "phi-kant",
-   "phi-wittgenstein"
+   "phi-russell",
+   "phi-wittgenstein",
+   "phi-carnap",
+   "phi-quine"
   ],
   "schoolIds": [
    "sch-logical-positivism",
@@ -11590,7 +11721,11 @@
   "philosopherIds": [
    "phi-leibniz",
    "phi-hume",
-   "phi-kant"
+   "phi-kant",
+   "phi-frege",
+   "phi-carnap",
+   "phi-quine",
+   "phi-kripke"
   ],
   "schoolIds": [
    "sch-rationalism",
@@ -11767,7 +11902,11 @@
    "cat-epistemology"
   ],
   "philosopherIds": [
-   "phi-hume"
+   "phi-hume",
+   "phi-carnap",
+   "phi-popper",
+   "phi-quine",
+   "phi-kuhn"
   ],
   "schoolIds": [
    "sch-empiricism",
@@ -11939,7 +12078,10 @@
   ],
   "philosopherIds": [
    "phi-plato",
-   "phi-aristotle"
+   "phi-aristotle",
+   "phi-popper",
+   "phi-kuhn",
+   "phi-foucault"
   ],
   "schoolIds": [
    "sch-logical-positivism",
@@ -12111,7 +12253,11 @@
   "philosopherIds": [
    "phi-aristotle",
    "phi-bacon",
-   "phi-descartes"
+   "phi-descartes",
+   "phi-mill",
+   "phi-peirce",
+   "phi-popper",
+   "phi-kuhn"
   ],
   "schoolIds": [
    "sch-empiricism",
@@ -12289,7 +12435,10 @@
   ],
   "philosopherIds": [
    "phi-aristotle",
-   "phi-hume"
+   "phi-hume",
+   "phi-mill",
+   "phi-dilthey",
+   "phi-popper"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -12460,7 +12609,8 @@
    "phi-descartes",
    "phi-spinoza",
    "phi-hume",
-   "phi-kant"
+   "phi-kant",
+   "phi-mill"
   ],
   "schoolIds": [
    "sch-rationalism",
@@ -12630,7 +12780,11 @@
   ],
   "philosopherIds": [
    "phi-hume",
-   "phi-wittgenstein"
+   "phi-peirce",
+   "phi-wittgenstein",
+   "phi-carnap",
+   "phi-popper",
+   "phi-quine"
   ],
   "schoolIds": [
    "sch-empiricism",
@@ -12804,7 +12958,9 @@
   ],
   "philosopherIds": [
    "phi-plato",
-   "phi-kant"
+   "phi-kant",
+   "phi-peirce",
+   "phi-popper"
   ],
   "schoolIds": [
    "sch-platonism",
@@ -12984,7 +13140,9 @@
    "phi-aquinas",
    "phi-duns-scotus",
    "phi-ockham",
-   "phi-kant"
+   "phi-kant",
+   "phi-russell",
+   "phi-quine"
   ],
   "schoolIds": [
    "sch-scholasticism",
@@ -13157,7 +13315,10 @@
   ],
   "philosopherIds": [
    "phi-kant",
-   "phi-comte"
+   "phi-comte",
+   "phi-carnap",
+   "phi-popper",
+   "phi-kuhn"
   ],
   "schoolIds": [
    "sch-positivism",
@@ -13329,7 +13490,13 @@
    "cat-science",
    "cat-metaphysics"
   ],
-  "philosopherIds": [],
+  "philosopherIds": [
+   "phi-carnap",
+   "phi-popper",
+   "phi-quine",
+   "phi-kuhn",
+   "phi-putnam"
+  ],
   "schoolIds": [
    "sch-positivism",
    "sch-logical-positivism",
@@ -13492,7 +13659,8 @@
    "phi-descartes",
    "phi-hobbes",
    "phi-leibniz",
-   "phi-kant"
+   "phi-kant",
+   "phi-bergson"
   ],
   "schoolIds": [
    "sch-atomism",
@@ -13671,7 +13839,9 @@
    "phi-avicenna",
    "phi-descartes",
    "phi-spinoza",
-   "phi-leibniz"
+   "phi-leibniz",
+   "phi-ryle",
+   "phi-chalmers"
   ],
   "schoolIds": [
    "sch-platonism",
@@ -13852,7 +14022,10 @@
    "phi-descartes",
    "phi-spinoza",
    "phi-leibniz",
-   "phi-james"
+   "phi-james",
+   "phi-ryle",
+   "phi-nagel",
+   "phi-chalmers"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -14031,7 +14204,11 @@
    "cat-mind"
   ],
   "philosopherIds": [
-   "phi-locke"
+   "phi-locke",
+   "phi-peirce",
+   "phi-nagel",
+   "phi-dennett",
+   "phi-chalmers"
   ],
   "schoolIds": [
    "sch-empiricism",
@@ -14208,7 +14385,13 @@
   ],
   "philosopherIds": [
    "phi-democritus",
-   "phi-hobbes"
+   "phi-hobbes",
+   "phi-carnap",
+   "phi-quine",
+   "phi-putnam",
+   "phi-kripke",
+   "phi-dennett",
+   "phi-chalmers"
   ],
   "schoolIds": [
    "sch-atomism",
@@ -14382,7 +14565,11 @@
   ],
   "philosopherIds": [
    "phi-aristotle",
-   "phi-hobbes"
+   "phi-hobbes",
+   "phi-putnam",
+   "phi-searle",
+   "phi-dennett",
+   "phi-chalmers"
   ],
   "schoolIds": [
    "sch-analytic"
@@ -14548,7 +14735,8 @@
    "phi-locke",
    "phi-leibniz",
    "phi-hume",
-   "phi-kant"
+   "phi-kant",
+   "phi-ricoeur"
   ],
   "schoolIds": [
    "sch-empiricism",
@@ -14723,8 +14911,11 @@
   ],
   "philosopherIds": [
    "phi-leibniz",
+   "phi-schelling",
+   "phi-schopenhauer",
    "phi-nietzsche",
-   "phi-sartre"
+   "phi-sartre",
+   "phi-ricoeur"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -14897,7 +15088,9 @@
   "philosopherIds": [
    "phi-husserl",
    "phi-sartre",
-   "phi-beauvoir"
+   "phi-merleau-ponty",
+   "phi-beauvoir",
+   "phi-fanon"
   ],
   "schoolIds": [
    "sch-phenomenology",
@@ -15066,7 +15259,10 @@
    "cat-mind"
   ],
   "philosopherIds": [
-   "phi-leibniz"
+   "phi-leibniz",
+   "phi-nagel",
+   "phi-dennett",
+   "phi-chalmers"
   ],
   "schoolIds": [
    "sch-analytic"
@@ -15231,7 +15427,10 @@
    "cat-language"
   ],
   "philosopherIds": [
-   "phi-leibniz"
+   "phi-leibniz",
+   "phi-searle",
+   "phi-dennett",
+   "phi-chalmers"
   ],
   "schoolIds": [
    "sch-analytic"
@@ -15397,7 +15596,10 @@
    "phi-aristotle",
    "phi-kant",
    "phi-husserl",
-   "phi-wittgenstein"
+   "phi-russell",
+   "phi-carnap",
+   "phi-wittgenstein",
+   "phi-ryle"
   ],
   "schoolIds": [
    "sch-logical-positivism",
@@ -15571,7 +15773,11 @@
   "philosopherIds": [
    "phi-aristotle",
    "phi-locke",
-   "phi-wittgenstein"
+   "phi-frege",
+   "phi-wittgenstein",
+   "phi-carnap",
+   "phi-quine",
+   "phi-putnam"
   ],
   "schoolIds": [
    "sch-analytic",
@@ -15748,7 +15954,14 @@
    "cat-logic"
   ],
   "philosopherIds": [
-   "phi-ockham"
+   "phi-ockham",
+   "phi-mill",
+   "phi-frege",
+   "phi-russell",
+   "phi-quine",
+   "phi-searle",
+   "phi-kripke",
+   "phi-putnam"
   ],
   "schoolIds": [
    "sch-scholasticism",
@@ -15918,7 +16131,11 @@
    "cat-logic"
   ],
   "philosopherIds": [
-   "phi-husserl"
+   "phi-frege",
+   "phi-husserl",
+   "phi-russell",
+   "phi-carnap",
+   "phi-kripke"
   ],
   "schoolIds": [
    "sch-analytic"
@@ -16089,7 +16306,11 @@
    "cat-social"
   ],
   "philosopherIds": [
-   "phi-wittgenstein"
+   "phi-wittgenstein",
+   "phi-austin",
+   "phi-searle",
+   "phi-derrida",
+   "phi-habermas"
   ],
   "schoolIds": [
    "sch-analytic"
@@ -16260,7 +16481,9 @@
    "phi-augustine",
    "phi-ockham",
    "phi-locke",
-   "phi-husserl"
+   "phi-peirce",
+   "phi-husserl",
+   "phi-derrida"
   ],
   "schoolIds": [
    "sch-stoicism",
@@ -16422,7 +16645,11 @@
   ],
   "philosopherIds": [
    "phi-augustine",
-   "phi-heidegger"
+   "phi-dilthey",
+   "phi-heidegger",
+   "phi-gadamer",
+   "phi-ricoeur",
+   "phi-habermas"
   ],
   "schoolIds": [
    "sch-hermeneutics",
@@ -16592,7 +16819,14 @@
    "cat-language",
    "cat-metaphysics"
   ],
-  "philosopherIds": [],
+  "philosopherIds": [
+   "phi-frege",
+   "phi-russell",
+   "phi-searle",
+   "phi-kripke",
+   "phi-putnam",
+   "phi-chalmers"
+  ],
   "schoolIds": [
    "sch-analytic"
   ],
@@ -16750,7 +16984,11 @@
    "cat-language"
   ],
   "philosopherIds": [
-   "phi-wittgenstein"
+   "phi-frege",
+   "phi-wittgenstein",
+   "phi-ryle",
+   "phi-austin",
+   "phi-kripke"
   ],
   "schoolIds": [
    "sch-analytic"
@@ -16914,7 +17152,13 @@
    "cat-language",
    "cat-epistemology"
   ],
-  "philosopherIds": [],
+  "philosopherIds": [
+   "phi-carnap",
+   "phi-quine",
+   "phi-putnam",
+   "phi-searle",
+   "phi-kripke"
+  ],
   "schoolIds": [
    "sch-analytic",
    "sch-empiricism",
@@ -17075,7 +17319,9 @@
   "philosopherIds": [
    "phi-nietzsche",
    "phi-husserl",
-   "phi-heidegger"
+   "phi-heidegger",
+   "phi-levinas",
+   "phi-derrida"
   ],
   "schoolIds": [
    "sch-post-structuralism",
@@ -17238,7 +17484,9 @@
   "philosopherIds": [
    "phi-descartes",
    "phi-locke",
-   "phi-wittgenstein"
+   "phi-wittgenstein",
+   "phi-ryle",
+   "phi-kripke"
   ],
   "schoolIds": [
    "sch-analytic"
@@ -17414,7 +17662,8 @@
    "phi-anselm",
    "phi-aquinas",
    "phi-spinoza",
-   "phi-kant"
+   "phi-kant",
+   "phi-feuerbach"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -17784,7 +18033,8 @@
    "phi-spinoza",
    "phi-leibniz",
    "phi-hume",
-   "phi-kant"
+   "phi-kant",
+   "phi-frege"
   ],
   "schoolIds": [
    "sch-scholasticism",
@@ -17955,7 +18205,8 @@
    "phi-aquinas",
    "phi-leibniz",
    "phi-hume",
-   "phi-kant"
+   "phi-kant",
+   "phi-russell"
   ],
   "schoolIds": [
    "sch-aristotelianism",
@@ -18324,7 +18575,9 @@
    "phi-boethius",
    "phi-leibniz",
    "phi-kant",
-   "phi-hegel"
+   "phi-hegel",
+   "phi-jonas",
+   "phi-levinas"
   ],
   "schoolIds": [
    "sch-rationalism",
@@ -18663,7 +18916,8 @@
    "phi-kant",
    "phi-husserl",
    "phi-heidegger",
-   "phi-sartre"
+   "phi-sartre",
+   "phi-levinas"
   ],
   "schoolIds": [
    "sch-platonism",
@@ -18840,7 +19094,10 @@
   ],
   "philosopherIds": [
    "phi-james",
-   "phi-heidegger"
+   "phi-heidegger",
+   "phi-benjamin",
+   "phi-levinas",
+   "phi-habermas"
   ],
   "schoolIds": [
    "sch-phenomenology",
@@ -19009,9 +19266,11 @@
   ],
   "philosopherIds": [
    "phi-hegel",
+   "phi-feuerbach",
    "phi-nietzsche",
    "phi-heidegger",
-   "phi-sartre"
+   "phi-sartre",
+   "phi-camus"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -19174,9 +19433,12 @@
    "cat-ethics"
   ],
   "philosopherIds": [
+   "phi-fichte",
    "phi-hegel",
    "phi-sartre",
-   "phi-beauvoir"
+   "phi-beauvoir",
+   "phi-fanon",
+   "phi-ricoeur"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -19346,7 +19608,9 @@
   ],
   "philosopherIds": [
    "phi-hume",
-   "phi-hegel"
+   "phi-hegel",
+   "phi-rawls",
+   "phi-searle"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -19512,7 +19776,10 @@
   ],
   "philosopherIds": [
    "phi-kant",
-   "phi-arendt"
+   "phi-mill",
+   "phi-dewey",
+   "phi-arendt",
+   "phi-habermas"
   ],
   "schoolIds": [
    "sch-liberalism",
@@ -19679,7 +19946,9 @@
    "cat-ethics"
   ],
   "philosopherIds": [
-   "phi-marx"
+   "phi-marx",
+   "phi-horkheimer",
+   "phi-adorno"
   ],
   "schoolIds": [
    "sch-marxism",
@@ -19843,7 +20112,12 @@
    "cat-social",
    "cat-aesthetics"
   ],
-  "philosopherIds": [],
+  "philosopherIds": [
+   "phi-benjamin",
+   "phi-horkheimer",
+   "phi-adorno",
+   "phi-habermas"
+  ],
   "schoolIds": [
    "sch-critical-theory",
    "sch-marxism"
@@ -20001,7 +20275,9 @@
   ],
   "philosopherIds": [
    "phi-bentham",
-   "phi-nietzsche"
+   "phi-nietzsche",
+   "phi-foucault",
+   "phi-deleuze"
   ],
   "schoolIds": [
    "sch-post-structuralism"
@@ -20167,7 +20443,10 @@
    "phi-aristotle",
    "phi-hegel",
    "phi-marx",
-   "phi-arendt"
+   "phi-horkheimer",
+   "phi-adorno",
+   "phi-arendt",
+   "phi-foucault"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -20339,7 +20618,11 @@
   "philosopherIds": [
    "phi-kant",
    "phi-marx",
-   "phi-beauvoir"
+   "phi-horkheimer",
+   "phi-beauvoir",
+   "phi-fanon",
+   "phi-foucault",
+   "phi-habermas"
   ],
   "schoolIds": [
    "sch-marxism",
@@ -20511,7 +20794,8 @@
    "cat-political"
   ],
   "philosopherIds": [
-   "phi-arendt"
+   "phi-arendt",
+   "phi-foucault"
   ],
   "schoolIds": [
    "sch-post-structuralism"
@@ -20672,7 +20956,11 @@
    "cat-social",
    "cat-language"
   ],
-  "philosopherIds": [],
+  "philosopherIds": [
+   "phi-austin",
+   "phi-searle",
+   "phi-derrida"
+  ],
   "schoolIds": [
    "sch-analytic",
    "sch-post-structuralism"
@@ -20830,7 +21118,10 @@
    "cat-ethics"
   ],
   "philosopherIds": [
-   "phi-husserl"
+   "phi-husserl",
+   "phi-austin",
+   "phi-habermas",
+   "phi-searle"
   ],
   "schoolIds": [
    "sch-critical-theory",
@@ -20997,7 +21288,9 @@
    "phi-kant",
    "phi-hegel",
    "phi-comte",
-   "phi-nietzsche"
+   "phi-nietzsche",
+   "phi-benjamin",
+   "phi-adorno"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -21174,7 +21467,10 @@
   "philosopherIds": [
    "phi-vico",
    "phi-hegel",
-   "phi-nietzsche"
+   "phi-dilthey",
+   "phi-nietzsche",
+   "phi-gadamer",
+   "phi-popper"
   ],
   "schoolIds": [
    "sch-hermeneutics",
@@ -21524,7 +21820,10 @@
   ],
   "philosopherIds": [
    "phi-hegel",
-   "phi-marx"
+   "phi-feuerbach",
+   "phi-marx",
+   "phi-benjamin",
+   "phi-habermas"
   ],
   "schoolIds": [
    "sch-marxism",
@@ -21695,7 +21994,9 @@
   ],
   "philosopherIds": [
    "phi-hume",
-   "phi-nietzsche"
+   "phi-nietzsche",
+   "phi-foucault",
+   "phi-habermas"
   ],
   "schoolIds": [
    "sch-post-structuralism"
@@ -21866,8 +22167,12 @@
   ],
   "philosopherIds": [
    "phi-hegel",
+   "phi-dilthey",
    "phi-husserl",
-   "phi-heidegger"
+   "phi-heidegger",
+   "phi-gadamer",
+   "phi-ricoeur",
+   "phi-derrida"
   ],
   "schoolIds": [
    "sch-phenomenology",
@@ -22036,7 +22341,8 @@
    "phi-augustine",
    "phi-hegel",
    "phi-marx",
-   "phi-nietzsche"
+   "phi-nietzsche",
+   "phi-derrida"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -22203,7 +22509,9 @@
    "phi-aristotle",
    "phi-augustine",
    "phi-locke",
-   "phi-husserl"
+   "phi-bergson",
+   "phi-husserl",
+   "phi-ricoeur"
   ],
   "schoolIds": [
    "sch-platonism",
@@ -22378,7 +22686,12 @@
    "cat-social"
   ],
   "philosopherIds": [
-   "phi-hegel"
+   "phi-hegel",
+   "phi-mill",
+   "phi-dilthey",
+   "phi-popper",
+   "phi-kuhn",
+   "phi-foucault"
   ],
   "schoolIds": [
    "sch-idealism",
@@ -22547,7 +22860,8 @@
    "phi-vico",
    "phi-kant",
    "phi-hegel",
-   "phi-marx"
+   "phi-marx",
+   "phi-adorno"
   ],
   "schoolIds": [
    "sch-idealism",
